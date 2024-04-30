@@ -1,0 +1,4105 @@
+{
+  "inputTimeWaitSecs": 30,
+  "questions": [
+    {
+      "question": "\\(100 \\times 30\\)",
+      "answer": "3000"
+    },
+    {
+      "question": "\\(855 - 100\\)",
+      "answer": "755"
+    },
+    {
+      "question": "\\(220 - 100\\)",
+      "answer": "120"
+    },
+    {
+      "question": "\\(967 \\times 10^{4}\\)",
+      "answer": "9670000"
+    },
+    {
+      "question": "\\(-(134 - 0)\\)",
+      "answer": "-134"
+    },
+    {
+      "question": "Express \\(73 \\div 10^{3}\\) as decimal",
+      "answer": "0.073",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2181 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(923 \\times 10^{4}\\)",
+      "answer": "9230000"
+    },
+    {
+      "question": "\\(7887 \\bmod 100\\)",
+      "answer": "87"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 980 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(4321 \\bmod 10\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(884 \\times 10^{4}\\)",
+      "answer": "8840000"
+    },
+    {
+      "question": "\\(112 + 10\\)",
+      "answer": "122"
+    },
+    {
+      "question": "\\(200 \\times 300\\)",
+      "answer": "60000"
+    },
+    {
+      "question": "\\(290 - 100\\)",
+      "answer": "190"
+    },
+    {
+      "question": "\\(508 + 100\\)",
+      "answer": "608"
+    },
+    {
+      "question": "Express \\(417 \\div 10^{2}\\) as decimal",
+      "answer": "4.17",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(243 - 10\\)",
+      "answer": "233"
+    },
+    {
+      "question": "\\(405 \\times 10^{3}\\)",
+      "answer": "405000"
+    },
+    {
+      "question": "\\(500 \\times 100\\)",
+      "answer": "50000"
+    },
+    {
+      "question": "Express \\(917 \\div 10^{2}\\) as decimal",
+      "answer": "9.17",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(-8266)\\)",
+      "answer": "8266"
+    },
+    {
+      "question": "\\(-(1654 - 0)\\)",
+      "answer": "-1654"
+    },
+    {
+      "question": "Express \\(849 \\div 10^{3}\\) as decimal",
+      "answer": "0.849",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(654 - 10\\)",
+      "answer": "644"
+    },
+    {
+      "question": "Express \\(979 \\div 10^{3}\\) as decimal",
+      "answer": "0.979",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(162 + 100\\)",
+      "answer": "262"
+    },
+    {
+      "question": "\\(3252 \\bmod 100\\)",
+      "answer": "52"
+    },
+    {
+      "question": "\\(800 - 10\\)",
+      "answer": "790"
+    },
+    {
+      "question": "\\(-(3136 - 0)\\)",
+      "answer": "-3136"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 1936 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{10}\\)",
+      "answer": "30",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7955 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "1",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{400}\\)",
+      "answer": "1/10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(5590 \\bmod 10\\)<br><em>Hint:</em> 5590 mod 10 = remainder of 5590 &#xf7; 10",
+      "answer": "0"
+    },
+    {
+      "question": "\\(841 \\times 10^{2}\\)",
+      "answer": "84100"
+    },
+    {
+      "question": "\\(-(1314 + 0)\\)",
+      "answer": "-1314"
+    },
+    {
+      "question": "\\(-(0 + 1440)\\)",
+      "answer": "-1440"
+    },
+    {
+      "question": "\\(717 - 100\\)",
+      "answer": "617"
+    },
+    {
+      "question": "\\(1000 + 648\\)",
+      "answer": "1648"
+    },
+    {
+      "question": "\\(9739 \\bmod 10\\)<br><em>Hint:</em> 9739 mod 10 = remainder of 9739 &#xf7; 10",
+      "answer": "9"
+    },
+    {
+      "question": "\\(4682 \\bmod 10\\)<br><em>Hint:</em> 4682 mod 10 = remainder of 4682 &#xf7; 10",
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7630 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Express \\(991 \\div 10^{4}\\) as decimal",
+      "answer": "0.0991",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(2542 \\bmod 1000\\)<br><em>Hint:</em> 2542 mod 1000 = remainder of 2542 &#xf7; 1000",
+      "answer": "542"
+    },
+    {
+      "question": "\\(846 \\times 10^{3}\\)",
+      "answer": "846000"
+    },
+    {
+      "question": "\\(-(1196 - 0)\\)",
+      "answer": "-1196"
+    },
+    {
+      "question": "\\(-(-3945)\\)",
+      "answer": "3945"
+    },
+    {
+      "question": "\\(758 \\times 10^{2}\\)",
+      "answer": "75800"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{100}\\)",
+      "answer": "1/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{10}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(6304 \\bmod 1000\\)",
+      "answer": "304"
+    },
+    {
+      "question": "\\(988 \\times 10^{2}\\)",
+      "answer": "98800"
+    },
+    {
+      "question": "\\(-(+144)\\)",
+      "answer": "-144"
+    },
+    {
+      "question": "\\(927 \\times 10^{2}\\)",
+      "answer": "92700"
+    },
+    {
+      "question": "\\(203 - 100\\)",
+      "answer": "103"
+    },
+    {
+      "question": "\\(633 \\times 10^{4}\\)",
+      "answer": "6330000"
+    },
+    {
+      "question": "\\(-(0 + 8843)\\)",
+      "answer": "-8843"
+    },
+    {
+      "question": "\\(400 \\times 10\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{400}\\)",
+      "answer": "3/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2521 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "4",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(20 \\times 50\\)",
+      "answer": "1000"
+    },
+    {
+      "question": "\\(8190 \\bmod 100\\)",
+      "answer": "90"
+    },
+    {
+      "question": "Express \\(437 \\div 10^{3}\\) as decimal",
+      "answer": "0.437",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(403 \\times 10^{4}\\)",
+      "answer": "4030000"
+    },
+    {
+      "question": "\\(1000 + 699\\)",
+      "answer": "1699"
+    },
+    {
+      "question": "\\(566 - 10\\)",
+      "answer": "556"
+    },
+    {
+      "question": "\\(5702 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(596 - 100\\)",
+      "answer": "496"
+    },
+    {
+      "question": "\\(839 + 100\\)",
+      "answer": "939"
+    },
+    {
+      "question": "Express \\(19 \\div 10^{4}\\) as decimal",
+      "answer": "0.0019",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(9677 \\bmod 100\\)",
+      "answer": "77"
+    },
+    {
+      "question": "\\(-(182 + 0)\\)",
+      "answer": "-182"
+    },
+    {
+      "question": "\\(100 \\times 400\\)",
+      "answer": "40000"
+    },
+    {
+      "question": "Express \\(549 \\div 10^{2}\\) as decimal",
+      "answer": "5.49",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(+5645)\\)",
+      "answer": "-5645"
+    },
+    {
+      "question": "\\(5458 \\bmod 100\\)",
+      "answer": "58"
+    },
+    {
+      "question": "\\(335 \\times 10^{3}\\)",
+      "answer": "335000"
+    },
+    {
+      "question": "\\(7479 \\bmod 10\\)",
+      "answer": "9"
+    },
+    {
+      "question": "\\(-(6671 + 0)\\)",
+      "answer": "-6671"
+    },
+    {
+      "question": "Express \\(441 \\div 10^{4}\\) as decimal",
+      "answer": "0.0441",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(6356 \\bmod 10\\)",
+      "answer": "6"
+    },
+    {
+      "question": "\\(106 \\times 10^{2}\\)",
+      "answer": "10600"
+    },
+    {
+      "question": "\\(-(-2771)\\)",
+      "answer": "2771"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{40}\\)",
+      "answer": "1/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(5823 \\bmod 100\\)",
+      "answer": "23"
+    },
+    {
+      "question": "\\(6868 \\bmod 100\\)<br><em>Hint:</em> 6868 mod 100 = remainder of 6868 &#xf7; 100",
+      "answer": "68"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4284 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(894 + 10\\)",
+      "answer": "904"
+    },
+    {
+      "question": "\\(-(9843 + 0)\\)",
+      "answer": "-9843"
+    },
+    {
+      "question": "Express \\(209 \\div 10^{2}\\) as decimal",
+      "answer": "2.09",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(821 \\times 10^{4}\\)",
+      "answer": "8210000"
+    },
+    {
+      "question": "\\(-(7813 - 0)\\)",
+      "answer": "-7813"
+    },
+    {
+      "question": "\\(20 \\times 30\\)",
+      "answer": "600"
+    },
+    {
+      "question": "\\(4981 \\bmod 10\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(-(0 - 5001)\\)",
+      "answer": "5001"
+    },
+    {
+      "question": "\\(1000 + 471\\)",
+      "answer": "1471"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8882 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "3",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "Express \\(333 \\div 10^{2}\\) as decimal",
+      "answer": "3.33",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{10}\\)",
+      "answer": "5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(8362 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(-(+9528)\\)",
+      "answer": "-9528"
+    },
+    {
+      "question": "Express \\(247 \\div 10^{3}\\) as decimal",
+      "answer": "0.247",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{400}\\)",
+      "answer": "1/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(1000 + 428\\)",
+      "answer": "1428"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{20}\\)",
+      "answer": "5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5249 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(10 \\times 30\\)",
+      "answer": "300"
+    },
+    {
+      "question": "\\(300 \\times 500\\)",
+      "answer": "150000"
+    },
+    {
+      "question": "\\(1000 + 763\\)",
+      "answer": "1763"
+    },
+    {
+      "question": "\\(2054 \\bmod 100\\)",
+      "answer": "54"
+    },
+    {
+      "question": "\\(908 - 10\\)",
+      "answer": "898"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4369 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(68 \\times 10^{3}\\)",
+      "answer": "68000"
+    },
+    {
+      "question": "Express \\(639 \\div 10^{2}\\) as decimal",
+      "answer": "6.39",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(1000 + 826\\)",
+      "answer": "1826"
+    },
+    {
+      "question": "\\(2971 \\bmod 1000\\)",
+      "answer": "971"
+    },
+    {
+      "question": "\\(-(+7894)\\)",
+      "answer": "-7894"
+    },
+    {
+      "question": "Express \\(781 \\div 10^{4}\\) as decimal",
+      "answer": "0.0781",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(7007 - 0)\\)",
+      "answer": "-7007"
+    },
+    {
+      "question": "\\(741 + 100\\)",
+      "answer": "841"
+    },
+    {
+      "question": "\\(571 - 10\\)",
+      "answer": "561"
+    },
+    {
+      "question": "\\(626 \\times 10^{2}\\)",
+      "answer": "62600"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 1764 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "Express \\(423 \\div 10^{3}\\) as decimal",
+      "answer": "0.423",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(93 \\div 10^{2}\\) as decimal",
+      "answer": "0.93",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(+7017)\\)",
+      "answer": "-7017"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5252 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "3",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{30}\\)",
+      "answer": "5/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(304 + 10\\)",
+      "answer": "314"
+    },
+    {
+      "question": "\\(40 \\times 20\\)",
+      "answer": "800"
+    },
+    {
+      "question": "\\(287 - 100\\)",
+      "answer": "187"
+    },
+    {
+      "question": "\\(246 - 100\\)",
+      "answer": "146"
+    },
+    {
+      "question": "Express \\(579 \\div 10^{3}\\) as decimal",
+      "answer": "0.579",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(836 + 100\\)",
+      "answer": "936"
+    },
+    {
+      "question": "\\(933 + 10\\)",
+      "answer": "943"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3339 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(795 + 10\\)",
+      "answer": "805"
+    },
+    {
+      "question": "\\(-(5567 - 0)\\)",
+      "answer": "-5567"
+    },
+    {
+      "question": "\\(-(7275 + 0)\\)",
+      "answer": "-7275"
+    },
+    {
+      "question": "\\(8706 \\bmod 1000\\)<br><em>Hint:</em> 8706 mod 1000 = remainder of 8706 &#xf7; 1000",
+      "answer": "706"
+    },
+    {
+      "question": "\\(-(+3191)\\)",
+      "answer": "-3191"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6263 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "1",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 1145 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(412 - 10\\)",
+      "answer": "402"
+    },
+    {
+      "question": "Express \\(131 \\div 10^{3}\\) as decimal",
+      "answer": "0.131",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{400}\\)",
+      "answer": "1/8",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [8]
+    },
+    {
+      "question": "\\(326 - 10\\)",
+      "answer": "316"
+    },
+    {
+      "question": "\\(6543 \\bmod 1000\\)",
+      "answer": "543"
+    },
+    {
+      "question": "\\(300 \\times 400\\)",
+      "answer": "120000"
+    },
+    {
+      "question": "\\(496 \\times 10^{4}\\)",
+      "answer": "4960000"
+    },
+    {
+      "question": "Express \\(307 \\div 10^{2}\\) as decimal",
+      "answer": "3.07",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 663 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(983 - 100\\)",
+      "answer": "883"
+    },
+    {
+      "question": "\\(121 + 100\\)",
+      "answer": "221"
+    },
+    {
+      "question": "\\(55 \\times 10^{3}\\)",
+      "answer": "55000"
+    },
+    {
+      "question": "\\(50 \\times 40\\)",
+      "answer": "2000"
+    },
+    {
+      "question": "\\(222 + 100\\)",
+      "answer": "322"
+    },
+    {
+      "question": "\\(1000 + 525\\)",
+      "answer": "1525"
+    },
+    {
+      "question": "\\(531 \\times 10^{2}\\)",
+      "answer": "53100"
+    },
+    {
+      "question": "\\(383 + 100\\)",
+      "answer": "483"
+    },
+    {
+      "question": "\\(-(0 - 543)\\)",
+      "answer": "543"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{200}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(496 + 100\\)",
+      "answer": "596"
+    },
+    {
+      "question": "\\(50 \\times 50\\)",
+      "answer": "2500"
+    },
+    {
+      "question": "\\(399 - 100\\)",
+      "answer": "299"
+    },
+    {
+      "question": "\\(-(-1224)\\)",
+      "answer": "1224"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8232 to make it a multiple of 3 (or to make it divisible by 3)?<br><em>Hint:</em> use sum of digits. ie remainder of 8232 &divide; 3 = remainder of (8+2+3+2) &divide; 3",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(313 - 100\\)",
+      "answer": "213"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(1000 + 298\\)",
+      "answer": "1298"
+    },
+    {
+      "question": "\\(400 \\times 300\\)",
+      "answer": "120000"
+    },
+    {
+      "question": "\\(9435 \\bmod 1000\\)<br><em>Hint:</em> 9435 mod 1000 = remainder of 9435 &#xf7; 1000",
+      "answer": "435"
+    },
+    {
+      "question": "\\(-(0 + 938)\\)",
+      "answer": "-938"
+    },
+    {
+      "question": "\\(8285 \\bmod 10\\)<br><em>Hint:</em> 8285 mod 10 = remainder of 8285 &#xf7; 10",
+      "answer": "5"
+    },
+    {
+      "question": "Express \\(289 \\div 10^{2}\\) as decimal",
+      "answer": "2.89",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8859 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(8616 \\bmod 100\\)<br><em>Hint:</em> 8616 mod 100 = remainder of 8616 &#xf7; 100",
+      "answer": "16"
+    },
+    {
+      "question": "\\(10 \\times 10\\)",
+      "answer": "100"
+    },
+    {
+      "question": "\\(499 \\times 10^{2}\\)",
+      "answer": "49900"
+    },
+    {
+      "question": "\\(764 + 10\\)",
+      "answer": "774"
+    },
+    {
+      "question": "\\(-(0 - 2959)\\)",
+      "answer": "2959"
+    },
+    {
+      "question": "\\(832 + 10\\)",
+      "answer": "842"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3236 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(859 \\times 10^{3}\\)",
+      "answer": "859000"
+    },
+    {
+      "question": "Express \\(351 \\div 10^{3}\\) as decimal",
+      "answer": "0.351",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(969 \\times 10^{2}\\)",
+      "answer": "96900"
+    },
+    {
+      "question": "\\(100 + 33\\)",
+      "answer": "133"
+    },
+    {
+      "question": "\\(300 \\times 100\\)",
+      "answer": "30000"
+    },
+    {
+      "question": "\\(968 \\times 10^{4}\\)",
+      "answer": "9680000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{30}\\)",
+      "answer": "4/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(410 + 100\\)",
+      "answer": "510"
+    },
+    {
+      "question": "\\(358 - 100\\)",
+      "answer": "258"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{40}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(632 - 10\\)",
+      "answer": "622"
+    },
+    {
+      "question": "Express \\(823 \\div 10^{2}\\) as decimal",
+      "answer": "8.23",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(8260 + 0)\\)",
+      "answer": "-8260"
+    },
+    {
+      "question": "\\(1000 + 951\\)",
+      "answer": "1951"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4632 to make it a multiple of 3 (or to make it divisible by 3)?<br><em>Hint:</em> use sum of digits. ie remainder of 4632 &divide; 3 = remainder of (4+6+3+2) &divide; 3",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(294 \\times 10^{2}\\)",
+      "answer": "29400"
+    },
+    {
+      "question": "Express \\(473 \\div 10^{3}\\) as decimal",
+      "answer": "0.473",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{400}\\)",
+      "answer": "1/40",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [40]
+    },
+    {
+      "question": "Express \\(137 \\div 10^{3}\\) as decimal",
+      "answer": "0.137",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(100 \\times 20\\)",
+      "answer": "2000"
+    },
+    {
+      "question": "\\(1000 + 998\\)",
+      "answer": "1998"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{400}\\)",
+      "answer": "3/40",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [40]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{50}\\)",
+      "answer": "2/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(-(+8965)\\)",
+      "answer": "-8965"
+    },
+    {
+      "question": "\\(752 - 100\\)",
+      "answer": "652"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{100}\\)",
+      "answer": "1/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(717 + 100\\)",
+      "answer": "817"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6809 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(513 - 10\\)",
+      "answer": "503"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2515 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(1000 + 877\\)",
+      "answer": "1877"
+    },
+    {
+      "question": "\\(-(559 - 0)\\)",
+      "answer": "-559"
+    },
+    {
+      "question": "\\(4148 \\bmod 10\\)",
+      "answer": "8"
+    },
+    {
+      "question": "\\(30 \\times 10^{3}\\)",
+      "answer": "30000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5573 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "2",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8443 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6873 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "2",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(100 \\times 300\\)",
+      "answer": "30000"
+    },
+    {
+      "question": "\\(20 \\times 10^{4}\\)",
+      "answer": "200000"
+    },
+    {
+      "question": "\\(50 \\times 500\\)",
+      "answer": "25000"
+    },
+    {
+      "question": "\\(500 \\times 30\\)",
+      "answer": "15000"
+    },
+    {
+      "question": "\\(20 \\times 300\\)",
+      "answer": "6000"
+    },
+    {
+      "question": "\\(4897 \\bmod 10\\)",
+      "answer": "7"
+    },
+    {
+      "question": "\\(912 \\times 10^{2}\\)",
+      "answer": "91200"
+    },
+    {
+      "question": "\\(500 \\times 400\\)",
+      "answer": "200000"
+    },
+    {
+      "question": "\\(1000 + 724\\)",
+      "answer": "1724"
+    },
+    {
+      "question": "\\(786 + 10\\)",
+      "answer": "796"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3415 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3810 to make it a multiple of 3 (or to make it divisible by 3)?<br><em>Hint:</em> use sum of digits. ie remainder of 3810 &divide; 3 = remainder of (3+8+1+0) &divide; 3",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(-(-315)\\)",
+      "answer": "315"
+    },
+    {
+      "question": "\\(123 \\times 10^{3}\\)",
+      "answer": "123000"
+    },
+    {
+      "question": "\\(-(8761 - 0)\\)",
+      "answer": "-8761"
+    },
+    {
+      "question": "Express \\(913 \\div 10^{4}\\) as decimal",
+      "answer": "0.0913",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(9 \\div 10^{2}\\) as decimal",
+      "answer": "0.09",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{50}\\)",
+      "answer": "8",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(239 \\times 10^{3}\\)",
+      "answer": "239000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9202 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4008 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(30 \\times 400\\)",
+      "answer": "12000"
+    },
+    {
+      "question": "\\(420 - 100\\)",
+      "answer": "320"
+    },
+    {
+      "question": "\\(200 \\times 40\\)",
+      "answer": "8000"
+    },
+    {
+      "question": "\\(703 - 10\\)",
+      "answer": "693"
+    },
+    {
+      "question": "Express \\(537 \\div 10^{2}\\) as decimal",
+      "answer": "5.37",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(735 + 100\\)",
+      "answer": "835"
+    },
+    {
+      "question": "\\(310 \\times 10^{3}\\)",
+      "answer": "310000"
+    },
+    {
+      "question": "Express \\(851 \\div 10^{3}\\) as decimal",
+      "answer": "0.851",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{200}\\)",
+      "answer": "3/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(40 \\times 10^{2}\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "\\(462 - 100\\)",
+      "answer": "362"
+    },
+    {
+      "question": "\\(5983 \\bmod 1000\\)",
+      "answer": "983"
+    },
+    {
+      "question": "\\(-(8392 + 0)\\)",
+      "answer": "-8392"
+    },
+    {
+      "question": "\\(3821 \\bmod 1000\\)",
+      "answer": "821"
+    },
+    {
+      "question": "\\(300 \\times 50\\)",
+      "answer": "15000"
+    },
+    {
+      "question": "\\(219 \\times 10^{2}\\)",
+      "answer": "21900"
+    },
+    {
+      "question": "\\(3578 \\bmod 1000\\)",
+      "answer": "578"
+    },
+    {
+      "question": "\\(400 \\times 30\\)",
+      "answer": "12000"
+    },
+    {
+      "question": "\\(-(0 - 2702)\\)",
+      "answer": "2702"
+    },
+    {
+      "question": "\\(-(2054 - 0)\\)",
+      "answer": "-2054"
+    },
+    {
+      "question": "Express \\(487 \\div 10^{3}\\) as decimal",
+      "answer": "0.487",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{100}\\)",
+      "answer": "2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4068 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{300}\\)",
+      "answer": "1/30",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [30]
+    },
+    {
+      "question": "\\(1000 + 467\\)",
+      "answer": "1467"
+    },
+    {
+      "question": "\\(629 + 10\\)",
+      "answer": "639"
+    },
+    {
+      "question": "Express \\(443 \\div 10^{4}\\) as decimal",
+      "answer": "0.0443",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(2349 \\bmod 100\\)",
+      "answer": "49"
+    },
+    {
+      "question": "\\(40 \\times 200\\)",
+      "answer": "8000"
+    },
+    {
+      "question": "\\(895 \\times 10^{3}\\)",
+      "answer": "895000"
+    },
+    {
+      "question": "\\(300 \\times 300\\)",
+      "answer": "90000"
+    },
+    {
+      "question": "\\(2432 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{40}\\)",
+      "answer": "25/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(438 + 100\\)",
+      "answer": "538"
+    },
+    {
+      "question": "\\(537 - 10\\)",
+      "answer": "527"
+    },
+    {
+      "question": "Express \\(993 \\div 10^{2}\\) as decimal",
+      "answer": "9.93",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{50}\\)",
+      "answer": "6",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(40 \\times 10\\)",
+      "answer": "400"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{50}\\)",
+      "answer": "4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(-(0 + 8246)\\)",
+      "answer": "-8246"
+    },
+    {
+      "question": "Express \\(233 \\div 10^{4}\\) as decimal",
+      "answer": "0.0233",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{50}\\)",
+      "answer": "10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(542 - 100\\)",
+      "answer": "442"
+    },
+    {
+      "question": "\\(435 - 100\\)",
+      "answer": "335"
+    },
+    {
+      "question": "\\(398 + 10\\)",
+      "answer": "408"
+    },
+    {
+      "question": "\\(1172 \\bmod 10\\)<br><em>Hint:</em> 1172 mod 10 = remainder of 1172 &#xf7; 10",
+      "answer": "2"
+    },
+    {
+      "question": "\\(889 + 10\\)",
+      "answer": "899"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8602 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "3",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "Express \\(893 \\div 10^{2}\\) as decimal",
+      "answer": "8.93",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(0 - 5514)\\)",
+      "answer": "5514"
+    },
+    {
+      "question": "\\(-(3071 + 0)\\)",
+      "answer": "-3071"
+    },
+    {
+      "question": "\\(300 \\times 10\\)",
+      "answer": "3000"
+    },
+    {
+      "question": "Express \\(731 \\div 10^{3}\\) as decimal",
+      "answer": "0.731",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(728 \\times 10^{2}\\)",
+      "answer": "72800"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6473 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Express \\(179 \\div 10^{2}\\) as decimal",
+      "answer": "1.79",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(625 + 10\\)",
+      "answer": "635"
+    },
+    {
+      "question": "\\(20 \\times 400\\)",
+      "answer": "8000"
+    },
+    {
+      "question": "\\(-(2122 + 0)\\)",
+      "answer": "-2122"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{30}\\)",
+      "answer": "50/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3081 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(20 \\times 40\\)",
+      "answer": "800"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{500}\\)",
+      "answer": "1/10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(400 \\times 20\\)",
+      "answer": "8000"
+    },
+    {
+      "question": "\\(8850 \\bmod 10\\)<br><em>Hint:</em> 8850 mod 10 = remainder of 8850 &#xf7; 10",
+      "answer": "0"
+    },
+    {
+      "question": "\\(800 + 10\\)",
+      "answer": "810"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9195 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(576 - 10\\)",
+      "answer": "566"
+    },
+    {
+      "question": "\\(640 - 10\\)",
+      "answer": "630"
+    },
+    {
+      "question": "\\(-(0 + 8850)\\)",
+      "answer": "-8850"
+    },
+    {
+      "question": "\\(5031 \\bmod 10\\)<br><em>Hint:</em> 5031 mod 10 = remainder of 5031 &#xf7; 10",
+      "answer": "1"
+    },
+    {
+      "question": "\\(1000 + 923\\)",
+      "answer": "1923"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3902 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(40 \\times 500\\)",
+      "answer": "20000"
+    },
+    {
+      "question": "\\(5936 \\bmod 100\\)",
+      "answer": "36"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{100}\\)",
+      "answer": "5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(796 + 100\\)",
+      "answer": "896"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{50}\\)",
+      "answer": "4/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5602 to make it a multiple of 3 (or to make it divisible by 3)?<br><em>Hint:</em> use sum of digits. ie remainder of 5602 &divide; 3 = remainder of (5+6+0+2) &divide; 3",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(274 + 100\\)",
+      "answer": "374"
+    },
+    {
+      "question": "\\(-(+8890)\\)",
+      "answer": "-8890"
+    },
+    {
+      "question": "Express \\(373 \\div 10^{3}\\) as decimal",
+      "answer": "0.373",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(975 + 10\\)",
+      "answer": "985"
+    },
+    {
+      "question": "Express \\(587 \\div 10^{3}\\) as decimal",
+      "answer": "0.587",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(943 - 10\\)",
+      "answer": "933"
+    },
+    {
+      "question": "\\(691 + 100\\)",
+      "answer": "791"
+    },
+    {
+      "question": "\\(1328 \\bmod 10\\)",
+      "answer": "8"
+    },
+    {
+      "question": "\\(884 + 100\\)",
+      "answer": "984"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{30}\\)",
+      "answer": "2/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(6871 \\bmod 10\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(853 \\times 10^{2}\\)",
+      "answer": "85300"
+    },
+    {
+      "question": "\\(917 - 10\\)",
+      "answer": "907"
+    },
+    {
+      "question": "\\(500 \\times 10\\)",
+      "answer": "5000"
+    },
+    {
+      "question": "Express \\(63 \\div 10^{3}\\) as decimal",
+      "answer": "0.063",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(445 \\times 10^{2}\\)",
+      "answer": "44500"
+    },
+    {
+      "question": "\\(6426 \\bmod 1000\\)<br><em>Hint:</em> 6426 mod 1000 = remainder of 6426 &#xf7; 1000",
+      "answer": "426"
+    },
+    {
+      "question": "\\(363 - 100\\)",
+      "answer": "263"
+    },
+    {
+      "question": "\\(30 \\times 500\\)",
+      "answer": "15000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{300}\\)",
+      "answer": "2/15",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [15]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5565 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(842 + 10\\)",
+      "answer": "852"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4675 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(1000 + 404\\)",
+      "answer": "1404"
+    },
+    {
+      "question": "\\(200 \\times 500\\)",
+      "answer": "100000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{40}\\)",
+      "answer": "10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(414 \\times 10^{2}\\)",
+      "answer": "41400"
+    },
+    {
+      "question": "\\(20 \\times 10\\)",
+      "answer": "200"
+    },
+    {
+      "question": "\\(449 + 100\\)",
+      "answer": "549"
+    },
+    {
+      "question": "\\(377 - 10\\)",
+      "answer": "367"
+    },
+    {
+      "question": "\\(10 \\times 100\\)",
+      "answer": "1000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5041 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "4",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(614 + 10\\)",
+      "answer": "624"
+    },
+    {
+      "question": "\\(770 \\times 10^{3}\\)",
+      "answer": "770000"
+    },
+    {
+      "question": "\\(40 \\times 300\\)",
+      "answer": "12000"
+    },
+    {
+      "question": "\\(5720 \\bmod 1000\\)<br><em>Hint:</em> 5720 mod 1000 = remainder of 5720 &#xf7; 1000",
+      "answer": "720"
+    },
+    {
+      "question": "\\(10 \\times 400\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "\\(-(-4594)\\)",
+      "answer": "4594"
+    },
+    {
+      "question": "\\(386 - 100\\)",
+      "answer": "286"
+    },
+    {
+      "question": "\\(-(6572 - 0)\\)",
+      "answer": "-6572"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{40}\\)",
+      "answer": "3/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(3760 \\bmod 100\\)",
+      "answer": "60"
+    },
+    {
+      "question": "\\(96 + 10\\)",
+      "answer": "106"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 579 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(3585 \\bmod 100\\)",
+      "answer": "85"
+    },
+    {
+      "question": "\\(538 \\times 10^{4}\\)",
+      "answer": "5380000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{500}\\)",
+      "answer": "3/50",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [50]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{500}\\)",
+      "answer": "1/50",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [50]
+    },
+    {
+      "question": "\\(167 - 10\\)",
+      "answer": "157"
+    },
+    {
+      "question": "\\(778 - 10\\)",
+      "answer": "768"
+    },
+    {
+      "question": "\\(7806 \\bmod 100\\)",
+      "answer": "6"
+    },
+    {
+      "question": "Express \\(659 \\div 10^{3}\\) as decimal",
+      "answer": "0.659",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(7927 \\bmod 100\\)",
+      "answer": "27"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{500}\\)",
+      "answer": "3/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(1317 \\bmod 100\\)",
+      "answer": "17"
+    },
+    {
+      "question": "\\(2737 \\bmod 100\\)",
+      "answer": "37"
+    },
+    {
+      "question": "\\(1000 + 481\\)",
+      "answer": "1481"
+    },
+    {
+      "question": "\\(200 \\times 10\\)",
+      "answer": "2000"
+    },
+    {
+      "question": "\\(678 + 100\\)",
+      "answer": "778"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8593 to make it a multiple of 3 (or to make it divisible by 3)?<br><em>Hint:</em> use sum of digits. ie remainder of 8593 &divide; 3 = remainder of (8+5+9+3) &divide; 3",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 1565 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "0",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(5239 \\bmod 1000\\)",
+      "answer": "239"
+    },
+    {
+      "question": "\\(991 - 10\\)",
+      "answer": "981"
+    },
+    {
+      "question": "\\(9453 \\bmod 100\\)<br><em>Hint:</em> 9453 mod 100 = remainder of 9453 &#xf7; 100",
+      "answer": "53"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{300}\\)",
+      "answer": "4/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4518 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(5836 \\bmod 10\\)",
+      "answer": "6"
+    },
+    {
+      "question": "\\(629 - 10\\)",
+      "answer": "619"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9461 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(1057 - 10\\)",
+      "answer": "1047"
+    },
+    {
+      "question": "\\(983 \\times 10^{2}\\)",
+      "answer": "98300"
+    },
+    {
+      "question": "Express \\(897 \\div 10^{4}\\) as decimal",
+      "answer": "0.0897",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(69 \\times 10^{2}\\)",
+      "answer": "6900"
+    },
+    {
+      "question": "Express \\(157 \\div 10^{4}\\) as decimal",
+      "answer": "0.0157",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(500 \\times 20\\)",
+      "answer": "10000"
+    },
+    {
+      "question": "Express \\(299 \\div 10^{4}\\) as decimal",
+      "answer": "0.0299",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(190 + 100\\)",
+      "answer": "290"
+    },
+    {
+      "question": "\\(-(0 + 9377)\\)",
+      "answer": "-9377"
+    },
+    {
+      "question": "\\(-(0 - 1033)\\)",
+      "answer": "1033"
+    },
+    {
+      "question": "\\(337 \\times 10^{4}\\)",
+      "answer": "3370000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9314 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "1",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{100}\\)",
+      "answer": "2/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "Express \\(817 \\div 10^{3}\\) as decimal",
+      "answer": "0.817",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(526 \\times 10^{4}\\)",
+      "answer": "5260000"
+    },
+    {
+      "question": "\\(-(8328 - 0)\\)",
+      "answer": "-8328"
+    },
+    {
+      "question": "\\(-(0 + 7589)\\)",
+      "answer": "-7589"
+    },
+    {
+      "question": "\\(177 \\times 10^{4}\\)",
+      "answer": "1770000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{200}\\)",
+      "answer": "1/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(993 \\times 10^{2}\\)",
+      "answer": "99300"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6745 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "0",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "Express \\(519 \\div 10^{4}\\) as decimal",
+      "answer": "0.0519",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(18 \\times 10^{3}\\)",
+      "answer": "18000"
+    },
+    {
+      "question": "\\(4902 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6476 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(596 + 10\\)",
+      "answer": "606"
+    },
+    {
+      "question": "\\(-(0 - 1929)\\)",
+      "answer": "1929"
+    },
+    {
+      "question": "\\(323 - 100\\)",
+      "answer": "223"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3837 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(589 \\times 10^{2}\\)",
+      "answer": "58900"
+    },
+    {
+      "question": "\\(561 - 10\\)",
+      "answer": "551"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8130 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{500}\\)",
+      "answer": "1/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(4296 \\bmod 100\\)",
+      "answer": "96"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4499 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(300 \\times 30\\)",
+      "answer": "9000"
+    },
+    {
+      "question": "\\(300 \\times 200\\)",
+      "answer": "60000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{100}\\)",
+      "answer": "3/10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(801 + 100\\)",
+      "answer": "901"
+    },
+    {
+      "question": "\\(1000 + 257\\)",
+      "answer": "1257"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{30}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(338 - 10\\)",
+      "answer": "328"
+    },
+    {
+      "question": "\\(734 \\times 10^{4}\\)",
+      "answer": "7340000"
+    },
+    {
+      "question": "Express \\(841 \\div 10^{3}\\) as decimal",
+      "answer": "0.841",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{10}\\)",
+      "answer": "2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(400 \\times 500\\)",
+      "answer": "200000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{20}\\)",
+      "answer": "20",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(725 - 100\\)",
+      "answer": "625"
+    },
+    {
+      "question": "\\(710 - 100\\)",
+      "answer": "610"
+    },
+    {
+      "question": "\\(200 \\times 100\\)",
+      "answer": "20000"
+    },
+    {
+      "question": "\\(916 - 10\\)",
+      "answer": "906"
+    },
+    {
+      "question": "\\(430 - 100\\)",
+      "answer": "330"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8443 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Express \\(863 \\div 10^{4}\\) as decimal",
+      "answer": "0.0863",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(50 \\times 10\\)",
+      "answer": "500"
+    },
+    {
+      "question": "\\(200 \\times 200\\)",
+      "answer": "40000"
+    },
+    {
+      "question": "\\(548 - 10\\)",
+      "answer": "538"
+    },
+    {
+      "question": "Express \\(183 \\div 10^{2}\\) as decimal",
+      "answer": "1.83",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(433 + 100\\)",
+      "answer": "533"
+    },
+    {
+      "question": "\\(9426 \\bmod 10\\)",
+      "answer": "6"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{30}\\)",
+      "answer": "1/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(865 \\times 10^{4}\\)",
+      "answer": "8650000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{300}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(30 \\times 50\\)",
+      "answer": "1500"
+    },
+    {
+      "question": "\\(-(0 - 2205)\\)",
+      "answer": "2205"
+    },
+    {
+      "question": "\\(147 + 100\\)",
+      "answer": "247"
+    },
+    {
+      "question": "Express \\(211 \\div 10^{2}\\) as decimal",
+      "answer": "2.11",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(207 + 10\\)",
+      "answer": "217"
+    },
+    {
+      "question": "\\(354 \\times 10^{2}\\)",
+      "answer": "35400"
+    },
+    {
+      "question": "\\(998 - 10\\)",
+      "answer": "988"
+    },
+    {
+      "question": "\\(833 \\times 10^{4}\\)",
+      "answer": "8330000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3535 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(1538 \\bmod 100\\)",
+      "answer": "38"
+    },
+    {
+      "question": "\\(200 \\times 400\\)",
+      "answer": "80000"
+    },
+    {
+      "question": "\\(-(8183 - 0)\\)",
+      "answer": "-8183"
+    },
+    {
+      "question": "\\(10 \\times 300\\)",
+      "answer": "3000"
+    },
+    {
+      "question": "\\(972 - 10\\)",
+      "answer": "962"
+    },
+    {
+      "question": "\\(3704 \\bmod 1000\\)",
+      "answer": "704"
+    },
+    {
+      "question": "\\(3740 \\bmod 10\\)<br><em>Hint:</em> 3740 mod 10 = remainder of 3740 &#xf7; 10",
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6369 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{40}\\)",
+      "answer": "15/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(-(0 - 7202)\\)",
+      "answer": "7202"
+    },
+    {
+      "question": "\\(-(+3)\\)",
+      "answer": "-3"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{40}\\)",
+      "answer": "1/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(400 \\times 100\\)",
+      "answer": "40000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5008 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Express \\(7 \\div 10^{3}\\) as decimal",
+      "answer": "0.007",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(7194 + 0)\\)",
+      "answer": "-7194"
+    },
+    {
+      "question": "\\(515 - 100\\)",
+      "answer": "415"
+    },
+    {
+      "question": "\\(-(4777 - 0)\\)",
+      "answer": "-4777"
+    },
+    {
+      "question": "\\(839 \\times 10^{3}\\)",
+      "answer": "839000"
+    },
+    {
+      "question": "\\(594 - 10\\)",
+      "answer": "584"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{400}\\)",
+      "answer": "1/20",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [20]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{400}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(40 \\times 40\\)",
+      "answer": "1600"
+    },
+    {
+      "question": "Express \\(507 \\div 10^{3}\\) as decimal",
+      "answer": "0.507",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(2964 \\bmod 1000\\)",
+      "answer": "964"
+    },
+    {
+      "question": "\\(666 - 10\\)",
+      "answer": "656"
+    },
+    {
+      "question": "\\(8764 \\bmod 100\\)",
+      "answer": "64"
+    },
+    {
+      "question": "\\(-(5196 + 0)\\)",
+      "answer": "-5196"
+    },
+    {
+      "question": "\\(686 \\times 10^{2}\\)",
+      "answer": "68600"
+    },
+    {
+      "question": "\\(4866 \\bmod 1000\\)<br><em>Hint:</em> 4866 mod 1000 = remainder of 4866 &#xf7; 1000",
+      "answer": "866"
+    },
+    {
+      "question": "\\(341 \\times 10^{3}\\)",
+      "answer": "341000"
+    },
+    {
+      "question": "\\(859 + 100\\)",
+      "answer": "959"
+    },
+    {
+      "question": "\\(768 - 10\\)",
+      "answer": "758"
+    },
+    {
+      "question": "\\(327 - 10\\)",
+      "answer": "317"
+    },
+    {
+      "question": "\\(-(3287 + 0)\\)",
+      "answer": "-3287"
+    },
+    {
+      "question": "\\(599 - 10\\)",
+      "answer": "589"
+    },
+    {
+      "question": "\\(-(0 + 9086)\\)",
+      "answer": "-9086"
+    },
+    {
+      "question": "Express \\(861 \\div 10^{3}\\) as decimal",
+      "answer": "0.861",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(10 \\times 500\\)",
+      "answer": "5000"
+    },
+    {
+      "question": "\\(839 - 10\\)",
+      "answer": "829"
+    },
+    {
+      "question": "\\(50 \\times 20\\)",
+      "answer": "1000"
+    },
+    {
+      "question": "\\(1000 + 381\\)",
+      "answer": "1381"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{20}\\)",
+      "answer": "15",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(-(6503 - 0)\\)",
+      "answer": "-6503"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 120 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Express \\(811 \\div 10^{4}\\) as decimal",
+      "answer": "0.0811",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{20}\\)",
+      "answer": "3/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(637 + 10\\)",
+      "answer": "647"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2476 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{30}\\)",
+      "answer": "40/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{400}\\)",
+      "answer": "5/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "Express \\(789 \\div 10^{3}\\) as decimal",
+      "answer": "0.789",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(547 \\times 10^{3}\\)",
+      "answer": "547000"
+    },
+    {
+      "question": "\\(421 \\times 10^{3}\\)",
+      "answer": "421000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8540 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "1",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(569 \\times 10^{4}\\)",
+      "answer": "5690000"
+    },
+    {
+      "question": "\\(95 \\times 10^{2}\\)",
+      "answer": "9500"
+    },
+    {
+      "question": "\\(772 - 100\\)",
+      "answer": "672"
+    },
+    {
+      "question": "\\(355 \\times 10^{3}\\)",
+      "answer": "355000"
+    },
+    {
+      "question": "Express \\(483 \\div 10^{3}\\) as decimal",
+      "answer": "0.483",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(2630 \\bmod 10\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(889 - 10\\)",
+      "answer": "879"
+    },
+    {
+      "question": "\\(1000 + 414\\)",
+      "answer": "1414"
+    },
+    {
+      "question": "\\(1000 + 117\\)",
+      "answer": "1117"
+    },
+    {
+      "question": "\\(426 \\times 10^{3}\\)",
+      "answer": "426000"
+    },
+    {
+      "question": "\\(286 \\times 10^{4}\\)",
+      "answer": "2860000"
+    },
+    {
+      "question": "\\(268 - 100\\)",
+      "answer": "168"
+    },
+    {
+      "question": "Express \\(961 \\div 10^{4}\\) as decimal",
+      "answer": "0.0961",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(77 \\div 10^{2}\\) as decimal",
+      "answer": "0.77",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(4250 + 0)\\)",
+      "answer": "-4250"
+    },
+    {
+      "question": "\\(454 - 100\\)",
+      "answer": "354"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2952 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "3",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(345 - 100\\)",
+      "answer": "245"
+    },
+    {
+      "question": "\\(646 - 10\\)",
+      "answer": "636"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{500}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6753 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(500 \\times 500\\)",
+      "answer": "250000"
+    },
+    {
+      "question": "\\(769 - 100\\)",
+      "answer": "669"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{300}\\)",
+      "answer": "1/10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "Express \\(903 \\div 10^{3}\\) as decimal",
+      "answer": "0.903",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(400 \\times 50\\)",
+      "answer": "20000"
+    },
+    {
+      "question": "\\(2242 \\bmod 10\\)<br><em>Hint:</em> 2242 mod 10 = remainder of 2242 &#xf7; 10",
+      "answer": "2"
+    },
+    {
+      "question": "\\(865 - 100\\)",
+      "answer": "765"
+    },
+    {
+      "question": "\\(9847 \\bmod 100\\)",
+      "answer": "47"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{400}\\)",
+      "answer": "1/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(-(0 - 5857)\\)",
+      "answer": "5857"
+    },
+    {
+      "question": "\\(-(5468 - 0)\\)",
+      "answer": "-5468"
+    },
+    {
+      "question": "\\(552 + 100\\)",
+      "answer": "652"
+    },
+    {
+      "question": "\\(921 - 10\\)",
+      "answer": "911"
+    },
+    {
+      "question": "\\(-(9463 + 0)\\)",
+      "answer": "-9463"
+    },
+    {
+      "question": "Express \\(957 \\div 10^{4}\\) as decimal",
+      "answer": "0.0957",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(6778 \\bmod 10\\)<br><em>Hint:</em> 6778 mod 10 = remainder of 6778 &#xf7; 10",
+      "answer": "8"
+    },
+    {
+      "question": "\\(30 \\times 10\\)",
+      "answer": "300"
+    },
+    {
+      "question": "\\(691 \\times 10^{4}\\)",
+      "answer": "6910000"
+    },
+    {
+      "question": "\\(467 - 100\\)",
+      "answer": "367"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 684 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(496 + 10\\)",
+      "answer": "506"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4867 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "3",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(839 - 100\\)",
+      "answer": "739"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{10}\\)",
+      "answer": "40",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{100}\\)",
+      "answer": "3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(211 \\times 10^{4}\\)",
+      "answer": "2110000"
+    },
+    {
+      "question": "\\(101 \\times 10^{2}\\)",
+      "answer": "10100"
+    },
+    {
+      "question": "Express \\(647 \\div 10^{4}\\) as decimal",
+      "answer": "0.0647",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(500 \\times 50\\)",
+      "answer": "25000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4651 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "4",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(400 \\times 200\\)",
+      "answer": "80000"
+    },
+    {
+      "question": "\\(7663 \\bmod 100\\)",
+      "answer": "63"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7074 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(-(+649)\\)",
+      "answer": "-649"
+    },
+    {
+      "question": "\\(353 \\times 10^{2}\\)",
+      "answer": "35300"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6637 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(365 \\times 10^{3}\\)",
+      "answer": "365000"
+    },
+    {
+      "question": "\\(300 \\times 10^{4}\\)",
+      "answer": "3000000"
+    },
+    {
+      "question": "\\(40 \\times 50\\)",
+      "answer": "2000"
+    },
+    {
+      "question": "\\(269 - 100\\)",
+      "answer": "169"
+    },
+    {
+      "question": "\\(1686 \\bmod 1000\\)",
+      "answer": "686"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8488 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Express \\(671 \\div 10^{4}\\) as decimal",
+      "answer": "0.0671",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(0 - 4098)\\)",
+      "answer": "4098"
+    },
+    {
+      "question": "\\(4858 \\bmod 10\\)<br><em>Hint:</em> 4858 mod 10 = remainder of 4858 &#xf7; 10",
+      "answer": "8"
+    },
+    {
+      "question": "\\(100 + 41\\)",
+      "answer": "141"
+    },
+    {
+      "question": "\\(653 \\times 10^{2}\\)",
+      "answer": "65300"
+    },
+    {
+      "question": "\\(-(0 + 5785)\\)",
+      "answer": "-5785"
+    },
+    {
+      "question": "\\(7402 \\bmod 100\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(-(-8740)\\)",
+      "answer": "8740"
+    },
+    {
+      "question": "\\(-(1378 + 0)\\)",
+      "answer": "-1378"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{500}\\)",
+      "answer": "1/25",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [25]
+    },
+    {
+      "question": "\\(1024 - 10\\)",
+      "answer": "1014"
+    },
+    {
+      "question": "\\(100 \\times 100\\)",
+      "answer": "10000"
+    },
+    {
+      "question": "Express \\(339 \\div 10^{2}\\) as decimal",
+      "answer": "3.39",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(30 \\times 100\\)",
+      "answer": "3000"
+    },
+    {
+      "question": "\\(400 \\times 40\\)",
+      "answer": "16000"
+    },
+    {
+      "question": "\\(50 \\times 200\\)",
+      "answer": "10000"
+    },
+    {
+      "question": "\\(651 \\times 10^{3}\\)",
+      "answer": "651000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{40}\\)",
+      "answer": "5/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(-(2775 + 0)\\)",
+      "answer": "-2775"
+    },
+    {
+      "question": "\\(-(8268 + 0)\\)",
+      "answer": "-8268"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{20}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(-(0 + 9051)\\)",
+      "answer": "-9051"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2072 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(30 \\times 200\\)",
+      "answer": "6000"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(214 + 10\\)",
+      "answer": "224"
+    },
+    {
+      "question": "\\(927 + 100\\)",
+      "answer": "1027"
+    },
+    {
+      "question": "\\(20 \\times 20\\)",
+      "answer": "400"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9578 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(717 \\times 10^{2}\\)",
+      "answer": "71700"
+    },
+    {
+      "question": "Express \\(487 \\div 10^{4}\\) as decimal",
+      "answer": "0.0487",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{200}\\)",
+      "answer": "1/20",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [20]
+    },
+    {
+      "question": "\\(-(-8238)\\)",
+      "answer": "8238"
+    },
+    {
+      "question": "\\(476 \\times 10^{4}\\)",
+      "answer": "4760000"
+    },
+    {
+      "question": "Express \\(201 \\div 10^{3}\\) as decimal",
+      "answer": "0.201",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(341 \\div 10^{2}\\) as decimal",
+      "answer": "3.41",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(417 \\div 10^{4}\\) as decimal",
+      "answer": "0.0417",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(79 \\times 10^{2}\\)",
+      "answer": "7900"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9098 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(482 - 10\\)",
+      "answer": "472"
+    },
+    {
+      "question": "Express \\(591 \\div 10^{3}\\) as decimal",
+      "answer": "0.591",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{300}\\)",
+      "answer": "2/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(662 + 100\\)",
+      "answer": "762"
+    },
+    {
+      "question": "\\(865 \\times 10^{3}\\)",
+      "answer": "865000"
+    },
+    {
+      "question": "\\(-(3456 + 0)\\)",
+      "answer": "-3456"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7980 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "0",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{200}\\)",
+      "answer": "5/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(336 + 100\\)",
+      "answer": "436"
+    },
+    {
+      "question": "Express \\(387 \\div 10^{2}\\) as decimal",
+      "answer": "3.87",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(1114 \\bmod 1000\\)",
+      "answer": "114"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9187 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 853 to make it a multiple of 3 (or to make it divisible by 3)?<br><em>Hint:</em> use sum of digits. ie remainder of 853 &divide; 3 = remainder of (8+5+3) &divide; 3",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(698 - 10\\)",
+      "answer": "688"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{500}\\)",
+      "answer": "4/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "Express \\(843 \\div 10^{2}\\) as decimal",
+      "answer": "8.43",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9146 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2007 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "3",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{20}\\)",
+      "answer": "25",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(300 \\times 40\\)",
+      "answer": "12000"
+    },
+    {
+      "question": "\\(100 \\times 10\\)",
+      "answer": "1000"
+    },
+    {
+      "question": "\\(415 \\times 10^{2}\\)",
+      "answer": "41500"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{200}\\)",
+      "answer": "2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(-(+2615)\\)",
+      "answer": "-2615"
+    },
+    {
+      "question": "Express \\(641 \\div 10^{4}\\) as decimal",
+      "answer": "0.0641",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2561 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "4",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Express \\(477 \\div 10^{4}\\) as decimal",
+      "answer": "0.0477",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(511 + 100\\)",
+      "answer": "611"
+    },
+    {
+      "question": "\\(20 \\times 200\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "\\(5861 \\bmod 100\\)",
+      "answer": "61"
+    },
+    {
+      "question": "\\(3463 \\bmod 100\\)",
+      "answer": "63"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{200}\\)",
+      "answer": "1/10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{200}\\)",
+      "answer": "1/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(792 + 10\\)",
+      "answer": "802"
+    },
+    {
+      "question": "\\(968 - 10\\)",
+      "answer": "958"
+    },
+    {
+      "question": "\\(602 \\times 10^{3}\\)",
+      "answer": "602000"
+    },
+    {
+      "question": "Express \\(619 \\div 10^{2}\\) as decimal",
+      "answer": "6.19",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(469 \\div 10^{4}\\) as decimal",
+      "answer": "0.0469",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{20}\\)",
+      "answer": "1/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(817 - 10\\)",
+      "answer": "807"
+    },
+    {
+      "question": "Express \\(431 \\div 10^{4}\\) as decimal",
+      "answer": "0.0431",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{20}{300}\\)",
+      "answer": "1/15",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [15]
+    },
+    {
+      "question": "\\(956 \\times 10^{2}\\)",
+      "answer": "95600"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{50}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(307 \\times 10^{2}\\)",
+      "answer": "30700"
+    },
+    {
+      "question": "\\(10 \\times 200\\)",
+      "answer": "2000"
+    },
+    {
+      "question": "\\(500 \\times 40\\)",
+      "answer": "20000"
+    },
+    {
+      "question": "\\(9478 \\bmod 100\\)",
+      "answer": "78"
+    },
+    {
+      "question": "\\(30 \\times 300\\)",
+      "answer": "9000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{300}\\)",
+      "answer": "1/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(5700 \\bmod 1000\\)",
+      "answer": "700"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4768 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(442 - 10\\)",
+      "answer": "432"
+    },
+    {
+      "question": "\\(10 \\times 20\\)",
+      "answer": "200"
+    },
+    {
+      "question": "\\(-(+3517)\\)",
+      "answer": "-3517"
+    },
+    {
+      "question": "\\(1920 \\bmod 1000\\)",
+      "answer": "920"
+    },
+    {
+      "question": "\\(5848 \\bmod 1000\\)",
+      "answer": "848"
+    },
+    {
+      "question": "\\(320 - 100\\)",
+      "answer": "220"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{40}\\)",
+      "answer": "5/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(1000 + 183\\)",
+      "answer": "1183"
+    },
+    {
+      "question": "\\(642 \\times 10^{2}\\)",
+      "answer": "64200"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4105 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "0",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3728 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(-(+8451)\\)",
+      "answer": "-8451"
+    },
+    {
+      "question": "Express \\(769 \\div 10^{2}\\) as decimal",
+      "answer": "7.69",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(827 + 10\\)",
+      "answer": "837"
+    },
+    {
+      "question": "\\(9611 \\bmod 10\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(452 - 10\\)",
+      "answer": "442"
+    },
+    {
+      "question": "\\(1043 - 10\\)",
+      "answer": "1033"
+    },
+    {
+      "question": "\\(-(-6288)\\)",
+      "answer": "6288"
+    },
+    {
+      "question": "\\(-(0 + 8085)\\)",
+      "answer": "-8085"
+    },
+    {
+      "question": "Express \\(87 \\div 10^{4}\\) as decimal",
+      "answer": "0.0087",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(10 \\times 40\\)",
+      "answer": "400"
+    },
+    {
+      "question": "\\(100 \\times 50\\)",
+      "answer": "5000"
+    },
+    {
+      "question": "\\(1000 + 313\\)",
+      "answer": "1313"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{200}\\)",
+      "answer": "1/4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "Express \\(447 \\div 10^{3}\\) as decimal",
+      "answer": "0.447",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(777 + 100\\)",
+      "answer": "877"
+    },
+    {
+      "question": "\\(544 \\times 10^{4}\\)",
+      "answer": "5440000"
+    },
+    {
+      "question": "Express \\(543 \\div 10^{3}\\) as decimal",
+      "answer": "0.543",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(0 - 3594)\\)",
+      "answer": "3594"
+    },
+    {
+      "question": "\\(20 \\times 500\\)",
+      "answer": "10000"
+    },
+    {
+      "question": "\\(1100 - 1000\\)",
+      "answer": "100"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{10}\\)",
+      "answer": "10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(200 \\times 30\\)",
+      "answer": "6000"
+    },
+    {
+      "question": "\\(100 \\times 200\\)",
+      "answer": "20000"
+    },
+    {
+      "question": "Express \\(701 \\div 10^{3}\\) as decimal",
+      "answer": "0.701",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(699 - 0)\\)",
+      "answer": "-699"
+    },
+    {
+      "question": "\\(-(1510 - 0)\\)",
+      "answer": "-1510"
+    },
+    {
+      "question": "\\(485 - 10\\)",
+      "answer": "475"
+    },
+    {
+      "question": "\\(-(0 - 1738)\\)",
+      "answer": "1738"
+    },
+    {
+      "question": "\\(746 + 100\\)",
+      "answer": "846"
+    },
+    {
+      "question": "\\(585 \\times 10^{3}\\)",
+      "answer": "585000"
+    },
+    {
+      "question": "\\(846 \\times 10^{4}\\)",
+      "answer": "8460000"
+    },
+    {
+      "question": "\\(754 - 10\\)",
+      "answer": "744"
+    },
+    {
+      "question": "\\(4006 \\bmod 100\\)<br><em>Hint:</em> 4006 mod 100 = remainder of 4006 &#xf7; 100",
+      "answer": "6"
+    },
+    {
+      "question": "Express \\(489 \\div 10^{2}\\) as decimal",
+      "answer": "4.89",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{50}\\)",
+      "answer": "3/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(281 - 10\\)",
+      "answer": "271"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{50}\\)",
+      "answer": "1/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(9806 \\bmod 100\\)",
+      "answer": "6"
+    },
+    {
+      "question": "\\(240 - 10\\)",
+      "answer": "230"
+    },
+    {
+      "question": "\\(484 \\times 10^{2}\\)",
+      "answer": "48400"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{30}\\)",
+      "answer": "20/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(935 \\times 10^{2}\\)",
+      "answer": "93500"
+    },
+    {
+      "question": "\\(4908 \\bmod 1000\\)<br><em>Hint:</em> 4908 mod 1000 = remainder of 4908 &#xf7; 1000",
+      "answer": "908"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 8899 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(50 \\times 400\\)",
+      "answer": "20000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{400}{100}\\)",
+      "answer": "4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(441 + 100\\)",
+      "answer": "541"
+    },
+    {
+      "question": "\\(50 \\times 30\\)",
+      "answer": "1500"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 970 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(757 \\times 10^{3}\\)",
+      "answer": "757000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{20}\\)",
+      "answer": "2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(-(5020 - 0)\\)",
+      "answer": "-5020"
+    },
+    {
+      "question": "\\(847 \\times 10^{4}\\)",
+      "answer": "8470000"
+    },
+    {
+      "question": "\\(934 \\times 10^{2}\\)",
+      "answer": "93400"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{500}\\)",
+      "answer": "2/5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2068 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(2892 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "Express \\(367 \\div 10^{3}\\) as decimal",
+      "answer": "0.367",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(40 \\times 100\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "\\(698 + 10\\)",
+      "answer": "708"
+    },
+    {
+      "question": "\\(50 \\times 100\\)",
+      "answer": "5000"
+    },
+    {
+      "question": "\\(891 \\times 10^{2}\\)",
+      "answer": "89100"
+    },
+    {
+      "question": "\\(500 + 100\\)",
+      "answer": "600"
+    },
+    {
+      "question": "\\(506 \\times 10^{4}\\)",
+      "answer": "5060000"
+    },
+    {
+      "question": "\\(-(-7427)\\)",
+      "answer": "7427"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{10}\\)",
+      "answer": "50",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(6241 \\bmod 1000\\)",
+      "answer": "241"
+    },
+    {
+      "question": "\\(253 \\times 10^{2}\\)",
+      "answer": "25300"
+    },
+    {
+      "question": "\\(5465 \\bmod 1000\\)<br><em>Hint:</em> 5465 mod 1000 = remainder of 5465 &#xf7; 1000",
+      "answer": "465"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 1400 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3148 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "Express \\(433 \\div 10^{3}\\) as decimal",
+      "answer": "0.433",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(9638 \\bmod 100\\)",
+      "answer": "38"
+    },
+    {
+      "question": "\\(813 \\times 10^{3}\\)",
+      "answer": "813000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{10}{100}\\)",
+      "answer": "1/10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(779 + 100\\)",
+      "answer": "879"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{10}\\)",
+      "answer": "4",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6932 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "3",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(500 \\times 200\\)",
+      "answer": "100000"
+    },
+    {
+      "question": "\\(200 \\times 20\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "\\(10 \\times 50\\)",
+      "answer": "500"
+    },
+    {
+      "question": "Express \\(239 \\div 10^{4}\\) as decimal",
+      "answer": "0.0239",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(659 - 100\\)",
+      "answer": "559"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5037 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Express \\(749 \\div 10^{3}\\) as decimal",
+      "answer": "0.749",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(0 + 5557)\\)",
+      "answer": "-5557"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7224 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7844 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "1",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "\\(501 \\times 10^{3}\\)",
+      "answer": "501000"
+    },
+    {
+      "question": "\\(839 \\times 10^{2}\\)",
+      "answer": "83900"
+    },
+    {
+      "question": "Express \\(259 \\div 10^{2}\\) as decimal",
+      "answer": "2.59",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{20}\\)",
+      "answer": "10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(1000 + 914\\)",
+      "answer": "1914"
+    },
+    {
+      "question": "Express \\(379 \\div 10^{4}\\) as decimal",
+      "answer": "0.0379",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(242 \\times 10^{3}\\)",
+      "answer": "242000"
+    },
+    {
+      "question": "Express \\(193 \\div 10^{2}\\) as decimal",
+      "answer": "1.93",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(223 + 0)\\)",
+      "answer": "-223"
+    },
+    {
+      "question": "\\(5585 \\bmod 100\\)",
+      "answer": "85"
+    },
+    {
+      "question": "\\(281 - 100\\)",
+      "answer": "181"
+    },
+    {
+      "question": "Express \\(163 \\div 10^{2}\\) as decimal",
+      "answer": "1.63",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(1000 + 320\\)",
+      "answer": "1320"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{500}{300}\\)",
+      "answer": "5/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(672 - 10\\)",
+      "answer": "662"
+    },
+    {
+      "question": "\\(2331 \\bmod 1000\\)<br><em>Hint:</em> 2331 mod 1000 = remainder of 2331 &#xf7; 1000",
+      "answer": "331"
+    },
+    {
+      "question": "\\(500 \\times 300\\)",
+      "answer": "150000"
+    },
+    {
+      "question": "\\(660 - 10\\)",
+      "answer": "650"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 3451 to make it a multiple of 3 (or to make it divisible by 3)?",
+      "answer": "2",
+      "choices": ["0", "1", "2"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{100}\\)",
+      "answer": "1",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(692 - 100\\)",
+      "answer": "592"
+    },
+    {
+      "question": "\\(996 + 10\\)",
+      "answer": "1006"
+    },
+    {
+      "question": "\\(30 \\times 20\\)",
+      "answer": "600"
+    },
+    {
+      "question": "Express \\(809 \\div 10^{4}\\) as decimal",
+      "answer": "0.0809",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(1068 - 10\\)",
+      "answer": "1058"
+    },
+    {
+      "question": "\\(384 - 100\\)",
+      "answer": "284"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{40}\\)",
+      "answer": "5",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(6430 \\bmod 10\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(-(+3693)\\)",
+      "answer": "-3693"
+    },
+    {
+      "question": "\\(1017 - 10\\)",
+      "answer": "1007"
+    },
+    {
+      "question": "\\(-(+9841)\\)",
+      "answer": "-9841"
+    },
+    {
+      "question": "Express \\(61 \\div 10^{2}\\) as decimal",
+      "answer": "0.61",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(7688 + 0)\\)",
+      "answer": "-7688"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 7702 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "3",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(1000 + 323\\)",
+      "answer": "1323"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 1480 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "0",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(5874 \\bmod 100\\)",
+      "answer": "74"
+    },
+    {
+      "question": "\\(7937 \\bmod 1000\\)<br><em>Hint:</em> 7937 mod 1000 = remainder of 7937 &#xf7; 1000",
+      "answer": "937"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{20}\\)",
+      "answer": "5/2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 9089 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "1",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(1000 + 521\\)",
+      "answer": "1521"
+    },
+    {
+      "question": "\\(7365 \\bmod 10\\)<br><em>Hint:</em> 7365 mod 10 = remainder of 7365 &#xf7; 10",
+      "answer": "5"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{200}\\)",
+      "answer": "3/20",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [20]
+    },
+    {
+      "question": "\\(618 + 100\\)",
+      "answer": "718"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{50}{300}\\)",
+      "answer": "1/6",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [6]
+    },
+    {
+      "question": "\\(-(2494 - 0)\\)",
+      "answer": "-2494"
+    },
+    {
+      "question": "\\(661 - 100\\)",
+      "answer": "561"
+    },
+    {
+      "question": "\\(-(4657 + 0)\\)",
+      "answer": "-4657"
+    },
+    {
+      "question": "\\(8543 \\bmod 1000\\)",
+      "answer": "543"
+    },
+    {
+      "question": "\\(1000 + 677\\)",
+      "answer": "1677"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{40}{500}\\)",
+      "answer": "2/25",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [25]
+    },
+    {
+      "question": "\\(100 \\times 40\\)",
+      "answer": "4000"
+    },
+    {
+      "question": "\\(5645 \\bmod 100\\)",
+      "answer": "45"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 759 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5362 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "Express \\(763 \\div 10^{4}\\) as decimal",
+      "answer": "0.0763",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(218 \\times 10^{4}\\)",
+      "answer": "2180000"
+    },
+    {
+      "question": "\\(-(0 + 7230)\\)",
+      "answer": "-7230"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5787 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "3",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{30}\\)",
+      "answer": "10/3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(20 \\times 100\\)",
+      "answer": "2000"
+    },
+    {
+      "question": "\\(300 \\times 20\\)",
+      "answer": "6000"
+    },
+    {
+      "question": "\\(343 - 100\\)",
+      "answer": "243"
+    },
+    {
+      "question": "\\(1000 - 10\\)",
+      "answer": "990"
+    },
+    {
+      "question": "\\(669 + 100\\)",
+      "answer": "769"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 2143 to make it a multiple of 5 (or to make it divisible by 5)?",
+      "answer": "2",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "\\(132 \\times 10^{3}\\)",
+      "answer": "132000"
+    },
+    {
+      "question": "\\(30 \\times 40\\)",
+      "answer": "1200"
+    },
+    {
+      "question": "\\(208 - 10\\)",
+      "answer": "198"
+    },
+    {
+      "question": "\\(852 + 10\\)",
+      "answer": "862"
+    },
+    {
+      "question": "\\(3863 \\bmod 100\\)",
+      "answer": "63"
+    },
+    {
+      "question": "\\(165 \\times 10^{3}\\)",
+      "answer": "165000"
+    },
+    {
+      "question": "\\(623 - 100\\)",
+      "answer": "523"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{100}{50}\\)",
+      "answer": "2",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6123 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "2",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(30 \\times 30\\)",
+      "answer": "900"
+    },
+    {
+      "question": "\\(200 \\times 50\\)",
+      "answer": "10000"
+    },
+    {
+      "question": "Simplify \\(\\dfrac{300}{30}\\)",
+      "answer": "10",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(1572 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(-(0 + 878)\\)",
+      "answer": "-878"
+    },
+    {
+      "question": "Express \\(819 \\div 10^{4}\\) as decimal",
+      "answer": "0.0819",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(279 - 10\\)",
+      "answer": "269"
+    },
+    {
+      "question": "Express \\(531 \\div 10^{4}\\) as decimal",
+      "answer": "0.0531",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(822 \\times 10^{3}\\)",
+      "answer": "822000"
+    },
+    {
+      "question": "\\(3996 \\bmod 100\\)",
+      "answer": "96"
+    },
+    {
+      "question": "\\(8235 \\bmod 10\\)",
+      "answer": "5"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 4094 to make it a multiple of 2 (or to make it divisible by 2)?",
+      "answer": "0",
+      "choices": ["0", "1"]
+    },
+    {
+      "question": "\\(40 \\times 30\\)",
+      "answer": "1200"
+    },
+    {
+      "question": "\\(40 \\times 400\\)",
+      "answer": "16000"
+    },
+    {
+      "question": "\\(646 + 10\\)",
+      "answer": "656"
+    },
+    {
+      "question": "\\(400 \\times 400\\)",
+      "answer": "160000"
+    },
+    {
+      "question": "\\(7002 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(3165 \\bmod 10\\)",
+      "answer": "5"
+    },
+    {
+      "question": "\\(629 \\times 10^{2}\\)",
+      "answer": "62900"
+    },
+    {
+      "question": "\\(978 + 100\\)",
+      "answer": "1078"
+    },
+    {
+      "question": "\\(-(2776 + 0)\\)",
+      "answer": "-2776"
+    },
+    {
+      "question": "\\(6282 \\bmod 10\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(976 + 100\\)",
+      "answer": "1076"
+    },
+    {
+      "question": "Express \\(883 \\div 10^{2}\\) as decimal",
+      "answer": "8.83",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(8854 + 0)\\)",
+      "answer": "-8854"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 6219 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "1",
+      "choices": ["0", "1", "2", "3", "4"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{30}{10}\\)",
+      "answer": "3",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "Simplify \\(\\dfrac{200}{10}\\)",
+      "answer": "20",
+      "numberInputTypes": ["cfr"],
+      "expectedDenominators": []
+    },
+    {
+      "question": "\\(209 + 100\\)",
+      "answer": "309"
+    },
+    {
+      "question": "Express \\(429 \\div 10^{4}\\) as decimal",
+      "answer": "0.0429",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(16 + 10\\)",
+      "answer": "26"
+    },
+    {
+      "question": "\\(-(2804 - 0)\\)",
+      "answer": "-2804"
+    },
+    {
+      "question": "\\(981 \\times 10^{2}\\)",
+      "answer": "98100"
+    },
+    {
+      "question": "Express \\(569 \\div 10^{4}\\) as decimal",
+      "answer": "0.0569",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(413 \\div 10^{2}\\) as decimal",
+      "answer": "4.13",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(2236 \\bmod 10\\)",
+      "answer": "6"
+    },
+    {
+      "question": "\\(453 - 100\\)",
+      "answer": "353"
+    },
+    {
+      "question": "\\(1000 + 79\\)",
+      "answer": "1079"
+    },
+    {
+      "question": "\\(50 \\times 300\\)",
+      "answer": "15000"
+    },
+    {
+      "question": "\\(647 + 100\\)",
+      "answer": "747"
+    },
+    {
+      "type": "mcq",
+      "question": "How much should be added to 5733 to make it a multiple of 10 (or to make it divisible by 10)?",
+      "answer": "2",
+      "choices": ["5", "6", "7", "8", "9"]
+    },
+    {
+      "question": "\\(8647 \\bmod 1000\\)",
+      "answer": "647"
+    },
+    {
+      "question": "\\(228 - 10\\)",
+      "answer": "218"
+    },
+    {
+      "question": "Express \\(93 \\div 10^{3}\\) as decimal",
+      "answer": "0.093",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(728 + 10\\)",
+      "answer": "738"
+    },
+    {
+      "question": "\\(6045 \\bmod 1000\\)",
+      "answer": "45"
+    },
+    {
+      "question": "\\(-(9426 - 0)\\)",
+      "answer": "-9426"
+    },
+    {
+      "question": "Express \\(673 \\div 10^{2}\\) as decimal",
+      "answer": "6.73",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(-(6980 + 0)\\)",
+      "answer": "-6980"
+    },
+    {
+      "question": "\\(-(0 + 8076)\\)",
+      "answer": "-8076"
+    },
+    {
+      "question": "\\(2161 \\bmod 10\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(-(0 + 8845)\\)",
+      "answer": "-8845"
+    },
+    {
+      "question": "Express \\(729 \\div 10^{2}\\) as decimal",
+      "answer": "7.29",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(813 \\times 10^{2}\\)",
+      "answer": "81300"
+    },
+    {
+      "question": "\\(100 \\times 500\\)",
+      "answer": "50000"
+    }
+  ]
+}

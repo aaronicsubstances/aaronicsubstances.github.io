@@ -1,0 +1,196 @@
+{
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "\\(1188 \\bmod 2 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1748391 \\bmod 2 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(39393 \\bmod 2 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(44 \\bmod 2 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1180 \\bmod 5 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1748391 \\bmod 5 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(39395 \\bmod 5 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(44 \\bmod 5 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1188 \\bmod 10 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1748390 \\bmod 10 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(39390 \\bmod 10 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(44 \\bmod 10 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1188 \\bmod 3 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(1748391 \\bmod 3 = 0\\)",
+            "answer": "0",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(39391 \\bmod 3 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "\\(44 \\bmod 3 = 0\\)",
+            "answer": "1",
+            "choices": [
+                "True",
+                "False"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "8e62b2b0-9b06-48d2-94a1-641ed031858c",
+            "question": "What is the sign of the answer?",
+            "answer": "2",
+            "choices": [
+                "Negative",
+                "Zero",
+                "Positive"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "8e62b2b0-9b06-48d2-94a1-641ed031858c",
+            "question": "What is the magnitude of the answer compared to that of \\(\\frac{5}{6}\\)?",
+            "answer": "0",
+            "choices": [
+                "Less than \\(\\frac{5}{6}\\)",
+                "Equal to \\(\\frac{5}{6}\\)",
+                "Greater than \\(\\frac{5}{6}\\)"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "83f9c8f5-f044-46e2-9fff-fe21cbabeb75",
+            "question": "What is the sign of the answer?",
+            "answer": "0",
+            "choices": [
+                "Negative",
+                "Zero",
+                "Positive"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "83f9c8f5-f044-46e2-9fff-fe21cbabeb75",
+            "question": "What is the magnitude of the answer?",
+            "answer": "1",
+            "choices": [
+                "\\(\\frac{5}{6} - \\frac{8}{3}\\)",
+                "\\(\\frac{8}{3} - \\frac{5}{6}\\)",
+                "\\(\\frac{5}{6} + \\frac{8}{3}\\)"
+            ]
+        }
+    ],
+    "preambles": {
+        "8e62b2b0-9b06-48d2-94a1-641ed031858c": "\\(\\frac{5}{6} \\times \\frac{8}{3}\\)",
+        "83f9c8f5-f044-46e2-9fff-fe21cbabeb75": "\\(\\frac{5}{6} - \\frac{8}{3}\\)"
+    }  
+}

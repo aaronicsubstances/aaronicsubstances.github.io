@@ -1,0 +1,66 @@
+{
+    "randomQuestionCount": 4,
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Kojo paid &#8373;270,000.00 for TV Set after he had been given a discount of 10%. FInd the marked price.",
+            "answer": "1",
+            "choices": [
+                "&#8373;300,000.00",
+                "&#8373;297,000.00",
+                "&#8373;280,000.00",
+                "&#8373;260,000.00"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "8e62b2b0-9b06-48d2-94a1-641ed031858c",
+            "question": "What is the total number of pupils who study Government?",
+            "answer": "0",
+            "choices": [
+                "17",
+                "23",
+                "24",
+                "31"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "8e62b2b0-9b06-48d2-94a1-641ed031858c",
+            "question": "How many pupils study only Government?",
+            "answer": "1",
+            "choices": [
+                "17",
+                "23",
+                "24",
+                "25"
+            ]
+        },
+        {
+            "type": "mcq",
+            "preamble": "8e62b2b0-9b06-48d2-94a1-641ed031858c",
+            "question": "How many pupils study only Economics?",
+            "answer": "2",
+            "choices": [
+                "17",
+                "23",
+                "24",
+                "25"
+            ]
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following best describes the given construction?",
+            "answer": "3",
+            "choices": [
+                "Bisecting a line",
+                "Constructing the bisector of a line segment",
+                "Constructing a perpendicular to a line",
+                "Constructing a perpendicular to a given line from a point outside the line"
+            ]
+        }
+    ],
+    "preambles": {
+        "8e62b2b0-9b06-48d2-94a1-641ed031858c": "In a secondary school class, 23 pupils study Economics, 6 pupils study both Government and Economics. 48 pupils study either Government or Economics or both."
+    }  
+}
