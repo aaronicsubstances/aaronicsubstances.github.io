@@ -1,181 +1,181 @@
 {
-    "openingRemarks": "multiples of 10 and 11 and no factor of 12",
-    "questions": [
-        {
-            "question": "\\(10 \\times 0\\)",
-            "answer": "0"
-        },
-        {
-            "question": "\\(0 \\times 10\\)",
-            "answer": "0"
-        },
-        {
-            "question": "\\(10 \\times 1\\)",
-            "answer": "10"
-        },
-        {
-            "question": "\\(1 \\times 10\\)",
-            "answer": "10"
-        },
-        {
-            "question": "\\(10 \\times 2\\)",
-            "answer": "20"
-        },
-        {
-            "question": "\\(2 \\times 10\\)",
-            "answer": "20"
-        },
-        {
-            "question": "\\(10 \\times 3\\)",
-            "answer": "30"
-        },
-        {
-            "question": "\\(3 \\times 10\\)",
-            "answer": "30"
-        },
-        {
-            "question": "\\(10 \\times 4\\)",
-            "answer": "40"
-        },
-        {
-            "question": "\\(4 \\times 10\\)",
-            "answer": "40"
-        },
-        {
-            "question": "\\(10 \\times 5\\)",
-            "answer": "50"
-        },
-        {
-            "question": "\\(5 \\times 10\\)",
-            "answer": "50"
-        },
-        {
-            "question": "\\(10 \\times 6\\)",
-            "answer": "60"
-        },
-        {
-            "question": "\\(6 \\times 10\\)",
-            "answer": "60"
-        },
-        {
-            "question": "\\(10 \\times 7\\)",
-            "answer": "70"
-        },
-        {
-            "question": "\\(7 \\times 10\\)",
-            "answer": "70"
-        },
-        {
-            "question": "\\(10 \\times 8\\)",
-            "answer": "80"
-        },
-        {
-            "question": "\\(8 \\times 10\\)",
-            "answer": "80"
-        },
-        {
-            "question": "\\(10 \\times 9\\)",
-            "answer": "90"
-        },
-        {
-            "question": "\\(9 \\times 10\\)",
-            "answer": "90"
-        },
-        {
-            "question": "\\(10 \\times 10\\)",
-            "answer": "100"
-        },
-        {
-            "question": "\\(11 \\times 0\\)",
-            "answer": "0"
-        },
-        {
-            "question": "\\(0 \\times 11\\)",
-            "answer": "0"
-        },
-        {
-            "question": "\\(11 \\times 1\\)",
-            "answer": "11"
-        },
-        {
-            "question": "\\(1 \\times 11\\)",
-            "answer": "11"
-        },
-        {
-            "question": "\\(11 \\times 2\\)",
-            "answer": "22"
-        },
-        {
-            "question": "\\(2 \\times 11\\)",
-            "answer": "22"
-        },
-        {
-            "question": "\\(11 \\times 3\\)",
-            "answer": "33"
-        },
-        {
-            "question": "\\(3 \\times 11\\)",
-            "answer": "33"
-        },
-        {
-            "question": "\\(11 \\times 4\\)",
-            "answer": "44"
-        },
-        {
-            "question": "\\(4 \\times 11\\)",
-            "answer": "44"
-        },
-        {
-            "question": "\\(11 \\times 5\\)",
-            "answer": "55"
-        },
-        {
-            "question": "\\(5 \\times 11\\)",
-            "answer": "55"
-        },
-        {
-            "question": "\\(11 \\times 6\\)",
-            "answer": "66"
-        },
-        {
-            "question": "\\(6 \\times 11\\)",
-            "answer": "66"
-        },
-        {
-            "question": "\\(11 \\times 7\\)",
-            "answer": "77"
-        },
-        {
-            "question": "\\(7 \\times 11\\)",
-            "answer": "77"
-        },
-        {
-            "question": "\\(11 \\times 8\\)",
-            "answer": "88"
-        },
-        {
-            "question": "\\(8 \\times 11\\)",
-            "answer": "88"
-        },
-        {
-            "question": "\\(11 \\times 9\\)",
-            "answer": "99"
-        },
-        {
-            "question": "\\(9 \\times 11\\)",
-            "answer": "99"
-        },
-        {
-            "question": "\\(11 \\times 10\\)",
-            "answer": "110"
-        },
-        {
-            "question": "\\(10 \\times 11\\)",
-            "answer": "110"
-        },
-        {
-            "question": "\\(11 \\times 11\\)",
-            "answer": "121"
-        }
-    ]
+  "openingRemarks": "multiples of 10 and 11 and no factor of 12",
+  "questions": [
+    {
+      "question": "\\(10 \\times 6\\)",
+      "answer": "60"
+    },
+    {
+      "question": "\\(1 \\times 11\\)",
+      "answer": "11"
+    },
+    {
+      "question": "\\(10 \\times 3\\)",
+      "answer": "30"
+    },
+    {
+      "question": "\\(9 \\times 11\\)",
+      "answer": "99"
+    },
+    {
+      "question": "\\(10 \\times 5\\)",
+      "answer": "50"
+    },
+    {
+      "question": "\\(11 \\times 1\\)",
+      "answer": "11"
+    },
+    {
+      "question": "\\(11 \\times 9\\)",
+      "answer": "99"
+    },
+    {
+      "question": "\\(10 \\times 9\\)",
+      "answer": "90"
+    },
+    {
+      "question": "\\(2 \\times 10\\)",
+      "answer": "20"
+    },
+    {
+      "question": "\\(8 \\times 10\\)",
+      "answer": "80"
+    },
+    {
+      "question": "\\(11 \\times 6\\)",
+      "answer": "66"
+    },
+    {
+      "question": "\\(4 \\times 10\\)",
+      "answer": "40"
+    },
+    {
+      "question": "\\(11 \\times 3\\)",
+      "answer": "33"
+    },
+    {
+      "question": "\\(11 \\times 2\\)",
+      "answer": "22"
+    },
+    {
+      "question": "\\(11 \\times 4\\)",
+      "answer": "44"
+    },
+    {
+      "question": "\\(0 \\times 11\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(0 \\times 10\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(11 \\times 5\\)",
+      "answer": "55"
+    },
+    {
+      "question": "\\(5 \\times 10\\)",
+      "answer": "50"
+    },
+    {
+      "question": "\\(6 \\times 10\\)",
+      "answer": "60"
+    },
+    {
+      "question": "\\(10 \\times 11\\)",
+      "answer": "110"
+    },
+    {
+      "question": "\\(11 \\times 8\\)",
+      "answer": "88"
+    },
+    {
+      "question": "\\(10 \\times 7\\)",
+      "answer": "70"
+    },
+    {
+      "question": "\\(8 \\times 11\\)",
+      "answer": "88"
+    },
+    {
+      "question": "\\(11 \\times 10\\)",
+      "answer": "110"
+    },
+    {
+      "question": "\\(4 \\times 11\\)",
+      "answer": "44"
+    },
+    {
+      "question": "\\(3 \\times 11\\)",
+      "answer": "33"
+    },
+    {
+      "question": "\\(10 \\times 4\\)",
+      "answer": "40"
+    },
+    {
+      "question": "\\(11 \\times 11\\)",
+      "answer": "121"
+    },
+    {
+      "question": "\\(5 \\times 11\\)",
+      "answer": "55"
+    },
+    {
+      "question": "\\(3 \\times 10\\)",
+      "answer": "30"
+    },
+    {
+      "question": "\\(1 \\times 10\\)",
+      "answer": "10"
+    },
+    {
+      "question": "\\(2 \\times 11\\)",
+      "answer": "22"
+    },
+    {
+      "question": "\\(9 \\times 10\\)",
+      "answer": "90"
+    },
+    {
+      "question": "\\(10 \\times 8\\)",
+      "answer": "80"
+    },
+    {
+      "question": "\\(10 \\times 1\\)",
+      "answer": "10"
+    },
+    {
+      "question": "\\(6 \\times 11\\)",
+      "answer": "66"
+    },
+    {
+      "question": "\\(7 \\times 10\\)",
+      "answer": "70"
+    },
+    {
+      "question": "\\(11 \\times 0\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(10 \\times 0\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(10 \\times 2\\)",
+      "answer": "20"
+    },
+    {
+      "question": "\\(7 \\times 11\\)",
+      "answer": "77"
+    },
+    {
+      "question": "\\(11 \\times 7\\)",
+      "answer": "77"
+    },
+    {
+      "question": "\\(10 \\times 10\\)",
+      "answer": "100"
+    }
+  ]
 }

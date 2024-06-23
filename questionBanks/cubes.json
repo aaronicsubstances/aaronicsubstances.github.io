@@ -1,5 +1,5 @@
 {
-  "randomQuestionCount": -1,
+  "extraDescription": "E.g. cube of 2 is represented as \\(2^3\\), and is equal to \\(2 \\times 2 \\times 2\\), i.e. repeated multiplication of 2 up to 3 times, and not \\(2 \\times 3\\)",
   "questions": [
     {
       "question": "\\(8^3\\)",

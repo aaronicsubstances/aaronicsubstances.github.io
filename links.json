@@ -1,44 +1,18 @@
 {
   "sections": [
     {
-      "title": "Core",
-      "links": [
-        {
-          "title": "Conquering Number 10",
-          "questionBankUrl": "core/01-arithmetic-with-10"
-        },
-        {
-          "title": "Recalling Fraction Arithmetic Procedures",
-          "questionBankUrl": "core/02-fraction-procedure-recall"
-        },
-        {
-          "title": "Understanding Fraction Arithmetic Outcomes",
-          "questionBankUrl": "core/03-fraction-arithmetic-outcomes"
-        },
-        {
-          "title": "Rational Number Arithmetic with Calculator",
-          "questionBankUrl": "core/04-calculator-practice"
-        },
-        {
-          "title": "Rational Number Arithmetic without Calculator",
-          "questionBankUrl": "core/05-manual-practice"
-        }
-      ]
-    },
-    {
       "title": "Addition Tables",
       "links": [
         {
-          "title": "Test 1",
-          "description": "Get started...",
+          "title": "Part 1",
           "questionBankUrl": "addition-table-01"
         },
         {
-          "title": "Test 2",
+          "title": "Part 2",
           "questionBankUrl": "addition-table-02"
         },
         {
-          "title": "Test 3",
+          "title": "Part 3",
           "questionBankUrl": "addition-table-03"
         }
       ]
@@ -47,46 +21,44 @@
       "title": "Subtraction Tables",
       "links": [
         {
-          "title": "Format 1",
-          "description": "Avoid negatives",
+          "title": "Part 1",
+          "description": "No negatives",
           "questionBankUrl": "subtraction-table-01"
         },
         {
-          "title": "Format 2",
+          "title": "Part 2",
           "description": "Can treat negatives as undefined",
           "questionBankUrl": "subtraction-table-02"
         },
         {
-          "title": "Format 3",
-          "description": "Test negatives",
+          "title": "Part 3",
+          "description": "Deal with negatives",
           "questionBankUrl": "subtraction-table-03"
         }
       ]
     },
     {
-      "title": "Multiplication Times Table",
-      "description": "Contains tests to help rehearse times table",
+      "title": "Multiplication Tables",
       "links": [
         {
-          "title": "Test 1",
-          "description": "Get started...",
+          "title": "Part 1",
           "questionBankUrl": "times-table-01"
         },
         {
-          "title": "Test 2",
+          "title": "Part 2",
           "questionBankUrl": "times-table-02"
         },
         {
-          "title": "Test 3",
+          "title": "Part 3",
           "questionBankUrl": "times-table-03"
         },
         {
-          "title": "Test 4",
-          "description": "the troublesome products, but route to mastery",
+          "title": "Part 4",
+          "description": "Remainder of 2 up to 11 times tables",
           "questionBankUrl": "times-table-04"
         },
         {
-          "title": "Test 5",
+          "title": "Part 5",
           "description": "12 times table",
           "questionBankUrl": "times-table-05"
         }
@@ -96,15 +68,15 @@
       "title": "Division Tables",
       "links": [
         {
-          "title": "Test 1",
+          "title": "Part 1",
           "questionBankUrl": "division-table-01"
         },
         {
-          "title": "Test 2",
+          "title": "Part 2",
           "questionBankUrl": "division-table-02"
         },
         {
-          "title": "Test 3",
+          "title": "Part 3",
           "questionBankUrl": "division-table-03"
         }
       ]
@@ -114,37 +86,85 @@
       "links": [
         {
           "title": "Squares",
-          "description": "Test konwledge of squares of whole numbers from 0 to 20",
+          "description": "Recall squares of 0 up to 20",
           "questionBankUrl": "squares"
         },
         {
           "title": "Cubes",
-          "description": "Test konwledge of squares of whole numbers from 0 to 10",
+          "description": "Recall cubes of 0 up to 10",
           "questionBankUrl": "cubes"
         }
       ]
     },
     {
-      "title": "No Calculations",
-      "description": "Contains tests to help recall procedure without any calculations",
+      "title": "Number Format Conversions",
       "links": [
         {
-          "title": "Test 1",
-          "description": "Get started...",
-          "questionBankUrl": "no-calc-01"
+          "title": "Part 1",
+          "description": "Convert common fractions to/from mixed fractions",
+          "questionBankUrl": "number-format-conversions/01-mixed-common"
+        },
+        {
+          "title": "Part 2",
+          "description": "Convert common fractions to terminating decimal expansions",
+          "questionBankUrl": "number-format-conversions/02-common-to-dec-terminating"
+        },
+        {
+          "title": "Part 3",
+          "description": "Convert terminating decimal expansions to fractions",
+          "questionBankUrl": "number-format-conversions/03-terminating-dec-to-frac"
+        },
+        {
+          "title": "Part 4",
+          "description": "Convert fractions to rounded decimal expansions",
+          "questionBankUrl": "number-format-conversions/04-fraction-to-approx-dec"
+        },
+        {
+          "title": "Part 5",
+          "description": "Convert fractions to exact decimal expansions",
+          "questionBankUrl": "number-format-conversions/05-fraction-to-exact-dec"
+        },
+        {
+          "title": "Part 6",
+          "description": "Convert exact decimal expansions to fractions in simplest form",
+          "questionBankUrl": "number-format-conversions/06-exact-dec-to-simplest-frac"
         }
       ]
     },
     {
-      "title": "Past Questions",
+      "title": "Arithmetic without Calculator",
       "links": [
         {
-          "title": "1991",
-          "questionBankUrl": "pasqo"
+          "title": "Conquering Number 10",
+          "questionBankUrl": "no-calc/01-arithmetic-with-10"
+        },
+        {
+          "title": "Recalling Fraction Arithmetic Procedures",
+          "questionBankUrl": "no-calc/02-fraction-procedure-recall"
+        },
+        {
+          "title": "Understanding Fraction Arithmetic Outcomes",
+          "questionBankUrl": "no-calc/03-fraction-arithmetic-outcomes"
         }
       ]
     },
     {
+      "title": "General Rational Number Arithmetic",
+      "links": [
+        {
+          "title": "Part 1",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "arithmetic-with-calc/01-manual-practice"
+        },
+        {
+          "title": "Part 2",
+          "description": "Intended for practice with calculator",
+          "questionBankUrl": "arithmetic-with-calc/02-rational-numbers"
+        }
+      ]
+    },
+    {
+      "disabled": true,
       "title": "Examples",
       "description": "Examples",
       "links": [

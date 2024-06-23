@@ -1,5 +1,5 @@
 {
-  "openingRemarks": "Can enter N/A for results which cannot be positive or zero",
+  "openingRemarks": "NB: You can enter na or n/a for results which cannot be positive or zero",
   "questions": [
     {
       "question": "\\(6 - 7\\)",

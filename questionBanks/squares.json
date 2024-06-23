@@ -1,5 +1,5 @@
 {
-  "randomQuestionCount": -1,
+  "extraDescription": "E.g. square of 3 is represented as \\(3^2\\), and is equal to \\(3 \\times 3\\), i.e. multiplication of 3 by itself, and not \\(3 \\times 2\\)",
   "questions": [
     {
       "question": "\\(6^2\\)",

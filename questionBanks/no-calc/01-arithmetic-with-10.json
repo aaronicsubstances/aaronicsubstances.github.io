@@ -1,5 +1,5 @@
 {
-  "inputTimeWaitSecs": 30,
+  "extraDescription": "NB:<br>1. Repeated multiplication is represented by a notation such as \\(2^3\\), which means \\(2 \\times 2 \\times 2\\), and not \\(2 \\times 3\\)<br>2. Remainder of integer division is represented by a notation such as \\(5 \\bmod 3\\), which means the remainder of \\(5 \\div 3\\)",
   "questions": [
     {
       "question": "\\(100 \\times 30\\)",
