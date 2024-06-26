@@ -164,27 +164,28 @@
       ]
     },
     {
-      "disabled": true,
-      "title": "Examples",
-      "description": "Examples",
+      "title": "Algebra (MCQs)",
       "links": [
         {
-          "title": "Number Input Types",
-          "description": "Number Input Types",
-          "questionBankUrl": "examples/number-input-types"
+          "title": "Linear Equations",
+          "questionBankUrl": "algebra-mcqs/01-linear-equations"
+        }
+      ]
+    },
+    {
+      "title": "Linear Equations (Theory)",
+      "links": [
+        {
+          "title": "Part 1",
+          "questionBankUrl": "linear-equations-theory/01-equations"
         },
         {
-          "title": "Theory",
-          "description": "Theory",
-          "questionBankUrl": "examples/theory"
+          "title": "Part 2",
+          "questionBankUrl": "linear-equations-theory/02-equations"
         },
         {
-          "title": "Number Input Types (Limited)",
-          "questionBankUrl": "examples/number-input-types-small"
-        },
-        {
-          "title": "Theory (2)",
-          "questionBankUrl": "examples/theory-2"
+          "title": "Part 3",
+          "questionBankUrl": "linear-equations-theory/03-equations"
         }
       ]
     }
