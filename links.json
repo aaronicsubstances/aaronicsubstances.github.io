@@ -186,6 +186,38 @@
         {
           "title": "Part 3",
           "questionBankUrl": "linear-equations-theory/03-equations"
+        },
+        {
+          "title": "Part 4",
+          "questionBankUrl": "linear-equations-theory/04-equations"
+        },
+        {
+          "title": "Part 5",
+          "questionBankUrl": "linear-equations-theory/05-equations"
+        },
+        {
+          "title": "Part 6",
+          "questionBankUrl": "linear-equations-theory/06-equations"
+        },
+        {
+          "title": "Part 7",
+          "questionBankUrl": "linear-equations-theory/07-equations"
+        },
+        {
+          "title": "Part 8",
+          "questionBankUrl": "linear-equations-theory/08-equations"
+        },
+        {
+          "title": "Part 9",
+          "questionBankUrl": "linear-equations-theory/09-equations"
+        },
+        {
+          "title": "Part 10",
+          "questionBankUrl": "linear-equations-theory/10-equations"
+        },
+        {
+          "title": "Part 11",
+          "questionBankUrl": "linear-equations-theory/11-equations"
         }
       ]
     }
