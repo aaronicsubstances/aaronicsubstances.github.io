@@ -1,0 +1,46 @@
+{
+  "isTheory": true,
+  "openingRemarks": "Find the solution to the following equations",
+  "questions": [
+    {
+      "question": "\\(15 - 2x = 3x \\)",
+      "answer": "\\[\n\\begin{align*}\n15 - 2x &= 3x \\\\\n15 &= 3x + 2x \\\\\n15  &=  5x \\\\\n\\dfrac{15}{5} &= \\dfrac{5x}{5} \\\\\n3 &= x \\\\\nx &= 3\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(15 - 2x\\) if \\(x=3\\)</div>\n\n\\[\n\\begin{align*}\n15 - 2x &= 15 - 2(3) \\\\\n&= 15 - 6 \\\\\n&= 9\n\\end{align*}\n\\]\n\n<div>Evaluate \\(3x\\) if \\(x=3\\)</div>\n\n\\[\n\\begin{align*}\n3x &= 3(3) \\\\\n&= 9\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(26 - 4s = 9s \\)",
+      "answer": "\\[\n\\begin{align*}\n26 - 4s &= 9s \\\\\n26 &= 9s + 4s \\\\\n26 &=  13s \\\\\n\\dfrac{26}{13} &= \\dfrac{13s}{13} \\\\\n2 &= s \\\\\ns &= 2\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(26 - 4s\\) if \\(s=2\\)</div>\n\n\\[\n\\begin{align*}\n26 - 4s &= 26 - 4(2) \\\\\n&= 26 - 8 \\\\\n&= 18\n\\end{align*}\n\\]\n\n<div>Evaluate \\(9s\\) if \\(s=2\\)</div>\n\n\\[\n\\begin{align*}\n9s &= 9(2) \\\\\n&= 18\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(5p - 9 = 2p + 12 \\)",
+      "answer": "\\[\n\\begin{align*}\n5p - 9 &= 2p + 12 \\\\\n5p - 2p &= 12 + 9 \\\\\n3p &=  21 \\\\\n\\dfrac{3p}{3} &= \\dfrac{21}{3} \\\\\np &= 7 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(5p - 9\\) if \\(p=7\\)</div>\n\n\\[\n\\begin{align*}\n5p - 9 &= 5(7) - 9 \\\\\n&= 35 - 9 \\\\\n&= 26\n\\end{align*}\n\\]\n\n<div>Evaluate \\(2p + 12\\) if \\(p=7\\)</div>\n\n\\[\n\\begin{align*}\n2p + 12 &= 2(7) + 12 \\\\\n&= 14 + 12 \\\\\n&= 26\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(8g + 10 = 35 + 3g \\)",
+      "answer": "\\[\n\\begin{align*}\n8g + 10 &= 35 + 3g \\\\\n8g - 3g &= 35 - 10 \\\\\n5g &=  25 \\\\\n\\dfrac{5g}{5} &= \\dfrac{25}{5} \\\\\ng &= 5 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(8g + 10\\) if \\(g=5\\)</div>\n\n\\[\n\\begin{align*}\n8g + 10 &= 8(5) + 10 \\\\\n&= 40 + 10 \\\\\n&= 50\n\\end{align*}\n\\]\n\n<div>Evaluate \\(35 + 3g\\) if \\(g=5\\)</div>\n\n\\[\n\\begin{align*}\n35 + 3g &= 35 + 3(5) \\\\\n&= 35 + 15 \\\\\n&= 50\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(5t + 16 = 6 - 5t \\)",
+      "answer": "\\[\n\\begin{align*}\n5t + 16 &= 6 - 5t \\\\\n5t + 5t &= 6 - 16 \\\\\n10t &=  -10 \\\\\n\\dfrac{10t}{10} &= \\dfrac{-10}{10} \\\\\nt &= -1 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(5t + 16\\) if \\(t=-1\\)</div>\n\n\\[\n\\begin{align*}\n5t + 16 &= 5(-1) + 16 \\\\\n&= -5 + 16 \\\\\n&= 11\n\\end{align*}\n\\]\n\n<div>Evaluate \\(6 - 5t\\) if \\(t=-1\\)</div>\n\n\\[\n\\begin{align*}\n6 - 5t &= 6 - 5(-1) \\\\\n&= 6 + 5 \\\\\n&= 11\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(-3r + 10 = 15r - 8 \\)",
+      "answer": "\\[\n\\begin{align*}\n-3r + 10 &= 15r - 8 \\\\\n-3r - 15r &= -8 - 10 \\\\\n-18r &=  -18 \\\\\n\\dfrac{-18r}{-18} &= \\dfrac{-18}{-18} \\\\\nr &= 1 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(-3r + 10\\) if \\(r=1\\)</div>\n\n\\[\n\\begin{align*}\n-3r + 10 &= -3(1) + 10 \\\\\n&= -3 + 10 \\\\\n&= 7\n\\end{align*}\n\\]\n\n<div>Evaluate \\(15r - 8\\) if \\(r=1\\)</div>\n\n\\[\n\\begin{align*}\n15r - 8 &= 15(1) - 8 \\\\\n&= 15 - 8 \\\\\n&= 7\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(7 + 3x - 12x = 3x + 1 \\)",
+      "answer": "\\[\n\\begin{align*}\n7 + 3x - 12x &= 3x + 1 \\\\\n7 - 1 &= 3x + 12x -3x \\\\\n6 &= 12x \\\\\n\\dfrac{6}{12} &= \\dfrac{12x}{12} \\\\\n\\frac{1}{2} &= x \\\\\nx &= \\frac{1}{2} \\text{ or } x = 0.5 \n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(7 + 3x  -  12x\\) if \\(x=\\frac{1}{2}\\)</div>\n\n\\[\n\\begin{align*}\n7 + 3x  -  12x &= 7 + 3\\left(\\dfrac{1}{2}\\right) -  12\\left(\\dfrac{1}{2}\\right) \\\\\n&= 7 + \\dfrac{3}{2} - 6 \\\\\n&= \\dfrac{5}{2}\n\\end{align*}\n\\]\n\n<div>Evaluate \\(3x + 1\\) if \\(x=\\frac{1}{2}\\)</div>\n\n\\[\n\\begin{align*}\n3x + 1 &= 3\\left(\\dfrac{1}{2}\\right) + 1 \\\\\n&= \\dfrac{3}{2} + 1  \\\\\n&= \\dfrac{5}{2}\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(w - 2 + 2w = 6 + 5w \\)",
+      "answer": "\\[\n\\begin{align*}\nw - 2 + 2w &= 6 + 5w \\\\\nw + 2w - 5w  &= 6 + 2 \\\\\n-2w &= 8 \\\\\n\\dfrac{-2w}{-2} &= \\dfrac{8}{-2} \\\\\nw &= -4\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(w - 2  +  2w\\) if \\(w=-4\\)</div>\n\n\\[\n\\begin{align*}\nw - 2  +  2w &= -4 - 2 + 2(-4) \\\\\n&= -6 + (-8) \\\\\n&= -14\n\\end{align*}\n\\]\n\n<div>Evaluate \\(6 + 5w\\) if \\(w=-4\\)</div>\n\n\\[\n\\begin{align*}\n6 + 5w &= 6 + 5(-4) \\\\\n&= 6 - 20  \\\\\n&= -14\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(10(g + 5) = 2(g + 9) \\)",
+      "answer": "\\[\n\\begin{align*}\n10(g + 5) &= 2(g + 9) \\\\\n10g + 50  &= 2g + 18 \\\\\n10g - 2g &= 18 - 50 \\\\\n8g &= -32 \\\\\n\\dfrac{8g}{8} &= \\dfrac{-32}{8} \\\\\ng &= -4\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(10(g  +  5)\\) if \\(g=-4\\)</div>\n\n\\[\n\\begin{align*}\n10(g + 5) &= 10(-4 + 5) \\\\\n&= 10(1) \\\\\n&= 10\n\\end{align*}\n\\]\n\n<div>Evaluate \\(2(g + 9)\\) if \\(g=-4\\)</div>\n\n\\[\n\\begin{align*}\n2(g + 9) &= 2(-4 + 9) \\\\\n&= 2(5)  \\\\\n&= 10\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(-9(t - 2) = 4(t - 15) \\)",
+      "answer": "\\[\n\\begin{align*}\n-9(t - 2) &= 4(t - 15) \\\\\n-9t + 18  &= 4t - 60 \\\\\n-9t - 4t &=  -60 - 18 \\\\\n-13t &= -78 \\\\\n\\dfrac{-13t}{-13} &= \\dfrac{-78}{-13} \\\\\nt &= 6\n\\end{align*}\n\\]\n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\(-9(t  - 2)\\) if \\(t=6\\)</div>\n\n\\[\n\\begin{align*}\n-9(t - 2) &= -9(6 - 2) \\\\\n&= -9(4) \\\\\n&= -36\n\\end{align*}\n\\]\n\n<div>Evaluate \\(4(t - 15)\\) if \\(t=6\\)</div>\n\n\\[\n\\begin{align*}\n4(t - 15) &= 4(6 - 15) \\\\\n&= 4(-9)  \\\\\n&= -36\n\\end{align*}\n\\]"
+    }
+  ]
+}

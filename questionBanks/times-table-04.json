@@ -1,0 +1,69 @@
+{
+  "openingRemarks": "each factor between 6 and 9",
+  "questions": [
+    {
+      "question": "\\(7 \\times 9\\)",
+      "answer": "63"
+    },
+    {
+      "question": "\\(6 \\times 7\\)",
+      "answer": "42"
+    },
+    {
+      "question": "\\(8 \\times 8\\)",
+      "answer": "64"
+    },
+    {
+      "question": "\\(8 \\times 7\\)",
+      "answer": "56"
+    },
+    {
+      "question": "\\(6 \\times 9\\)",
+      "answer": "54"
+    },
+    {
+      "question": "\\(8 \\times 9\\)",
+      "answer": "72"
+    },
+    {
+      "question": "\\(8 \\times 6\\)",
+      "answer": "48"
+    },
+    {
+      "question": "\\(7 \\times 6\\)",
+      "answer": "42"
+    },
+    {
+      "question": "\\(9 \\times 8\\)",
+      "answer": "72"
+    },
+    {
+      "question": "\\(9 \\times 7\\)",
+      "answer": "63"
+    },
+    {
+      "question": "\\(6 \\times 8\\)",
+      "answer": "48"
+    },
+    {
+      "question": "\\(9 \\times 9\\)",
+      "answer": "81"
+    },
+    {
+      "question": "\\(7 \\times 7\\)",
+      "answer": "49"
+    },
+    {
+      "question": "\\(7 \\times 8\\)",
+      "answer": "56"
+    },
+    {
+      "question": "\\(6 \\times 6\\)",
+      "answer": "36"
+    },
+    {
+      "question": "\\(9 \\times 6\\)",
+      "answer": "54"
+    }
+  ]
+}

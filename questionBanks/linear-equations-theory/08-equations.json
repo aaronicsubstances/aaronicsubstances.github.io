@@ -1,0 +1,46 @@
+{
+  "isTheory": true,
+  "openingRemarks": "Find the solution to the following equations",
+  "questions": [
+    {
+      "question": "\\(0.45x = 6.75 \\)",
+      "answer": "\\[\n\\begin{align*}\n0.45x &= 6.75 \\\\\n\\dfrac{0.45x}{0.45} &= \\dfrac{6.75}{0.45} \\\\\nx &= 15\n\\end{align*}\n\\]\n\n<div>Check LHS = 6.75</div>\n\n<div>Evaluate \\(0.45x\\) if \\(x=15\\)</div>\n\n\\[\n\\begin{align*}\n0.45x &= 0.45(15) \\\\\n&= 6.75\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(\\dfrac{c}{9} = 36 \\)",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{c}{9} &= 36 \\\\\n9 \\times \\dfrac{c}{9} &= 9 \\times 36 \\\\\nc &= 324\n\\end{align*}\n\\]\n\n<div>Check LHS = 36</div>\n\n<div>Evaluate \\(\\dfrac{c}{9}\\) if \\(c=324\\)</div>\n\n\\[\n\\begin{align*}\n\\dfrac{c}{9} &= \\dfrac{324}{9} \\\\\n&= 36\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(\\dfrac{11}{12} = \\dfrac{2}{3}y \\)",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{11}{12} &= \\dfrac{2}{3}y \\\\\n12 \\times \\dfrac{11}{12} &= 12 \\times \\dfrac{2}{3}y \\\\\n11 &= 4(2y) \\\\\n11 &= 8y \\\\\n\\dfrac{11}{8} &= \\dfrac{8y}{8} \\\\\n\\dfrac{11}{8} &= y \\\\\ny &= \\dfrac{11}{8}\n\\end{align*}\n\\]\n\n<div>Check \\(\\dfrac{11}{12}\\) = RHS</div>\n\n<div>Evaluate \\(\\dfrac{2}{3}y\\) if \\(y=\\dfrac{11}{8}\\)</div>\n\n\\[\n\\begin{align*}\n\\dfrac{2}{3}y &= \\dfrac{2}{3} \\times \\dfrac{11}{8} \\\\\n&= \\dfrac{22}{24} \\\\\n&= \\dfrac{11}{12}\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(5r - 3r + 9r = 35 - 2 \\)",
+      "answer": "\\[\n\\begin{align*}\n5r - 3r + 9r &= 35 - 2 \\\\\n2r + 9r &= 33 \\\\\n11r &= 33 \\\\\n\\dfrac{11r}{11} &= \\dfrac{33}{11} \\\\\nr &= 3\n\\end{align*}\n\\]\n\n<div>Check LHS = 33</div>\n\n<div>Evaluate \\(5r - 3r + 9r\\) if \\(r=3\\)</div>\n\n\\[\n\\begin{align*}\n5r - 3r + 9r &= 5(3) - 3(3) + 9(3) \\\\\n&= 15 - 9 + 27 \\\\\n&= 33\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(y + 8 - 15 = -3 \\)",
+      "answer": "\\[\n\\begin{align*}\ny + 8 - 15 &= -3 \\\\\ny &= -3 + 15 - 8 \\\\\ny &= 4\n\\end{align*}\n\\]\n\n<div>Check LHS = -3</div>\n\n<div>Evaluate \\(y + 8 - 15\\) if \\(y=4\\)</div>\n\n\\[\n\\begin{align*}\ny + 8 - 15 &= 4 + 8 - 15 \\\\\n&= -3\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(24x + 8x - 11x = -7 - 14 \\)",
+      "answer": "\\[\n\\begin{align*}\n24x + 8x - 11x &= -7 - 14 \\\\\n21x &= -21 \\\\\n\\dfrac{21x}{21} &= \\dfrac{-21}{21} \\\\\nx &= -1\n\\end{align*}\n\\]\n\n<div>Check LHS = -21</div>\n\n<div>Evaluate \\(24x + 8x - 11x\\) if \\(x=-1\\)</div>\n\n\\[\n\\begin{align*}\n24x + 8x - 11x &= 24(-1) + 8(-1) - 11(-1) \\\\\n&= -24 - 8 + 11 \\\\\n&= -21\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(8p + 7 = 47 \\)",
+      "answer": "\\[\n\\begin{align*}\n8p + 7 &= 47 \\\\\n8p &= 47 - 7 \\\\\n\\dfrac{8p}{8} &= \\dfrac{40}{8} \\\\\np &= 5\n\\end{align*}\n\\]\n\n<div>Check LHS = 47</div>\n\n<div>Evaluate \\(8p + 7\\) if \\(p=5\\)</div>\n\n\\[\n\\begin{align*}\n8p + 7 &= 8(5) + 7 \\\\\n&= 40+ 7 \\\\\n&= 47\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(10w - 5 = 65 \\)",
+      "answer": "\\[\n\\begin{align*}\n10w - 5 &= 65 \\\\\n10w &= 65 + 5 \\\\\n10w &= 70 \\\\\n\\dfrac{10w}{10} &= \\dfrac{70}{10} \\\\\nw &= 7\n\\end{align*}\n\\]\n\n<div>Check LHS = 65</div>\n\n<div>Evaluate \\(10w - 5\\) if \\(w=7\\)</div>\n\n\\[\n\\begin{align*}\n10w - 5 &= 10(7) - 5 \\\\\n&= 70 - 5 \\\\\n&= 65\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(3x + 19 = -47 \\)",
+      "answer": "\\[\n\\begin{align*}\n3x + 19 &= -47 \\\\\n3x &= -47 - 19 \\\\\n3x &= -66 \\\\\n\\dfrac{3x}{3} &= \\dfrac{-66}{3} \\\\\nx &= -22\n\\end{align*}\n\\]\n\n<div>Check LHS = -47</div>\n\n<div>Evaluate \\(3x + 19\\) if \\(x=-47\\)</div>\n\n\\[\n\\begin{align*}\n3x + 19 &= 3(-22) + 19 \\\\\n&= -66 + 19 \\\\\n&= -47\n\\end{align*}\n\\]\n"
+    },
+    {
+      "question": "\\(32 = -4 - 9n \\)",
+      "answer": "\\[\n\\begin{align*}\n32 &= -4 - 9n \\\\\n32 + 4 &= -9n \\\\\n36 &= -9n \\\\\n\\dfrac{36}{-9} &= \\dfrac{-9n}{-9} \\\\\n-4 &= n\\\\\nn &= -4\n\\end{align*}\n\\]\n\n<div>Check 32 = RHS</div>\n\n<div>Evaluate \\(-4 - 9n\\) if \\(n=-4\\)</div>\n\n\\[\n\\begin{align*}\n-4 - 9n &= -4 - 9(-4) \\\\\n&= -4 + 36 \\\\\n&= 32\n\\end{align*}\n\\]\n"
+    }
+  ]
+}
