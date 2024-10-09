@@ -97,6 +97,23 @@
       ]
     },
     {
+      "title": "Arithmetic without Calculator",
+      "links": [
+        {
+          "title": "Conquering Number 10",
+          "questionBankUrl": "no-calc/01-arithmetic-with-10"
+        },
+        {
+          "title": "Recalling Fraction Arithmetic Procedures",
+          "questionBankUrl": "no-calc/02-fraction-procedure-recall"
+        },
+        {
+          "title": "Understanding Fraction Arithmetic Outcomes",
+          "questionBankUrl": "no-calc/03-fraction-arithmetic-outcomes"
+        }
+      ]
+    },
+    {
       "title": "Number Format Conversions",
       "links": [
         {
@@ -128,23 +145,6 @@
           "title": "Part 6",
           "description": "Convert exact decimal expansions to fractions in simplest form",
           "questionBankUrl": "number-format-conversions/06-exact-dec-to-simplest-frac"
-        }
-      ]
-    },
-    {
-      "title": "Arithmetic without Calculator",
-      "links": [
-        {
-          "title": "Conquering Number 10",
-          "questionBankUrl": "no-calc/01-arithmetic-with-10"
-        },
-        {
-          "title": "Recalling Fraction Arithmetic Procedures",
-          "questionBankUrl": "no-calc/02-fraction-procedure-recall"
-        },
-        {
-          "title": "Understanding Fraction Arithmetic Outcomes",
-          "questionBankUrl": "no-calc/03-fraction-arithmetic-outcomes"
         }
       ]
     },
