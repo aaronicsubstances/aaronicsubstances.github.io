@@ -27,7 +27,7 @@
         },
         {
           "title": "Part 2",
-          "description": "Can treat negatives as undefined",
+          "description": "Can treat negatives as unexpected numbers",
           "questionBankUrl": "subtraction-table-02"
         },
         {
@@ -133,18 +133,13 @@
         },
         {
           "title": "Part 4",
-          "description": "Convert fractions to rounded decimal expansions",
-          "questionBankUrl": "number-format-conversions/04-fraction-to-approx-dec"
+          "description": "Rounding of decimal expansions",
+          "questionBankUrl": "number-format-conversions/04-terminating-dec-to-approx-dec"
         },
         {
           "title": "Part 5",
-          "description": "Convert fractions to exact decimal expansions",
-          "questionBankUrl": "number-format-conversions/05-fraction-to-exact-dec"
-        },
-        {
-          "title": "Part 6",
-          "description": "Convert exact decimal expansions to fractions in simplest form",
-          "questionBankUrl": "number-format-conversions/06-exact-dec-to-simplest-frac"
+          "description": "Convert fractions to rounded decimal expansions",
+          "questionBankUrl": "number-format-conversions/05-fraction-to-approx-dec"
         }
       ]
     },
@@ -153,13 +148,23 @@
       "links": [
         {
           "title": "Part 1",
-          "description": "Intended for manual practice",
-          "questionBankUrl": "arithmetic-with-calc/01-manual-practice"
+          "description": "Convert fractions to exact decimal expansions",
+          "questionBankUrl": "arithmetic-with-calc/01-fraction-to-exact-dec"
         },
         {
           "title": "Part 2",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "arithmetic-with-calc/02-manual-practice"
+        },
+        {
+          "title": "Part 3",
           "description": "Intended for practice with calculator",
-          "questionBankUrl": "arithmetic-with-calc/02-rational-numbers"
+          "questionBankUrl": "arithmetic-with-calc/03-rational-numbers"
+        },
+        {
+          "title": "Part 4",
+          "description": "Convert exact decimal expansions to fractions in simplest form",
+          "questionBankUrl": "arithmetic-with-calc/04-exact-dec-to-simplest-frac"
         }
       ]
     },

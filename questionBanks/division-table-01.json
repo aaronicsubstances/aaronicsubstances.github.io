@@ -1,5 +1,5 @@
 {
-  "openingRemarks": "Do not bother to simplify the result<br>E.g. can enter \\(\\dfrac{250}{100}\\) as \\(2\\frac{50}{100}\\) instead of \\(2\\frac{1}{2}\\)<p>Also enter \"n/a\" for any result which is not defined",
+  "openingRemarks": "Do not bother to simplify the result<br>E.g. can enter \\(\\dfrac{250}{100}\\) as \\(2\\frac{50}{100}\\) instead of \\(2\\frac{1}{2}\\)<p>Also enter \"N\" for any result which is not defined",
   "questions": [
     {
       "question": "Express \\(1 \\div 2\\) as mixed fraction",

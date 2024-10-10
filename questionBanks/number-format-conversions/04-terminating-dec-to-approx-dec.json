@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "question": "Round \\(0.008578\\) to 3 decimal places",
+      "answer": "0.009",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.00169\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.04664\\) to 3 decimal places",
+      "answer": "0.047",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.1403\\) to 2 decimal places",
+      "answer": "0.14",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.4502\\) to 1 decimal place",
+      "answer": "0.5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(97.17\\) to 3 decimal places",
+      "answer": "97.170",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.7991\\) to 3 decimal places",
+      "answer": "0.799",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.0949\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.007851\\) to 3 decimal places",
+      "answer": "0.008",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(7.702\\) to 2 decimal places",
+      "answer": "7.70",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(5.451\\) to 1 decimal place",
+      "answer": "5.5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(5.43\\) to 3 decimal places",
+      "answer": "5.430",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(4.881\\) to 2 decimal places",
+      "answer": "4.88",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.6325\\) to 3 decimal places",
+      "answer": "0.633",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.604\\) to 2 decimal places",
+      "answer": "0.60",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.08331\\) to 2 decimal places",
+      "answer": "0.08",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.007461\\) to 3 decimal places",
+      "answer": "0.007",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.4964\\) to 3 decimal places",
+      "answer": "0.496",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.001561\\) to 3 decimal places",
+      "answer": "0.002",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.4234\\) to 2 decimal places",
+      "answer": "0.42",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9194\\) to 2 decimal places",
+      "answer": "0.92",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.0714\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.08643\\) to 2 decimal places",
+      "answer": "0.09",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.01103\\) to 3 decimal places",
+      "answer": "0.011",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.0646\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.155\\) to 2 decimal places",
+      "answer": "0.16",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.318\\) to 3 decimal places",
+      "answer": "0.318",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.9056\\) to 3 decimal places",
+      "answer": "0.906",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(7.953\\) to 2 decimal places",
+      "answer": "7.95",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(6.606\\) to 2 decimal places",
+      "answer": "6.61",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.09897\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.002914\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.4291\\) to 2 decimal places",
+      "answer": "0.43",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.01334\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.008797\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(69.02\\) to 3 decimal places",
+      "answer": "69.020",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.004595\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.8249\\) to 2 decimal places",
+      "answer": "0.82",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(8.659\\) to 2 decimal places",
+      "answer": "8.66",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9207\\) to 2 decimal places",
+      "answer": "0.92",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.3785\\) to 2 decimal places",
+      "answer": "0.38",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.134\\) to 2 decimal places",
+      "answer": "0.13",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(17.56\\) to 3 decimal places",
+      "answer": "17.560",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(6.298\\) to 1 decimal place",
+      "answer": "6.3",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.6766\\) to 3 decimal places",
+      "answer": "0.677",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.832\\) to 2 decimal places",
+      "answer": "0.83",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.05318\\) to 2 decimal places",
+      "answer": "0.05",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.3507\\) to 3 decimal places",
+      "answer": "0.351",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(5.887\\) to 1 decimal place",
+      "answer": "5.9",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(16.83\\) to 3 decimal places",
+      "answer": "16.830",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.001388\\) to 3 decimal places",
+      "answer": "0.001",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.3971\\) to 2 decimal places",
+      "answer": "0.40",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(6.336\\) to 2 decimal places",
+      "answer": "6.34",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(3.351\\) to 1 decimal place",
+      "answer": "3.4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.0129\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.8828\\) to 2 decimal places",
+      "answer": "0.88",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.06829\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.5835\\) to 2 decimal places",
+      "answer": "0.58",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.1436\\) to 2 decimal places",
+      "answer": "0.14",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(3.901\\) to 2 decimal places",
+      "answer": "3.90",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.08459\\) to 2 decimal places",
+      "answer": "0.08",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.3338\\) to 3 decimal places",
+      "answer": "0.334",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(14.83\\) to 3 decimal places",
+      "answer": "14.830",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(9.798\\) to 2 decimal places",
+      "answer": "9.80",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(2.595\\) to 1 decimal place",
+      "answer": "2.6",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(9.977\\) to 1 decimal place",
+      "answer": "10.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(4.258\\) to 2 decimal places",
+      "answer": "4.26",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.009677\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(9.966\\) to 2 decimal places",
+      "answer": "9.97",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.002228\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(14.69\\) to 1 decimal place",
+      "answer": "14.7",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.2663\\) to 2 decimal places",
+      "answer": "0.27",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.02008\\) to 2 decimal places",
+      "answer": "0.02",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(91.58\\) to 1 decimal place",
+      "answer": "91.6",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.793\\) to 2 decimal places",
+      "answer": "0.79",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.08394\\) to 2 decimal places",
+      "answer": "0.08",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(81.01\\) to 1 decimal place",
+      "answer": "81.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(7.769\\) to 1 decimal place",
+      "answer": "7.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(22.26\\) to 1 decimal place",
+      "answer": "22.3",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.01707\\) to 2 decimal places",
+      "answer": "0.02",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.7074\\) to 2 decimal places",
+      "answer": "0.71",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.2735\\) to 2 decimal places",
+      "answer": "0.27",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(6.911\\) to 2 decimal places",
+      "answer": "6.91",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(2.115\\) to 2 decimal places",
+      "answer": "2.12",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.09946\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.08605\\) to 3 decimal places",
+      "answer": "0.086",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(50.17\\) to 3 decimal places",
+      "answer": "50.170",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.75\\) to 1 decimal place",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(9.368\\) to 2 decimal places",
+      "answer": "9.37",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.05173\\) to 3 decimal places",
+      "answer": "0.052",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.6007\\) to 1 decimal place",
+      "answer": "0.6",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.8326\\) to 2 decimal places",
+      "answer": "0.83",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.008691\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.924\\) to 3 decimal places",
+      "answer": "0.924",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.09064\\) to 2 decimal places",
+      "answer": "0.09",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.5483\\) to 1 decimal place",
+      "answer": "0.5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.9905\\) to 2 decimal places",
+      "answer": "0.99",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(2.579\\) to 2 decimal places",
+      "answer": "2.58",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.6653\\) to 3 decimal places",
+      "answer": "0.665",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.8258\\) to 3 decimal places",
+      "answer": "0.826",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.8106\\) to 2 decimal places",
+      "answer": "0.81",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(1.058\\) to 2 decimal places",
+      "answer": "1.06",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(9.191\\) to 2 decimal places",
+      "answer": "9.19",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.6805\\) to 2 decimal places",
+      "answer": "0.68",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.028\\) to 2 decimal places",
+      "answer": "0.03",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.3776\\) to 3 decimal places",
+      "answer": "0.378",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.06413\\) to 3 decimal places",
+      "answer": "0.064",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.05948\\) to 3 decimal places",
+      "answer": "0.059",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(3.419\\) to 2 decimal places",
+      "answer": "3.42",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(5.222\\) to 2 decimal places",
+      "answer": "5.22",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(2.292\\) to 2 decimal places",
+      "answer": "2.29",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.8025\\) to 1 decimal place",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.000344\\) to 3 decimal places",
+      "answer": "0.000",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(1.116\\) to 2 decimal places",
+      "answer": "1.12",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(55.76\\) to 3 decimal places",
+      "answer": "55.760",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.00096\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.001108\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.09072\\) to 2 decimal places",
+      "answer": "0.09",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(3.474\\) to 2 decimal places",
+      "answer": "3.47",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.04085\\) to 2 decimal places",
+      "answer": "0.04",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.615\\) to 2 decimal places",
+      "answer": "0.62",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(19.57\\) to 1 decimal place",
+      "answer": "19.6",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.09348\\) to 3 decimal places",
+      "answer": "0.093",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.8453\\) to 1 decimal place",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(6.407\\) to 2 decimal places",
+      "answer": "6.41",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9785\\) to 2 decimal places",
+      "answer": "0.98",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.8122\\) to 2 decimal places",
+      "answer": "0.81",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.5514\\) to 3 decimal places",
+      "answer": "0.551",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(2.184\\) to 1 decimal place",
+      "answer": "2.2",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.07488\\) to 3 decimal places",
+      "answer": "0.075",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.003965\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.799\\) to 3 decimal places",
+      "answer": "0.799",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.001777\\) to 3 decimal places",
+      "answer": "0.002",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.6432\\) to 3 decimal places",
+      "answer": "0.643",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.6938\\) to 2 decimal places",
+      "answer": "0.69",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.005028\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.06412\\) to 2 decimal places",
+      "answer": "0.06",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.2559\\) to 2 decimal places",
+      "answer": "0.26",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.03873\\) to 3 decimal places",
+      "answer": "0.039",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(74.95\\) to 3 decimal places",
+      "answer": "74.950",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.3153\\) to 3 decimal places",
+      "answer": "0.315",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(9.509\\) to 2 decimal places",
+      "answer": "9.51",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(89.67\\) to 1 decimal place",
+      "answer": "89.7",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.017\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(2.599\\) to 2 decimal places",
+      "answer": "2.60",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.0123\\) to 3 decimal places",
+      "answer": "0.012",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.01993\\) to 2 decimal places",
+      "answer": "0.02",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.006247\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(8.046\\) to 1 decimal place",
+      "answer": "8.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.00248\\) to 3 decimal places",
+      "answer": "0.002",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(5.145\\) to 2 decimal places",
+      "answer": "5.15",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(1.789\\) to 2 decimal places",
+      "answer": "1.79",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.00605\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.4961\\) to 2 decimal places",
+      "answer": "0.50",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(4.31\\) to 2 decimal places",
+      "answer": "4.31",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(4.052\\) to 2 decimal places",
+      "answer": "4.05",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.000678\\) to 3 decimal places",
+      "answer": "0.001",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(50.63\\) to 1 decimal place",
+      "answer": "50.6",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.139\\) to 1 decimal place",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(9.005\\) to 2 decimal places",
+      "answer": "9.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(5.36\\) to 1 decimal place",
+      "answer": "5.4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(63.67\\) to 3 decimal places",
+      "answer": "63.670",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.01093\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.000522\\) to 3 decimal places",
+      "answer": "0.001",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(5.127\\) to 1 decimal place",
+      "answer": "5.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.01527\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.07443\\) to 2 decimal places",
+      "answer": "0.07",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.2857\\) to 2 decimal places",
+      "answer": "0.29",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(90.19\\) to 3 decimal places",
+      "answer": "90.190",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.152\\) to 2 decimal places",
+      "answer": "0.15",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(3.341\\) to 2 decimal places",
+      "answer": "3.34",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.6149\\) to 2 decimal places",
+      "answer": "0.61",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9871\\) to 2 decimal places",
+      "answer": "0.99",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.12\\) to 2 decimal places",
+      "answer": "0.12",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.04781\\) to 2 decimal places",
+      "answer": "0.05",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9762\\) to 1 decimal place",
+      "answer": "1.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(3.887\\) to 1 decimal place",
+      "answer": "3.9",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.1677\\) to 2 decimal places",
+      "answer": "0.17",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.6104\\) to 2 decimal places",
+      "answer": "0.61",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.3864\\) to 1 decimal place",
+      "answer": "0.4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(24.88\\) to 3 decimal places",
+      "answer": "24.880",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.1506\\) to 3 decimal places",
+      "answer": "0.151",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.0561\\) to 3 decimal places",
+      "answer": "0.056",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.03988\\) to 2 decimal places",
+      "answer": "0.04",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.03709\\) to 3 decimal places",
+      "answer": "0.037",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(1.083\\) to 2 decimal places",
+      "answer": "1.08",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.09712\\) to 2 decimal places",
+      "answer": "0.10",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(6.78\\) to 2 decimal places",
+      "answer": "6.78",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.00181\\) to 2 decimal places",
+      "answer": "0.00",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.02458\\) to 3 decimal places",
+      "answer": "0.025",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.001539\\) to 3 decimal places",
+      "answer": "0.002",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.009482\\) to 2 decimal places",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.03238\\) to 2 decimal places",
+      "answer": "0.03",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(7.537\\) to 1 decimal place",
+      "answer": "7.5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.2791\\) to 2 decimal places",
+      "answer": "0.28",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9539\\) to 2 decimal places",
+      "answer": "0.95",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.008254\\) to 3 decimal places",
+      "answer": "0.008",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.09632\\) to 2 decimal places",
+      "answer": "0.10",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(50.09\\) to 1 decimal place",
+      "answer": "50.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.3058\\) to 2 decimal places",
+      "answer": "0.31",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    }
+  ]
+}
