@@ -1,0 +1,4294 @@
+{
+  "questions": [
+    {
+      "type": "mcq",
+      "preamble": "d74170c0-2dbb-4c0c-968b-fe58fd4de2e0",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{45}{101}\\) and \\(\\dfrac{45}{71}\\)",
+        "less than both \\(\\dfrac{45}{101}\\) and \\(\\dfrac{45}{71}\\)",
+        "greater than \\(\\dfrac{45}{101}\\) but less than \\(\\dfrac{45}{71}\\)",
+        "less than \\(\\dfrac{45}{101}\\) but greater than \\(\\dfrac{45}{71}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "49f2ef63-4f44-4feb-8824-dd6ef14d4228",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{8}{177}\\)",
+        "less than \\(\\dfrac{8}{177}\\)",
+        "equal to \\(\\dfrac{8}{177}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7e94a16e-6c2e-45c0-9ed2-252c6ace2281",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(2968\\)",
+        "less than \\(2968\\)",
+        "equal to \\(2968\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0e7d98fc-ef01-4a0f-8af4-6acd13f96623",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{45}{199}\\) and \\(\\dfrac{21}{199}\\)",
+        "less than both \\(\\dfrac{45}{199}\\) and \\(\\dfrac{21}{199}\\)",
+        "greater than \\(\\dfrac{45}{199}\\) but less than \\(\\dfrac{21}{199}\\)",
+        "less than \\(\\dfrac{45}{199}\\) but greater than \\(\\dfrac{21}{199}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "bf00bfd4-b4f3-4b0b-ae69-fdcc895b9abe",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{8}{291}\\) and \\(\\dfrac{45}{946}\\)",
+        "less than both \\(\\dfrac{8}{291}\\) and \\(\\dfrac{45}{946}\\)",
+        "greater than \\(\\dfrac{8}{291}\\) but less than \\(\\dfrac{45}{946}\\)",
+        "less than \\(\\dfrac{8}{291}\\) but greater than \\(\\dfrac{45}{946}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e6596643-a544-461a-bd19-5e24349972ce",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{73}{611}\\)",
+        "less than \\(\\dfrac{73}{611}\\)",
+        "equal to \\(\\dfrac{73}{611}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7f19bd8d-f99e-4d3c-aecd-65bfb2679c76",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(6235\\)",
+        "less than \\(6235\\)",
+        "equal to \\(6235\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b2e4c05e-e716-476e-9173-1f2de92a7494",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(342\\)",
+        "less than \\(342\\)",
+        "equal to \\(342\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c1ef14db-e1af-43f6-82fe-49947181bd68",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{17}{242}\\)",
+        "less than \\(\\dfrac{17}{242}\\)",
+        "equal to \\(\\dfrac{17}{242}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "078ddc82-8272-43d3-b23e-3f3241cce502",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{46}{403}\\)",
+        "less than \\(\\dfrac{46}{403}\\)",
+        "equal to \\(\\dfrac{46}{403}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c2d53762-baed-4e66-84a4-900cb38a45b9",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{28}{373}\\)",
+        "less than \\(\\dfrac{28}{373}\\)",
+        "equal to \\(\\dfrac{28}{373}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "651cfbe2-3d0a-40a6-9608-d34c3ccc3ad4",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{73}{480}\\)",
+        "less than \\(\\dfrac{73}{480}\\)",
+        "equal to \\(\\dfrac{73}{480}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2c69e321-65e9-4a9b-9cd3-930b67d0bfc3",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{30}{919}\\)",
+        "less than \\(\\dfrac{30}{919}\\)",
+        "equal to \\(\\dfrac{30}{919}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c5f62b79-da69-4ad2-af62-0021af659cae",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(1.216\\)",
+        "less than \\(1.216\\)",
+        "equal to \\(1.216\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "dc8e8657-0947-425c-8ce6-874a8cf5f8fa",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.1787\\)",
+        "less than \\(0.1787\\)",
+        "equal to \\(0.1787\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "bc3597d0-b58f-4bc3-b51d-5a081e365175",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{57}{695}\\)",
+        "less than \\(\\dfrac{57}{695}\\)",
+        "equal to \\(\\dfrac{57}{695}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "efd9219b-50d9-4936-be15-f1855999c6ae",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(696.7\\) and \\(5.714\\)",
+        "less than both \\(696.7\\) and \\(5.714\\)",
+        "greater than \\(696.7\\) but less than \\(5.714\\)",
+        "less than \\(696.7\\) but greater than \\(5.714\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f57c687b-e349-4569-a80c-87f61e733237",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{65}{941}\\)",
+        "less than \\(\\dfrac{65}{941}\\)",
+        "equal to \\(\\dfrac{65}{941}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "da0f7b2a-4cd5-42b2-8e05-dc27d4a16524",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{19}{959}\\)",
+        "less than \\(\\dfrac{19}{959}\\)",
+        "equal to \\(\\dfrac{19}{959}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1d8c859f-28a5-4f27-83a4-23e0e895f95d",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{31}{969}\\) and \\(\\dfrac{43}{154}\\)",
+        "less than both \\(\\dfrac{31}{969}\\) and \\(\\dfrac{43}{154}\\)",
+        "greater than \\(\\dfrac{31}{969}\\) but less than \\(\\dfrac{43}{154}\\)",
+        "less than \\(\\dfrac{31}{969}\\) but greater than \\(\\dfrac{43}{154}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4b8687c4-915a-40e3-b373-f40e8c2abe15",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{85}{522}\\)",
+        "less than \\(\\dfrac{85}{522}\\)",
+        "equal to \\(\\dfrac{85}{522}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0ced6f49-d8b1-4b15-b0e7-fb4d03d3f152",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{97}{298}\\)",
+        "less than \\(\\dfrac{97}{298}\\)",
+        "equal to \\(\\dfrac{97}{298}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e06962d4-60f4-45e0-a62b-832970cd0ec2",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{49}{212}\\)",
+        "less than \\(\\dfrac{49}{212}\\)",
+        "equal to \\(\\dfrac{49}{212}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b49659ef-0a1c-48d0-aa5b-6183f3276708",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{9}{527}\\)",
+        "less than \\(\\dfrac{9}{527}\\)",
+        "equal to \\(\\dfrac{9}{527}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "da0ee5b4-5ff9-477e-bde4-4ba0fe61c11c",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{29}{620}\\) and \\(\\dfrac{29}{42}\\)",
+        "less than both \\(\\dfrac{29}{620}\\) and \\(\\dfrac{29}{42}\\)",
+        "greater than \\(\\dfrac{29}{620}\\) but less than \\(\\dfrac{29}{42}\\)",
+        "less than \\(\\dfrac{29}{620}\\) but greater than \\(\\dfrac{29}{42}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1fb53b7e-b244-4d2d-9cc9-8fff1b556c2f",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{21}{829}\\)",
+        "less than \\(\\dfrac{21}{829}\\)",
+        "equal to \\(\\dfrac{21}{829}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4d85fda6-cd27-41de-9aa8-bab598352a68",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{78}{19}\\)",
+        "less than \\(\\dfrac{78}{19}\\)",
+        "equal to \\(\\dfrac{78}{19}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f78c401f-4aee-47d1-88e7-bbf0d99b0386",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(1.629\\)",
+        "less than \\(1.629\\)",
+        "equal to \\(1.629\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "bee9053b-db3a-40c8-b051-e04c20d37a48",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{42}{47}\\)",
+        "less than \\(\\dfrac{42}{47}\\)",
+        "equal to \\(\\dfrac{42}{47}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "44befb47-1e5f-45ec-befc-7b88a7bafc19",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(0.0586\\)",
+        "less than \\(0.0586\\)",
+        "equal to \\(0.0586\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7ccd7523-f3f2-4061-9a69-903335ed1b4e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7038\\)",
+        "less than \\(7038\\)",
+        "equal to \\(7038\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6d0e04c4-510f-4677-b39e-691b98f15705",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(4.116\\)",
+        "less than \\(4.116\\)",
+        "equal to \\(4.116\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "820d6ba3-e336-4ae2-b026-12faf34d4228",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{38}{307}\\)",
+        "less than \\(\\dfrac{38}{307}\\)",
+        "equal to \\(\\dfrac{38}{307}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f2468ff1-f218-4e0e-975d-b0863fc07a61",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{31}{281}\\)",
+        "less than \\(\\dfrac{31}{281}\\)",
+        "equal to \\(\\dfrac{31}{281}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b4e6782f-45c8-4aec-9f7f-425c7866287b",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(9218\\)",
+        "less than \\(9218\\)",
+        "equal to \\(9218\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b130aa28-b83f-4f08-8f73-b7ea1de156ed",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{33}{743}\\)",
+        "less than \\(\\dfrac{33}{743}\\)",
+        "equal to \\(\\dfrac{33}{743}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ad366cb9-b5ee-4075-a439-34cce186e416",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.0218\\)",
+        "less than \\(0.0218\\)",
+        "equal to \\(0.0218\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fc817b9a-8bed-436e-b994-151d670245d8",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.02792\\)",
+        "less than \\(0.02792\\)",
+        "equal to \\(0.02792\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "418a9aef-e1f5-44b8-a417-b333c8bf92b4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{72}{733}\\) and \\(\\dfrac{35}{733}\\)",
+        "less than both \\(\\dfrac{72}{733}\\) and \\(\\dfrac{35}{733}\\)",
+        "greater than \\(\\dfrac{72}{733}\\) but less than \\(\\dfrac{35}{733}\\)",
+        "less than \\(\\dfrac{72}{733}\\) but greater than \\(\\dfrac{35}{733}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3b86077c-6865-4e66-a252-a7bf4deec28b",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(72.86\\)",
+        "less than \\(72.86\\)",
+        "equal to \\(72.86\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "03ee8864-a3cd-444d-bfc7-d093e2ab2c3c",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(8819\\) and \\(16.77\\)",
+        "less than both \\(8819\\) and \\(16.77\\)",
+        "greater than \\(8819\\) but less than \\(16.77\\)",
+        "less than \\(8819\\) but greater than \\(16.77\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d157fbf5-7d04-4e1d-8fbb-a972e6963857",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(4294\\)",
+        "less than \\(4294\\)",
+        "equal to \\(4294\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "08f46505-0a6b-41d2-845e-f15cf19f6021",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{11}{585}\\)",
+        "less than \\(\\dfrac{11}{585}\\)",
+        "equal to \\(\\dfrac{11}{585}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4ded8214-0273-4368-9d76-386b341a17bd",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{74}{439}\\)",
+        "less than \\(\\dfrac{74}{439}\\)",
+        "equal to \\(\\dfrac{74}{439}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d31a4206-1909-431b-898e-95c023f2406e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{22}{237}\\)",
+        "less than \\(\\dfrac{22}{237}\\)",
+        "equal to \\(\\dfrac{22}{237}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "52f7cf71-83a0-48dd-87ea-cfee337a05d1",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(80.71\\)",
+        "less than \\(80.71\\)",
+        "equal to \\(80.71\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8b74de5a-06f3-414e-834c-ffc91bbdcfc3",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{2}{369}\\)",
+        "less than \\(\\dfrac{2}{369}\\)",
+        "equal to \\(\\dfrac{2}{369}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9dc25a9f-074f-4ca5-8b33-12f32c529ea7",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{73}{797}\\)",
+        "less than \\(\\dfrac{73}{797}\\)",
+        "equal to \\(\\dfrac{73}{797}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4cd25432-f0a8-474c-9825-bd966a85e63b",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{96}{983}\\)",
+        "less than \\(\\dfrac{96}{983}\\)",
+        "equal to \\(\\dfrac{96}{983}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cec2e450-2030-4f93-a6e1-95e07d44cf35",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{47}{321}\\) and \\(\\dfrac{47}{313}\\)",
+        "less than both \\(\\dfrac{47}{321}\\) and \\(\\dfrac{47}{313}\\)",
+        "greater than \\(\\dfrac{47}{321}\\) but less than \\(\\dfrac{47}{313}\\)",
+        "less than \\(\\dfrac{47}{321}\\) but greater than \\(\\dfrac{47}{313}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ee49c9f3-7dd5-425e-8005-f079aebd4a7e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.06847\\)",
+        "less than \\(0.06847\\)",
+        "equal to \\(0.06847\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "586d5988-8f95-4547-8f26-fd14a3dc976b",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{36}{713}\\)",
+        "less than \\(\\dfrac{36}{713}\\)",
+        "equal to \\(\\dfrac{36}{713}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7213aff0-7f15-4dfe-bc08-18fc823b2887",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{23}{198}\\)",
+        "less than \\(\\dfrac{23}{198}\\)",
+        "equal to \\(\\dfrac{23}{198}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "27e586e5-9148-4258-a00e-75528128db8e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{65}{92}\\)",
+        "less than \\(\\dfrac{65}{92}\\)",
+        "equal to \\(\\dfrac{65}{92}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "69de321f-ebc6-4a70-b485-eaeefa0f516d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7.034\\)",
+        "less than \\(7.034\\)",
+        "equal to \\(7.034\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "15444795-8be2-4077-a875-8ba4af9a8b51",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(0.09495\\) and \\(0.4075\\)",
+        "less than both \\(0.09495\\) and \\(0.4075\\)",
+        "greater than \\(0.09495\\) but less than \\(0.4075\\)",
+        "less than \\(0.09495\\) but greater than \\(0.4075\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a281d193-ea51-4bb3-92d6-c54d5786166d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7508\\)",
+        "less than \\(7508\\)",
+        "equal to \\(7508\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b66262b4-df90-41c6-9130-985ae63b4ade",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(882.6\\) and \\(9.4\\)",
+        "less than both \\(882.6\\) and \\(9.4\\)",
+        "greater than \\(882.6\\) but less than \\(9.4\\)",
+        "less than \\(882.6\\) but greater than \\(9.4\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cd132d6e-b17e-4679-b812-4d828fd0dcef",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{69}{502}\\)",
+        "less than \\(\\dfrac{69}{502}\\)",
+        "equal to \\(\\dfrac{69}{502}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2bea5c91-1702-410d-9465-ea0cffdffa18",
+      "question": "The magnitude of the above expression is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(21\\) and \\(\\dfrac{22}{195}\\)",
+        "less than both \\(21\\) and \\(\\dfrac{22}{195}\\)",
+        "greater than \\(21\\) but less than \\(\\dfrac{22}{195}\\)",
+        "less than \\(21\\) but greater than \\(\\dfrac{22}{195}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d4343dea-15fe-4445-a812-103677c377ab",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{49}{355}\\)",
+        "less than \\(\\dfrac{49}{355}\\)",
+        "equal to \\(\\dfrac{49}{355}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "850594cf-398b-4520-b0be-709cfac7edec",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{14}{71}\\)",
+        "less than \\(\\dfrac{14}{71}\\)",
+        "equal to \\(\\dfrac{14}{71}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "baba1a6a-da20-4ced-9bfb-caf22b2fbb5e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(4.029\\) and \\(398.1\\)",
+        "less than both \\(4.029\\) and \\(398.1\\)",
+        "greater than \\(4.029\\) but less than \\(398.1\\)",
+        "less than \\(4.029\\) but greater than \\(398.1\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "05b19727-e369-44d8-a790-55a35bb336a7",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{19}{526}\\)",
+        "less than \\(\\dfrac{19}{526}\\)",
+        "equal to \\(\\dfrac{19}{526}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "52f9b058-29b4-4b77-941d-d2d48be380f9",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{5}{17}\\) and \\(\\dfrac{4}{35}\\)",
+        "less than both \\(\\dfrac{5}{17}\\) and \\(\\dfrac{4}{35}\\)",
+        "greater than \\(\\dfrac{5}{17}\\) but less than \\(\\dfrac{4}{35}\\)",
+        "less than \\(\\dfrac{5}{17}\\) but greater than \\(\\dfrac{4}{35}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "51a27338-5f02-4ea8-96b5-20db287cd723",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(3.317\\)",
+        "less than \\(3.317\\)",
+        "equal to \\(3.317\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a750c262-f352-4357-b919-08dce4f67bb2",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{56}{909}\\) and \\(\\dfrac{56}{967}\\)",
+        "less than both \\(\\dfrac{56}{909}\\) and \\(\\dfrac{56}{967}\\)",
+        "greater than \\(\\dfrac{56}{909}\\) but less than \\(\\dfrac{56}{967}\\)",
+        "less than \\(\\dfrac{56}{909}\\) but greater than \\(\\dfrac{56}{967}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "858a5b96-b5b5-4673-b378-ef33213862ad",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{4}{365}\\) and \\(\\dfrac{44}{365}\\)",
+        "less than both \\(\\dfrac{4}{365}\\) and \\(\\dfrac{44}{365}\\)",
+        "greater than \\(\\dfrac{4}{365}\\) but less than \\(\\dfrac{44}{365}\\)",
+        "less than \\(\\dfrac{4}{365}\\) but greater than \\(\\dfrac{44}{365}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fe28a685-28c6-4d0f-9d89-5b579789674d",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.0851\\)",
+        "less than \\(0.0851\\)",
+        "equal to \\(0.0851\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4e26c2c8-59ce-4eda-9ee5-b10c96e05648",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(45.16\\)",
+        "less than \\(45.16\\)",
+        "equal to \\(45.16\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1869a33f-32d1-41f4-b1a8-930219200a3e",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{25}{23}\\)",
+        "less than \\(\\dfrac{25}{23}\\)",
+        "equal to \\(\\dfrac{25}{23}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0a56b27d-4740-4e89-99c9-26df09edecc1",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.4699\\)",
+        "less than \\(0.4699\\)",
+        "equal to \\(0.4699\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "459d55a9-ec34-4746-9441-7bea820999ce",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{92}{939}\\)",
+        "less than \\(\\dfrac{92}{939}\\)",
+        "equal to \\(\\dfrac{92}{939}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "85e8187a-31b5-460e-ab80-e1af5fa2e74b",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{82}{777}\\)",
+        "less than \\(\\dfrac{82}{777}\\)",
+        "equal to \\(\\dfrac{82}{777}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "16add778-ef99-437e-b02c-2517bbbe0439",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{277}\\)",
+        "less than \\(\\dfrac{43}{277}\\)",
+        "equal to \\(\\dfrac{43}{277}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ac2e84c8-d28d-4257-ad33-67751140efdb",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(6.377\\)",
+        "less than \\(6.377\\)",
+        "equal to \\(6.377\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ef5a34ec-19f5-4d6c-b0e9-ca53c4f52175",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{33}{881}\\)",
+        "less than \\(\\dfrac{33}{881}\\)",
+        "equal to \\(\\dfrac{33}{881}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b995ed16-6eb5-43a9-bb97-b9569d21cb06",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(42.69\\)",
+        "less than \\(42.69\\)",
+        "equal to \\(42.69\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "edc9ed1b-fcf9-4f5b-bbcd-90bacd53e52a",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{17}{513}\\)",
+        "less than \\(\\dfrac{17}{513}\\)",
+        "equal to \\(\\dfrac{17}{513}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "72b3dfbc-ae59-4e77-b6ef-a4a33d5db891",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(7.003\\) and \\(9.304\\)",
+        "less than both \\(7.003\\) and \\(9.304\\)",
+        "greater than \\(7.003\\) but less than \\(9.304\\)",
+        "less than \\(7.003\\) but greater than \\(9.304\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "04e7106d-65f2-4961-baeb-dd7b0e44141b",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{41}{877}\\) and \\(\\dfrac{41}{540}\\)",
+        "less than both \\(\\dfrac{41}{877}\\) and \\(\\dfrac{41}{540}\\)",
+        "greater than \\(\\dfrac{41}{877}\\) but less than \\(\\dfrac{41}{540}\\)",
+        "less than \\(\\dfrac{41}{877}\\) but greater than \\(\\dfrac{41}{540}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1d5b374a-465e-402e-a19f-75405f959d40",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{91}{495}\\) and \\(\\dfrac{32}{495}\\)",
+        "less than both \\(\\dfrac{91}{495}\\) and \\(\\dfrac{32}{495}\\)",
+        "greater than \\(\\dfrac{91}{495}\\) but less than \\(\\dfrac{32}{495}\\)",
+        "less than \\(\\dfrac{91}{495}\\) but greater than \\(\\dfrac{32}{495}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7a3cf880-5c36-4b64-abd6-a94f32c0cfef",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{91}{753}\\) and \\(\\dfrac{32}{753}\\)",
+        "less than both \\(\\dfrac{91}{753}\\) and \\(\\dfrac{32}{753}\\)",
+        "greater than \\(\\dfrac{91}{753}\\) but less than \\(\\dfrac{32}{753}\\)",
+        "less than \\(\\dfrac{91}{753}\\) but greater than \\(\\dfrac{32}{753}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "68852fee-4f07-4391-8ff2-bb53f7d899ae",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{38}{887}\\)",
+        "less than \\(\\dfrac{38}{887}\\)",
+        "equal to \\(\\dfrac{38}{887}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0944cdd5-cb44-41dd-a73d-e323662b711a",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "2",
+      "choices": [
+        "greater than both \\(0.3937\\) and \\(60.34\\)",
+        "less than both \\(0.3937\\) and \\(60.34\\)",
+        "greater than \\(0.3937\\) but less than \\(60.34\\)",
+        "less than \\(0.3937\\) but greater than \\(60.34\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cc6f199a-c3f1-4a65-baaa-6346c9b9ff98",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{9}{149}\\)",
+        "less than \\(\\dfrac{9}{149}\\)",
+        "equal to \\(\\dfrac{9}{149}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "632046d2-df78-4d80-985f-fae891a0c73d",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(1.422\\)",
+        "less than \\(1.422\\)",
+        "equal to \\(1.422\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fb1218d7-eb6b-4242-becc-2255b1ed447a",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{89}{852}\\) and \\(\\dfrac{19}{157}\\)",
+        "less than both \\(\\dfrac{89}{852}\\) and \\(\\dfrac{19}{157}\\)",
+        "greater than \\(\\dfrac{89}{852}\\) but less than \\(\\dfrac{19}{157}\\)",
+        "less than \\(\\dfrac{89}{852}\\) but greater than \\(\\dfrac{19}{157}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "73a1eb46-e7d3-4b2b-a74e-91c584cc5ec6",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(59.8\\)",
+        "less than \\(59.8\\)",
+        "equal to \\(59.8\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ec06045f-be64-4d3a-acb2-7f1e03ad6dee",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{82}{805}\\)",
+        "less than \\(\\dfrac{82}{805}\\)",
+        "equal to \\(\\dfrac{82}{805}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c8337a49-1b5f-4366-8b26-6fae6f914580",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{58}{761}\\)",
+        "less than \\(\\dfrac{58}{761}\\)",
+        "equal to \\(\\dfrac{58}{761}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "408aefc3-74a4-4fa3-aafc-3815b52a559f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.9463\\)",
+        "less than \\(0.9463\\)",
+        "equal to \\(0.9463\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "bf78408e-b6a1-4e0b-b34f-98258b8eb3ae",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(2.03\\)",
+        "less than \\(2.03\\)",
+        "equal to \\(2.03\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e9c224f8-5d0b-4c3e-96f6-1db8f8c2573a",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{25}{381}\\) and \\(\\dfrac{70}{381}\\)",
+        "less than both \\(\\dfrac{25}{381}\\) and \\(\\dfrac{70}{381}\\)",
+        "greater than \\(\\dfrac{25}{381}\\) but less than \\(\\dfrac{70}{381}\\)",
+        "less than \\(\\dfrac{25}{381}\\) but greater than \\(\\dfrac{70}{381}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "16bae0a4-03ed-405c-9dfa-97dcf0527227",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{59}{703}\\) and \\(\\dfrac{61}{703}\\)",
+        "less than both \\(\\dfrac{59}{703}\\) and \\(\\dfrac{61}{703}\\)",
+        "greater than \\(\\dfrac{59}{703}\\) but less than \\(\\dfrac{61}{703}\\)",
+        "less than \\(\\dfrac{59}{703}\\) but greater than \\(\\dfrac{61}{703}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "937f499d-7c6a-4686-b3b5-c610c6c90939",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{55}{927}\\) and \\(\\dfrac{17}{105}\\)",
+        "less than both \\(\\dfrac{55}{927}\\) and \\(\\dfrac{17}{105}\\)",
+        "greater than \\(\\dfrac{55}{927}\\) but less than \\(\\dfrac{17}{105}\\)",
+        "less than \\(\\dfrac{55}{927}\\) but greater than \\(\\dfrac{17}{105}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "411e0604-1442-430a-b496-b516de660c33",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(96.7\\) and \\(573.4\\)",
+        "less than both \\(96.7\\) and \\(573.4\\)",
+        "greater than \\(96.7\\) but less than \\(573.4\\)",
+        "less than \\(96.7\\) but greater than \\(573.4\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c720125a-9314-4b67-91a6-c6cf13e8d2b1",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(41.92\\)",
+        "less than \\(41.92\\)",
+        "equal to \\(41.92\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5e23cda6-eb3f-4eef-9e44-90a46b22af55",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{73}{988}\\) and \\(\\dfrac{97}{988}\\)",
+        "less than both \\(\\dfrac{73}{988}\\) and \\(\\dfrac{97}{988}\\)",
+        "greater than \\(\\dfrac{73}{988}\\) but less than \\(\\dfrac{97}{988}\\)",
+        "less than \\(\\dfrac{73}{988}\\) but greater than \\(\\dfrac{97}{988}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "95d1a1b6-2c32-413d-b1e9-7a9779613e5b",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7059\\)",
+        "less than \\(7059\\)",
+        "equal to \\(7059\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c71c7909-3cca-4f1e-b71c-535831c00636",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(3.152\\)",
+        "less than \\(3.152\\)",
+        "equal to \\(3.152\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "dfe67e92-0df2-4ea3-bbed-1e68455fc49a",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{76}{571}\\) and \\(\\dfrac{76}{389}\\)",
+        "less than both \\(\\dfrac{76}{571}\\) and \\(\\dfrac{76}{389}\\)",
+        "greater than \\(\\dfrac{76}{571}\\) but less than \\(\\dfrac{76}{389}\\)",
+        "less than \\(\\dfrac{76}{571}\\) but greater than \\(\\dfrac{76}{389}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b136583c-3937-407e-9e7c-e9e5c74b5045",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.06092\\)",
+        "less than \\(0.06092\\)",
+        "equal to \\(0.06092\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0caa192e-1031-4680-a41a-5b159b4b42f8",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{70}{661}\\)",
+        "less than \\(\\dfrac{70}{661}\\)",
+        "equal to \\(\\dfrac{70}{661}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e1bc52cb-e6f2-4961-8b1f-c32f244118d2",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.03173\\)",
+        "less than \\(0.03173\\)",
+        "equal to \\(0.03173\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "43b72ef3-9fc9-4c2f-ac09-b4d6e4ad7c67",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{82}{341}\\)",
+        "less than \\(\\dfrac{82}{341}\\)",
+        "equal to \\(\\dfrac{82}{341}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e7e5e23e-7ce0-4c82-8683-7d9c4a7edb17",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{89}{901}\\) and \\(\\dfrac{66}{901}\\)",
+        "less than both \\(\\dfrac{89}{901}\\) and \\(\\dfrac{66}{901}\\)",
+        "greater than \\(\\dfrac{89}{901}\\) but less than \\(\\dfrac{66}{901}\\)",
+        "less than \\(\\dfrac{89}{901}\\) but greater than \\(\\dfrac{66}{901}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9316886e-c57a-4d52-898c-410dcd2f026b",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(6.245\\)",
+        "less than \\(6.245\\)",
+        "equal to \\(6.245\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5137f68b-646a-4f70-88fb-a24fbbbcce33",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{23}{719}\\) and \\(\\dfrac{19}{719}\\)",
+        "less than both \\(\\dfrac{23}{719}\\) and \\(\\dfrac{19}{719}\\)",
+        "greater than \\(\\dfrac{23}{719}\\) but less than \\(\\dfrac{19}{719}\\)",
+        "less than \\(\\dfrac{23}{719}\\) but greater than \\(\\dfrac{19}{719}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "40861f59-e06e-424c-934a-65086f7dbfcb",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{89}{520}\\)",
+        "less than \\(\\dfrac{89}{520}\\)",
+        "equal to \\(\\dfrac{89}{520}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8751f4b6-f5a7-4ab4-9885-2751048fc457",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{1}{931}\\) and \\(\\dfrac{1}{366}\\)",
+        "less than both \\(\\dfrac{1}{931}\\) and \\(\\dfrac{1}{366}\\)",
+        "greater than \\(\\dfrac{1}{931}\\) but less than \\(\\dfrac{1}{366}\\)",
+        "less than \\(\\dfrac{1}{931}\\) but greater than \\(\\dfrac{1}{366}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8f3b7ba4-7199-4ce5-b715-f74e19fea336",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(0.9755\\) and \\(0.01023\\)",
+        "less than both \\(0.9755\\) and \\(0.01023\\)",
+        "greater than \\(0.9755\\) but less than \\(0.01023\\)",
+        "less than \\(0.9755\\) but greater than \\(0.01023\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5e53d8fa-1f52-45e1-ad03-ff938dd4f205",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{94}{513}\\)",
+        "less than \\(\\dfrac{94}{513}\\)",
+        "equal to \\(\\dfrac{94}{513}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "01118e61-3abc-4bb0-8802-e2cc11eaff57",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{97}{118}\\)",
+        "less than \\(\\dfrac{97}{118}\\)",
+        "equal to \\(\\dfrac{97}{118}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3a06b585-8c95-45e0-8c48-a2679a3e39f9",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{4}{113}\\)",
+        "less than \\(\\dfrac{4}{113}\\)",
+        "equal to \\(\\dfrac{4}{113}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e5519ca7-b0a8-479c-b189-1746a4ce3ec6",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{5}{609}\\)",
+        "less than \\(\\dfrac{5}{609}\\)",
+        "equal to \\(\\dfrac{5}{609}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "18b6973c-241c-4230-84c0-3ae43fba9c12",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{23}{376}\\)",
+        "less than \\(\\dfrac{23}{376}\\)",
+        "equal to \\(\\dfrac{23}{376}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "238fa5a2-90c0-4016-969f-00674aef7384",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{54}{371}\\)",
+        "less than \\(\\dfrac{54}{371}\\)",
+        "equal to \\(\\dfrac{54}{371}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "25e56185-103d-427e-85af-3d84fa03c710",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{31}{813}\\)",
+        "less than \\(\\dfrac{31}{813}\\)",
+        "equal to \\(\\dfrac{31}{813}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "40889c99-b02d-4113-89ce-f97dd17ce8c6",
+      "question": "The magnitude of the above expression is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(8528\\) and \\(0.8161\\)",
+        "less than both \\(8528\\) and \\(0.8161\\)",
+        "greater than \\(8528\\) but less than \\(0.8161\\)",
+        "less than \\(8528\\) but greater than \\(0.8161\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9896fcbe-cddb-434d-ab7d-52736d9668fd",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{7}{653}\\)",
+        "less than \\(\\dfrac{7}{653}\\)",
+        "equal to \\(\\dfrac{7}{653}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fb963edc-8dbb-4da0-a57e-06d7e3922692",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{9}{853}\\) and \\(\\dfrac{91}{853}\\)",
+        "less than both \\(\\dfrac{9}{853}\\) and \\(\\dfrac{91}{853}\\)",
+        "greater than \\(\\dfrac{9}{853}\\) but less than \\(\\dfrac{91}{853}\\)",
+        "less than \\(\\dfrac{9}{853}\\) but greater than \\(\\dfrac{91}{853}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "82b9a1bb-0d89-40dd-8332-28b8d329c323",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{19}{448}\\)",
+        "less than \\(\\dfrac{19}{448}\\)",
+        "equal to \\(\\dfrac{19}{448}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "83c55c9d-6b02-43d1-b9e5-875fe7b3d612",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(6098\\)",
+        "less than \\(6098\\)",
+        "equal to \\(6098\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "75ce4df7-5058-4c2a-9923-c6386695777f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{13}{583}\\)",
+        "less than \\(\\dfrac{13}{583}\\)",
+        "equal to \\(\\dfrac{13}{583}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5e1876a8-2e04-4071-9cb1-e2e7396ae11c",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(45.58\\)",
+        "less than \\(45.58\\)",
+        "equal to \\(45.58\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e8a23048-3e43-4c34-bd4b-98ad7d0aa49e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{34}{343}\\)",
+        "less than \\(\\dfrac{34}{343}\\)",
+        "equal to \\(\\dfrac{34}{343}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c543a30e-c15c-4238-9923-8b99b208db84",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(783\\) and \\(468\\)",
+        "less than both \\(783\\) and \\(468\\)",
+        "greater than \\(783\\) but less than \\(468\\)",
+        "less than \\(783\\) but greater than \\(468\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cc5759d8-02c2-46e5-a268-a9e9961a10af",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{12}{545}\\)",
+        "less than \\(\\dfrac{12}{545}\\)",
+        "equal to \\(\\dfrac{12}{545}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5b577cf2-ab02-4035-a339-78420b35cd21",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(8212\\)",
+        "less than \\(8212\\)",
+        "equal to \\(8212\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1c319507-c6d5-4611-8bf5-12ce8ada732a",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{37}{973}\\)",
+        "less than \\(\\dfrac{37}{973}\\)",
+        "equal to \\(\\dfrac{37}{973}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a1cf0416-6c8f-4206-a4a5-2c544fb268da",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(769.3\\)",
+        "less than \\(769.3\\)",
+        "equal to \\(769.3\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cec33205-c504-4bc9-b553-f308d91581b6",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{16}{69}\\)",
+        "less than \\(\\dfrac{16}{69}\\)",
+        "equal to \\(\\dfrac{16}{69}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "024f69fc-b09b-4645-b9a7-bf917ac1a959",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{74}{85}\\) and \\(\\dfrac{61}{692}\\)",
+        "less than both \\(\\dfrac{74}{85}\\) and \\(\\dfrac{61}{692}\\)",
+        "greater than \\(\\dfrac{74}{85}\\) but less than \\(\\dfrac{61}{692}\\)",
+        "less than \\(\\dfrac{74}{85}\\) but greater than \\(\\dfrac{61}{692}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "147fdcc1-6afb-43af-8bbe-d309899c1e7d",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{84}{953}\\)",
+        "less than \\(\\dfrac{84}{953}\\)",
+        "equal to \\(\\dfrac{84}{953}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "877f265c-7044-4da5-8fe5-3b613dc4befc",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(409.6\\)",
+        "less than \\(409.6\\)",
+        "equal to \\(409.6\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3f775334-387b-4f26-aa22-a0b94708a3fb",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{67}{866}\\)",
+        "less than \\(\\dfrac{67}{866}\\)",
+        "equal to \\(\\dfrac{67}{866}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "20b44f03-0c67-4a36-a9f9-65187003c31a",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(2906\\)",
+        "less than \\(2906\\)",
+        "equal to \\(2906\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "937d8de8-3604-4013-8f46-5398e09ef36e",
+      "question": "The magnitude of the above expression is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(51.96\\) and \\(0.04284\\)",
+        "less than both \\(51.96\\) and \\(0.04284\\)",
+        "greater than \\(51.96\\) but less than \\(0.04284\\)",
+        "less than \\(51.96\\) but greater than \\(0.04284\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1a5897aa-0c60-4d5d-9438-cf219f89b4e6",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{462}\\)",
+        "less than \\(\\dfrac{43}{462}\\)",
+        "equal to \\(\\dfrac{43}{462}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "786706b0-5389-4aea-8419-f01d0e6ad75a",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{23}{186}\\)",
+        "less than \\(\\dfrac{23}{186}\\)",
+        "equal to \\(\\dfrac{23}{186}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2ca71b11-6464-43b3-800a-d7417550c021",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(6.992\\)",
+        "less than \\(6.992\\)",
+        "equal to \\(6.992\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "47fb4817-9218-4f19-b207-d21d5d0b8afd",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(92.06\\) and \\(9768\\)",
+        "less than both \\(92.06\\) and \\(9768\\)",
+        "greater than \\(92.06\\) but less than \\(9768\\)",
+        "less than \\(92.06\\) but greater than \\(9768\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0a97512c-95fc-4cf6-9532-beb21f69aa65",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{41}{577}\\) and \\(\\dfrac{41}{877}\\)",
+        "less than both \\(\\dfrac{41}{577}\\) and \\(\\dfrac{41}{877}\\)",
+        "greater than \\(\\dfrac{41}{577}\\) but less than \\(\\dfrac{41}{877}\\)",
+        "less than \\(\\dfrac{41}{577}\\) but greater than \\(\\dfrac{41}{877}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6c7db966-67af-43d4-86d3-987d658d1ca3",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{41}{848}\\)",
+        "less than \\(\\dfrac{41}{848}\\)",
+        "equal to \\(\\dfrac{41}{848}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0de8cd7a-eb60-4485-9cb7-6e9bb0a3645e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{61}{787}\\)",
+        "less than \\(\\dfrac{61}{787}\\)",
+        "equal to \\(\\dfrac{61}{787}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "16dfc9c9-58a7-43b3-9710-879b68f2f312",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{41}{511}\\) and \\(\\dfrac{41}{385}\\)",
+        "less than both \\(\\dfrac{41}{511}\\) and \\(\\dfrac{41}{385}\\)",
+        "greater than \\(\\dfrac{41}{511}\\) but less than \\(\\dfrac{41}{385}\\)",
+        "less than \\(\\dfrac{41}{511}\\) but greater than \\(\\dfrac{41}{385}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "dfff9784-e720-4707-8896-050f49e578f9",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(1.857\\)",
+        "less than \\(1.857\\)",
+        "equal to \\(1.857\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "217d1080-22ce-46fc-9b40-c11cab0b6af4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{96}{811}\\)",
+        "less than \\(\\dfrac{96}{811}\\)",
+        "equal to \\(\\dfrac{96}{811}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "38a6f867-39af-49b5-b57c-92f54ad4108c",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{1}{554}\\)",
+        "less than \\(\\dfrac{1}{554}\\)",
+        "equal to \\(\\dfrac{1}{554}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "98f28911-d5c2-4c62-8bc6-dc5a0a69d253",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{16}{239}\\)",
+        "less than \\(\\dfrac{16}{239}\\)",
+        "equal to \\(\\dfrac{16}{239}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "feaec24c-9a89-40a1-9188-700a2d672586",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.09771\\)",
+        "less than \\(0.09771\\)",
+        "equal to \\(0.09771\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ddfe44e9-5888-41db-a58f-c8d59231f1d5",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{91}{820}\\)",
+        "less than \\(\\dfrac{91}{820}\\)",
+        "equal to \\(\\dfrac{91}{820}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a1fbd8ed-1487-438b-ae1a-760c1ce79a41",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{7}{59}\\)",
+        "less than \\(\\dfrac{7}{59}\\)",
+        "equal to \\(\\dfrac{7}{59}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f60eab2a-4305-490c-a535-ba573893cac7",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{15}{377}\\) and \\(\\dfrac{63}{172}\\)",
+        "less than both \\(\\dfrac{15}{377}\\) and \\(\\dfrac{63}{172}\\)",
+        "greater than \\(\\dfrac{15}{377}\\) but less than \\(\\dfrac{63}{172}\\)",
+        "less than \\(\\dfrac{15}{377}\\) but greater than \\(\\dfrac{63}{172}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8c90e23a-ada2-44fa-a9e1-f0db5f3bacb8",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{19}{926}\\)",
+        "less than \\(\\dfrac{19}{926}\\)",
+        "equal to \\(\\dfrac{19}{926}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ff41e522-71cd-4090-8b9a-713097ffe910",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{20}{587}\\) and \\(\\dfrac{68}{587}\\)",
+        "less than both \\(\\dfrac{20}{587}\\) and \\(\\dfrac{68}{587}\\)",
+        "greater than \\(\\dfrac{20}{587}\\) but less than \\(\\dfrac{68}{587}\\)",
+        "less than \\(\\dfrac{20}{587}\\) but greater than \\(\\dfrac{68}{587}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "90dc0287-9232-4672-8cdd-27b20fefee4e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{3}{163}\\)",
+        "less than \\(\\dfrac{3}{163}\\)",
+        "equal to \\(\\dfrac{3}{163}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "28bbb897-32a6-42f5-a516-5c6b9702c719",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(310.4\\)",
+        "less than \\(310.4\\)",
+        "equal to \\(310.4\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6aedb896-6e2d-489a-8e72-5f6a527846d7",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{62}{685}\\) and \\(\\dfrac{96}{685}\\)",
+        "less than both \\(\\dfrac{62}{685}\\) and \\(\\dfrac{96}{685}\\)",
+        "greater than \\(\\dfrac{62}{685}\\) but less than \\(\\dfrac{96}{685}\\)",
+        "less than \\(\\dfrac{62}{685}\\) but greater than \\(\\dfrac{96}{685}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0ac4cfad-eb1c-47b6-b946-f40927fca7f7",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{7}{159}\\)",
+        "less than \\(\\dfrac{7}{159}\\)",
+        "equal to \\(\\dfrac{7}{159}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a74e2265-213c-4f48-bce8-740b5730eb28",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{43}{710}\\)",
+        "less than \\(\\dfrac{43}{710}\\)",
+        "equal to \\(\\dfrac{43}{710}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6113b7cd-9ab2-4670-91cb-4d13b1bf5c04",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{26}{151}\\)",
+        "less than \\(\\dfrac{26}{151}\\)",
+        "equal to \\(\\dfrac{26}{151}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d303fd32-de72-48b3-a0b9-4202e412dd47",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{5}{31}\\)",
+        "less than \\(\\dfrac{5}{31}\\)",
+        "equal to \\(\\dfrac{5}{31}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "052f7033-7047-474e-9ead-861f6d9e4b43",
+      "question": "The magnitude of the above expression is",
+      "answer": "2",
+      "choices": [
+        "greater than both \\(0.7806\\) and \\(4.652\\)",
+        "less than both \\(0.7806\\) and \\(4.652\\)",
+        "greater than \\(0.7806\\) but less than \\(4.652\\)",
+        "less than \\(0.7806\\) but greater than \\(4.652\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "33922fb0-612d-489a-bfa2-813b720d6b17",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{3}{35}\\) and \\(\\dfrac{92}{543}\\)",
+        "less than both \\(\\dfrac{3}{35}\\) and \\(\\dfrac{92}{543}\\)",
+        "greater than \\(\\dfrac{3}{35}\\) but less than \\(\\dfrac{92}{543}\\)",
+        "less than \\(\\dfrac{3}{35}\\) but greater than \\(\\dfrac{92}{543}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "92928baf-8fdc-43a1-b0cd-e60755314272",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{1}{333}\\)",
+        "less than \\(\\dfrac{1}{333}\\)",
+        "equal to \\(\\dfrac{1}{333}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6f604077-b3ba-49e2-955b-040b7062076d",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{5}{49}\\)",
+        "less than \\(\\dfrac{5}{49}\\)",
+        "equal to \\(\\dfrac{5}{49}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3688b3d8-62ec-4b59-ac57-a72d99673d17",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(9.986\\)",
+        "less than \\(9.986\\)",
+        "equal to \\(9.986\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9ead9f97-9248-4bde-8e98-893b02c1f87f",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(27.87\\)",
+        "less than \\(27.87\\)",
+        "equal to \\(27.87\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c29657d2-9cd8-4683-9af8-bd2f6b07f36e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(32.76\\)",
+        "less than \\(32.76\\)",
+        "equal to \\(32.76\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f53f85df-b496-4d47-91a4-e65483782a1a",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{61}{290}\\)",
+        "less than \\(\\dfrac{61}{290}\\)",
+        "equal to \\(\\dfrac{61}{290}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "37a41715-9209-4d99-8b71-51cd6e2f2522",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{29}{527}\\)",
+        "less than \\(\\dfrac{29}{527}\\)",
+        "equal to \\(\\dfrac{29}{527}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fda58e93-2cbf-48d3-b339-b926c3a464ab",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{9}{200}\\)",
+        "less than \\(\\dfrac{9}{200}\\)",
+        "equal to \\(\\dfrac{9}{200}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "12da0bce-4ad1-47b2-80c7-eb49be620e16",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{83}{943}\\)",
+        "less than \\(\\dfrac{83}{943}\\)",
+        "equal to \\(\\dfrac{83}{943}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "520c9769-9d20-425b-9337-7b87277fbc9b",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{18}{197}\\) and \\(\\dfrac{37}{197}\\)",
+        "less than both \\(\\dfrac{18}{197}\\) and \\(\\dfrac{37}{197}\\)",
+        "greater than \\(\\dfrac{18}{197}\\) but less than \\(\\dfrac{37}{197}\\)",
+        "less than \\(\\dfrac{18}{197}\\) but greater than \\(\\dfrac{37}{197}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b95dbf2b-b858-4a02-8875-2efb5a2d7b08",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{25}{564}\\) and \\(\\dfrac{19}{564}\\)",
+        "less than both \\(\\dfrac{25}{564}\\) and \\(\\dfrac{19}{564}\\)",
+        "greater than \\(\\dfrac{25}{564}\\) but less than \\(\\dfrac{19}{564}\\)",
+        "less than \\(\\dfrac{25}{564}\\) but greater than \\(\\dfrac{19}{564}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "efbd8e95-950d-4e0a-a1ae-ecdf4d78a562",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{72}{689}\\)",
+        "less than \\(\\dfrac{72}{689}\\)",
+        "equal to \\(\\dfrac{72}{689}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b102a92c-9536-4aa5-b103-d20173e1b8f4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{16}{657}\\)",
+        "less than \\(\\dfrac{16}{657}\\)",
+        "equal to \\(\\dfrac{16}{657}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ad8e9873-efe6-4af1-9075-39500c0021b2",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{97}{461}\\)",
+        "less than \\(\\dfrac{97}{461}\\)",
+        "equal to \\(\\dfrac{97}{461}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8bff43b8-90d1-4085-87f2-9e9a696bfe44",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{4}{361}\\)",
+        "less than \\(\\dfrac{4}{361}\\)",
+        "equal to \\(\\dfrac{4}{361}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "38e2d144-a035-419a-b38a-993b6dc45089",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(41.88\\)",
+        "less than \\(41.88\\)",
+        "equal to \\(41.88\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "be40d1bd-45bc-48c2-92c7-ddc777b5a68e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{4}{13}\\)",
+        "less than \\(\\dfrac{4}{13}\\)",
+        "equal to \\(\\dfrac{4}{13}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "01138f17-98d0-4c0c-bdc4-41a052674f1b",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{13}{513}\\)",
+        "less than \\(\\dfrac{13}{513}\\)",
+        "equal to \\(\\dfrac{13}{513}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d1c27428-de31-4b0a-8300-13dee8d08d56",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{34}{223}\\)",
+        "less than \\(\\dfrac{34}{223}\\)",
+        "equal to \\(\\dfrac{34}{223}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d54df6bf-c603-43a5-9428-30834eb1caf3",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{24}{671}\\)",
+        "less than \\(\\dfrac{24}{671}\\)",
+        "equal to \\(\\dfrac{24}{671}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9fcf3c59-b811-44c8-b83b-54c762e1be58",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(52.96\\) and \\(638.5\\)",
+        "less than both \\(52.96\\) and \\(638.5\\)",
+        "greater than \\(52.96\\) but less than \\(638.5\\)",
+        "less than \\(52.96\\) but greater than \\(638.5\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "848589c5-8b16-4fea-b830-1be60794cabd",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.09738\\)",
+        "less than \\(0.09738\\)",
+        "equal to \\(0.09738\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "bd4d45eb-d78c-45c3-b3b9-ad7999d3510c",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{5}{469}\\)",
+        "less than \\(\\dfrac{5}{469}\\)",
+        "equal to \\(\\dfrac{5}{469}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6330932f-4c4f-498c-83b9-c04d6639d8b9",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(22.85\\) and \\(89.47\\)",
+        "less than both \\(22.85\\) and \\(89.47\\)",
+        "greater than \\(22.85\\) but less than \\(89.47\\)",
+        "less than \\(22.85\\) but greater than \\(89.47\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "67bd2899-1a10-4704-bb34-7e6f5c870120",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{29}{366}\\) and \\(\\dfrac{29}{458}\\)",
+        "less than both \\(\\dfrac{29}{366}\\) and \\(\\dfrac{29}{458}\\)",
+        "greater than \\(\\dfrac{29}{366}\\) but less than \\(\\dfrac{29}{458}\\)",
+        "less than \\(\\dfrac{29}{366}\\) but greater than \\(\\dfrac{29}{458}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8225e028-ef06-4d50-a833-c58fb0492c1e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{34}{715}\\)",
+        "less than \\(\\dfrac{34}{715}\\)",
+        "equal to \\(\\dfrac{34}{715}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ff847179-04e4-44d2-b432-0598e9fc2c26",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{665}\\)",
+        "less than \\(\\dfrac{43}{665}\\)",
+        "equal to \\(\\dfrac{43}{665}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4d60c1e2-8078-47e8-95ce-be12b8f62d72",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(49.06\\)",
+        "less than \\(49.06\\)",
+        "equal to \\(49.06\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "43151188-6b82-4c11-9315-1c319fdcedbf",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.1092\\)",
+        "less than \\(0.1092\\)",
+        "equal to \\(0.1092\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d5da859c-0e65-4204-af6b-8127301f00c8",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{23}{201}\\)",
+        "less than \\(\\dfrac{23}{201}\\)",
+        "equal to \\(\\dfrac{23}{201}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8dc4bd06-052e-43f7-b951-031a6ee39313",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{59}{85}\\)",
+        "less than \\(\\dfrac{59}{85}\\)",
+        "equal to \\(\\dfrac{59}{85}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5f2611a6-cd1b-4c18-bd94-b927a0ef28d4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.1796\\)",
+        "less than \\(0.1796\\)",
+        "equal to \\(0.1796\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cc888173-9bab-4154-842d-bbdf42a33c01",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{86}{499}\\)",
+        "less than \\(\\dfrac{86}{499}\\)",
+        "equal to \\(\\dfrac{86}{499}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "101fa06b-0ac9-4c6f-a61a-69a6444931ed",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(88.38\\) and \\(3.628\\)",
+        "less than both \\(88.38\\) and \\(3.628\\)",
+        "greater than \\(88.38\\) but less than \\(3.628\\)",
+        "less than \\(88.38\\) but greater than \\(3.628\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1ad57596-49d9-45e2-ba93-d1fe2608c981",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{95}{464}\\)",
+        "less than \\(\\dfrac{95}{464}\\)",
+        "equal to \\(\\dfrac{95}{464}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "586fdc70-bd12-444c-9077-af8ec34ae2f6",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{18}{125}\\)",
+        "less than \\(\\dfrac{18}{125}\\)",
+        "equal to \\(\\dfrac{18}{125}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e2ad83ed-174f-4d07-bad4-1d52c2398f7e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{18}{343}\\)",
+        "less than \\(\\dfrac{18}{343}\\)",
+        "equal to \\(\\dfrac{18}{343}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "45f7bd43-ca8f-44b0-acea-f29ab080141f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{61}{991}\\)",
+        "less than \\(\\dfrac{61}{991}\\)",
+        "equal to \\(\\dfrac{61}{991}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2d81c164-af0c-4ac9-b847-16cd0f825c8a",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{47}{463}\\) and \\(\\dfrac{47}{434}\\)",
+        "less than both \\(\\dfrac{47}{463}\\) and \\(\\dfrac{47}{434}\\)",
+        "greater than \\(\\dfrac{47}{463}\\) but less than \\(\\dfrac{47}{434}\\)",
+        "less than \\(\\dfrac{47}{463}\\) but greater than \\(\\dfrac{47}{434}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fdbae53e-61db-44ed-a246-148229bee0ec",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(55.78\\) and \\(892.7\\)",
+        "less than both \\(55.78\\) and \\(892.7\\)",
+        "greater than \\(55.78\\) but less than \\(892.7\\)",
+        "less than \\(55.78\\) but greater than \\(892.7\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f6c80e6b-9a47-43b3-983d-9fbc93adc7ac",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{21}{608}\\)",
+        "less than \\(\\dfrac{21}{608}\\)",
+        "equal to \\(\\dfrac{21}{608}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2c1f996c-36f0-424b-9b22-acb4a9132ac6",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{79}{463}\\)",
+        "less than \\(\\dfrac{79}{463}\\)",
+        "equal to \\(\\dfrac{79}{463}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4a36501e-7ac7-4797-a0e5-51831ae44983",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{17}{269}\\)",
+        "less than \\(\\dfrac{17}{269}\\)",
+        "equal to \\(\\dfrac{17}{269}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2a4adfce-737a-4c51-8adb-a2def514ff7c",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{25}{613}\\)",
+        "less than \\(\\dfrac{25}{613}\\)",
+        "equal to \\(\\dfrac{25}{613}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6a9c9dc6-6abd-4bf2-a1d3-7c891ef3b964",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{25}{477}\\)",
+        "less than \\(\\dfrac{25}{477}\\)",
+        "equal to \\(\\dfrac{25}{477}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ac8e573b-6ebf-4e90-8fae-d09a95722884",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(59.95\\)",
+        "less than \\(59.95\\)",
+        "equal to \\(59.95\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "afaa8451-2e10-4c3f-99eb-c31a832ad47a",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{43}{416}\\) and \\(\\dfrac{43}{873}\\)",
+        "less than both \\(\\dfrac{43}{416}\\) and \\(\\dfrac{43}{873}\\)",
+        "greater than \\(\\dfrac{43}{416}\\) but less than \\(\\dfrac{43}{873}\\)",
+        "less than \\(\\dfrac{43}{416}\\) but greater than \\(\\dfrac{43}{873}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c64abf23-96d4-461d-a36f-64cef3fac352",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{92}{495}\\)",
+        "less than \\(\\dfrac{92}{495}\\)",
+        "equal to \\(\\dfrac{92}{495}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "98cd1615-268a-4e85-af37-1704aaf8535a",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{9}{479}\\)",
+        "less than \\(\\dfrac{9}{479}\\)",
+        "equal to \\(\\dfrac{9}{479}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "523777fd-4c3f-400a-af60-724af96c657a",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{98}{569}\\) and \\(\\dfrac{63}{692}\\)",
+        "less than both \\(\\dfrac{98}{569}\\) and \\(\\dfrac{63}{692}\\)",
+        "greater than \\(\\dfrac{98}{569}\\) but less than \\(\\dfrac{63}{692}\\)",
+        "less than \\(\\dfrac{98}{569}\\) but greater than \\(\\dfrac{63}{692}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e8ac33f9-405e-489b-be29-d8f0698f3c2d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{2}{421}\\)",
+        "less than \\(\\dfrac{2}{421}\\)",
+        "equal to \\(\\dfrac{2}{421}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2dc37d2e-e4a1-4835-b81e-21f336856f83",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{448}\\)",
+        "less than \\(\\dfrac{43}{448}\\)",
+        "equal to \\(\\dfrac{43}{448}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8b638386-ffc9-48ab-b96e-c36d9e0a962f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{87}{251}\\)",
+        "less than \\(\\dfrac{87}{251}\\)",
+        "equal to \\(\\dfrac{87}{251}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "bce978d2-48b8-4b64-aa68-82005cc44747",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{79}{259}\\)",
+        "less than \\(\\dfrac{79}{259}\\)",
+        "equal to \\(\\dfrac{79}{259}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cb045f8c-9342-4baa-8bbd-3993af350cee",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{748}\\)",
+        "less than \\(\\dfrac{43}{748}\\)",
+        "equal to \\(\\dfrac{43}{748}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2ceeec02-7535-4892-b0b8-282873f626a7",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{67}{602}\\) and \\(\\dfrac{11}{19}\\)",
+        "less than both \\(\\dfrac{67}{602}\\) and \\(\\dfrac{11}{19}\\)",
+        "greater than \\(\\dfrac{67}{602}\\) but less than \\(\\dfrac{11}{19}\\)",
+        "less than \\(\\dfrac{67}{602}\\) but greater than \\(\\dfrac{11}{19}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a0d0ec3d-8822-4b02-9667-a380ecae7f54",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(88.3\\) and \\(898.8\\)",
+        "less than both \\(88.3\\) and \\(898.8\\)",
+        "greater than \\(88.3\\) but less than \\(898.8\\)",
+        "less than \\(88.3\\) but greater than \\(898.8\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3c49bb5e-b2de-4e09-a006-b7d882b0c1e5",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{1}{371}\\) and \\(\\dfrac{1}{748}\\)",
+        "less than both \\(\\dfrac{1}{371}\\) and \\(\\dfrac{1}{748}\\)",
+        "greater than \\(\\dfrac{1}{371}\\) but less than \\(\\dfrac{1}{748}\\)",
+        "less than \\(\\dfrac{1}{371}\\) but greater than \\(\\dfrac{1}{748}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5e307599-820e-4f75-a7f7-0caa2c1692b4",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(117\\) and \\(0.01034\\)",
+        "less than both \\(117\\) and \\(0.01034\\)",
+        "greater than \\(117\\) but less than \\(0.01034\\)",
+        "less than \\(117\\) but greater than \\(0.01034\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5ad20512-6435-439f-b183-65c4fdc15aa5",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.7714\\)",
+        "less than \\(0.7714\\)",
+        "equal to \\(0.7714\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d9a34c2b-51e9-42ce-b65f-654aecbdace7",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.8982\\)",
+        "less than \\(0.8982\\)",
+        "equal to \\(0.8982\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f2e2b739-bb36-420f-bc21-6a28a4b474d1",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(1.942\\)",
+        "less than \\(1.942\\)",
+        "equal to \\(1.942\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e70b0de6-8aaa-4ebb-aa36-a664b5020229",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{93}{607}\\)",
+        "less than \\(\\dfrac{93}{607}\\)",
+        "equal to \\(\\dfrac{93}{607}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d4a2d8d9-f6e7-4f70-9762-4f3230bea4ac",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7.473\\)",
+        "less than \\(7.473\\)",
+        "equal to \\(7.473\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "acd0b82c-b6dc-46e6-8a7a-7491c8083a28",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{48}{787}\\)",
+        "less than \\(\\dfrac{48}{787}\\)",
+        "equal to \\(\\dfrac{48}{787}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "44c249a0-4d34-48dc-a7c0-96d40590924d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{35}{254}\\)",
+        "less than \\(\\dfrac{35}{254}\\)",
+        "equal to \\(\\dfrac{35}{254}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d0686b87-351d-4361-bb11-58487044b111",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{97}{881}\\)",
+        "less than \\(\\dfrac{97}{881}\\)",
+        "equal to \\(\\dfrac{97}{881}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cec1e92b-f898-4f5b-b027-b15c47f0f8e3",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{73}{254}\\)",
+        "less than \\(\\dfrac{73}{254}\\)",
+        "equal to \\(\\dfrac{73}{254}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "72018b8f-d0ed-4487-9af3-ddb2b0a2dbba",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{24}{277}\\)",
+        "less than \\(\\dfrac{24}{277}\\)",
+        "equal to \\(\\dfrac{24}{277}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6ffea180-6c6c-4cad-902e-86cc4a0c8af2",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than both \\(\\dfrac{43}{5}\\) and \\(\\dfrac{96}{5}\\)",
+        "less than both \\(\\dfrac{43}{5}\\) and \\(\\dfrac{96}{5}\\)",
+        "greater than \\(\\dfrac{43}{5}\\) but less than \\(\\dfrac{96}{5}\\)",
+        "less than \\(\\dfrac{43}{5}\\) but greater than \\(\\dfrac{96}{5}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8cbc4773-e03a-47d5-8ad1-22ac4fd9a3fe",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{95}{563}\\)",
+        "less than \\(\\dfrac{95}{563}\\)",
+        "equal to \\(\\dfrac{95}{563}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8bf43681-c075-4915-b956-412f5ef0f567",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{3}{212}\\)",
+        "less than \\(\\dfrac{3}{212}\\)",
+        "equal to \\(\\dfrac{3}{212}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e7a0a1c1-ec26-4f0d-ae04-0d9abba0d0b4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{13}{36}\\)",
+        "less than \\(\\dfrac{13}{36}\\)",
+        "equal to \\(\\dfrac{13}{36}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e3db8675-6809-497f-9fbc-16a1d60460fd",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{35}{54}\\)",
+        "less than \\(\\dfrac{35}{54}\\)",
+        "equal to \\(\\dfrac{35}{54}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "965b2c4e-a15e-4642-8b88-2d0396054b58",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{17}{337}\\)",
+        "less than \\(\\dfrac{17}{337}\\)",
+        "equal to \\(\\dfrac{17}{337}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5cb48667-4eb3-46c3-9851-c917f7d424f0",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.8437\\)",
+        "less than \\(0.8437\\)",
+        "equal to \\(0.8437\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "178f3d4c-b759-41c0-a651-ea3cdec4cd50",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{63}{389}\\)",
+        "less than \\(\\dfrac{63}{389}\\)",
+        "equal to \\(\\dfrac{63}{389}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "db7ad3f3-ae4e-4815-82b3-92ff105fffa2",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{86}{467}\\)",
+        "less than \\(\\dfrac{86}{467}\\)",
+        "equal to \\(\\dfrac{86}{467}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "50a222f5-0c2d-4c2a-8b10-5a245e1fb85f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(45.51\\)",
+        "less than \\(45.51\\)",
+        "equal to \\(45.51\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2e78e210-cd24-49f5-afb5-61e44ff9d47e",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{35}{159}\\)",
+        "less than \\(\\dfrac{35}{159}\\)",
+        "equal to \\(\\dfrac{35}{159}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a058285a-55a5-4d4e-b74c-984593a33ddd",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{16}{577}\\)",
+        "less than \\(\\dfrac{16}{577}\\)",
+        "equal to \\(\\dfrac{16}{577}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7693fb35-d469-41df-ad55-ea0f19c076e7",
+      "question": "The magnitude of the above expression is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(1.845\\) and \\(0.5269\\)",
+        "less than both \\(1.845\\) and \\(0.5269\\)",
+        "greater than \\(1.845\\) but less than \\(0.5269\\)",
+        "less than \\(1.845\\) but greater than \\(0.5269\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8990daab-0436-4e3f-83f3-a9990e449a3d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{13}{37}\\)",
+        "less than \\(\\dfrac{13}{37}\\)",
+        "equal to \\(\\dfrac{13}{37}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7c5938a2-80fd-4a44-bac9-13bd2669c0a3",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{87}{320}\\)",
+        "less than \\(\\dfrac{87}{320}\\)",
+        "equal to \\(\\dfrac{87}{320}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f9d2694a-d5f8-4b7e-a7a5-1c4d4449adb3",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{63}{388}\\)",
+        "less than \\(\\dfrac{63}{388}\\)",
+        "equal to \\(\\dfrac{63}{388}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5d4e96a4-62c7-4564-9e61-bc5e428c2af4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{11}{857}\\)",
+        "less than \\(\\dfrac{11}{857}\\)",
+        "equal to \\(\\dfrac{11}{857}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b9288ae5-e0b6-456e-a859-ae884643e992",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(1.253\\)",
+        "less than \\(1.253\\)",
+        "equal to \\(1.253\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3e92072e-ad36-4f66-a1c4-e59ee91fb90f",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{77}{283}\\) and \\(\\dfrac{94}{283}\\)",
+        "less than both \\(\\dfrac{77}{283}\\) and \\(\\dfrac{94}{283}\\)",
+        "greater than \\(\\dfrac{77}{283}\\) but less than \\(\\dfrac{94}{283}\\)",
+        "less than \\(\\dfrac{77}{283}\\) but greater than \\(\\dfrac{94}{283}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d0cb1aa2-d1eb-4d02-ab8d-1cba07b3410d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{88}{457}\\)",
+        "less than \\(\\dfrac{88}{457}\\)",
+        "equal to \\(\\dfrac{88}{457}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "40bc5e4d-0da4-40e0-841c-c890d3cce5e8",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{92}{647}\\)",
+        "less than \\(\\dfrac{92}{647}\\)",
+        "equal to \\(\\dfrac{92}{647}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c5e46136-4781-4f2a-9b88-be3b8fa5a931",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{63}{467}\\)",
+        "less than \\(\\dfrac{63}{467}\\)",
+        "equal to \\(\\dfrac{63}{467}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "426109f1-0a1e-41f6-8af1-96da0ba2dee1",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{47}{608}\\)",
+        "less than \\(\\dfrac{47}{608}\\)",
+        "equal to \\(\\dfrac{47}{608}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "11897052-53e5-4a4c-a149-d14fa52d1823",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{85}{468}\\)",
+        "less than \\(\\dfrac{85}{468}\\)",
+        "equal to \\(\\dfrac{85}{468}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f00860c7-366c-46af-b1a5-be9c5313172e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{97}{540}\\)",
+        "less than \\(\\dfrac{97}{540}\\)",
+        "equal to \\(\\dfrac{97}{540}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f251b6f5-c7c4-40bc-90e7-2298915d6fe9",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{44}{439}\\)",
+        "less than \\(\\dfrac{44}{439}\\)",
+        "equal to \\(\\dfrac{44}{439}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b111c2bb-ac42-4e36-aca9-0c9134e53572",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{3}{526}\\)",
+        "less than \\(\\dfrac{3}{526}\\)",
+        "equal to \\(\\dfrac{3}{526}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cf9008f7-0b94-4125-9e91-bab7f7ae590f",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(996\\)",
+        "less than \\(996\\)",
+        "equal to \\(996\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "6c758f31-d514-49b0-bbf9-7a5131cb03a1",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{2}{395}\\) and \\(\\dfrac{51}{605}\\)",
+        "less than both \\(\\dfrac{2}{395}\\) and \\(\\dfrac{51}{605}\\)",
+        "greater than \\(\\dfrac{2}{395}\\) but less than \\(\\dfrac{51}{605}\\)",
+        "less than \\(\\dfrac{2}{395}\\) but greater than \\(\\dfrac{51}{605}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9682360b-4b21-495c-9289-b0f22191fe4c",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{37}{576}\\) and \\(\\dfrac{37}{684}\\)",
+        "less than both \\(\\dfrac{37}{576}\\) and \\(\\dfrac{37}{684}\\)",
+        "greater than \\(\\dfrac{37}{576}\\) but less than \\(\\dfrac{37}{684}\\)",
+        "less than \\(\\dfrac{37}{576}\\) but greater than \\(\\dfrac{37}{684}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c7e17468-a53a-43ec-9f0d-fce004973b7b",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{58}{407}\\)",
+        "less than \\(\\dfrac{58}{407}\\)",
+        "equal to \\(\\dfrac{58}{407}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "95b575cc-cb26-44b5-a6a8-58969f5af510",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(21.18\\)",
+        "less than \\(21.18\\)",
+        "equal to \\(21.18\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8cec6b91-d53f-44cc-8fa6-8d4a0745bbff",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{1}{305}\\) and \\(\\dfrac{91}{305}\\)",
+        "less than both \\(\\dfrac{1}{305}\\) and \\(\\dfrac{91}{305}\\)",
+        "greater than \\(\\dfrac{1}{305}\\) but less than \\(\\dfrac{91}{305}\\)",
+        "less than \\(\\dfrac{1}{305}\\) but greater than \\(\\dfrac{91}{305}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7cc16085-1957-42cc-b2b7-fd7ab1e65fe4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{37}{492}\\)",
+        "less than \\(\\dfrac{37}{492}\\)",
+        "equal to \\(\\dfrac{37}{492}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8ab4667c-2bcd-47f9-8432-5fd5eae2a708",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7.245\\)",
+        "less than \\(7.245\\)",
+        "equal to \\(7.245\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1cdf1f3a-bbc5-40cc-8c8c-ee03bbd28dd0",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{27}{454}\\) and \\(\\dfrac{49}{454}\\)",
+        "less than both \\(\\dfrac{27}{454}\\) and \\(\\dfrac{49}{454}\\)",
+        "greater than \\(\\dfrac{27}{454}\\) but less than \\(\\dfrac{49}{454}\\)",
+        "less than \\(\\dfrac{27}{454}\\) but greater than \\(\\dfrac{49}{454}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3edd865e-903e-4da7-bd91-3f8aa3bfafed",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{70}{397}\\)",
+        "less than \\(\\dfrac{70}{397}\\)",
+        "equal to \\(\\dfrac{70}{397}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "04bcbdfe-b5a1-467c-be21-a0bfa1d82adb",
+      "question": "The magnitude of the above expression is",
+      "answer": "2",
+      "choices": [
+        "greater than both \\(0.07322\\) and \\(5887\\)",
+        "less than both \\(0.07322\\) and \\(5887\\)",
+        "greater than \\(0.07322\\) but less than \\(5887\\)",
+        "less than \\(0.07322\\) but greater than \\(5887\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "94cd8d1c-4a88-4864-9875-b01b3068f019",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{79}{651}\\) and \\(\\dfrac{97}{651}\\)",
+        "less than both \\(\\dfrac{79}{651}\\) and \\(\\dfrac{97}{651}\\)",
+        "greater than \\(\\dfrac{79}{651}\\) but less than \\(\\dfrac{97}{651}\\)",
+        "less than \\(\\dfrac{79}{651}\\) but greater than \\(\\dfrac{97}{651}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4942b9c7-9f51-4c1d-8f25-bf1018a4eb0c",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{99}{694}\\)",
+        "less than \\(\\dfrac{99}{694}\\)",
+        "equal to \\(\\dfrac{99}{694}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0d878d3e-08c7-4986-ad88-1018a9357f76",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{472}\\)",
+        "less than \\(\\dfrac{43}{472}\\)",
+        "equal to \\(\\dfrac{43}{472}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "76281c10-b72b-4c81-84c4-67f080edc6ef",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{77}{335}\\) and \\(\\dfrac{77}{223}\\)",
+        "less than both \\(\\dfrac{77}{335}\\) and \\(\\dfrac{77}{223}\\)",
+        "greater than \\(\\dfrac{77}{335}\\) but less than \\(\\dfrac{77}{223}\\)",
+        "less than \\(\\dfrac{77}{335}\\) but greater than \\(\\dfrac{77}{223}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7d0434c1-fe58-435b-8720-d477d0e982ae",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{26}{511}\\)",
+        "less than \\(\\dfrac{26}{511}\\)",
+        "equal to \\(\\dfrac{26}{511}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1dcca3f9-342d-48c8-b8e9-3946871a22d4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{80}{203}\\)",
+        "less than \\(\\dfrac{80}{203}\\)",
+        "equal to \\(\\dfrac{80}{203}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b86c5372-8734-4ec2-928e-d695e37ae514",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{95}{358}\\)",
+        "less than \\(\\dfrac{95}{358}\\)",
+        "equal to \\(\\dfrac{95}{358}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9ef5cd02-bf16-4001-8939-acf1305ddf1f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{41}{704}\\)",
+        "less than \\(\\dfrac{41}{704}\\)",
+        "equal to \\(\\dfrac{41}{704}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c766df1a-7bf9-474c-ade7-53ee756e54f0",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(7.8\\)",
+        "less than \\(7.8\\)",
+        "equal to \\(7.8\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e6f44c6e-d28c-4299-9338-8160fabdb3c4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{44}{943}\\)",
+        "less than \\(\\dfrac{44}{943}\\)",
+        "equal to \\(\\dfrac{44}{943}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3a929693-5b70-418d-9160-0edcb24a5bd3",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{27}{254}\\)",
+        "less than \\(\\dfrac{27}{254}\\)",
+        "equal to \\(\\dfrac{27}{254}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8b7112b7-f75c-471f-b02d-d9db370f598d",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{83}{673}\\)",
+        "less than \\(\\dfrac{83}{673}\\)",
+        "equal to \\(\\dfrac{83}{673}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fff94d77-3963-4909-876c-b5d5863efe5e",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{53}{127}\\)",
+        "less than \\(\\dfrac{53}{127}\\)",
+        "equal to \\(\\dfrac{53}{127}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "929d1955-a926-489d-98ca-cb04d61a8cce",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{82}{393}\\) and \\(\\dfrac{82}{673}\\)",
+        "less than both \\(\\dfrac{82}{393}\\) and \\(\\dfrac{82}{673}\\)",
+        "greater than \\(\\dfrac{82}{393}\\) but less than \\(\\dfrac{82}{673}\\)",
+        "less than \\(\\dfrac{82}{393}\\) but greater than \\(\\dfrac{82}{673}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "c61075f0-ee8c-4b15-9519-793388613e11",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{65}{269}\\) and \\(\\dfrac{2}{21}\\)",
+        "less than both \\(\\dfrac{65}{269}\\) and \\(\\dfrac{2}{21}\\)",
+        "greater than \\(\\dfrac{65}{269}\\) but less than \\(\\dfrac{2}{21}\\)",
+        "less than \\(\\dfrac{65}{269}\\) but greater than \\(\\dfrac{2}{21}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8eff641d-b825-4081-ab9d-3eb8adcf86d8",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{37}{446}\\)",
+        "less than \\(\\dfrac{37}{446}\\)",
+        "equal to \\(\\dfrac{37}{446}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a8312831-a847-4bbe-8f26-eb9da024f069",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{14}{767}\\)",
+        "less than \\(\\dfrac{14}{767}\\)",
+        "equal to \\(\\dfrac{14}{767}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "deb28547-e87d-47e7-a084-ee1fcf7abe25",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{8}{25}\\) and \\(\\dfrac{14}{25}\\)",
+        "less than both \\(\\dfrac{8}{25}\\) and \\(\\dfrac{14}{25}\\)",
+        "greater than \\(\\dfrac{8}{25}\\) but less than \\(\\dfrac{14}{25}\\)",
+        "less than \\(\\dfrac{8}{25}\\) but greater than \\(\\dfrac{14}{25}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b61ea6a1-ee31-4905-9e8c-c697708b4ffd",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(76.4\\)",
+        "less than \\(76.4\\)",
+        "equal to \\(76.4\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "07883012-7669-4356-b11e-99f87712ad18",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(8.294\\)",
+        "less than \\(8.294\\)",
+        "equal to \\(8.294\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "10e37b05-27cf-4a0b-a74a-c1bb6f3f5222",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{31}{893}\\) and \\(\\dfrac{18}{893}\\)",
+        "less than both \\(\\dfrac{31}{893}\\) and \\(\\dfrac{18}{893}\\)",
+        "greater than \\(\\dfrac{31}{893}\\) but less than \\(\\dfrac{18}{893}\\)",
+        "less than \\(\\dfrac{31}{893}\\) but greater than \\(\\dfrac{18}{893}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "294c3908-ccba-4d00-b208-8eab18fdd798",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{60}{199}\\) and \\(\\dfrac{60}{529}\\)",
+        "less than both \\(\\dfrac{60}{199}\\) and \\(\\dfrac{60}{529}\\)",
+        "greater than \\(\\dfrac{60}{199}\\) but less than \\(\\dfrac{60}{529}\\)",
+        "less than \\(\\dfrac{60}{199}\\) but greater than \\(\\dfrac{60}{529}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "515f9be5-dc32-4443-9d0c-eb6c63ce9da3",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{11}{61}\\)",
+        "less than \\(\\dfrac{11}{61}\\)",
+        "equal to \\(\\dfrac{11}{61}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a0b7879f-8e0d-4445-a3d3-e45cff3cb2c6",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{97}{875}\\)",
+        "less than \\(\\dfrac{97}{875}\\)",
+        "equal to \\(\\dfrac{97}{875}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "824951e1-c479-4f2d-81e6-0942d2d57a35",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{43}{198}\\)",
+        "less than \\(\\dfrac{43}{198}\\)",
+        "equal to \\(\\dfrac{43}{198}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "874d046b-92a3-4be6-ad7f-b77949413558",
+      "question": "The magnitude of the above expression is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(1.736\\) and \\(0.03342\\)",
+        "less than both \\(1.736\\) and \\(0.03342\\)",
+        "greater than \\(1.736\\) but less than \\(0.03342\\)",
+        "less than \\(1.736\\) but greater than \\(0.03342\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1d39aebe-89ef-45c2-8fc3-88ce2cefdc2e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{89}{804}\\)",
+        "less than \\(\\dfrac{89}{804}\\)",
+        "equal to \\(\\dfrac{89}{804}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b7e0c490-0bd4-46e9-a6e5-634142f573ca",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{29}{524}\\)",
+        "less than \\(\\dfrac{29}{524}\\)",
+        "equal to \\(\\dfrac{29}{524}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "eaa263a5-8118-4d81-beaf-6b153c01531b",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{1}{93}\\)",
+        "less than \\(\\dfrac{1}{93}\\)",
+        "equal to \\(\\dfrac{1}{93}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cfeae460-1ee7-46a0-be9f-64389550b521",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{9}{752}\\)",
+        "less than \\(\\dfrac{9}{752}\\)",
+        "equal to \\(\\dfrac{9}{752}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "880fa642-c780-45ad-a9e5-f1312292aca4",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.459\\)",
+        "less than \\(0.459\\)",
+        "equal to \\(0.459\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "b998947e-dc56-4bff-b45f-64cf4acc3fd0",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{21}{916}\\)",
+        "less than \\(\\dfrac{21}{916}\\)",
+        "equal to \\(\\dfrac{21}{916}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e1b58c24-f640-46ef-a73e-e1eec4e423f8",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{79}{664}\\)",
+        "less than \\(\\dfrac{79}{664}\\)",
+        "equal to \\(\\dfrac{79}{664}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "093a4f94-f966-4afa-9a10-dc5bf465600f",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{13}{266}\\) and \\(\\dfrac{5}{18}\\)",
+        "less than both \\(\\dfrac{13}{266}\\) and \\(\\dfrac{5}{18}\\)",
+        "greater than \\(\\dfrac{13}{266}\\) but less than \\(\\dfrac{5}{18}\\)",
+        "less than \\(\\dfrac{13}{266}\\) but greater than \\(\\dfrac{5}{18}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "1b3807d0-7438-4340-8f9d-5f0e177931ce",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(6.163\\)",
+        "less than \\(6.163\\)",
+        "equal to \\(6.163\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9c3f1e77-ea46-4a93-ba6b-28c216d73f70",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{19}{540}\\)",
+        "less than \\(\\dfrac{19}{540}\\)",
+        "equal to \\(\\dfrac{19}{540}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f2057eda-1b54-4fa2-b70f-62cf2c8714cc",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{41}{946}\\)",
+        "less than \\(\\dfrac{41}{946}\\)",
+        "equal to \\(\\dfrac{41}{946}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "57cf8811-b70d-4b6e-beb8-ea282ec66373",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{69}{931}\\) and \\(\\dfrac{69}{317}\\)",
+        "less than both \\(\\dfrac{69}{931}\\) and \\(\\dfrac{69}{317}\\)",
+        "greater than \\(\\dfrac{69}{931}\\) but less than \\(\\dfrac{69}{317}\\)",
+        "less than \\(\\dfrac{69}{931}\\) but greater than \\(\\dfrac{69}{317}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "e8e6d135-c717-4964-bfc2-f1e4464f4403",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{38}{633}\\)",
+        "less than \\(\\dfrac{38}{633}\\)",
+        "equal to \\(\\dfrac{38}{633}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "ff702898-f4e0-4748-b845-ccec12efb762",
+      "question": "The magnitude of the above expression (ie the digits of the answer without the sign) is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{70}{481}\\)",
+        "less than \\(\\dfrac{70}{481}\\)",
+        "equal to \\(\\dfrac{70}{481}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "8326249c-1264-4664-b0d1-0d2458eaf5ff",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{31}{901}\\)",
+        "less than \\(\\dfrac{31}{901}\\)",
+        "equal to \\(\\dfrac{31}{901}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "632568f3-8248-4e3a-b5b0-9d630ad27ef1",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{36}{995}\\)",
+        "less than \\(\\dfrac{36}{995}\\)",
+        "equal to \\(\\dfrac{36}{995}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "49dbff48-5518-4a08-b32e-b40dd09774a4",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{26}{277}\\) and \\(\\dfrac{31}{952}\\)",
+        "less than both \\(\\dfrac{26}{277}\\) and \\(\\dfrac{31}{952}\\)",
+        "greater than \\(\\dfrac{26}{277}\\) but less than \\(\\dfrac{31}{952}\\)",
+        "less than \\(\\dfrac{26}{277}\\) but greater than \\(\\dfrac{31}{952}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "07b983e9-b4fc-45f5-af83-cb0b0b985555",
+      "question": "The magnitude of the above expression is",
+      "answer": "2",
+      "choices": [
+        "greater than both \\(0.09513\\) and \\(10.82\\)",
+        "less than both \\(0.09513\\) and \\(10.82\\)",
+        "greater than \\(0.09513\\) but less than \\(10.82\\)",
+        "less than \\(0.09513\\) but greater than \\(10.82\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0baa93e7-e646-4b80-ab14-8ec398ffb823",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(238.2\\)",
+        "less than \\(238.2\\)",
+        "equal to \\(238.2\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "68feb149-435c-4efd-8a28-43a9c782c646",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{10}{37}\\) and \\(\\dfrac{43}{338}\\)",
+        "less than both \\(\\dfrac{10}{37}\\) and \\(\\dfrac{43}{338}\\)",
+        "greater than \\(\\dfrac{10}{37}\\) but less than \\(\\dfrac{43}{338}\\)",
+        "less than \\(\\dfrac{10}{37}\\) but greater than \\(\\dfrac{43}{338}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "fbd75d33-bf66-4033-b4e6-4777b56846e0",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.01758\\)",
+        "less than \\(0.01758\\)",
+        "equal to \\(0.01758\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "f7515636-aac2-4c50-a883-04640c5b2c5d",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(37.23\\)",
+        "less than \\(37.23\\)",
+        "equal to \\(37.23\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3e524e0c-f640-4e61-97ae-60a2fc6ad6ee",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{90}{707}\\)",
+        "less than \\(\\dfrac{90}{707}\\)",
+        "equal to \\(\\dfrac{90}{707}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "25643c56-ba3a-4999-9198-a97d55ba434b",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{23}{996}\\)",
+        "less than \\(\\dfrac{23}{996}\\)",
+        "equal to \\(\\dfrac{23}{996}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a44d8914-ee99-43f7-a5fe-2e6b203a1bc9",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{17}{314}\\)",
+        "less than \\(\\dfrac{17}{314}\\)",
+        "equal to \\(\\dfrac{17}{314}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "4e4ffd8e-aaca-4c2c-a4d7-2bdd3494e45b",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{74}{573}\\) and \\(\\dfrac{88}{573}\\)",
+        "less than both \\(\\dfrac{74}{573}\\) and \\(\\dfrac{88}{573}\\)",
+        "greater than \\(\\dfrac{74}{573}\\) but less than \\(\\dfrac{88}{573}\\)",
+        "less than \\(\\dfrac{74}{573}\\) but greater than \\(\\dfrac{88}{573}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "30161dec-a4e4-4b93-a780-d68adf5bf850",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(0.2103\\)",
+        "less than \\(0.2103\\)",
+        "equal to \\(0.2103\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "3ce9c8fe-eabd-4f16-b537-a2690f313a14",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{42}{445}\\)",
+        "less than \\(\\dfrac{42}{445}\\)",
+        "equal to \\(\\dfrac{42}{445}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "41c8c5e3-c648-4c75-aca8-40d45b6abe1e",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(0.2236\\)",
+        "less than \\(0.2236\\)",
+        "equal to \\(0.2236\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "55fb868a-17e9-4973-9ddf-32253343c4e5",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{97}{827}\\) and \\(\\dfrac{57}{827}\\)",
+        "less than both \\(\\dfrac{97}{827}\\) and \\(\\dfrac{57}{827}\\)",
+        "greater than \\(\\dfrac{97}{827}\\) but less than \\(\\dfrac{57}{827}\\)",
+        "less than \\(\\dfrac{97}{827}\\) but greater than \\(\\dfrac{57}{827}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "0f3e03cf-cf90-483d-8ef7-d1be52b4c3bf",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{53}{206}\\)",
+        "less than \\(\\dfrac{53}{206}\\)",
+        "equal to \\(\\dfrac{53}{206}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "9a1d0932-ee14-4ea5-af03-675e32863a5e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{55}{259}\\)",
+        "less than \\(\\dfrac{55}{259}\\)",
+        "equal to \\(\\dfrac{55}{259}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d4da9e01-2839-4780-8beb-0950da2c1623",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(2322\\)",
+        "less than \\(2322\\)",
+        "equal to \\(2322\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "5c0deabe-76c5-495b-99b7-44da992e82b1",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{47}{577}\\)",
+        "less than \\(\\dfrac{47}{577}\\)",
+        "equal to \\(\\dfrac{47}{577}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "cdfeb0b6-9214-40e8-b5e9-995d16bcb2a0",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{59}{913}\\)",
+        "less than \\(\\dfrac{59}{913}\\)",
+        "equal to \\(\\dfrac{59}{913}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "2aff3750-73b7-4374-b817-77ef199ff86d",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{96}{271}\\)",
+        "less than \\(\\dfrac{96}{271}\\)",
+        "equal to \\(\\dfrac{96}{271}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "51b9d44c-a58f-43dc-8c15-f31126be5684",
+      "question": "The magnitude of the above expression is",
+      "answer": "0",
+      "choices": [
+        "greater than \\(\\dfrac{97}{215}\\)",
+        "less than \\(\\dfrac{97}{215}\\)",
+        "equal to \\(\\dfrac{97}{215}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "a6ae3399-b7b8-4926-b779-71ff98effcf7",
+      "question": "The magnitude of the above expression is",
+      "answer": "2",
+      "choices": [
+        "greater than both \\(0.01451\\) and \\(21.3\\)",
+        "less than both \\(0.01451\\) and \\(21.3\\)",
+        "greater than \\(0.01451\\) but less than \\(21.3\\)",
+        "less than \\(0.01451\\) but greater than \\(21.3\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d8be3caa-c4e4-4aae-8861-0b7b48fa7f74",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{11}{674}\\) and \\(\\dfrac{69}{313}\\)",
+        "less than both \\(\\dfrac{11}{674}\\) and \\(\\dfrac{69}{313}\\)",
+        "greater than \\(\\dfrac{11}{674}\\) but less than \\(\\dfrac{69}{313}\\)",
+        "less than \\(\\dfrac{11}{674}\\) but greater than \\(\\dfrac{69}{313}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "975aba8d-dd9b-48ba-bf58-ae52a19ad423",
+      "question": "The magnitude of the above expression is",
+      "answer": "3",
+      "choices": [
+        "greater than both \\(\\dfrac{87}{47}\\) and \\(\\dfrac{31}{47}\\)",
+        "less than both \\(\\dfrac{87}{47}\\) and \\(\\dfrac{31}{47}\\)",
+        "greater than \\(\\dfrac{87}{47}\\) but less than \\(\\dfrac{31}{47}\\)",
+        "less than \\(\\dfrac{87}{47}\\) but greater than \\(\\dfrac{31}{47}\\)",
+        "None of the above"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d20ae967-e1d2-43a3-86ff-003c51df9490",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{42}{743}\\)",
+        "less than \\(\\dfrac{42}{743}\\)",
+        "equal to \\(\\dfrac{42}{743}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "7563b09c-6f5d-4460-8978-504a86fd68a2",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{43}{303}\\)",
+        "less than \\(\\dfrac{43}{303}\\)",
+        "equal to \\(\\dfrac{43}{303}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "d13a6d84-63e4-4603-95ca-96be652f571e",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than \\(\\dfrac{76}{343}\\)",
+        "less than \\(\\dfrac{76}{343}\\)",
+        "equal to \\(\\dfrac{76}{343}\\)"
+      ]
+    },
+    {
+      "type": "mcq",
+      "preamble": "004f1982-80bf-47dd-9120-eef06e1e1fc6",
+      "question": "The magnitude of the above expression is",
+      "answer": "1",
+      "choices": [
+        "greater than both \\(\\dfrac{7}{30}\\) and \\(\\dfrac{91}{691}\\)",
+        "less than both \\(\\dfrac{7}{30}\\) and \\(\\dfrac{91}{691}\\)",
+        "greater than \\(\\dfrac{7}{30}\\) but less than \\(\\dfrac{91}{691}\\)",
+        "less than \\(\\dfrac{7}{30}\\) but greater than \\(\\dfrac{91}{691}\\)",
+        "None of the above"
+      ]
+    }
+  ],
+  "preambles": {
+    "a0d0ec3d-8822-4b02-9667-a380ecae7f54": "\\(88.3 \\times 898.8\\)",
+    "cec33205-c504-4bc9-b553-f308d91581b6": "\\(\\dfrac{-16}{69} \\div \\dfrac{1}{14}\\)",
+    "28bbb897-32a6-42f5-a516-5c6b9702c719": "\\(\\left(310.4\\right)^{2}\\)",
+    "1c319507-c6d5-4611-8bf5-12ce8ada732a": "\\(\\left(\\dfrac{-37}{973}\\right)^{2}\\)",
+    "7693fb35-d469-41df-ad55-ea0f19c076e7": "\\(-1.845 \\times -0.5269\\)",
+    "cec1e92b-f898-4f5b-b027-b15c47f0f8e3": "\\(\\dfrac{73}{254} \\div \\dfrac{73}{101}\\)",
+    "d9a34c2b-51e9-42ce-b65f-654aecbdace7": "\\(\\left(0.8982\\right)^{2}\\)",
+    "e8e6d135-c717-4964-bfc2-f1e4464f4403": "\\(\\left(\\dfrac{38}{633}\\right)^{3}\\)",
+    "052f7033-7047-474e-9ead-861f6d9e4b43": "\\(0.7806 \\times 4.652\\)",
+    "b2e4c05e-e716-476e-9173-1f2de92a7494": "\\(342 \\div 0.01006\\)",
+    "ec06045f-be64-4d3a-acb2-7f1e03ad6dee": "\\(\\left(\\dfrac{-82}{805}\\right)^{2}\\)",
+    "ad366cb9-b5ee-4075-a439-34cce186e416": "\\(\\left(0.0218\\right)^{2}\\)",
+    "4e4ffd8e-aaca-4c2c-a4d7-2bdd3494e45b": "\\(\\dfrac{-74}{573} \\times \\dfrac{88}{573}\\)",
+    "fbd75d33-bf66-4033-b4e6-4777b56846e0": "\\(-0.01758 \\div 44.3\\)",
+    "b61ea6a1-ee31-4905-9e8c-c697708b4ffd": "\\(\\left(76.4\\right)^{2}\\)",
+    "bee9053b-db3a-40c8-b051-e04c20d37a48": "\\(\\left(\\dfrac{-42}{47}\\right)^{2}\\)",
+    "e7e5e23e-7ce0-4c82-8683-7d9c4a7edb17": "\\(\\dfrac{89}{901} \\times \\dfrac{66}{901}\\)",
+    "2e78e210-cd24-49f5-afb5-61e44ff9d47e": "\\(\\dfrac{35}{159} \\div \\dfrac{-35}{457}\\)",
+    "c1ef14db-e1af-43f6-82fe-49947181bd68": "\\(\\left(\\dfrac{17}{242}\\right)^{2}\\)",
+    "18b6973c-241c-4230-84c0-3ae43fba9c12": "\\(\\left(\\dfrac{-23}{376}\\right)^{2}\\)",
+    "9682360b-4b21-495c-9289-b0f22191fe4c": "\\(\\dfrac{37}{576} \\times \\dfrac{37}{684}\\)",
+    "cfeae460-1ee7-46a0-be9f-64389550b521": "\\(\\dfrac{9}{752} \\div \\dfrac{45}{653}\\)",
+    "d54df6bf-c603-43a5-9428-30834eb1caf3": "\\(\\left(\\dfrac{24}{671}\\right)^{3}\\)",
+    "f53f85df-b496-4d47-91a4-e65483782a1a": "\\(\\left(\\dfrac{61}{290}\\right)^{3}\\)",
+    "0a97512c-95fc-4cf6-9532-beb21f69aa65": "\\(\\dfrac{41}{577} \\times \\dfrac{41}{877}\\)",
+    "0baa93e7-e646-4b80-ab14-8ec398ffb823": "\\(238.2 \\div 319.3\\)",
+    "ef5a34ec-19f5-4d6c-b0e9-ca53c4f52175": "\\(\\left(\\dfrac{33}{881}\\right)^{2}\\)",
+    "1d39aebe-89ef-45c2-8fc3-88ce2cefdc2e": "\\(\\left(\\dfrac{89}{804}\\right)^{3}\\)",
+    "f60eab2a-4305-490c-a535-ba573893cac7": "\\(\\dfrac{-15}{377} \\times \\dfrac{63}{172}\\)",
+    "238fa5a2-90c0-4016-969f-00674aef7384": "\\(\\dfrac{-54}{371} \\div \\dfrac{-54}{985}\\)",
+    "f251b6f5-c7c4-40bc-90e7-2298915d6fe9": "\\(\\left(\\dfrac{44}{439}\\right)^{3}\\)",
+    "d4da9e01-2839-4780-8beb-0950da2c1623": "\\(\\left(2322\\right)^{3}\\)",
+    "5137f68b-646a-4f70-88fb-a24fbbbcce33": "\\(\\dfrac{-23}{719} \\times \\dfrac{19}{719}\\)",
+    "f78c401f-4aee-47d1-88e7-bbf0d99b0386": "\\(1.629 \\div 4.58\\)",
+    "5c0deabe-76c5-495b-99b7-44da992e82b1": "\\(\\left(\\dfrac{47}{577}\\right)^{2}\\)",
+    "5e53d8fa-1f52-45e1-ad03-ff938dd4f205": "\\(\\left(\\dfrac{94}{513}\\right)^{2}\\)",
+    "101fa06b-0ac9-4c6f-a61a-69a6444931ed": "\\(-88.38 \\times -3.628\\)",
+    "e8ac33f9-405e-489b-be29-d8f0698f3c2d": "\\(\\dfrac{2}{421} \\div \\dfrac{40}{421}\\)",
+    "01138f17-98d0-4c0c-bdc4-41a052674f1b": "\\(\\left(\\dfrac{13}{513}\\right)^{3}\\)",
+    "3ce9c8fe-eabd-4f16-b537-a2690f313a14": "\\(\\left(\\dfrac{42}{445}\\right)^{2}\\)",
+    "07b983e9-b4fc-45f5-af83-cb0b0b985555": "\\(0.09513 \\times 10.82\\)",
+    "824951e1-c479-4f2d-81e6-0942d2d57a35": "\\(\\dfrac{43}{198} \\div \\dfrac{43}{759}\\)",
+    "e1bc52cb-e6f2-4961-8b1f-c32f244118d2": "\\(\\left(0.03173\\right)^{2}\\)",
+    "0d878d3e-08c7-4986-ad88-1018a9357f76": "\\(\\left(\\dfrac{43}{472}\\right)^{2}\\)",
+    "dfe67e92-0df2-4ea3-bbed-1e68455fc49a": "\\(\\dfrac{-76}{571} \\times \\dfrac{-76}{389}\\)",
+    "90dc0287-9232-4672-8cdd-27b20fefee4e": "\\(\\dfrac{3}{163} \\div \\dfrac{-25}{761}\\)",
+    "d20ae967-e1d2-43a3-86ff-003c51df9490": "\\(\\left(\\dfrac{42}{743}\\right)^{3}\\)",
+    "820d6ba3-e336-4ae2-b026-12faf34d4228": "\\(\\left(\\dfrac{38}{307}\\right)^{3}\\)",
+    "1d8c859f-28a5-4f27-83a4-23e0e895f95d": "\\(\\dfrac{-31}{969} \\times \\dfrac{-43}{154}\\)",
+    "7f19bd8d-f99e-4d3c-aecd-65bfb2679c76": "\\(6235 \\div 0.2855\\)",
+    "0ced6f49-d8b1-4b15-b0e7-fb4d03d3f152": "\\(\\left(\\dfrac{97}{298}\\right)^{2}\\)",
+    "2ca71b11-6464-43b3-800a-d7417550c021": "\\(\\left(6.992\\right)^{2}\\)",
+    "411e0604-1442-430a-b496-b516de660c33": "\\(96.7 \\times 573.4\\)",
+    "eaa263a5-8118-4d81-beaf-6b153c01531b": "\\(\\dfrac{-1}{93} \\div \\dfrac{-19}{102}\\)",
+    "cf9008f7-0b94-4125-9e91-bab7f7ae590f": "\\(\\left(-996\\right)^{2}\\)",
+    "fe28a685-28c6-4d0f-9d89-5b579789674d": "\\(\\left(-0.0851\\right)^{2}\\)",
+    "04e7106d-65f2-4961-baeb-dd7b0e44141b": "\\(\\dfrac{41}{877} \\times \\dfrac{-41}{540}\\)",
+    "fff94d77-3963-4909-876c-b5d5863efe5e": "\\(\\dfrac{-53}{127} \\div \\dfrac{53}{943}\\)",
+    "e5519ca7-b0a8-479c-b189-1746a4ce3ec6": "\\(\\left(\\dfrac{5}{609}\\right)^{2}\\)",
+    "ee49c9f3-7dd5-425e-8005-f079aebd4a7e": "\\(\\left(0.06847\\right)^{3}\\)",
+    "093a4f94-f966-4afa-9a10-dc5bf465600f": "\\(\\dfrac{13}{266} \\times \\dfrac{5}{18}\\)",
+    "8225e028-ef06-4d50-a833-c58fb0492c1e": "\\(\\dfrac{34}{715} \\div \\dfrac{76}{715}\\)",
+    "147fdcc1-6afb-43af-8bbe-d309899c1e7d": "\\(\\left(\\dfrac{-84}{953}\\right)^{2}\\)",
+    "2c1f996c-36f0-424b-9b22-acb4a9132ac6": "\\(\\left(\\dfrac{79}{463}\\right)^{3}\\)",
+    "b95dbf2b-b858-4a02-8875-2efb5a2d7b08": "\\(\\dfrac{25}{564} \\times \\dfrac{-19}{564}\\)",
+    "44c249a0-4d34-48dc-a7c0-96d40590924d": "\\(\\dfrac{35}{254} \\div \\dfrac{1}{30}\\)",
+    "fc817b9a-8bed-436e-b994-151d670245d8": "\\(\\left(0.02792\\right)^{2}\\)",
+    "bc3597d0-b58f-4bc3-b51d-5a081e365175": "\\(\\left(\\dfrac{57}{695}\\right)^{2}\\)",
+    "15444795-8be2-4077-a875-8ba4af9a8b51": "\\(0.09495 \\times 0.4075\\)",
+    "51a27338-5f02-4ea8-96b5-20db287cd723": "\\(3.317 \\div 1.87\\)",
+    "95d1a1b6-2c32-413d-b1e9-7a9779613e5b": "\\(\\left(7059\\right)^{2}\\)",
+    "c5e46136-4781-4f2a-9b88-be3b8fa5a931": "\\(\\left(\\dfrac{63}{467}\\right)^{2}\\)",
+    "523777fd-4c3f-400a-af60-724af96c657a": "\\(\\dfrac{-98}{569} \\times \\dfrac{63}{692}\\)",
+    "b49659ef-0a1c-48d0-aa5b-6183f3276708": "\\(\\dfrac{9}{527} \\div \\dfrac{80}{527}\\)",
+    "7563b09c-6f5d-4460-8978-504a86fd68a2": "\\(\\left(\\dfrac{43}{303}\\right)^{2}\\)",
+    "7cc16085-1957-42cc-b2b7-fd7ab1e65fe4": "\\(\\left(\\dfrac{37}{492}\\right)^{3}\\)",
+    "fb1218d7-eb6b-4242-becc-2255b1ed447a": "\\(\\dfrac{89}{852} \\times \\dfrac{19}{157}\\)",
+    "0de8cd7a-eb60-4485-9cb7-6e9bb0a3645e": "\\(\\dfrac{-61}{787} \\div \\dfrac{47}{303}\\)",
+    "37a41715-9209-4d99-8b71-51cd6e2f2522": "\\(\\left(\\dfrac{29}{527}\\right)^{2}\\)",
+    "f7515636-aac2-4c50-a883-04640c5b2c5d": "\\(\\left(-37.23\\right)^{2}\\)",
+    "57cf8811-b70d-4b6e-beb8-ea282ec66373": "\\(\\dfrac{-69}{931} \\times \\dfrac{69}{317}\\)",
+    "786706b0-5389-4aea-8419-f01d0e6ad75a": "\\(\\dfrac{23}{186} \\div \\dfrac{-93}{568}\\)",
+    "27e586e5-9148-4258-a00e-75528128db8e": "\\(\\left(\\dfrac{65}{92}\\right)^{3}\\)",
+    "cc6f199a-c3f1-4a65-baaa-6346c9b9ff98": "\\(\\left(\\dfrac{9}{149}\\right)^{2}\\)",
+    "5e307599-820e-4f75-a7f7-0caa2c1692b4": "\\(117 \\times 0.01034\\)",
+    "632046d2-df78-4d80-985f-fae891a0c73d": "\\(1.422 \\div 26\\)",
+    "dc8e8657-0947-425c-8ce6-874a8cf5f8fa": "\\(\\left(-0.1787\\right)^{2}\\)",
+    "2a4adfce-737a-4c51-8adb-a2def514ff7c": "\\(\\left(\\dfrac{25}{613}\\right)^{3}\\)",
+    "10e37b05-27cf-4a0b-a74a-c1bb6f3f5222": "\\(\\dfrac{31}{893} \\times \\dfrac{-18}{893}\\)",
+    "52f7cf71-83a0-48dd-87ea-cfee337a05d1": "\\(-80.71 \\div -0.03705\\)",
+    "40861f59-e06e-424c-934a-65086f7dbfcb": "\\(\\left(\\dfrac{89}{520}\\right)^{2}\\)",
+    "8b638386-ffc9-48ab-b96e-c36d9e0a962f": "\\(\\left(\\dfrac{-87}{251}\\right)^{3}\\)",
+    "67bd2899-1a10-4704-bb34-7e6f5c870120": "\\(\\dfrac{29}{366} \\times \\dfrac{29}{458}\\)",
+    "f9d2694a-d5f8-4b7e-a7a5-1c4d4449adb3": "\\(\\dfrac{-63}{388} \\div \\dfrac{-68}{385}\\)",
+    "4b8687c4-915a-40e3-b373-f40e8c2abe15": "\\(\\left(\\dfrac{-85}{522}\\right)^{2}\\)",
+    "69de321f-ebc6-4a70-b485-eaeefa0f516d": "\\(\\left(7.034\\right)^{2}\\)",
+    "024f69fc-b09b-4645-b9a7-bf917ac1a959": "\\(\\dfrac{74}{85} \\times \\dfrac{61}{692}\\)",
+    "44befb47-1e5f-45ec-befc-7b88a7bafc19": "\\(0.0586 \\div 0.4273\\)",
+    "83c55c9d-6b02-43d1-b9e5-875fe7b3d612": "\\(\\left(6098\\right)^{2}\\)",
+    "6a9c9dc6-6abd-4bf2-a1d3-7c891ef3b964": "\\(\\left(\\dfrac{25}{477}\\right)^{2}\\)",
+    "bf00bfd4-b4f3-4b0b-ae69-fdcc895b9abe": "\\(\\dfrac{8}{291} \\times \\dfrac{-45}{946}\\)",
+    "b130aa28-b83f-4f08-8f73-b7ea1de156ed": "\\(\\dfrac{33}{743} \\div \\dfrac{33}{997}\\)",
+    "408aefc3-74a4-4fa3-aafc-3815b52a559f": "\\(\\left(0.9463\\right)^{2}\\)",
+    "8eff641d-b825-4081-ab9d-3eb8adcf86d8": "\\(\\left(\\dfrac{-37}{446}\\right)^{3}\\)",
+    "0944cdd5-cb44-41dd-a73d-e323662b711a": "\\(-0.3937 \\times -60.34\\)",
+    "d0cb1aa2-d1eb-4d02-ab8d-1cba07b3410d": "\\(\\dfrac{88}{457} \\div \\dfrac{-88}{603}\\)",
+    "db7ad3f3-ae4e-4815-82b3-92ff105fffa2": "\\(\\left(\\dfrac{86}{467}\\right)^{3}\\)",
+    "bf78408e-b6a1-4e0b-b34f-98258b8eb3ae": "\\(\\left(-2.03\\right)^{3}\\)",
+    "49dbff48-5518-4a08-b32e-b40dd09774a4": "\\(\\dfrac{-26}{277} \\times \\dfrac{31}{952}\\)",
+    "6113b7cd-9ab2-4670-91cb-4d13b1bf5c04": "\\(\\dfrac{26}{151} \\div \\dfrac{20}{151}\\)",
+    "1869a33f-32d1-41f4-b1a8-930219200a3e": "\\(\\left(\\dfrac{25}{23}\\right)^{2}\\)",
+    "c71c7909-3cca-4f1e-b71c-535831c00636": "\\(\\left(3.152\\right)^{2}\\)",
+    "b66262b4-df90-41c6-9130-985ae63b4ade": "\\(882.6 \\times -9.4\\)",
+    "bce978d2-48b8-4b64-aa68-82005cc44747": "\\(\\dfrac{79}{259} \\div \\dfrac{-79}{403}\\)",
+    "f00860c7-366c-46af-b1a5-be9c5313172e": "\\(\\left(\\dfrac{97}{540}\\right)^{3}\\)",
+    "0ac4cfad-eb1c-47b6-b946-f40927fca7f7": "\\(\\left(\\dfrac{-7}{159}\\right)^{3}\\)",
+    "d74170c0-2dbb-4c0c-968b-fe58fd4de2e0": "\\(\\dfrac{-45}{101} \\times \\dfrac{45}{71}\\)",
+    "5cb48667-4eb3-46c3-9851-c917f7d424f0": "\\(-0.8437 \\div 358\\)",
+    "848589c5-8b16-4fea-b830-1be60794cabd": "\\(\\left(0.09738\\right)^{2}\\)",
+    "45f7bd43-ca8f-44b0-acea-f29ab080141f": "\\(\\left(\\dfrac{61}{991}\\right)^{2}\\)",
+    "2bea5c91-1702-410d-9465-ea0cffdffa18": "\\(21 \\times \\dfrac{22}{195}\\)",
+    "fda58e93-2cbf-48d3-b339-b926c3a464ab": "\\(\\dfrac{9}{200} \\div \\dfrac{1}{37}\\)",
+    "c2d53762-baed-4e66-84a4-900cb38a45b9": "\\(\\left(\\dfrac{28}{373}\\right)^{2}\\)",
+    "be40d1bd-45bc-48c2-92c7-ddc777b5a68e": "\\(\\left(\\dfrac{-4}{13}\\right)^{3}\\)",
+    "72b3dfbc-ae59-4e77-b6ef-a4a33d5db891": "\\(7.003 \\times 9.304\\)",
+    "d31a4206-1909-431b-898e-95c023f2406e": "\\(\\dfrac{-22}{237} \\div \\dfrac{8}{749}\\)",
+    "4d85fda6-cd27-41de-9aa8-bab598352a68": "\\(\\left(\\dfrac{78}{19}\\right)^{3}\\)",
+    "20b44f03-0c67-4a36-a9f9-65187003c31a": "\\(\\left(2906\\right)^{3}\\)",
+    "6aedb896-6e2d-489a-8e72-5f6a527846d7": "\\(\\dfrac{62}{685} \\times \\dfrac{96}{685}\\)",
+    "8bff43b8-90d1-4085-87f2-9e9a696bfe44": "\\(\\dfrac{4}{361} \\div \\dfrac{72}{361}\\)",
+    "850594cf-398b-4520-b0be-709cfac7edec": "\\(\\left(\\dfrac{14}{71}\\right)^{2}\\)",
+    "4ded8214-0273-4368-9d76-386b341a17bd": "\\(\\left(\\dfrac{74}{439}\\right)^{3}\\)",
+    "fb963edc-8dbb-4da0-a57e-06d7e3922692": "\\(\\dfrac{9}{853} \\times \\dfrac{91}{853}\\)",
+    "632568f3-8248-4e3a-b5b0-9d630ad27ef1": "\\(\\dfrac{36}{995} \\div \\dfrac{96}{995}\\)",
+    "e06962d4-60f4-45e0-a62b-832970cd0ec2": "\\(\\left(\\dfrac{-49}{212}\\right)^{3}\\)",
+    "b111c2bb-ac42-4e36-aca9-0c9134e53572": "\\(\\left(\\dfrac{-3}{526}\\right)^{2}\\)",
+    "94cd8d1c-4a88-4864-9875-b01b3068f019": "\\(\\dfrac{-79}{651} \\times \\dfrac{-97}{651}\\)",
+    "ad8e9873-efe6-4af1-9075-39500c0021b2": "\\(\\dfrac{97}{461} \\div \\dfrac{-64}{461}\\)",
+    "bd4d45eb-d78c-45c3-b3b9-ad7999d3510c": "\\(\\left(\\dfrac{5}{469}\\right)^{3}\\)",
+    "f6c80e6b-9a47-43b3-983d-9fbc93adc7ac": "\\(\\left(\\dfrac{21}{608}\\right)^{3}\\)",
+    "004f1982-80bf-47dd-9120-eef06e1e1fc6": "\\(\\dfrac{7}{30} \\times \\dfrac{91}{691}\\)",
+    "c8337a49-1b5f-4366-8b26-6fae6f914580": "\\(\\dfrac{58}{761} \\div \\dfrac{40}{153}\\)",
+    "1a5897aa-0c60-4d5d-9438-cf219f89b4e6": "\\(\\left(\\dfrac{43}{462}\\right)^{3}\\)",
+    "e7a0a1c1-ec26-4f0d-ae04-0d9abba0d0b4": "\\(\\left(\\dfrac{13}{36}\\right)^{3}\\)",
+    "a6ae3399-b7b8-4926-b779-71ff98effcf7": "\\(0.01451 \\times 21.3\\)",
+    "8bf43681-c075-4915-b956-412f5ef0f567": "\\(\\dfrac{3}{212} \\div \\dfrac{66}{409}\\)",
+    "07883012-7669-4356-b11e-99f87712ad18": "\\(\\left(-8.294\\right)^{2}\\)",
+    "85e8187a-31b5-460e-ab80-e1af5fa2e74b": "\\(\\left(\\dfrac{82}{777}\\right)^{3}\\)",
+    "6330932f-4c4f-498c-83b9-c04d6639d8b9": "\\(22.85 \\times 89.47\\)",
+    "2c69e321-65e9-4a9b-9cd3-930b67d0bfc3": "\\(\\dfrac{30}{919} \\div \\dfrac{80}{919}\\)",
+    "7d0434c1-fe58-435b-8720-d477d0e982ae": "\\(\\left(\\dfrac{-26}{511}\\right)^{2}\\)",
+    "b102a92c-9536-4aa5-b103-d20173e1b8f4": "\\(\\left(\\dfrac{-16}{657}\\right)^{2}\\)",
+    "c61075f0-ee8c-4b15-9519-793388613e11": "\\(\\dfrac{65}{269} \\times \\dfrac{2}{21}\\)",
+    "a058285a-55a5-4d4e-b74c-984593a33ddd": "\\(\\dfrac{-16}{577} \\div \\dfrac{16}{31}\\)",
+    "30161dec-a4e4-4b93-a780-d68adf5bf850": "\\(\\left(0.2103\\right)^{3}\\)",
+    "cd132d6e-b17e-4679-b812-4d828fd0dcef": "\\(\\left(\\dfrac{-69}{502}\\right)^{2}\\)",
+    "3c49bb5e-b2de-4e09-a006-b7d882b0c1e5": "\\(\\dfrac{1}{371} \\times \\dfrac{1}{748}\\)",
+    "d303fd32-de72-48b3-a0b9-4202e412dd47": "\\(\\dfrac{-5}{31} \\div \\dfrac{5}{239}\\)",
+    "5d4e96a4-62c7-4564-9e61-bc5e428c2af4": "\\(\\left(\\dfrac{11}{857}\\right)^{3}\\)",
+    "b998947e-dc56-4bff-b45f-64cf4acc3fd0": "\\(\\left(\\dfrac{21}{916}\\right)^{3}\\)",
+    "76281c10-b72b-4c81-84c4-67f080edc6ef": "\\(\\dfrac{77}{335} \\times \\dfrac{77}{223}\\)",
+    "4d60c1e2-8078-47e8-95ce-be12b8f62d72": "\\(49.06 \\div 0.703\\)",
+    "2dc37d2e-e4a1-4835-b81e-21f336856f83": "\\(\\left(\\dfrac{43}{448}\\right)^{3}\\)",
+    "a44d8914-ee99-43f7-a5fe-2e6b203a1bc9": "\\(\\left(\\dfrac{17}{314}\\right)^{3}\\)",
+    "7a3cf880-5c36-4b64-abd6-a94f32c0cfef": "\\(\\dfrac{91}{753} \\times \\dfrac{32}{753}\\)",
+    "f57c687b-e349-4569-a80c-87f61e733237": "\\(\\dfrac{65}{941} \\div \\dfrac{-65}{308}\\)",
+    "82b9a1bb-0d89-40dd-8332-28b8d329c323": "\\(\\left(\\dfrac{19}{448}\\right)^{2}\\)",
+    "6c7db966-67af-43d4-86d3-987d658d1ca3": "\\(\\left(\\dfrac{41}{848}\\right)^{3}\\)",
+    "6ffea180-6c6c-4cad-902e-86cc4a0c8af2": "\\(\\dfrac{43}{5} \\times \\dfrac{96}{5}\\)",
+    "edc9ed1b-fcf9-4f5b-bbcd-90bacd53e52a": "\\(\\dfrac{17}{513} \\div \\dfrac{32}{699}\\)",
+    "e2ad83ed-174f-4d07-bad4-1d52c2398f7e": "\\(\\left(\\dfrac{-18}{343}\\right)^{2}\\)",
+    "cb045f8c-9342-4baa-8bbd-3993af350cee": "\\(\\left(\\dfrac{43}{748}\\right)^{2}\\)",
+    "16bae0a4-03ed-405c-9dfa-97dcf0527227": "\\(\\dfrac{59}{703} \\times \\dfrac{61}{703}\\)",
+    "a74e2265-213c-4f48-bce8-740b5730eb28": "\\(\\dfrac{43}{710} \\div \\dfrac{39}{769}\\)",
+    "d157fbf5-7d04-4e1d-8fbb-a972e6963857": "\\(\\left(4294\\right)^{2}\\)",
+    "e8a23048-3e43-4c34-bd4b-98ad7d0aa49e": "\\(\\left(\\dfrac{34}{343}\\right)^{2}\\)",
+    "1d5b374a-465e-402e-a19f-75405f959d40": "\\(\\dfrac{91}{495} \\times \\dfrac{32}{495}\\)",
+    "6f604077-b3ba-49e2-955b-040b7062076d": "\\(\\dfrac{5}{49} \\div \\dfrac{23}{665}\\)",
+    "8ab4667c-2bcd-47f9-8432-5fd5eae2a708": "\\(\\left(-7.245\\right)^{3}\\)",
+    "ddfe44e9-5888-41db-a58f-c8d59231f1d5": "\\(\\left(\\dfrac{91}{820}\\right)^{2}\\)",
+    "929d1955-a926-489d-98ca-cb04d61a8cce": "\\(\\dfrac{82}{393} \\times \\dfrac{82}{673}\\)",
+    "c5f62b79-da69-4ad2-af62-0021af659cae": "\\(1.216 \\div 0.8097\\)",
+    "25643c56-ba3a-4999-9198-a97d55ba434b": "\\(\\left(\\dfrac{23}{996}\\right)^{2}\\)",
+    "2aff3750-73b7-4374-b817-77ef199ff86d": "\\(\\left(\\dfrac{96}{271}\\right)^{2}\\)",
+    "55fb868a-17e9-4973-9ddf-32253343c4e5": "\\(\\dfrac{97}{827} \\times \\dfrac{57}{827}\\)",
+    "4a36501e-7ac7-4797-a0e5-51831ae44983": "\\(\\dfrac{17}{269} \\div \\dfrac{-9}{140}\\)",
+    "c766df1a-7bf9-474c-ade7-53ee756e54f0": "\\(\\left(7.8\\right)^{2}\\)",
+    "4cd25432-f0a8-474c-9825-bd966a85e63b": "\\(\\left(\\dfrac{-96}{983}\\right)^{3}\\)",
+    "04bcbdfe-b5a1-467c-be21-a0bfa1d82adb": "\\(-0.07322 \\times 5887\\)",
+    "178f3d4c-b759-41c0-a651-ea3cdec4cd50": "\\(\\dfrac{63}{389} \\div \\dfrac{45}{389}\\)",
+    "8326249c-1264-4664-b0d1-0d2458eaf5ff": "\\(\\left(\\dfrac{31}{901}\\right)^{3}\\)",
+    "da0f7b2a-4cd5-42b2-8e05-dc27d4a16524": "\\(\\left(\\dfrac{-19}{959}\\right)^{2}\\)",
+    "8cec6b91-d53f-44cc-8fa6-8d4a0745bbff": "\\(\\dfrac{1}{305} \\times \\dfrac{91}{305}\\)",
+    "a281d193-ea51-4bb3-92d6-c54d5786166d": "\\(-7508 \\div -0.06786\\)",
+    "98cd1615-268a-4e85-af37-1704aaf8535a": "\\(\\left(\\dfrac{9}{479}\\right)^{3}\\)",
+    "e1b58c24-f640-46ef-a73e-e1eec4e423f8": "\\(\\left(\\dfrac{79}{664}\\right)^{2}\\)",
+    "03ee8864-a3cd-444d-bfc7-d093e2ab2c3c": "\\(8819 \\times -16.77\\)",
+    "3b86077c-6865-4e66-a252-a7bf4deec28b": "\\(-72.86 \\div -0.0676\\)",
+    "acd0b82c-b6dc-46e6-8a7a-7491c8083a28": "\\(\\left(\\dfrac{48}{787}\\right)^{2}\\)",
+    "05b19727-e369-44d8-a790-55a35bb336a7": "\\(\\left(\\dfrac{19}{526}\\right)^{3}\\)",
+    "deb28547-e87d-47e7-a084-ee1fcf7abe25": "\\(\\dfrac{8}{25} \\times \\dfrac{-14}{25}\\)",
+    "5e1876a8-2e04-4071-9cb1-e2e7396ae11c": "\\(45.58 \\div 0.6926\\)",
+    "92928baf-8fdc-43a1-b0cd-e60755314272": "\\(\\left(\\dfrac{1}{333}\\right)^{3}\\)",
+    "877f265c-7044-4da5-8fe5-3b613dc4befc": "\\(\\left(409.6\\right)^{3}\\)",
+    "9fcf3c59-b811-44c8-b83b-54c762e1be58": "\\(52.96 \\times 638.5\\)",
+    "25e56185-103d-427e-85af-3d84fa03c710": "\\(\\dfrac{31}{813} \\div \\dfrac{-31}{508}\\)",
+    "3f775334-387b-4f26-aa22-a0b94708a3fb": "\\(\\left(\\dfrac{-67}{866}\\right)^{2}\\)",
+    "217d1080-22ce-46fc-9b40-c11cab0b6af4": "\\(\\left(\\dfrac{96}{811}\\right)^{2}\\)",
+    "16dfc9c9-58a7-43b3-9710-879b68f2f312": "\\(\\dfrac{41}{511} \\times \\dfrac{-41}{385}\\)",
+    "50a222f5-0c2d-4c2a-8b10-5a245e1fb85f": "\\(45.51 \\div -19.69\\)",
+    "9a1d0932-ee14-4ea5-af03-675e32863a5e": "\\(\\left(\\dfrac{55}{259}\\right)^{2}\\)",
+    "b7e0c490-0bd4-46e9-a6e5-634142f573ca": "\\(\\left(\\dfrac{29}{524}\\right)^{2}\\)",
+    "47fb4817-9218-4f19-b207-d21d5d0b8afd": "\\(92.06 \\times 9768\\)",
+    "1ad57596-49d9-45e2-ba93-d1fe2608c981": "\\(\\dfrac{95}{464} \\div \\dfrac{59}{464}\\)",
+    "1dcca3f9-342d-48c8-b8e9-3946871a22d4": "\\(\\left(\\dfrac{80}{203}\\right)^{2}\\)",
+    "72018b8f-d0ed-4487-9af3-ddb2b0a2dbba": "\\(\\left(\\dfrac{24}{277}\\right)^{2}\\)",
+    "cec2e450-2030-4f93-a6e1-95e07d44cf35": "\\(\\dfrac{47}{321} \\times \\dfrac{47}{313}\\)",
+    "459d55a9-ec34-4746-9441-7bea820999ce": "\\(\\dfrac{92}{939} \\div \\dfrac{31}{939}\\)",
+    "e3db8675-6809-497f-9fbc-16a1d60460fd": "\\(\\left(\\dfrac{35}{54}\\right)^{3}\\)",
+    "43151188-6b82-4c11-9315-1c319fdcedbf": "\\(\\left(0.1092\\right)^{3}\\)",
+    "858a5b96-b5b5-4673-b378-ef33213862ad": "\\(\\dfrac{-4}{365} \\times \\dfrac{-44}{365}\\)",
+    "3e524e0c-f640-4e61-97ae-60a2fc6ad6ee": "\\(\\dfrac{90}{707} \\div \\dfrac{43}{707}\\)",
+    "cc888173-9bab-4154-842d-bbdf42a33c01": "\\(\\left(\\dfrac{86}{499}\\right)^{2}\\)",
+    "b86c5372-8734-4ec2-928e-d695e37ae514": "\\(\\left(\\dfrac{95}{358}\\right)^{3}\\)",
+    "d8be3caa-c4e4-4aae-8861-0b7b48fa7f74": "\\(\\dfrac{11}{674} \\times \\dfrac{69}{313}\\)",
+    "c29657d2-9cd8-4683-9af8-bd2f6b07f36e": "\\(32.76 \\div -3907\\)",
+    "7ccd7523-f3f2-4061-9a69-903335ed1b4e": "\\(\\left(-7038\\right)^{2}\\)",
+    "426109f1-0a1e-41f6-8af1-96da0ba2dee1": "\\(\\left(\\dfrac{-47}{608}\\right)^{3}\\)",
+    "8751f4b6-f5a7-4ab4-9885-2751048fc457": "\\(\\dfrac{1}{931} \\times \\dfrac{1}{366}\\)",
+    "586d5988-8f95-4547-8f26-fd14a3dc976b": "\\(\\dfrac{-36}{713} \\div \\dfrac{58}{713}\\)",
+    "16add778-ef99-437e-b02c-2517bbbe0439": "\\(\\left(\\dfrac{43}{277}\\right)^{3}\\)",
+    "08f46505-0a6b-41d2-845e-f15cf19f6021": "\\(\\left(\\dfrac{-11}{585}\\right)^{3}\\)",
+    "874d046b-92a3-4be6-ad7f-b77949413558": "\\(-1.736 \\times 0.03342\\)",
+    "880fa642-c780-45ad-a9e5-f1312292aca4": "\\(-0.459 \\div 510.1\\)",
+    "ac8e573b-6ebf-4e90-8fae-d09a95722884": "\\(\\left(59.95\\right)^{3}\\)",
+    "9896fcbe-cddb-434d-ab7d-52736d9668fd": "\\(\\left(\\dfrac{7}{653}\\right)^{3}\\)",
+    "975aba8d-dd9b-48ba-bf58-ae52a19ad423": "\\(\\dfrac{-87}{47} \\times \\dfrac{31}{47}\\)",
+    "6d0e04c4-510f-4677-b39e-691b98f15705": "\\(4.116 \\div 0.06366\\)",
+    "c64abf23-96d4-461d-a36f-64cef3fac352": "\\(\\left(\\dfrac{92}{495}\\right)^{3}\\)",
+    "d13a6d84-63e4-4603-95ca-96be652f571e": "\\(\\left(\\dfrac{76}{343}\\right)^{2}\\)",
+    "efd9219b-50d9-4936-be15-f1855999c6ae": "\\(696.7 \\times -5.714\\)",
+    "8dc4bd06-052e-43f7-b951-031a6ee39313": "\\(\\dfrac{59}{85} \\div \\dfrac{-59}{162}\\)",
+    "12da0bce-4ad1-47b2-80c7-eb49be620e16": "\\(\\left(\\dfrac{-83}{943}\\right)^{2}\\)",
+    "8c90e23a-ada2-44fa-a9e1-f0db5f3bacb8": "\\(\\left(\\dfrac{19}{926}\\right)^{3}\\)",
+    "3e92072e-ad36-4f66-a1c4-e59ee91fb90f": "\\(\\dfrac{77}{283} \\times \\dfrac{94}{283}\\)",
+    "b136583c-3937-407e-9e7c-e9e5c74b5045": "\\(-0.06092 \\div 863\\)",
+    "8cbc4773-e03a-47d5-8ad1-22ac4fd9a3fe": "\\(\\left(\\dfrac{95}{563}\\right)^{2}\\)",
+    "1b3807d0-7438-4340-8f9d-5f0e177931ce": "\\(\\left(6.163\\right)^{2}\\)",
+    "baba1a6a-da20-4ced-9bfb-caf22b2fbb5e": "\\(-4.029 \\times 398.1\\)",
+    "41c8c5e3-c648-4c75-aca8-40d45b6abe1e": "\\(-0.2236 \\div 0.06441\\)",
+    "e70b0de6-8aaa-4ebb-aa36-a664b5020229": "\\(\\left(\\dfrac{-93}{607}\\right)^{2}\\)",
+    "8b74de5a-06f3-414e-834c-ffc91bbdcfc3": "\\(\\left(\\dfrac{2}{369}\\right)^{3}\\)",
+    "8f3b7ba4-7199-4ce5-b715-f74e19fea336": "\\(0.9755 \\times 0.01023\\)",
+    "9dc25a9f-074f-4ca5-8b33-12f32c529ea7": "\\(\\dfrac{73}{797} \\div \\dfrac{87}{436}\\)",
+    "ff847179-04e4-44d2-b432-0598e9fc2c26": "\\(\\left(\\dfrac{43}{665}\\right)^{3}\\)",
+    "7c5938a2-80fd-4a44-bac9-13bd2669c0a3": "\\(\\left(\\dfrac{87}{320}\\right)^{2}\\)",
+    "2d81c164-af0c-4ac9-b847-16cd0f825c8a": "\\(\\dfrac{47}{463} \\times \\dfrac{47}{434}\\)",
+    "a1cf0416-6c8f-4206-a4a5-2c544fb268da": "\\(769.3 \\div 45.47\\)",
+    "dfff9784-e720-4707-8896-050f49e578f9": "\\(\\left(1.857\\right)^{2}\\)",
+    "4e26c2c8-59ce-4eda-9ee5-b10c96e05648": "\\(\\left(45.16\\right)^{2}\\)",
+    "2ceeec02-7535-4892-b0b8-282873f626a7": "\\(\\dfrac{67}{602} \\times \\dfrac{11}{19}\\)",
+    "c7e17468-a53a-43ec-9f0d-fce004973b7b": "\\(\\dfrac{58}{407} \\div \\dfrac{-58}{855}\\)",
+    "651cfbe2-3d0a-40a6-9608-d34c3ccc3ad4": "\\(\\left(\\dfrac{-73}{480}\\right)^{3}\\)",
+    "ac2e84c8-d28d-4257-ad33-67751140efdb": "\\(\\left(-6.377\\right)^{3}\\)",
+    "52f9b058-29b4-4b77-941d-d2d48be380f9": "\\(\\dfrac{5}{17} \\times \\dfrac{4}{35}\\)",
+    "9c3f1e77-ea46-4a93-ba6b-28c216d73f70": "\\(\\dfrac{-19}{540} \\div \\dfrac{7}{484}\\)",
+    "965b2c4e-a15e-4642-8b88-2d0396054b58": "\\(\\left(\\dfrac{17}{337}\\right)^{3}\\)",
+    "ff702898-f4e0-4748-b845-ccec12efb762": "\\(\\left(\\dfrac{-70}{481}\\right)^{3}\\)",
+    "da0ee5b4-5ff9-477e-bde4-4ba0fe61c11c": "\\(\\dfrac{29}{620} \\times \\dfrac{29}{42}\\)",
+    "cdfeb0b6-9214-40e8-b5e9-995d16bcb2a0": "\\(\\dfrac{59}{913} \\div \\dfrac{-43}{913}\\)",
+    "3a929693-5b70-418d-9160-0edcb24a5bd3": "\\(\\left(\\dfrac{27}{254}\\right)^{2}\\)",
+    "d5da859c-0e65-4204-af6b-8127301f00c8": "\\(\\left(\\dfrac{-23}{201}\\right)^{3}\\)",
+    "5e23cda6-eb3f-4eef-9e44-90a46b22af55": "\\(\\dfrac{73}{988} \\times \\dfrac{97}{988}\\)",
+    "8990daab-0436-4e3f-83f3-a9990e449a3d": "\\(\\dfrac{13}{37} \\div \\dfrac{59}{571}\\)",
+    "38e2d144-a035-419a-b38a-993b6dc45089": "\\(\\left(-41.88\\right)^{3}\\)",
+    "d0686b87-351d-4361-bb11-58487044b111": "\\(\\left(\\dfrac{97}{881}\\right)^{2}\\)",
+    "33922fb0-612d-489a-bfa2-813b720d6b17": "\\(\\dfrac{3}{35} \\times \\dfrac{-92}{543}\\)",
+    "43b72ef3-9fc9-4c2f-ac09-b4d6e4ad7c67": "\\(\\dfrac{82}{341} \\div \\dfrac{-97}{637}\\)",
+    "f2057eda-1b54-4fa2-b70f-62cf2c8714cc": "\\(\\left(\\dfrac{-41}{946}\\right)^{3}\\)",
+    "b4e6782f-45c8-4aec-9f7f-425c7866287b": "\\(\\left(9218\\right)^{3}\\)",
+    "ff41e522-71cd-4090-8b9a-713097ffe910": "\\(\\dfrac{20}{587} \\times \\dfrac{68}{587}\\)",
+    "c720125a-9314-4b67-91a6-c6cf13e8d2b1": "\\(41.92 \\div 80.16\\)",
+    "8b7112b7-f75c-471f-b02d-d9db370f598d": "\\(\\left(\\dfrac{83}{673}\\right)^{3}\\)",
+    "3688b3d8-62ec-4b59-ac57-a72d99673d17": "\\(\\left(9.986\\right)^{2}\\)",
+    "937f499d-7c6a-4686-b3b5-c610c6c90939": "\\(\\dfrac{55}{927} \\times \\dfrac{17}{105}\\)",
+    "cc5759d8-02c2-46e5-a268-a9e9961a10af": "\\(\\dfrac{12}{545} \\div \\dfrac{18}{545}\\)",
+    "e6f44c6e-d28c-4299-9338-8160fabdb3c4": "\\(\\left(\\dfrac{44}{943}\\right)^{2}\\)",
+    "75ce4df7-5058-4c2a-9923-c6386695777f": "\\(\\left(\\dfrac{13}{583}\\right)^{3}\\)",
+    "1cdf1f3a-bbc5-40cc-8c8c-ee03bbd28dd0": "\\(\\dfrac{27}{454} \\times \\dfrac{49}{454}\\)",
+    "d1c27428-de31-4b0a-8300-13dee8d08d56": "\\(\\dfrac{34}{223} \\div \\dfrac{76}{223}\\)",
+    "4942b9c7-9f51-4c1d-8f25-bf1018a4eb0c": "\\(\\left(\\dfrac{99}{694}\\right)^{3}\\)",
+    "586fdc70-bd12-444c-9077-af8ec34ae2f6": "\\(\\left(\\dfrac{18}{125}\\right)^{3}\\)",
+    "0e7d98fc-ef01-4a0f-8af4-6acd13f96623": "\\(\\dfrac{45}{199} \\times \\dfrac{-21}{199}\\)",
+    "7213aff0-7f15-4dfe-bc08-18fc823b2887": "\\(\\dfrac{23}{198} \\div \\dfrac{23}{17}\\)",
+    "3a06b585-8c95-45e0-8c48-a2679a3e39f9": "\\(\\left(\\dfrac{4}{113}\\right)^{2}\\)",
+    "95b575cc-cb26-44b5-a6a8-58969f5af510": "\\(\\left(-21.18\\right)^{3}\\)",
+    "afaa8451-2e10-4c3f-99eb-c31a832ad47a": "\\(\\dfrac{-43}{416} \\times \\dfrac{43}{873}\\)",
+    "3edd865e-903e-4da7-bd91-3f8aa3bfafed": "\\(\\dfrac{70}{397} \\div \\dfrac{70}{521}\\)",
+    "9ef5cd02-bf16-4001-8939-acf1305ddf1f": "\\(\\left(\\dfrac{41}{704}\\right)^{2}\\)",
+    "a0b7879f-8e0d-4445-a3d3-e45cff3cb2c6": "\\(\\left(\\dfrac{97}{875}\\right)^{3}\\)",
+    "e9c224f8-5d0b-4c3e-96f6-1db8f8c2573a": "\\(\\dfrac{25}{381} \\times \\dfrac{70}{381}\\)",
+    "51b9d44c-a58f-43dc-8c15-f31126be5684": "\\(\\dfrac{-97}{215} \\div \\dfrac{-97}{443}\\)",
+    "68852fee-4f07-4391-8ff2-bb53f7d899ae": "\\(\\left(\\dfrac{38}{887}\\right)^{3}\\)",
+    "f2e2b739-bb36-420f-bc21-6a28a4b474d1": "\\(\\left(-1.942\\right)^{3}\\)",
+    "520c9769-9d20-425b-9337-7b87277fbc9b": "\\(\\dfrac{-18}{197} \\times \\dfrac{37}{197}\\)",
+    "11897052-53e5-4a4c-a149-d14fa52d1823": "\\(\\dfrac{-85}{468} \\div \\dfrac{85}{72}\\)",
+    "98f28911-d5c2-4c62-8bc6-dc5a0a69d253": "\\(\\left(\\dfrac{-16}{239}\\right)^{3}\\)",
+    "38a6f867-39af-49b5-b57c-92f54ad4108c": "\\(\\left(\\dfrac{1}{554}\\right)^{2}\\)",
+    "a750c262-f352-4357-b919-08dce4f67bb2": "\\(\\dfrac{56}{909} \\times \\dfrac{56}{967}\\)",
+    "f2468ff1-f218-4e0e-975d-b0863fc07a61": "\\(\\dfrac{31}{281} \\div \\dfrac{71}{768}\\)",
+    "73a1eb46-e7d3-4b2b-a74e-91c584cc5ec6": "\\(\\left(59.8\\right)^{2}\\)",
+    "efbd8e95-950d-4e0a-a1ae-ecdf4d78a562": "\\(\\left(\\dfrac{72}{689}\\right)^{3}\\)",
+    "40889c99-b02d-4113-89ce-f97dd17ce8c6": "\\(8528 \\times -0.8161\\)",
+    "a8312831-a847-4bbe-8f26-eb9da024f069": "\\(\\dfrac{14}{767} \\div \\dfrac{14}{655}\\)",
+    "b9288ae5-e0b6-456e-a859-ae884643e992": "\\(\\left(-1.253\\right)^{2}\\)",
+    "d4a2d8d9-f6e7-4f70-9762-4f3230bea4ac": "\\(\\left(7.473\\right)^{2}\\)",
+    "6c758f31-d514-49b0-bbf9-7a5131cb03a1": "\\(\\dfrac{2}{395} \\times \\dfrac{-51}{605}\\)",
+    "5ad20512-6435-439f-b183-65c4fdc15aa5": "\\(0.7714 \\div 6.582\\)",
+    "49f2ef63-4f44-4feb-8824-dd6ef14d4228": "\\(\\left(\\dfrac{8}{177}\\right)^{2}\\)",
+    "5b577cf2-ab02-4035-a339-78420b35cd21": "\\(\\left(8212\\right)^{3}\\)",
+    "c543a30e-c15c-4238-9923-8b99b208db84": "\\(783 \\times 468\\)",
+    "0f3e03cf-cf90-483d-8ef7-d1be52b4c3bf": "\\(\\dfrac{53}{206} \\div \\dfrac{39}{206}\\)",
+    "0caa192e-1031-4680-a41a-5b159b4b42f8": "\\(\\left(\\dfrac{70}{661}\\right)^{3}\\)",
+    "d4343dea-15fe-4445-a812-103677c377ab": "\\(\\left(\\dfrac{49}{355}\\right)^{2}\\)",
+    "294c3908-ccba-4d00-b208-8eab18fdd798": "\\(\\dfrac{60}{199} \\times \\dfrac{60}{529}\\)",
+    "5f2611a6-cd1b-4c18-bd94-b927a0ef28d4": "\\(0.1796 \\div 3.448\\)",
+    "7e94a16e-6c2e-45c0-9ed2-252c6ace2281": "\\(\\left(2968\\right)^{3}\\)",
+    "515f9be5-dc32-4443-9d0c-eb6c63ce9da3": "\\(\\left(\\dfrac{11}{61}\\right)^{3}\\)",
+    "fdbae53e-61db-44ed-a246-148229bee0ec": "\\(55.78 \\times 892.7\\)",
+    "40bc5e4d-0da4-40e0-841c-c890d3cce5e8": "\\(\\dfrac{92}{647} \\div \\dfrac{92}{863}\\)",
+    "9ead9f97-9248-4bde-8e98-893b02c1f87f": "\\(\\left(27.87\\right)^{2}\\)",
+    "b995ed16-6eb5-43a9-bb97-b9569d21cb06": "\\(\\left(42.69\\right)^{2}\\)",
+    "418a9aef-e1f5-44b8-a417-b333c8bf92b4": "\\(\\dfrac{72}{733} \\times \\dfrac{35}{733}\\)",
+    "078ddc82-8272-43d3-b23e-3f3241cce502": "\\(\\dfrac{-46}{403} \\div \\dfrac{48}{403}\\)",
+    "01118e61-3abc-4bb0-8802-e2cc11eaff57": "\\(\\left(\\dfrac{97}{118}\\right)^{3}\\)",
+    "e6596643-a544-461a-bd19-5e24349972ce": "\\(\\left(\\dfrac{73}{611}\\right)^{3}\\)",
+    "68feb149-435c-4efd-8a28-43a9c782c646": "\\(\\dfrac{10}{37} \\times \\dfrac{43}{338}\\)",
+    "1fb53b7e-b244-4d2d-9cc9-8fff1b556c2f": "\\(\\dfrac{21}{829} \\div \\dfrac{17}{829}\\)",
+    "0a56b27d-4740-4e89-99c9-26df09edecc1": "\\(\\left(-0.4699\\right)^{2}\\)",
+    "feaec24c-9a89-40a1-9188-700a2d672586": "\\(\\left(0.09771\\right)^{3}\\)",
+    "937d8de8-3604-4013-8f46-5398e09ef36e": "\\(51.96 \\times 0.04284\\)",
+    "9316886e-c57a-4d52-898c-410dcd2f026b": "\\(-6.245 \\div 2.812\\)",
+    "a1fbd8ed-1487-438b-ae1a-760c1ce79a41": "\\(\\left(\\dfrac{7}{59}\\right)^{2}\\)"
+  }
+}

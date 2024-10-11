@@ -82,7 +82,7 @@
       ]
     },
     {
-      "title": "Exponents",
+      "title": "Exponentiation Tables (Powers)",
       "links": [
         {
           "title": "Squares",
@@ -97,24 +97,32 @@
       ]
     },
     {
-      "title": "Arithmetic without Calculator",
+      "title": "Recalling Arithmetic Procedures for Non-Whole Numbers",
       "links": [
         {
-          "title": "Conquering Number 10",
-          "questionBankUrl": "no-calc/01-arithmetic-with-10"
+          "title": "Part 1",
+          "questionBankUrl": "no-calc/01-arithmetic-with-10",
+          "description": "Conquering Number 10"
         },
         {
-          "title": "Recalling Fraction Arithmetic Procedures",
-          "questionBankUrl": "no-calc/02-fraction-procedure-recall"
+          "title": "Part 2",
+          "questionBankUrl": "no-calc/02-fraction-procedure-recall",
+          "description": "Recalling Fraction Arithmetic Procedures"
         },
         {
-          "title": "Understanding Fraction Arithmetic Outcomes",
-          "questionBankUrl": "no-calc/03-fraction-arithmetic-outcomes"
+          "title": "Part 3",
+          "questionBankUrl": "no-calc/03-arithmetic-outcomes",
+          "description": "Recalling Arithmetic Outcomes"
+        },
+        {
+          "title": "Part 4 (Advanced)",
+          "questionBankUrl": "no-calc/04-advanced-arithmetic-outcomes",
+          "description": "Understanding Arithmetic Outcomes"
         }
       ]
     },
     {
-      "title": "Number Format Conversions",
+      "title": "Rational Number Format Conversions",
       "links": [
         {
           "title": "Part 1",
@@ -144,7 +152,7 @@
       ]
     },
     {
-      "title": "General Rational Number Arithmetic",
+      "title": "Advanced Rational Number Arithmetic",
       "links": [
         {
           "title": "Part 1",
