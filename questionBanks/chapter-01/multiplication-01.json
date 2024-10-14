@@ -1,0 +1,149 @@
+{
+  "extraDescription": "each operand is in 0-5",
+  "questions": [
+    {
+      "question": "1 &times; 2",
+      "answer": "2"
+    },
+    {
+      "question": "5 &times; 2",
+      "answer": "10"
+    },
+    {
+      "question": "0 &times; 3",
+      "answer": "0"
+    },
+    {
+      "question": "0 &times; 1",
+      "answer": "0"
+    },
+    {
+      "question": "0 &times; 5",
+      "answer": "0"
+    },
+    {
+      "question": "5 &times; 1",
+      "answer": "5"
+    },
+    {
+      "question": "0 &times; 0",
+      "answer": "0"
+    },
+    {
+      "question": "2 &times; 2",
+      "answer": "4"
+    },
+    {
+      "question": "4 &times; 2",
+      "answer": "8"
+    },
+    {
+      "question": "1 &times; 3",
+      "answer": "3"
+    },
+    {
+      "question": "2 &times; 0",
+      "answer": "0"
+    },
+    {
+      "question": "3 &times; 5",
+      "answer": "15"
+    },
+    {
+      "question": "4 &times; 3",
+      "answer": "12"
+    },
+    {
+      "question": "1 &times; 0",
+      "answer": "0"
+    },
+    {
+      "question": "2 &times; 1",
+      "answer": "2"
+    },
+    {
+      "question": "3 &times; 3",
+      "answer": "9"
+    },
+    {
+      "question": "2 &times; 4",
+      "answer": "8"
+    },
+    {
+      "question": "4 &times; 0",
+      "answer": "0"
+    },
+    {
+      "question": "3 &times; 2",
+      "answer": "6"
+    },
+    {
+      "question": "1 &times; 1",
+      "answer": "1"
+    },
+    {
+      "question": "0 &times; 2",
+      "answer": "0"
+    },
+    {
+      "question": "5 &times; 3",
+      "answer": "15"
+    },
+    {
+      "question": "2 &times; 3",
+      "answer": "6"
+    },
+    {
+      "question": "3 &times; 4",
+      "answer": "12"
+    },
+    {
+      "question": "0 &times; 4",
+      "answer": "0"
+    },
+    {
+      "question": "1 &times; 5",
+      "answer": "5"
+    },
+    {
+      "question": "5 &times; 5",
+      "answer": "25"
+    },
+    {
+      "question": "4 &times; 1",
+      "answer": "4"
+    },
+    {
+      "question": "2 &times; 5",
+      "answer": "10"
+    },
+    {
+      "question": "3 &times; 1",
+      "answer": "3"
+    },
+    {
+      "question": "1 &times; 4",
+      "answer": "4"
+    },
+    {
+      "question": "4 &times; 5",
+      "answer": "20"
+    },
+    {
+      "question": "5 &times; 0",
+      "answer": "0"
+    },
+    {
+      "question": "3 &times; 0",
+      "answer": "0"
+    },
+    {
+      "question": "5 &times; 4",
+      "answer": "20"
+    },
+    {
+      "question": "4 &times; 4",
+      "answer": "16"
+    }
+  ]
+}

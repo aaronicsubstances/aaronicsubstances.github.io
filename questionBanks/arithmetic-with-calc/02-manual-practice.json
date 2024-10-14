@@ -733,7 +733,7 @@
     },
     {
       "question": "\\(\\dfrac{5}{7} \\div 0\\)",
-      "answer": "n/a",
+      "answer": "undefined",
       "numberInputTypes": ["cfr", "mix", "dec"],
       "expectedDenominators": null
     },
@@ -1606,7 +1606,7 @@
     },
     {
       "question": "\\(\\dfrac{26}{27} \\div 0\\)",
-      "answer": "n/a",
+      "answer": "undefined",
       "numberInputTypes": ["cfr", "mix", "dec"],
       "expectedDenominators": null
     },
@@ -2249,7 +2249,7 @@
     },
     {
       "question": "\\(25 \\div 0\\)",
-      "answer": "n/a",
+      "answer": "undefined",
       "numberInputTypes": ["dec", "mix", "cfr"],
       "expectedDenominators": null
     },
@@ -2939,7 +2939,7 @@
     },
     {
       "question": "\\(1.2 \\div 0\\)",
-      "answer": "n/a",
+      "answer": "undefined",
       "numberInputTypes": ["dec", "mix", "cfr"],
       "expectedDenominators": null
     },
@@ -3223,7 +3223,7 @@
     },
     {
       "question": "\\(\\dfrac{27}{2} \\div 0\\)",
-      "answer": "n/a",
+      "answer": "undefined",
       "numberInputTypes": ["cfr", "mix", "dec"],
       "expectedDenominators": null
     },

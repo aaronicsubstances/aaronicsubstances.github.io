@@ -1,0 +1,515 @@
+{
+  "extraDescription": "numbers are in 0-50",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 21?",
+      "choices": [
+        "21 is a composite number",
+        "21 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 1?",
+      "choices": [
+        "1 is a composite number",
+        "1 is a prime number",
+        "None of the above"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 44?",
+      "choices": [
+        "44 is a composite number",
+        "44 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 0?",
+      "choices": [
+        "0 is a composite number",
+        "0 is a prime number",
+        "None of the above"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 37?",
+      "choices": [
+        "37 is a composite number",
+        "37 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 7?",
+      "choices": [
+        "7 is a composite number",
+        "7 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 5?",
+      "choices": [
+        "5 is a composite number",
+        "5 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 18?",
+      "choices": [
+        "18 is a composite number",
+        "18 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 26?",
+      "choices": [
+        "26 is a composite number",
+        "26 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 41?",
+      "choices": [
+        "41 is a composite number",
+        "41 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 45?",
+      "choices": [
+        "45 is a composite number",
+        "45 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 34?",
+      "choices": [
+        "34 is a composite number",
+        "34 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 3?",
+      "choices": [
+        "3 is a composite number",
+        "3 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 12?",
+      "choices": [
+        "12 is a composite number",
+        "12 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 43?",
+      "choices": [
+        "43 is a composite number",
+        "43 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 6?",
+      "choices": [
+        "6 is a composite number",
+        "6 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 32?",
+      "choices": [
+        "32 is a composite number",
+        "32 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 36?",
+      "choices": [
+        "36 is a composite number",
+        "36 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 38?",
+      "choices": [
+        "38 is a composite number",
+        "38 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 25?",
+      "choices": [
+        "25 is a composite number",
+        "25 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 35?",
+      "choices": [
+        "35 is a composite number",
+        "35 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 31?",
+      "choices": [
+        "31 is a composite number",
+        "31 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 39?",
+      "choices": [
+        "39 is a composite number",
+        "39 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 30?",
+      "choices": [
+        "30 is a composite number",
+        "30 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 8?",
+      "choices": [
+        "8 is a composite number",
+        "8 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 13?",
+      "choices": [
+        "13 is a composite number",
+        "13 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 50?",
+      "choices": [
+        "50 is a composite number",
+        "50 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 17?",
+      "choices": [
+        "17 is a composite number",
+        "17 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 40?",
+      "choices": [
+        "40 is a composite number",
+        "40 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 19?",
+      "choices": [
+        "19 is a composite number",
+        "19 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 4?",
+      "choices": [
+        "4 is a composite number",
+        "4 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 9?",
+      "choices": [
+        "9 is a composite number",
+        "9 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 22?",
+      "choices": [
+        "22 is a composite number",
+        "22 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 15?",
+      "choices": [
+        "15 is a composite number",
+        "15 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 28?",
+      "choices": [
+        "28 is a composite number",
+        "28 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 27?",
+      "choices": [
+        "27 is a composite number",
+        "27 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 14?",
+      "choices": [
+        "14 is a composite number",
+        "14 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 46?",
+      "choices": [
+        "46 is a composite number",
+        "46 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 29?",
+      "choices": [
+        "29 is a composite number",
+        "29 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 20?",
+      "choices": [
+        "20 is a composite number",
+        "20 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 2?",
+      "choices": [
+        "2 is a composite number",
+        "2 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 48?",
+      "choices": [
+        "48 is a composite number",
+        "48 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 10?",
+      "choices": [
+        "10 is a composite number",
+        "10 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 23?",
+      "choices": [
+        "23 is a composite number",
+        "23 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 33?",
+      "choices": [
+        "33 is a composite number",
+        "33 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 49?",
+      "choices": [
+        "49 is a composite number",
+        "49 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 11?",
+      "choices": [
+        "11 is a composite number",
+        "11 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 24?",
+      "choices": [
+        "24 is a composite number",
+        "24 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 16?",
+      "choices": [
+        "16 is a composite number",
+        "16 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 47?",
+      "choices": [
+        "47 is a composite number",
+        "47 is a prime number",
+        "None of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true of 42?",
+      "choices": [
+        "42 is a composite number",
+        "42 is a prime number",
+        "None of the above"
+      ],
+      "answer": "0"
+    }
+  ]
+}

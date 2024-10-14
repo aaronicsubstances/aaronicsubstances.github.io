@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Is 120 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 140 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 93 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 56 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 91 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 189 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 77 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 142 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 200 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 28 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 161 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 175 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 42 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 168 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 54 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 24 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 63 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 196 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 55 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 7 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 37 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 34 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 50 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 78 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 150 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 119 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 16 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 76 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 17 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Is 134 divisible by 7?",
+      "choices": ["Yes", "No"],
+      "answer": "1"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "extraDescription": "answers are integers",
+  "questions": [
+    {
+      "question": "8 &minus; 11",
+      "answer": "-3"
+    },
+    {
+      "question": "12 &minus; 10",
+      "answer": "2"
+    },
+    {
+      "question": "0 &minus; 0",
+      "answer": "0"
+    },
+    {
+      "question": "11 &minus; 10",
+      "answer": "1"
+    },
+    {
+      "question": "5 &minus; 12",
+      "answer": "-7"
+    },
+    {
+      "question": "12 &minus; 5",
+      "answer": "7"
+    },
+    {
+      "question": "2 &minus; 2",
+      "answer": "0"
+    },
+    {
+      "question": "0 &minus; 2",
+      "answer": "-2"
+    },
+    {
+      "question": "3 &minus; 3",
+      "answer": "0"
+    },
+    {
+      "question": "1 &minus; 1",
+      "answer": "0"
+    },
+    {
+      "question": "7 &minus; 5",
+      "answer": "2"
+    },
+    {
+      "question": "12 &minus; 11",
+      "answer": "1"
+    },
+    {
+      "question": "3 &minus; 12",
+      "answer": "-9"
+    },
+    {
+      "question": "1 &minus; 2",
+      "answer": "-1"
+    },
+    {
+      "question": "4 &minus; 4",
+      "answer": "0"
+    },
+    {
+      "question": "12 &minus; 2",
+      "answer": "10"
+    },
+    {
+      "question": "3 &minus; 1",
+      "answer": "2"
+    },
+    {
+      "question": "12 &minus; 1",
+      "answer": "11"
+    },
+    {
+      "question": "9 &minus; 4",
+      "answer": "5"
+    },
+    {
+      "question": "10 &minus; 7",
+      "answer": "3"
+    },
+    {
+      "question": "0 &minus; 1",
+      "answer": "-1"
+    },
+    {
+      "question": "10 &minus; 3",
+      "answer": "7"
+    },
+    {
+      "question": "11 &minus; 11",
+      "answer": "0"
+    },
+    {
+      "question": "3 &minus; 11",
+      "answer": "-8"
+    },
+    {
+      "question": "7 &minus; 11",
+      "answer": "-4"
+    },
+    {
+      "question": "7 &minus; 1",
+      "answer": "6"
+    },
+    {
+      "question": "5 &minus; 4",
+      "answer": "1"
+    },
+    {
+      "question": "0 &minus; 3",
+      "answer": "-3"
+    },
+    {
+      "question": "10 &minus; 11",
+      "answer": "-1"
+    },
+    {
+      "question": "9 &minus; 10",
+      "answer": "-1"
+    },
+    {
+      "question": "3 &minus; 2",
+      "answer": "1"
+    },
+    {
+      "question": "4 &minus; 8",
+      "answer": "-4"
+    },
+    {
+      "question": "4 &minus; 3",
+      "answer": "1"
+    },
+    {
+      "question": "3 &minus; 6",
+      "answer": "-3"
+    },
+    {
+      "question": "1 &minus; 7",
+      "answer": "-6"
+    },
+    {
+      "question": "3 &minus; 8",
+      "answer": "-5"
+    },
+    {
+      "question": "6 &minus; 5",
+      "answer": "1"
+    },
+    {
+      "question": "12 &minus; 6",
+      "answer": "6"
+    },
+    {
+      "question": "7 &minus; 3",
+      "answer": "4"
+    },
+    {
+      "question": "10 &minus; 1",
+      "answer": "9"
+    },
+    {
+      "question": "9 &minus; 0",
+      "answer": "9"
+    },
+    {
+      "question": "10 &minus; 10",
+      "answer": "0"
+    },
+    {
+      "question": "5 &minus; 8",
+      "answer": "-3"
+    },
+    {
+      "question": "8 &minus; 10",
+      "answer": "-2"
+    },
+    {
+      "question": "0 &minus; 4",
+      "answer": "-4"
+    },
+    {
+      "question": "6 &minus; 2",
+      "answer": "4"
+    },
+    {
+      "question": "10 &minus; 2",
+      "answer": "8"
+    },
+    {
+      "question": "2 &minus; 3",
+      "answer": "-1"
+    },
+    {
+      "question": "4 &minus; 11",
+      "answer": "-7"
+    },
+    {
+      "question": "1 &minus; 9",
+      "answer": "-8"
+    }
+  ]
+}

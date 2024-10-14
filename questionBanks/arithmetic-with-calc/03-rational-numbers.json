@@ -62,7 +62,7 @@
     },
     {
       "question": "\\(\\dfrac{31}{35} \\div 0\\)",
-      "answer": "n/a",
+      "answer": "undefined",
       "numberInputTypes": ["cfr", "mix", "dec"],
       "expectedDenominators": []
     },

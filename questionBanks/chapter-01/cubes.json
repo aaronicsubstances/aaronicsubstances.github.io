@@ -1,0 +1,50 @@
+{
+  "extraDescription": "Recall cubes of 0-10",
+  "randomQuestionCount": 2,
+  "questions": [
+    {
+      "question": "3&sup3;",
+      "answer": "27"
+    },
+    {
+      "question": "7&sup3;",
+      "answer": "343"
+    },
+    {
+      "question": "1&sup3;",
+      "answer": "1"
+    },
+    {
+      "question": "0&sup3;",
+      "answer": "0"
+    },
+    {
+      "question": "5&sup3;",
+      "answer": "125"
+    },
+    {
+      "question": "10&sup3;",
+      "answer": "1000"
+    },
+    {
+      "question": "9&sup3;",
+      "answer": "729"
+    },
+    {
+      "question": "2&sup3;",
+      "answer": "8"
+    },
+    {
+      "question": "8&sup3;",
+      "answer": "512"
+    },
+    {
+      "question": "4&sup3;",
+      "answer": "64"
+    },
+    {
+      "question": "6&sup3;",
+      "answer": "216"
+    }
+  ]
+}
