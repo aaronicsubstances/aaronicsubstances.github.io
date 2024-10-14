@@ -1,0 +1,206 @@
+{
+  "extraDescription": "second operand is never greater than first operand",
+  "inputTimeWaitSecs": 60,
+  "questions": [
+    {
+      "question": "5482 &minus; 2389",
+      "answer": "3093"
+    },
+    {
+      "question": "9488 &minus; 2305",
+      "answer": "7183"
+    },
+    {
+      "question": "4003 &minus; 510",
+      "answer": "3493"
+    },
+    {
+      "question": "2641 &minus; 2640",
+      "answer": "1"
+    },
+    {
+      "question": "8207 &minus; 6374",
+      "answer": "1833"
+    },
+    {
+      "question": "5374 &minus; 5239",
+      "answer": "135"
+    },
+    {
+      "question": "8346 &minus; 4299",
+      "answer": "4047"
+    },
+    {
+      "question": "5066 &minus; 2975",
+      "answer": "2091"
+    },
+    {
+      "question": "4233 &minus; 2265",
+      "answer": "1968"
+    },
+    {
+      "question": "2102 &minus; 278",
+      "answer": "1824"
+    },
+    {
+      "question": "4652 &minus; 3900",
+      "answer": "752"
+    },
+    {
+      "question": "1252 &minus; 188",
+      "answer": "1064"
+    },
+    {
+      "question": "9869 &minus; 4575",
+      "answer": "5294"
+    },
+    {
+      "question": "2578 &minus; 2477",
+      "answer": "101"
+    },
+    {
+      "question": "5874 &minus; 5837",
+      "answer": "37"
+    },
+    {
+      "question": "4201 &minus; 2918",
+      "answer": "1283"
+    },
+    {
+      "question": "6039 &minus; 1080",
+      "answer": "4959"
+    },
+    {
+      "question": "5397 &minus; 3070",
+      "answer": "2327"
+    },
+    {
+      "question": "9457 &minus; 5909",
+      "answer": "3548"
+    },
+    {
+      "question": "6255 &minus; 1766",
+      "answer": "4489"
+    },
+    {
+      "question": "8518 &minus; 5826",
+      "answer": "2692"
+    },
+    {
+      "question": "6369 &minus; 2627",
+      "answer": "3742"
+    },
+    {
+      "question": "5520 &minus; 1119",
+      "answer": "4401"
+    },
+    {
+      "question": "7980 &minus; 5892",
+      "answer": "2088"
+    },
+    {
+      "question": "5182 &minus; 4310",
+      "answer": "872"
+    },
+    {
+      "question": "4699 &minus; 2891",
+      "answer": "1808"
+    },
+    {
+      "question": "9001 &minus; 5321",
+      "answer": "3680"
+    },
+    {
+      "question": "1775 &minus; 1385",
+      "answer": "390"
+    },
+    {
+      "question": "6857 &minus; 855",
+      "answer": "6002"
+    },
+    {
+      "question": "9772 &minus; 6153",
+      "answer": "3619"
+    },
+    {
+      "question": "9354 &minus; 6960",
+      "answer": "2394"
+    },
+    {
+      "question": "5850 &minus; 4371",
+      "answer": "1479"
+    },
+    {
+      "question": "2433 &minus; 1130",
+      "answer": "1303"
+    },
+    {
+      "question": "6913 &minus; 122",
+      "answer": "6791"
+    },
+    {
+      "question": "3259 &minus; 5",
+      "answer": "3254"
+    },
+    {
+      "question": "6768 &minus; 612",
+      "answer": "6156"
+    },
+    {
+      "question": "7077 &minus; 5492",
+      "answer": "1585"
+    },
+    {
+      "question": "6622 &minus; 5081",
+      "answer": "1541"
+    },
+    {
+      "question": "7009 &minus; 4961",
+      "answer": "2048"
+    },
+    {
+      "question": "3055 &minus; 275",
+      "answer": "2780"
+    },
+    {
+      "question": "7026 &minus; 2996",
+      "answer": "4030"
+    },
+    {
+      "question": "5208 &minus; 18",
+      "answer": "5190"
+    },
+    {
+      "question": "7116 &minus; 475",
+      "answer": "6641"
+    },
+    {
+      "question": "1785 &minus; 1437",
+      "answer": "348"
+    },
+    {
+      "question": "9762 &minus; 9176",
+      "answer": "586"
+    },
+    {
+      "question": "8990 &minus; 7630",
+      "answer": "1360"
+    },
+    {
+      "question": "4947 &minus; 787",
+      "answer": "4160"
+    },
+    {
+      "question": "4756 &minus; 1654",
+      "answer": "3102"
+    },
+    {
+      "question": "4358 &minus; 862",
+      "answer": "3496"
+    },
+    {
+      "question": "9352 &minus; 301",
+      "answer": "9051"
+    }
+  ]
+}

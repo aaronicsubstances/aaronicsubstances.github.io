@@ -1,0 +1,405 @@
+{
+  "inputTimeWaitSecs": 120,
+  "questions": [
+    {
+      "question": "441 &times; 56",
+      "answer": "24696"
+    },
+    {
+      "question": "274 &times; 15",
+      "answer": "4110"
+    },
+    {
+      "question": "465 &times; 85",
+      "answer": "39525"
+    },
+    {
+      "question": "7 &times; 121",
+      "answer": "847"
+    },
+    {
+      "question": "147 &times; 84",
+      "answer": "12348"
+    },
+    {
+      "question": "74 &times; 347",
+      "answer": "25678"
+    },
+    {
+      "question": "348 &times; 88",
+      "answer": "30624"
+    },
+    {
+      "question": "58 &times; 364",
+      "answer": "21112"
+    },
+    {
+      "question": "228 &times; 82",
+      "answer": "18696"
+    },
+    {
+      "question": "125 &times; 23",
+      "answer": "2875"
+    },
+    {
+      "question": "359 &times; 6",
+      "answer": "2154"
+    },
+    {
+      "question": "254 &times; 96",
+      "answer": "24384"
+    },
+    {
+      "question": "88 &times; 448",
+      "answer": "39424"
+    },
+    {
+      "question": "26 &times; 58",
+      "answer": "1508"
+    },
+    {
+      "question": "246 &times; 51",
+      "answer": "12546"
+    },
+    {
+      "question": "124 &times; 27",
+      "answer": "3348"
+    },
+    {
+      "question": "31 &times; 444",
+      "answer": "13764"
+    },
+    {
+      "question": "13 &times; 89",
+      "answer": "1157"
+    },
+    {
+      "question": "42 &times; 348",
+      "answer": "14616"
+    },
+    {
+      "question": "58 &times; 311",
+      "answer": "18038"
+    },
+    {
+      "question": "91 &times; 329",
+      "answer": "29939"
+    },
+    {
+      "question": "52 &times; 21",
+      "answer": "1092"
+    },
+    {
+      "question": "1 &times; 270",
+      "answer": "270"
+    },
+    {
+      "question": "21 &times; 414",
+      "answer": "8694"
+    },
+    {
+      "question": "5 &times; 32",
+      "answer": "160"
+    },
+    {
+      "question": "97 &times; 8",
+      "answer": "776"
+    },
+    {
+      "question": "19 &times; 41",
+      "answer": "779"
+    },
+    {
+      "question": "201 &times; 40",
+      "answer": "8040"
+    },
+    {
+      "question": "238 &times; 7",
+      "answer": "1666"
+    },
+    {
+      "question": "146 &times; 64",
+      "answer": "9344"
+    },
+    {
+      "question": "75 &times; 442",
+      "answer": "33150"
+    },
+    {
+      "question": "71 &times; 156",
+      "answer": "11076"
+    },
+    {
+      "question": "445 &times; 79",
+      "answer": "35155"
+    },
+    {
+      "question": "0 &times; 168",
+      "answer": "0"
+    },
+    {
+      "question": "116 &times; 98",
+      "answer": "11368"
+    },
+    {
+      "question": "336 &times; 95",
+      "answer": "31920"
+    },
+    {
+      "question": "28 &times; 155",
+      "answer": "4340"
+    },
+    {
+      "question": "36 &times; 139",
+      "answer": "5004"
+    },
+    {
+      "question": "308 &times; 40",
+      "answer": "12320"
+    },
+    {
+      "question": "151 &times; 92",
+      "answer": "13892"
+    },
+    {
+      "question": "4 &times; 29",
+      "answer": "116"
+    },
+    {
+      "question": "75 &times; 86",
+      "answer": "6450"
+    },
+    {
+      "question": "40 &times; 69",
+      "answer": "2760"
+    },
+    {
+      "question": "18 &times; 307",
+      "answer": "5526"
+    },
+    {
+      "question": "214 &times; 94",
+      "answer": "20116"
+    },
+    {
+      "question": "13 &times; 391",
+      "answer": "5083"
+    },
+    {
+      "question": "150 &times; 11",
+      "answer": "1650"
+    },
+    {
+      "question": "22 &times; 78",
+      "answer": "1716"
+    },
+    {
+      "question": "375 &times; 18",
+      "answer": "6750"
+    },
+    {
+      "question": "48 &times; 84",
+      "answer": "4032"
+    },
+    {
+      "question": "81 &times; 205",
+      "answer": "16605"
+    },
+    {
+      "question": "126 &times; 42",
+      "answer": "5292"
+    },
+    {
+      "question": "449 &times; 78",
+      "answer": "35022"
+    },
+    {
+      "question": "70 &times; 48",
+      "answer": "3360"
+    },
+    {
+      "question": "8 &times; 441",
+      "answer": "3528"
+    },
+    {
+      "question": "8 &times; 98",
+      "answer": "784"
+    },
+    {
+      "question": "180 &times; 85",
+      "answer": "15300"
+    },
+    {
+      "question": "46 &times; 6",
+      "answer": "276"
+    },
+    {
+      "question": "393 &times; 35",
+      "answer": "13755"
+    },
+    {
+      "question": "298 &times; 38",
+      "answer": "11324"
+    },
+    {
+      "question": "239 &times; 46",
+      "answer": "10994"
+    },
+    {
+      "question": "79 &times; 77",
+      "answer": "6083"
+    },
+    {
+      "question": "30 &times; 432",
+      "answer": "12960"
+    },
+    {
+      "question": "312 &times; 20",
+      "answer": "6240"
+    },
+    {
+      "question": "46 &times; 32",
+      "answer": "1472"
+    },
+    {
+      "question": "479 &times; 54",
+      "answer": "25866"
+    },
+    {
+      "question": "75 &times; 117",
+      "answer": "8775"
+    },
+    {
+      "question": "63 &times; 267",
+      "answer": "16821"
+    },
+    {
+      "question": "294 &times; 39",
+      "answer": "11466"
+    },
+    {
+      "question": "216 &times; 66",
+      "answer": "14256"
+    },
+    {
+      "question": "32 &times; 450",
+      "answer": "14400"
+    },
+    {
+      "question": "69 &times; 6",
+      "answer": "414"
+    },
+    {
+      "question": "80 &times; 50",
+      "answer": "4000"
+    },
+    {
+      "question": "60 &times; 407",
+      "answer": "24420"
+    },
+    {
+      "question": "7 &times; 108",
+      "answer": "756"
+    },
+    {
+      "question": "59 &times; 305",
+      "answer": "17995"
+    },
+    {
+      "question": "436 &times; 42",
+      "answer": "18312"
+    },
+    {
+      "question": "104 &times; 48",
+      "answer": "4992"
+    },
+    {
+      "question": "55 &times; 72",
+      "answer": "3960"
+    },
+    {
+      "question": "22 &times; 13",
+      "answer": "286"
+    },
+    {
+      "question": "30 &times; 11",
+      "answer": "330"
+    },
+    {
+      "question": "303 &times; 37",
+      "answer": "11211"
+    },
+    {
+      "question": "435 &times; 62",
+      "answer": "26970"
+    },
+    {
+      "question": "483 &times; 79",
+      "answer": "38157"
+    },
+    {
+      "question": "30 &times; 98",
+      "answer": "2940"
+    },
+    {
+      "question": "58 &times; 2",
+      "answer": "116"
+    },
+    {
+      "question": "133 &times; 84",
+      "answer": "11172"
+    },
+    {
+      "question": "378 &times; 2",
+      "answer": "756"
+    },
+    {
+      "question": "69 &times; 287",
+      "answer": "19803"
+    },
+    {
+      "question": "88 &times; 6",
+      "answer": "528"
+    },
+    {
+      "question": "99 &times; 51",
+      "answer": "5049"
+    },
+    {
+      "question": "88 &times; 416",
+      "answer": "36608"
+    },
+    {
+      "question": "454 &times; 38",
+      "answer": "17252"
+    },
+    {
+      "question": "11 &times; 444",
+      "answer": "4884"
+    },
+    {
+      "question": "118 &times; 68",
+      "answer": "8024"
+    },
+    {
+      "question": "57 &times; 275",
+      "answer": "15675"
+    },
+    {
+      "question": "186 &times; 99",
+      "answer": "18414"
+    },
+    {
+      "question": "40 &times; 20",
+      "answer": "800"
+    },
+    {
+      "question": "34 &times; 85",
+      "answer": "2890"
+    },
+    {
+      "question": "396 &times; 59",
+      "answer": "23364"
+    }
+  ]
+}

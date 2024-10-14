@@ -146,6 +146,31 @@
       ]
     },
     {
+      "title": "Arithmetic Algorithms I (for manual practice)",
+      "links": [
+        {
+          "title": "Addition",
+          "questionBankUrl": "chapter-01/addition-alg-exercises"
+        },
+        {
+          "title": "Subtraction Part 1",
+          "questionBankUrl": "chapter-01/subtraction-alg-exercises-01"
+        },
+        {
+          "title": "Subtraction Part 2",
+          "questionBankUrl": "chapter-01/subtraction-alg-exercises-02"
+        },
+        {
+          "title": "Multiplication",
+          "questionBankUrl": "chapter-01/multiplication-alg-exercises"
+        },
+        {
+          "title": "Division",
+          "questionBankUrl": "chapter-01/division-alg-exercises"
+        }
+      ]
+    },
+    {
       "title": "Recalling Arithmetic Procedures for Non-Whole Numbers",
       "links": [
         {
