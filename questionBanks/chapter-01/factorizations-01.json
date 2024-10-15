@@ -8,12 +8,12 @@
     },
     {
       "question": "Express 14 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "14,0,7,2"
     },
     {
       "question": "Express 24 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "24,0,12,2,8,3,6,4"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "question": "Express 23 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "23,0,23,1"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "question": "Express 13 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "13,0,13,1"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "question": "Express 25 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "25,0,5,5"
     },
     {
@@ -143,17 +143,17 @@
     },
     {
       "question": "Express 20 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "20,0,10,2,5,4"
     },
     {
       "question": "Express 4 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "4,0,2,2"
     },
     {
       "question": "Express 5 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "5,0,5,1"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "question": "Express 21 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "21,0,7,3"
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "question": "Express 19 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "19,0,19,1"
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "question": "Express 16 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "16,0,8,2,4,4"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "question": "Express 8 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "8,0,4,2"
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "question": "Express 3 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "3,0,3,1"
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "question": "Express 6 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "6,0,3,2"
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "question": "Express 1 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "1,0,1,1"
     },
     {
@@ -303,17 +303,17 @@
     },
     {
       "question": "Express 2 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "2,0,2,1"
     },
     {
       "question": "Express 18 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "18,0,9,2,6,3"
     },
     {
       "question": "Express 9 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "9,0,3,3"
     },
     {
@@ -328,12 +328,12 @@
     },
     {
       "question": "Express 11 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "11,0,11,1"
     },
     {
       "question": "Express 15 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "15,0,5,3"
     },
     {
@@ -358,12 +358,12 @@
     },
     {
       "question": "Express 22 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "22,0,11,2"
     },
     {
       "question": "Express 17 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "17,0,17,1"
     },
     {
@@ -378,17 +378,17 @@
     },
     {
       "question": "Express 10 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "10,0,5,2"
     },
     {
       "question": "Express 7 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "7,0,7,1"
     },
     {
       "question": "Express 12 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["product"],
+      "numberInputTypes": ["fac"],
       "answer": "12,0,6,2,4,3"
     }
   ]
