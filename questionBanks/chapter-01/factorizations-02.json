@@ -1,0 +1,295 @@
+{
+  "extraDescription": "for numbers in 26-50",
+  "questions": [
+    {
+      "question": "Express 47 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "47,0,47,1"
+    },
+    {
+      "question": "29 &times; 3",
+      "answer": "87",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "31 &times; 3",
+      "answer": "93",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "41 &times; 2",
+      "answer": "82",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 37 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "37,0,37,1"
+    },
+    {
+      "question": "Express 32 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "32,1,8,4"
+    },
+    {
+      "question": "Express 46 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "46,0,23,2"
+    },
+    {
+      "question": "Express 33 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "33,0,11,3"
+    },
+    {
+      "question": "40 &times; 2",
+      "answer": "80",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "42 &times; 2",
+      "answer": "84",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "39 &times; 2",
+      "answer": "78",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "27 &times; 2",
+      "answer": "54",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "28 &times; 3",
+      "answer": "84",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 28 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "28,1,7,4"
+    },
+    {
+      "question": "Express 39 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "39,0,13,3"
+    },
+    {
+      "question": "28 &times; 2",
+      "answer": "56",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "30 &times; 2",
+      "answer": "60",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "32 &times; 2",
+      "answer": "64",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "38 &times; 2",
+      "answer": "76",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "35 &times; 2",
+      "answer": "70",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 29 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "29,0,29,1"
+    },
+    {
+      "question": "Express 50 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "50,1,10,5"
+    },
+    {
+      "question": "47 &times; 2",
+      "answer": "94",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 27 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "27,0,9,3"
+    },
+    {
+      "question": "46 &times; 2",
+      "answer": "92",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 36 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "36,1,12,3,9,4,6,6"
+    },
+    {
+      "question": "50 &times; 2",
+      "answer": "100",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "33 &times; 3",
+      "answer": "99",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "48 &times; 2",
+      "answer": "96",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "34 &times; 2",
+      "answer": "68",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "26 &times; 2",
+      "answer": "52",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "43 &times; 2",
+      "answer": "86",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 48 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "48,1,12,4,8,6"
+    },
+    {
+      "question": "Express 30 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "30,1,10,3,6,5"
+    },
+    {
+      "question": "Express 49 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "49,0,7,7"
+    },
+    {
+      "question": "31 &times; 2",
+      "answer": "62",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "30 &times; 3",
+      "answer": "90",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 35 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "35,0,7,5"
+    },
+    {
+      "question": "27 &times; 3",
+      "answer": "81",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "49 &times; 2",
+      "answer": "98",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 34 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "34,0,17,2"
+    },
+    {
+      "question": "33 &times; 2",
+      "answer": "66",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "26 &times; 3",
+      "answer": "78",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 31 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "31,0,31,1"
+    },
+    {
+      "question": "Express 44 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "44,1,11,4"
+    },
+    {
+      "question": "Express 40 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "40,1,10,4,8,5"
+    },
+    {
+      "question": "29 &times; 2",
+      "answer": "58",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "44 &times; 2",
+      "answer": "88",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "36 &times; 2",
+      "answer": "72",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 38 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "38,0,19,2"
+    },
+    {
+      "question": "Express 45 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "45,1,9,5"
+    },
+    {
+      "question": "Express 43 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "43,0,43,1"
+    },
+    {
+      "question": "45 &times; 2",
+      "answer": "90",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 41 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "41,0,41,1"
+    },
+    {
+      "question": "Express 26 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "26,0,13,2"
+    },
+    {
+      "question": "37 &times; 2",
+      "answer": "74",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 42 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["product"],
+      "answer": "42,1,7,6"
+    },
+    {
+      "question": "32 &times; 3",
+      "answer": "96",
+      "expectedDenominators": [0]
+    }
+  ]
+}

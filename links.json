@@ -75,6 +75,27 @@
       ]
     },
     {
+      "title": "Factorization I",
+      "links": [
+        {
+          "title": "Part 1",
+          "questionBankUrl": "chapter-01/factorizations-01"
+        },
+        {
+          "title": "Part 2",
+          "questionBankUrl": "chapter-01/factorizations-02"
+        },
+        {
+          "title": "Part 3",
+          "questionBankUrl": "chapter-01/factorizations-03"
+        },
+        {
+          "title": "Part 4",
+          "questionBankUrl": "chapter-01/factorizations-04"
+        }
+      ]
+    },
+    {
       "title": "Division I",
       "links": [
         {
