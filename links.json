@@ -4,29 +4,33 @@
       "title": "C1 - Addition",
       "links": [
         {
-          "title": "Part 1",
+          "title": "Addition Part 1",
           "questionBankUrl": "whole-numbers-1/addition-01"
         },
         {
-          "title": "Part 2",
+          "title": "Addition Part 2",
           "questionBankUrl": "whole-numbers-1/addition-02"
         },
         {
-          "title": "Part 3",
+          "title": "Addition Part 3",
           "questionBankUrl": "whole-numbers-1/addition-03"
         }
       ]
     },
     {
-      "title": "C1 - Subtraction",
+      "title": "C1 - Subtraction and Comparisons",
       "links": [
         {
-          "title": "Part 1",
+          "title": "Subtraction Part 1",
           "questionBankUrl": "whole-numbers-1/subtraction-01"
         },
         {
-          "title": "Part 2",
+          "title": "Subtraction Part 2",
           "questionBankUrl": "whole-numbers-1/subtraction-02"
+        },
+        {
+          "title": "Comparison of Whole Numbers",
+          "questionBankUrl": "whole-numbers-1/comparisons"
         }
       ]
     },
@@ -49,23 +53,23 @@
       "title": "C2 - Multiplication",
       "links": [
         {
-          "title": "Part 1",
+          "title": "Multiplication Part 1",
           "questionBankUrl": "whole-numbers-2/multiplication-01"
         },
         {
-          "title": "Part 2",
+          "title": "Multiplication Part 2",
           "questionBankUrl": "whole-numbers-2/multiplication-02"
         },
         {
-          "title": "Part 3",
+          "title": "Multiplication Part 3",
           "questionBankUrl": "whole-numbers-2/multiplication-03"
         },
         {
-          "title": "Part 4",
+          "title": "Multiplication Part 4",
           "questionBankUrl": "whole-numbers-2/multiplication-04"
         },
         {
-          "title": "Part 5",
+          "title": "Multiplication Part 5",
           "questionBankUrl": "whole-numbers-2/multiplication-05",
           "description": "12 times table"
         }
@@ -88,19 +92,19 @@
       "title": "C2 - Factorization",
       "links": [
         {
-          "title": "Part 1",
+          "title": "Factorization Part 1",
           "questionBankUrl": "whole-numbers-2/factorizations-01"
         },
         {
-          "title": "Part 2",
+          "title": "Factorization Part 2",
           "questionBankUrl": "whole-numbers-2/factorizations-02"
         },
         {
-          "title": "Part 3",
+          "title": "Factorization Part 3",
           "questionBankUrl": "whole-numbers-2/factorizations-03"
         },
         {
-          "title": "Part 4",
+          "title": "Factorization Part 4",
           "questionBankUrl": "whole-numbers-2/factorizations-04"
         }
       ]
@@ -109,11 +113,11 @@
       "title": "C2 - Division",
       "links": [
         {
-          "title": "Part 1",
+          "title": "Division Part 1",
           "questionBankUrl": "whole-numbers-2/division-01"
         },
         {
-          "title": "Part 2",
+          "title": "Division Part 2",
           "questionBankUrl": "whole-numbers-2/division-02"
         }
       ]
@@ -152,6 +156,10 @@
           "title": "Addition and Subtraction of Large Integers",
           "questionBankUrl": "integers/add-sub-practice",
           "description": "Intended for manual practice"
+        },
+        {
+          "title": "Comparison of Integers",
+          "questionBankUrl": "integers/comparisons"
         },
         {
           "title": "Multiplication of Integers",
@@ -213,19 +221,19 @@
       "title": "C4 - Prime and Composite Numbers",
       "links": [
         {
-          "title": "Part 1",
+          "title": "Primality Test Part 1",
           "questionBankUrl": "divisibility/primality-test-01"
         },
         {
-          "title": "Part 2",
+          "title": "Primality Test Part 2",
           "questionBankUrl": "divisibility/primality-test-02"
         },
         {
-          "title": "Part 3",
+          "title": "Primality Test Part 3",
           "questionBankUrl": "divisibility/primality-test-03"
         },
         {
-          "title": "Part 4",
+          "title": "Primality Test Part 4",
           "questionBankUrl": "divisibility/primality-test-04"
         }
       ]
