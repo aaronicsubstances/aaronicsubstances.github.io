@@ -1,5 +1,5 @@
 {
-  "extraDescription": "second operand may be greater than first operand",
+  "extraDescription": "NB: second operand may be greater than first operand",
   "openingRemarks": "NB: You can enter 'U' or 'unexpected' for results which are not expected or defined",
   "questions": [
     {

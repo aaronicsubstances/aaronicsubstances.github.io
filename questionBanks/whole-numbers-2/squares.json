@@ -1,5 +1,5 @@
 {
-  "extraDescription": "Recall squares of 0-20",
+  "extraDescription": "for numbers in 0-20",
   "randomQuestionCount": 3,
   "questions": [
     {

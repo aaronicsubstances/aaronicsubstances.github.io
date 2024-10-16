@@ -1,193 +1,232 @@
 {
   "sections": [
     {
-      "title": "Addition I",
+      "title": "C1 - Addition",
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "chapter-01/addition-01"
+          "questionBankUrl": "whole-numbers-1/addition-01"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "chapter-01/addition-02"
+          "questionBankUrl": "whole-numbers-1/addition-02"
         },
         {
           "title": "Part 3",
-          "questionBankUrl": "chapter-01/addition-03"
+          "questionBankUrl": "whole-numbers-1/addition-03"
         }
       ]
     },
     {
-      "title": "Multiplication I",
+      "title": "C1 - Subtraction",
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "chapter-01/multiplication-01"
+          "questionBankUrl": "whole-numbers-1/subtraction-01"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "chapter-01/multiplication-02"
+          "questionBankUrl": "whole-numbers-1/subtraction-02"
+        }
+      ]
+    },
+    {
+      "title": "C1 - Addition and Subtraction Procedures",
+      "links": [
+        {
+          "title": "Addition of Whole Numbers",
+          "questionBankUrl": "whole-numbers-1/addition-alg-exercises",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Subtraction of Whole Numbers",
+          "questionBankUrl": "whole-numbers-1/subtraction-alg-exercises",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C2 - Multiplication",
+      "links": [
+        {
+          "title": "Part 1",
+          "questionBankUrl": "whole-numbers-2/multiplication-01"
+        },
+        {
+          "title": "Part 2",
+          "questionBankUrl": "whole-numbers-2/multiplication-02"
         },
         {
           "title": "Part 3",
-          "questionBankUrl": "chapter-01/multiplication-03"
+          "questionBankUrl": "whole-numbers-2/multiplication-03"
         },
         {
           "title": "Part 4",
-          "questionBankUrl": "chapter-01/multiplication-04"
+          "questionBankUrl": "whole-numbers-2/multiplication-04"
         },
         {
           "title": "Part 5",
-          "description": "12 times table",
-          "questionBankUrl": "chapter-01/multiplication-05"
+          "questionBankUrl": "whole-numbers-2/multiplication-05",
+          "description": "12 times table"
         }
       ]
     },
     {
-      "title": "Squares and Cubes I",
+      "title": "C2 - Squares and Cubes",
       "links": [
         {
           "title": "Squares",
-          "questionBankUrl": "chapter-01/squares"
+          "questionBankUrl": "whole-numbers-2/squares"
         },
         {
           "title": "Cubes",
-          "questionBankUrl": "chapter-01/cubes"
+          "questionBankUrl": "whole-numbers-2/cubes"
         }
       ]
     },
     {
-      "title": "Subtraction I",
+      "title": "C2 - Factorization",
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "chapter-01/subtraction-01"
+          "questionBankUrl": "whole-numbers-2/factorizations-01"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "chapter-01/subtraction-02"
+          "questionBankUrl": "whole-numbers-2/factorizations-02"
         },
         {
           "title": "Part 3",
-          "questionBankUrl": "chapter-01/subtraction-03",
-          "description": "An introduction to integers"
-        }
-      ]
-    },
-    {
-      "title": "Factorization I",
-      "links": [
-        {
-          "title": "Part 1",
-          "questionBankUrl": "chapter-01/factorizations-01"
-        },
-        {
-          "title": "Part 2",
-          "questionBankUrl": "chapter-01/factorizations-02"
-        },
-        {
-          "title": "Part 3",
-          "questionBankUrl": "chapter-01/factorizations-03"
+          "questionBankUrl": "whole-numbers-2/factorizations-03"
         },
         {
           "title": "Part 4",
-          "questionBankUrl": "chapter-01/factorizations-04"
+          "questionBankUrl": "whole-numbers-2/factorizations-04"
         }
       ]
     },
     {
-      "title": "Division I",
+      "title": "C2 - Division",
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "chapter-01/division-01"
+          "questionBankUrl": "whole-numbers-2/division-01"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "chapter-01/division-02"
+          "questionBankUrl": "whole-numbers-2/division-02"
         }
       ]
     },
     {
-      "title": "Divisibility Tests I",
+      "title": "C2 - Procedures for Multiplication and Division",
+      "links": [
+        {
+          "title": "Multiplication of Whole Numbers",
+          "questionBankUrl": "whole-numbers-2/multiplication-alg-exercises",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Division of Whole Numbers",
+          "questionBankUrl": "whole-numbers-2/division-alg-exercises",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C3 - Integers",
+      "links": [
+        {
+          "title": "Subtraction which yields Integers",
+          "questionBankUrl": "integers/full-subtraction"
+        },
+        {
+          "title": "Addition and Subtraction of Integers (Part 1)",
+          "questionBankUrl": "integers/add-and-sub-01"
+        },
+        {
+          "title": "Addition and Subtraction of Integers (Part 2)",
+          "questionBankUrl": "integers/add-and-sub-02"
+        },
+        {
+          "title": "Addition and Subtraction of Large Integers",
+          "questionBankUrl": "integers/add-sub-practice",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Multiplication of Integers",
+          "questionBankUrl": "integers/multiplication-01"
+        },
+        {
+          "title": "Division of Integers (Part 1)",
+          "questionBankUrl": "integers/division-01"
+        },
+        {
+          "title": "Division of Integers (Part 2)",
+          "questionBankUrl": "integers/division-02"
+        },
+        {
+          "title": "Multiplication and Division of Large Integers",
+          "questionBankUrl": "integers/mul-div-practice",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C4 - Divisibility Tests",
       "links": [
         {
           "title": "Divisibility by 10",
-          "questionBankUrl": "chapter-01/divisibility-test-by-10"
+          "questionBankUrl": "divisibility/divisibility-test-by-10"
         },
         {
           "title": "Divisibility by 5",
-          "questionBankUrl": "chapter-01/divisibility-test-by-5"
+          "questionBankUrl": "divisibility/divisibility-test-by-5"
         },
         {
           "title": "Divisibility by 2",
-          "questionBankUrl": "chapter-01/divisibility-test-by-2"
+          "questionBankUrl": "divisibility/divisibility-test-by-2"
         },
         {
           "title": "Divisibility by 3",
-          "questionBankUrl": "chapter-01/divisibility-test-by-3"
+          "questionBankUrl": "divisibility/divisibility-test-by-3"
         },
         {
           "title": "Divisibility by 9",
-          "questionBankUrl": "chapter-01/divisibility-test-by-9"
+          "questionBankUrl": "divisibility/divisibility-test-by-9"
         },
         {
           "title": "Divisibility by 11",
-          "questionBankUrl": "chapter-01/divisibility-test-by-11"
+          "questionBankUrl": "divisibility/divisibility-test-by-11"
         },
         {
           "title": "Divisibility by 7",
-          "questionBankUrl": "chapter-01/divisibility-test-by-7"
+          "questionBankUrl": "divisibility/divisibility-test-by-7"
         },
         {
-          "title": "General Test",
-          "questionBankUrl": "chapter-01/divisibility-test-across-divisors"
+          "title": "Divisibility by 2-11",
+          "questionBankUrl": "divisibility/divisibility-test-across-divisors"
         }
       ]
     },
     {
-      "title": "Prime and Composite Numbers I",
+      "title": "C4 - Prime and Composite Numbers",
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "chapter-01/primality-test-01"
+          "questionBankUrl": "divisibility/primality-test-01"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "chapter-01/primality-test-02"
+          "questionBankUrl": "divisibility/primality-test-02"
         },
         {
           "title": "Part 3",
-          "questionBankUrl": "chapter-01/primality-test-03"
+          "questionBankUrl": "divisibility/primality-test-03"
         },
         {
           "title": "Part 4",
-          "questionBankUrl": "chapter-01/primality-test-04"
-        }
-      ]
-    },
-    {
-      "title": "Arithmetic Algorithms I (for manual practice)",
-      "links": [
-        {
-          "title": "Addition",
-          "questionBankUrl": "chapter-01/addition-alg-exercises"
-        },
-        {
-          "title": "Subtraction Part 1",
-          "questionBankUrl": "chapter-01/subtraction-alg-exercises-01"
-        },
-        {
-          "title": "Subtraction Part 2",
-          "questionBankUrl": "chapter-01/subtraction-alg-exercises-02"
-        },
-        {
-          "title": "Multiplication",
-          "questionBankUrl": "chapter-01/multiplication-alg-exercises"
-        },
-        {
-          "title": "Division",
-          "questionBankUrl": "chapter-01/division-alg-exercises"
+          "questionBankUrl": "divisibility/primality-test-04"
         }
       ]
     },
@@ -196,12 +235,12 @@
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "chapter-02/01-fraction-procedure-recall",
+          "questionBankUrl": "fractions-1/01-fraction-procedure-recall",
           "description": "Recalling Fraction Arithmetic Procedures"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "chapter-02/02-arithmetic-outcomes",
+          "questionBankUrl": "fractions-2/02-arithmetic-outcomes",
           "description": "Recalling Arithmetic Outcomes"
         }
       ]

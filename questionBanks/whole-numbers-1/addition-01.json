@@ -1,5 +1,5 @@
 {
-  "extraDescription": "each operand is in 0-5",
+  "extraDescription": "NB: each operand is in 0-5",
   "questions": [
     {
       "question": "1 + 1",

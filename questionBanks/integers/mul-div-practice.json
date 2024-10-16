@@ -1,0 +1,918 @@
+{
+  "inputTimeWaitSecs": 120,
+  "questions": [
+    {
+      "question": "84 &times; 454",
+      "answer": "38136"
+    },
+    {
+      "question": "-5304 &#xF7; 7",
+      "answer": "-5304/7",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "345 &times; 90",
+      "answer": "31050"
+    },
+    {
+      "question": "4245 &#xF7; -2",
+      "answer": "-4245/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-12 &times; 221",
+      "answer": "-2652"
+    },
+    {
+      "question": "-7049 &#xF7; -9",
+      "answer": "7049/9",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "1396 &#xF7; 16",
+      "answer": "349/4",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-5248 &#xF7; 10",
+      "answer": "-2624/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-59 &times; 267",
+      "answer": "-15753"
+    },
+    {
+      "question": "8020 &#xF7; 3",
+      "answer": "8020/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-87 &times; 119",
+      "answer": "-10353"
+    },
+    {
+      "question": "8 &times; -9",
+      "answer": "-72"
+    },
+    {
+      "question": "45 &times; -432",
+      "answer": "-19440"
+    },
+    {
+      "question": "-480 &times; -53",
+      "answer": "25440"
+    },
+    {
+      "question": "-8025 &#xF7; 3",
+      "answer": "-2675",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-151 &times; 44",
+      "answer": "-6644"
+    },
+    {
+      "question": "-2899 &#xF7; 10",
+      "answer": "-2899/10",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-97 &times; 333",
+      "answer": "-32301"
+    },
+    {
+      "question": "-66 &times; -73",
+      "answer": "4818"
+    },
+    {
+      "question": "515 &#xF7; 12",
+      "answer": "515/12",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "755 &#xF7; 3",
+      "answer": "755/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-23 &times; 261",
+      "answer": "-6003"
+    },
+    {
+      "question": "197 &times; 87",
+      "answer": "17139"
+    },
+    {
+      "question": "-44 &times; 109",
+      "answer": "-4796"
+    },
+    {
+      "question": "-70 &times; 274",
+      "answer": "-19180"
+    },
+    {
+      "question": "-4540 &#xF7; 14",
+      "answer": "-2270/7",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-2676 &#xF7; -9",
+      "answer": "892/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "2939 &#xF7; 3",
+      "answer": "2939/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-9170 &#xF7; 3",
+      "answer": "-9170/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "21 &times; -82",
+      "answer": "-1722"
+    },
+    {
+      "question": "457 &times; 11",
+      "answer": "5027"
+    },
+    {
+      "question": "6563 &#xF7; 14",
+      "answer": "6563/14",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "337 &times; 73",
+      "answer": "24601"
+    },
+    {
+      "question": "2796 &#xF7; 4",
+      "answer": "699",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-4278 &#xF7; 12",
+      "answer": "-713/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "566 &#xF7; 2",
+      "answer": "283",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "6333 &#xF7; 16",
+      "answer": "6333/16",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "9664 &#xF7; -14",
+      "answer": "-4832/7",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-16 &times; -10",
+      "answer": "160"
+    },
+    {
+      "question": "80 &times; -296",
+      "answer": "-23680"
+    },
+    {
+      "question": "-35 &times; -38",
+      "answer": "1330"
+    },
+    {
+      "question": "7250 &#xF7; -10",
+      "answer": "-725",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "2341 &#xF7; 8",
+      "answer": "2341/8",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "96 &times; -314",
+      "answer": "-30144"
+    },
+    {
+      "question": "2384 &#xF7; -10",
+      "answer": "-1192/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "30 &times; 16",
+      "answer": "480"
+    },
+    {
+      "question": "343 &times; -62",
+      "answer": "-21266"
+    },
+    {
+      "question": "59 &times; 492",
+      "answer": "29028"
+    },
+    {
+      "question": "-6 &times; 57",
+      "answer": "-342"
+    },
+    {
+      "question": "9679 &#xF7; -12",
+      "answer": "-9679/12",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-62 &times; -36",
+      "answer": "2232"
+    },
+    {
+      "question": "-131 &times; 95",
+      "answer": "-12445"
+    },
+    {
+      "question": "-13 &times; 75",
+      "answer": "-975"
+    },
+    {
+      "question": "-9613 &#xF7; 14",
+      "answer": "-9613/14",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "83 &times; -208",
+      "answer": "-17264"
+    },
+    {
+      "question": "1044 &#xF7; -3",
+      "answer": "-348",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-56 &times; -303",
+      "answer": "16968"
+    },
+    {
+      "question": "-56 &times; -13",
+      "answer": "728"
+    },
+    {
+      "question": "6028 &#xF7; -12",
+      "answer": "-1507/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-45 &times; -241",
+      "answer": "10845"
+    },
+    {
+      "question": "319 &times; -53",
+      "answer": "-16907"
+    },
+    {
+      "question": "-9392 &#xF7; -5",
+      "answer": "9392/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "393 &times; 42",
+      "answer": "16506"
+    },
+    {
+      "question": "-36 &times; 76",
+      "answer": "-2736"
+    },
+    {
+      "question": "-6125 &#xF7; 14",
+      "answer": "-875/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-59 &times; 316",
+      "answer": "-18644"
+    },
+    {
+      "question": "-29 &times; 382",
+      "answer": "-11078"
+    },
+    {
+      "question": "33 &times; 131",
+      "answer": "4323"
+    },
+    {
+      "question": "-6094 &#xF7; -14",
+      "answer": "3047/7",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "88 &times; 14",
+      "answer": "1232"
+    },
+    {
+      "question": "138 &times; 51",
+      "answer": "7038"
+    },
+    {
+      "question": "-51 &times; -20",
+      "answer": "1020"
+    },
+    {
+      "question": "416 &times; 95",
+      "answer": "39520"
+    },
+    {
+      "question": "-3121 &#xF7; 3",
+      "answer": "-3121/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-80 &times; 310",
+      "answer": "-24800"
+    },
+    {
+      "question": "8416 &#xF7; 6",
+      "answer": "4208/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "42 &times; -208",
+      "answer": "-8736"
+    },
+    {
+      "question": "-1460 &#xF7; 2",
+      "answer": "-730",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "562 &#xF7; -11",
+      "answer": "-562/11",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "2182 &#xF7; 15",
+      "answer": "2182/15",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "143 &times; -73",
+      "answer": "-10439"
+    },
+    {
+      "question": "-82 &times; -66",
+      "answer": "5412"
+    },
+    {
+      "question": "9551 &#xF7; 14",
+      "answer": "9551/14",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "8015 &#xF7; 10",
+      "answer": "1603/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "56 &times; 324",
+      "answer": "18144"
+    },
+    {
+      "question": "-15 &times; -53",
+      "answer": "795"
+    },
+    {
+      "question": "43 &times; -233",
+      "answer": "-10019"
+    },
+    {
+      "question": "-1888 &#xF7; 10",
+      "answer": "-944/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-279 &times; 47",
+      "answer": "-13113"
+    },
+    {
+      "question": "297 &times; -34",
+      "answer": "-10098"
+    },
+    {
+      "question": "-3528 &#xF7; 14",
+      "answer": "-252",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "49 &times; -27",
+      "answer": "-1323"
+    },
+    {
+      "question": "-7587 &#xF7; -15",
+      "answer": "2529/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-8089 &#xF7; 9",
+      "answer": "-8089/9",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "152 &times; -80",
+      "answer": "-12160"
+    },
+    {
+      "question": "-100 &times; 444",
+      "answer": "-44400"
+    },
+    {
+      "question": "-3916 &#xF7; 16",
+      "answer": "-979/4",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "467 &times; -46",
+      "answer": "-21482"
+    },
+    {
+      "question": "-8171 &#xF7; -10",
+      "answer": "8171/10",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-432 &times; -8",
+      "answer": "3456"
+    },
+    {
+      "question": "9159 &#xF7; -4",
+      "answer": "-9159/4",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-7159 &#xF7; -2",
+      "answer": "7159/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-68 &times; -88",
+      "answer": "5984"
+    },
+    {
+      "question": "-9857 &#xF7; 6",
+      "answer": "-9857/6",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "9870 &#xF7; 7",
+      "answer": "1410",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "8680 &#xF7; 4",
+      "answer": "2170",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-23 &times; -395",
+      "answer": "9085"
+    },
+    {
+      "question": "-9521 &#xF7; 15",
+      "answer": "-9521/15",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-47 &times; 346",
+      "answer": "-16262"
+    },
+    {
+      "question": "9623 &#xF7; 10",
+      "answer": "9623/10",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-6980 &#xF7; -10",
+      "answer": "698",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-68 &times; -112",
+      "answer": "7616"
+    },
+    {
+      "question": "9245 &#xF7; 2",
+      "answer": "9245/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-375 &times; 63",
+      "answer": "-23625"
+    },
+    {
+      "question": "-8986 &#xF7; 11",
+      "answer": "-8986/11",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-3403 &#xF7; -4",
+      "answer": "3403/4",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "6659 &#xF7; 15",
+      "answer": "6659/15",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "7107 &#xF7; 15",
+      "answer": "2369/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-2089 &#xF7; -9",
+      "answer": "2089/9",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "30 &times; 350",
+      "answer": "10500"
+    },
+    {
+      "question": "-7573 &#xF7; 16",
+      "answer": "-7573/16",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "448 &times; 77",
+      "answer": "34496"
+    },
+    {
+      "question": "-87 &times; -233",
+      "answer": "20271"
+    },
+    {
+      "question": "8 &times; -38",
+      "answer": "-304"
+    },
+    {
+      "question": "4548 &#xF7; -4",
+      "answer": "-1137",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-7582 &#xF7; 12",
+      "answer": "-3791/6",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-4194 &#xF7; 13",
+      "answer": "-4194/13",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "391 &times; -16",
+      "answer": "-6256"
+    },
+    {
+      "question": "1469 &#xF7; 15",
+      "answer": "1469/15",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-202 &#xF7; -4",
+      "answer": "101/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-71 &times; 286",
+      "answer": "-20306"
+    },
+    {
+      "question": "857 &#xF7; 8",
+      "answer": "857/8",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-471 &times; 75",
+      "answer": "-35325"
+    },
+    {
+      "question": "81 &times; -295",
+      "answer": "-23895"
+    },
+    {
+      "question": "51 &times; -335",
+      "answer": "-17085"
+    },
+    {
+      "question": "125 &times; -63",
+      "answer": "-7875"
+    },
+    {
+      "question": "404 &times; -69",
+      "answer": "-27876"
+    },
+    {
+      "question": "-343 &times; 50",
+      "answer": "-17150"
+    },
+    {
+      "question": "36 &times; -278",
+      "answer": "-10008"
+    },
+    {
+      "question": "-344 &times; 24",
+      "answer": "-8256"
+    },
+    {
+      "question": "-5871 &#xF7; -5",
+      "answer": "5871/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-28 &times; -168",
+      "answer": "4704"
+    },
+    {
+      "question": "-919 &#xF7; 14",
+      "answer": "-919/14",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "2681 &#xF7; 5",
+      "answer": "2681/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-425 &times; 71",
+      "answer": "-30175"
+    },
+    {
+      "question": "-4864 &#xF7; -13",
+      "answer": "4864/13",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "7435 &#xF7; -10",
+      "answer": "-1487/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "332 &times; -45",
+      "answer": "-14940"
+    },
+    {
+      "question": "8 &times; 60",
+      "answer": "480"
+    },
+    {
+      "question": "9723 &#xF7; 11",
+      "answer": "9723/11",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "8583 &#xF7; 2",
+      "answer": "8583/2",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-7613 &#xF7; -13",
+      "answer": "7613/13",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-77 &times; 40",
+      "answer": "-3080"
+    },
+    {
+      "question": "-3431 &#xF7; 7",
+      "answer": "-3431/7",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "5707 &#xF7; 12",
+      "answer": "5707/12",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "4754 &#xF7; -10",
+      "answer": "-2377/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-4024 &#xF7; 12",
+      "answer": "-1006/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-72 &times; -477",
+      "answer": "34344"
+    },
+    {
+      "question": "198 &times; -17",
+      "answer": "-3366"
+    },
+    {
+      "question": "-3032 &#xF7; 3",
+      "answer": "-3032/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-12 &times; 79",
+      "answer": "-948"
+    },
+    {
+      "question": "270 &times; 39",
+      "answer": "10530"
+    },
+    {
+      "question": "210 &times; 6",
+      "answer": "1260"
+    },
+    {
+      "question": "-6054 &#xF7; -15",
+      "answer": "2018/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "237 &times; 8",
+      "answer": "1896"
+    },
+    {
+      "question": "-25 &times; -85",
+      "answer": "2125"
+    },
+    {
+      "question": "-6755 &#xF7; -3",
+      "answer": "6755/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-4064 &#xF7; 16",
+      "answer": "-254",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "-148 &times; -53",
+      "answer": "7844"
+    },
+    {
+      "question": "-24 &times; 434",
+      "answer": "-10416"
+    },
+    {
+      "question": "-7493 &#xF7; 6",
+      "answer": "-7493/6",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "3126 &#xF7; 3",
+      "answer": "1042",
+      "numberInputTypes": ["mix"],
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "4967 &#xF7; -5",
+      "answer": "-4967/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "362 &times; 45",
+      "answer": "16290"
+    },
+    {
+      "question": "2330 &#xF7; 9",
+      "answer": "2330/9",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-429 &times; -87",
+      "answer": "37323"
+    },
+    {
+      "question": "9071 &#xF7; -13",
+      "answer": "-9071/13",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "3377 &#xF7; 6",
+      "answer": "3377/6",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-131 &#xF7; 11",
+      "answer": "-131/11",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-208 &times; -8",
+      "answer": "1664"
+    },
+    {
+      "question": "5977 &#xF7; 12",
+      "answer": "5977/12",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "2650 &#xF7; 13",
+      "answer": "2650/13",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-256 &times; 88",
+      "answer": "-22528"
+    },
+    {
+      "question": "9412 &#xF7; -3",
+      "answer": "-9412/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "113 &times; 46",
+      "answer": "5198"
+    },
+    {
+      "question": "3692 &#xF7; 11",
+      "answer": "3692/11",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-83 &times; -249",
+      "answer": "20667"
+    },
+    {
+      "question": "1796 &#xF7; 10",
+      "answer": "898/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-187 &times; -58",
+      "answer": "10846"
+    },
+    {
+      "question": "2040 &#xF7; -7",
+      "answer": "-2040/7",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-6848 &#xF7; 9",
+      "answer": "-6848/9",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "3674 &#xF7; -15",
+      "answer": "-3674/15",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "77 &times; -292",
+      "answer": "-22484"
+    },
+    {
+      "question": "7777 &#xF7; -5",
+      "answer": "-7777/5",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "9356 &#xF7; -9",
+      "answer": "-9356/9",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "5363 &#xF7; 3",
+      "answer": "5363/3",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-1708 &#xF7; 15",
+      "answer": "-1708/15",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-81 &times; -406",
+      "answer": "32886"
+    },
+    {
+      "question": "-2423 &#xF7; -6",
+      "answer": "2423/6",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "-4 &times; 219",
+      "answer": "-876"
+    }
+  ]
+}

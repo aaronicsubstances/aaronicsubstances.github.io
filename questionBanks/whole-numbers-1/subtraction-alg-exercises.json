@@ -1,5 +1,5 @@
 {
-  "extraDescription": "second operand is never greater than first operand",
+  "extraDescription": "NB: second operand is never greater than first operand",
   "inputTimeWaitSecs": 60,
   "questions": [
     {

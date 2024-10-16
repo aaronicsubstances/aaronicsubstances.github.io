@@ -1,5 +1,5 @@
 {
-  "extraDescription": "one operand is in 6-7 and other operand is in 0-7",
+  "extraDescription": "NB: one operand is in 6-7 and other operand is in 0-7",
   "questions": [
     {
       "question": "5 &times; 6",

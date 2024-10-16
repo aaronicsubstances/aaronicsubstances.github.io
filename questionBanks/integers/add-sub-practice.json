@@ -1,0 +1,405 @@
+{
+  "inputTimeWaitSecs": 60,
+  "questions": [
+    {
+      "question": "2719 &minus; 8058",
+      "answer": "-5339"
+    },
+    {
+      "question": "3235 + -2560",
+      "answer": "675"
+    },
+    {
+      "question": "1302 + -9170",
+      "answer": "-7868"
+    },
+    {
+      "question": "-96 + -8805",
+      "answer": "-8901"
+    },
+    {
+      "question": "4537 &minus; 8343",
+      "answer": "-3806"
+    },
+    {
+      "question": "-4002 &minus; 4882",
+      "answer": "-8884"
+    },
+    {
+      "question": "5083 &minus; -9877",
+      "answer": "14960"
+    },
+    {
+      "question": "-8638 &minus; -310",
+      "answer": "-8328"
+    },
+    {
+      "question": "1411 &minus; -5045",
+      "answer": "6456"
+    },
+    {
+      "question": "-872 + -3646",
+      "answer": "-4518"
+    },
+    {
+      "question": "-2148 + 7137",
+      "answer": "4989"
+    },
+    {
+      "question": "-9496 + 8328",
+      "answer": "-1168"
+    },
+    {
+      "question": "-354 + -2043",
+      "answer": "-2397"
+    },
+    {
+      "question": "-7204 + -5819",
+      "answer": "-13023"
+    },
+    {
+      "question": "5065 + -1431",
+      "answer": "3634"
+    },
+    {
+      "question": "7217 &minus; -9010",
+      "answer": "16227"
+    },
+    {
+      "question": "-8725 + 1933",
+      "answer": "-6792"
+    },
+    {
+      "question": "-2211 &minus; -8746",
+      "answer": "6535"
+    },
+    {
+      "question": "5373 + -2357",
+      "answer": "3016"
+    },
+    {
+      "question": "8161 + 6426",
+      "answer": "14587"
+    },
+    {
+      "question": "1686 &minus; -6245",
+      "answer": "7931"
+    },
+    {
+      "question": "473 + 3979",
+      "answer": "4452"
+    },
+    {
+      "question": "-4009 + 8979",
+      "answer": "4970"
+    },
+    {
+      "question": "1691 &minus; 9546",
+      "answer": "-7855"
+    },
+    {
+      "question": "-4615 + 5536",
+      "answer": "921"
+    },
+    {
+      "question": "993 + -5954",
+      "answer": "-4961"
+    },
+    {
+      "question": "-3626 + 228",
+      "answer": "-3398"
+    },
+    {
+      "question": "-6675 + 8381",
+      "answer": "1706"
+    },
+    {
+      "question": "-9708 + 9792",
+      "answer": "84"
+    },
+    {
+      "question": "-9276 + 658",
+      "answer": "-8618"
+    },
+    {
+      "question": "-9911 + 7705",
+      "answer": "-2206"
+    },
+    {
+      "question": "-205 + 8941",
+      "answer": "8736"
+    },
+    {
+      "question": "8905 + 3237",
+      "answer": "12142"
+    },
+    {
+      "question": "-6940 + 1858",
+      "answer": "-5082"
+    },
+    {
+      "question": "394 + -8971",
+      "answer": "-8577"
+    },
+    {
+      "question": "-2481 &minus; -8512",
+      "answer": "6031"
+    },
+    {
+      "question": "-8689 &minus; -3281",
+      "answer": "-5408"
+    },
+    {
+      "question": "9535 &minus; 236",
+      "answer": "9299"
+    },
+    {
+      "question": "9091 + 2912",
+      "answer": "12003"
+    },
+    {
+      "question": "-3507 + 5765",
+      "answer": "2258"
+    },
+    {
+      "question": "-5385 &minus; -6217",
+      "answer": "832"
+    },
+    {
+      "question": "3400 &minus; -7000",
+      "answer": "10400"
+    },
+    {
+      "question": "2802 + 4294",
+      "answer": "7096"
+    },
+    {
+      "question": "2035 &minus; 7006",
+      "answer": "-4971"
+    },
+    {
+      "question": "-4275 &minus; 92",
+      "answer": "-4367"
+    },
+    {
+      "question": "2994 + 5365",
+      "answer": "8359"
+    },
+    {
+      "question": "5006 + -2348",
+      "answer": "2658"
+    },
+    {
+      "question": "2286 + 2851",
+      "answer": "5137"
+    },
+    {
+      "question": "-5601 + -903",
+      "answer": "-6504"
+    },
+    {
+      "question": "-2247 + -4017",
+      "answer": "-6264"
+    },
+    {
+      "question": "-4720 + -2000",
+      "answer": "-6720"
+    },
+    {
+      "question": "4453 + -1295",
+      "answer": "3158"
+    },
+    {
+      "question": "-4162 + -7990",
+      "answer": "-12152"
+    },
+    {
+      "question": "-4709 &minus; 1393",
+      "answer": "-6102"
+    },
+    {
+      "question": "-1190 + 8421",
+      "answer": "7231"
+    },
+    {
+      "question": "-2481 + -3714",
+      "answer": "-6195"
+    },
+    {
+      "question": "1999 + 4891",
+      "answer": "6890"
+    },
+    {
+      "question": "2730 &minus; 3378",
+      "answer": "-648"
+    },
+    {
+      "question": "-4913 &minus; 1475",
+      "answer": "-6388"
+    },
+    {
+      "question": "9795 + -8020",
+      "answer": "1775"
+    },
+    {
+      "question": "-8677 + -4666",
+      "answer": "-13343"
+    },
+    {
+      "question": "-9442 &minus; 4821",
+      "answer": "-14263"
+    },
+    {
+      "question": "-5072 + -6770",
+      "answer": "-11842"
+    },
+    {
+      "question": "-3102 + 6293",
+      "answer": "3191"
+    },
+    {
+      "question": "-7914 + -6002",
+      "answer": "-13916"
+    },
+    {
+      "question": "7000 &minus; 19",
+      "answer": "6981"
+    },
+    {
+      "question": "7835 + 4447",
+      "answer": "12282"
+    },
+    {
+      "question": "7704 &minus; -9801",
+      "answer": "17505"
+    },
+    {
+      "question": "-2211 + 5696",
+      "answer": "3485"
+    },
+    {
+      "question": "3042 &minus; -5170",
+      "answer": "8212"
+    },
+    {
+      "question": "-5711 + 2799",
+      "answer": "-2912"
+    },
+    {
+      "question": "-7769 + -842",
+      "answer": "-8611"
+    },
+    {
+      "question": "744 &minus; -9905",
+      "answer": "10649"
+    },
+    {
+      "question": "9857 + 3602",
+      "answer": "13459"
+    },
+    {
+      "question": "-7375 + -9312",
+      "answer": "-16687"
+    },
+    {
+      "question": "-8898 &minus; 5168",
+      "answer": "-14066"
+    },
+    {
+      "question": "8615 &minus; 4247",
+      "answer": "4368"
+    },
+    {
+      "question": "-4712 &minus; -4319",
+      "answer": "-393"
+    },
+    {
+      "question": "-6203 + -7690",
+      "answer": "-13893"
+    },
+    {
+      "question": "-4669 + -9762",
+      "answer": "-14431"
+    },
+    {
+      "question": "-9183 &minus; -9707",
+      "answer": "524"
+    },
+    {
+      "question": "-7316 &minus; -3089",
+      "answer": "-4227"
+    },
+    {
+      "question": "-2458 &minus; 5970",
+      "answer": "-8428"
+    },
+    {
+      "question": "9088 + -2235",
+      "answer": "6853"
+    },
+    {
+      "question": "6573 &minus; 6953",
+      "answer": "-380"
+    },
+    {
+      "question": "-8526 &minus; 1293",
+      "answer": "-9819"
+    },
+    {
+      "question": "6347 + 9483",
+      "answer": "15830"
+    },
+    {
+      "question": "8623 + -314",
+      "answer": "8309"
+    },
+    {
+      "question": "-5093 + 1620",
+      "answer": "-3473"
+    },
+    {
+      "question": "-6348 &minus; -9958",
+      "answer": "3610"
+    },
+    {
+      "question": "-7515 + -51",
+      "answer": "-7566"
+    },
+    {
+      "question": "-2677 + -9240",
+      "answer": "-11917"
+    },
+    {
+      "question": "-5358 &minus; -3040",
+      "answer": "-2318"
+    },
+    {
+      "question": "-1631 + -6408",
+      "answer": "-8039"
+    },
+    {
+      "question": "-1365 &minus; 7065",
+      "answer": "-8430"
+    },
+    {
+      "question": "9360 + 3432",
+      "answer": "12792"
+    },
+    {
+      "question": "3252 + -5241",
+      "answer": "-1989"
+    },
+    {
+      "question": "-1656 + 1754",
+      "answer": "98"
+    },
+    {
+      "question": "-7931 + 1194",
+      "answer": "-6737"
+    },
+    {
+      "question": "8454 + 1762",
+      "answer": "10216"
+    }
+  ]
+}
