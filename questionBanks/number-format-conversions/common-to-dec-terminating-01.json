@@ -1,0 +1,255 @@
+{
+  "extraDescription": "Convert common fractions with powers of 10 as their denominators, to terminating decimal expansions",
+  "questions": [
+    {
+      "question": "Convert \\(\\dfrac{93}{1000}\\) to decimal expansion",
+      "answer": "0.093",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{31}{10}\\) to decimal expansion",
+      "answer": "3.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{43}{10000}\\) to decimal expansion",
+      "answer": "0.0043",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{9}{10000}\\) to decimal expansion",
+      "answer": "0.0009",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{21}{10000}\\) to decimal expansion",
+      "answer": "0.0021",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{17}{100}\\) to decimal expansion",
+      "answer": "0.17",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{11}{10}\\) to decimal expansion",
+      "answer": "1.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{51}{10000}\\) to decimal expansion",
+      "answer": "0.0051",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{63}{10}\\) to decimal expansion",
+      "answer": "6.3",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{59}{100}\\) to decimal expansion",
+      "answer": "0.59",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{1}{100}\\) to decimal expansion",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{99}{10000}\\) to decimal expansion",
+      "answer": "0.0099",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{89}{10}\\) to decimal expansion",
+      "answer": "8.9",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{93}{10000}\\) to decimal expansion",
+      "answer": "0.0093",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{19}{10000}\\) to decimal expansion",
+      "answer": "0.0019",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{17}{1000}\\) to decimal expansion",
+      "answer": "0.017",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{23}{100}\\) to decimal expansion",
+      "answer": "0.23",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{39}{1000}\\) to decimal expansion",
+      "answer": "0.039",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{7}{100}\\) to decimal expansion",
+      "answer": "0.07",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{87}{100}\\) to decimal expansion",
+      "answer": "0.87",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{87}{10}\\) to decimal expansion",
+      "answer": "8.7",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{9}{1000}\\) to decimal expansion",
+      "answer": "0.009",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{11}{100}\\) to decimal expansion",
+      "answer": "0.11",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{9}{10}\\) to decimal expansion",
+      "answer": "0.9",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{57}{10}\\) to decimal expansion",
+      "answer": "5.7",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{3}{1000}\\) to decimal expansion",
+      "answer": "0.003",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{7}{1000}\\) to decimal expansion",
+      "answer": "0.007",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{3}{10}\\) to decimal expansion",
+      "answer": "0.3",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{1}{10000}\\) to decimal expansion",
+      "answer": "0.0001",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{11}{1000}\\) to decimal expansion",
+      "answer": "0.011",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{97}{10}\\) to decimal expansion",
+      "answer": "9.7",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{67}{10000}\\) to decimal expansion",
+      "answer": "0.0067",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{13}{10000}\\) to decimal expansion",
+      "answer": "0.0013",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{39}{10}\\) to decimal expansion",
+      "answer": "3.9",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{51}{10}\\) to decimal expansion",
+      "answer": "5.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{23}{10}\\) to decimal expansion",
+      "answer": "2.3",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{43}{1000}\\) to decimal expansion",
+      "answer": "0.043",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{13}{10}\\) to decimal expansion",
+      "answer": "1.3",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{91}{10}\\) to decimal expansion",
+      "answer": "9.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{57}{100}\\) to decimal expansion",
+      "answer": "0.57",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{19}{1000}\\) to decimal expansion",
+      "answer": "0.019",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{91}{10000}\\) to decimal expansion",
+      "answer": "0.0091",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{79}{10}\\) to decimal expansion",
+      "answer": "7.9",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{63}{100}\\) to decimal expansion",
+      "answer": "0.63",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{89}{10000}\\) to decimal expansion",
+      "answer": "0.0089",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{71}{100}\\) to decimal expansion",
+      "answer": "0.71",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{21}{10}\\) to decimal expansion",
+      "answer": "2.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{21}{1000}\\) to decimal expansion",
+      "answer": "0.021",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{47}{100}\\) to decimal expansion",
+      "answer": "0.47",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{53}{100}\\) to decimal expansion",
+      "answer": "0.53",
+      "numberInputTypes": ["dec"]
+    }
+  ]
+}

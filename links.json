@@ -275,8 +275,12 @@
         },
         {
           "title": "Fractions to decimal expansions (Part 1)",
+          "questionBankUrl": "number-format-conversions/common-to-dec-terminating-01"
+        },
+        {
+          "title": "Fractions to decimal expansions (Part 2)",
           "description": "Intended for manual practice",
-          "questionBankUrl": "number-format-conversions/common-to-dec-terminating"
+          "questionBankUrl": "number-format-conversions/common-to-dec-terminating-02"
         },
         {
           "title": "Decimal expansions to fractions (Part 1)",
@@ -289,7 +293,7 @@
           "questionBankUrl": "number-format-conversions/terminating-dec-to-approx-dec"
         },
         {
-          "title": "Fractions to decimal expansions (Part 2)",
+          "title": "Fractions to decimal expansions (Part 3)",
           "description": "Intended for manual practice",
           "questionBankUrl": "number-format-conversions/fraction-to-exact-dec"
         },

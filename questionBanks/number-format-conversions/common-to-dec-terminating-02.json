@@ -1,0 +1,255 @@
+{
+  "extraDescription": "Convert common fractions to terminating decimal expansions",
+  "questions": [
+    {
+      "question": "Convert \\(\\dfrac{41}{2}\\) to decimal expansion",
+      "answer": "20.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{17}{2}\\) to decimal expansion",
+      "answer": "8.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{61}{2}\\) to decimal expansion",
+      "answer": "30.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{209}{20}\\) to decimal expansion",
+      "answer": "10.45",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{3}{2}\\) to decimal expansion",
+      "answer": "1.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{121}{5}\\) to decimal expansion",
+      "answer": "24.2",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{87}{4}\\) to decimal expansion",
+      "answer": "21.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{348}{25}\\) to decimal expansion",
+      "answer": "13.92",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{427}{20}\\) to decimal expansion",
+      "answer": "21.35",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{427}{25}\\) to decimal expansion",
+      "answer": "17.08",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{53}{2}\\) to decimal expansion",
+      "answer": "26.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{1567}{100}\\) to decimal expansion",
+      "answer": "15.67",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{599}{40}\\) to decimal expansion",
+      "answer": "14.975",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{267}{10}\\) to decimal expansion",
+      "answer": "26.7",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{31}{4}\\) to decimal expansion",
+      "answer": "7.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{83}{4}\\) to decimal expansion",
+      "answer": "20.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{567}{25}\\) to decimal expansion",
+      "answer": "22.68",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{883}{40}\\) to decimal expansion",
+      "answer": "22.075",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{1}{20}\\) to decimal expansion",
+      "answer": "0.05",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{11}{25}\\) to decimal expansion",
+      "answer": "0.44",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{2023}{100}\\) to decimal expansion",
+      "answer": "20.23",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{78}{5}\\) to decimal expansion",
+      "answer": "15.6",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{109}{4}\\) to decimal expansion",
+      "answer": "27.25",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{57}{4}\\) to decimal expansion",
+      "answer": "14.25",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{229}{50}\\) to decimal expansion",
+      "answer": "4.58",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{59}{2}\\) to decimal expansion",
+      "answer": "29.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{2311}{80}\\) to decimal expansion",
+      "answer": "28.8875",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{7}{2}\\) to decimal expansion",
+      "answer": "3.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{479}{25}\\) to decimal expansion",
+      "answer": "19.16",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{241}{10}\\) to decimal expansion",
+      "answer": "24.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{173}{20}\\) to decimal expansion",
+      "answer": "8.65",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{101}{10}\\) to decimal expansion",
+      "answer": "10.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{64}{5}\\) to decimal expansion",
+      "answer": "12.8",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{171}{25}\\) to decimal expansion",
+      "answer": "6.84",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{381}{25}\\) to decimal expansion",
+      "answer": "15.24",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{33}{5}\\) to decimal expansion",
+      "answer": "6.6",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{15}{4}\\) to decimal expansion",
+      "answer": "3.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{3}{20}\\) to decimal expansion",
+      "answer": "0.15",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{387}{50}\\) to decimal expansion",
+      "answer": "7.74",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{31}{2}\\) to decimal expansion",
+      "answer": "15.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{42}{5}\\) to decimal expansion",
+      "answer": "8.4",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{27}{2}\\) to decimal expansion",
+      "answer": "13.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{437}{20}\\) to decimal expansion",
+      "answer": "21.85",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{987}{40}\\) to decimal expansion",
+      "answer": "24.675",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{519}{25}\\) to decimal expansion",
+      "answer": "20.76",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{59}{5}\\) to decimal expansion",
+      "answer": "11.8",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{43}{2}\\) to decimal expansion",
+      "answer": "21.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{81}{20}\\) to decimal expansion",
+      "answer": "4.05",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{99}{10}\\) to decimal expansion",
+      "answer": "9.9",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Convert \\(\\dfrac{79}{4}\\) to decimal expansion",
+      "answer": "19.75",
+      "numberInputTypes": ["dec"]
+    }
+  ]
+}
