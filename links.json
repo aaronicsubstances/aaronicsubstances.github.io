@@ -18,7 +18,7 @@
       ]
     },
     {
-      "title": "C1 - Subtraction and Comparisons",
+      "title": "C1 - Subtraction and Comparison",
       "links": [
         {
           "title": "Subtraction Part 1",
@@ -239,72 +239,84 @@
       ]
     },
     {
-      "title": "Recalling Arithmetic Procedures for Non-Whole Numbers",
+      "title": "C5 - Fractions",
       "links": [
         {
-          "title": "Part 1",
-          "questionBankUrl": "fractions-1/01-fraction-procedure-recall",
-          "description": "Recalling Fraction Arithmetic Procedures"
+          "title": "Comparison of Fractions",
+          "questionBankUrl": "fractions-1/comparisons"
         },
         {
-          "title": "Part 2",
-          "questionBankUrl": "fractions-2/02-arithmetic-outcomes",
-          "description": "Recalling Arithmetic Outcomes"
+          "title": "Addition and Subtraction of Fractions (Part 1)",
+          "questionBankUrl": "fractions-1/add-and-sub-01"
+        },
+        {
+          "title": "Multiplication and Division of Fractions (Part 1)",
+          "questionBankUrl": "fractions-1/mul-and-div-01"
+        },
+        {
+          "title": "Addition and Subtraction of Fractions (Part 2)",
+          "questionBankUrl": "fractions-1/add-sub-practice",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Multiplication and Division of Fractions (Part 2)",
+          "questionBankUrl": "fractions-1/mul-div-practice",
+          "description": "Intended for manual practice"
         }
       ]
     },
     {
-      "title": "Rational Number Format Conversions",
+      "title": "C6 - Number Format Conversions",
       "links": [
         {
-          "title": "Part 1",
-          "description": "Convert common fractions to/from mixed fractions",
-          "questionBankUrl": "number-format-conversions/01-mixed-common"
-        },
-        {
-          "title": "Part 2",
-          "description": "Convert common fractions to terminating decimal expansions",
-          "questionBankUrl": "number-format-conversions/02-common-to-dec-terminating"
-        },
-        {
-          "title": "Part 3",
-          "description": "Convert terminating decimal expansions to fractions",
-          "questionBankUrl": "number-format-conversions/03-terminating-dec-to-frac"
-        },
-        {
-          "title": "Part 4",
-          "description": "Rounding of decimal expansions",
-          "questionBankUrl": "number-format-conversions/04-terminating-dec-to-approx-dec"
-        },
-        {
-          "title": "Part 5",
-          "description": "Convert fractions to rounded decimal expansions",
-          "questionBankUrl": "number-format-conversions/05-fraction-to-approx-dec"
-        }
-      ]
-    },
-    {
-      "title": "Advanced Rational Number Arithmetic",
-      "links": [
-        {
-          "title": "Part 1",
-          "description": "Convert fractions to exact decimal expansions",
-          "questionBankUrl": "arithmetic-with-calc/01-fraction-to-exact-dec"
-        },
-        {
-          "title": "Part 2",
+          "title": "Common fractions and mixed fractions",
           "description": "Intended for manual practice",
-          "questionBankUrl": "arithmetic-with-calc/02-manual-practice"
+          "questionBankUrl": "number-format-conversions/mixed-common"
         },
         {
-          "title": "Part 3",
+          "title": "Fractions to decimal expansions (Part 1)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/common-to-dec-terminating"
+        },
+        {
+          "title": "Decimal expansions to fractions (Part 1)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/terminating-dec-to-frac"
+        },
+        {
+          "title": "Rounding of decimal expansions (Part 1)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/terminating-dec-to-approx-dec"
+        },
+        {
+          "title": "Fractions to decimal expansions (Part 2)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/fraction-to-exact-dec"
+        },
+        {
+          "title": "Rounding of decimal expansions (Part 2)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/fraction-to-approx-dec"
+        },
+        {
+          "title": "Decimal expansions to fractions (Part 2, optional)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/exact-dec-to-simplest-frac"
+        }
+      ]
+    },
+    {
+      "title": "C7 - Advanced Arithmetic Practice",
+      "links": [
+        {
+          "title": "Part 1",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "adv-arithmetic-practice/manual-practice"
+        },
+        {
+          "title": "Part 2 (optional)",
           "description": "Intended for practice with calculator",
-          "questionBankUrl": "arithmetic-with-calc/03-rational-numbers"
-        },
-        {
-          "title": "Part 4",
-          "description": "Convert exact decimal expansions to fractions in simplest form",
-          "questionBankUrl": "arithmetic-with-calc/04-exact-dec-to-simplest-frac"
+          "questionBankUrl": "adv-arithmetic-practice/calculator-practice"
         }
       ]
     },

@@ -1,4 +1,5 @@
 {
+  "extraDescription": "Convert common fractions to terminating decimal expansions",
   "questions": [
     {
       "question": "Convert \\(\\dfrac{17}{4}\\) to decimal expansion",

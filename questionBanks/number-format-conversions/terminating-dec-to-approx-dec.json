@@ -1,4 +1,5 @@
 {
+  "extraDescription": "Rounding of terminating decimal expansions",
   "questions": [
     {
       "question": "Round \\(0.008578\\) to 3 decimal places",

@@ -1,4 +1,5 @@
 {
+  "extraDescription": "Rounding of terminating decimal expansions",
   "questions": [
     {
       "question": "Convert \\(\\dfrac{8}{3}\\) to exact decimal expansion",

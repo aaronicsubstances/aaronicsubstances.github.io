@@ -1,5 +1,5 @@
 {
-  "openingRemarks": "NB: to indicate that an answer is a repeating decimal expansion, let the repeating part occur more than once, and let the answer end with 2 or more dots.<br>E.g. 1/2 can be entered as 0.5000..",
+  "openingRemarks": "NB: to indicate that an answer is a repeating decimal expansion, let the repeating part occur more than once, and let the answer end with 2 or more dots.<br>E.g. 13/2 can be entered as 6.5000..",
   "extraDescription": "for numbers in 1-25",
   "questions": [
     {

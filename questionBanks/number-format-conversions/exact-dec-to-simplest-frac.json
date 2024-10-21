@@ -1,4 +1,5 @@
 {
+  "extraDescription": "Convert exact decimal expansions to fractions",
   "questions": [
     {
       "question": "Convert \\(2.\\overline{2}\\) to fraction in simplest form",
