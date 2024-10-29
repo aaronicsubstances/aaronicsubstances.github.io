@@ -1,26 +1,58 @@
 {
-  "extraDescription": "for numbers in 0-10",
-  "randomQuestionCount": 2,
+  "extraDescription": "for cubes of 0-10 and roots in 0-10",
+  "randomQuestionCount": 3,
   "questions": [
     {
-      "question": "3&sup3;",
-      "answer": "27"
+      "question": "2&sup3;",
+      "answer": "8"
     },
     {
       "question": "7&sup3;",
       "answer": "343"
     },
     {
-      "question": "1&sup3;",
-      "answer": "1"
+      "question": "\\(\\sqrt[3]{125}\\)",
+      "answer": "5"
+    },
+    {
+      "question": "4&sup3;",
+      "answer": "64"
+    },
+    {
+      "question": "\\(\\sqrt[3]{8}\\)",
+      "answer": "2"
+    },
+    {
+      "question": "5&sup3;",
+      "answer": "125"
     },
     {
       "question": "0&sup3;",
       "answer": "0"
     },
     {
-      "question": "5&sup3;",
-      "answer": "125"
+      "question": "6&sup3;",
+      "answer": "216"
+    },
+    {
+      "question": "1&sup3;",
+      "answer": "1"
+    },
+    {
+      "question": "\\(\\sqrt[3]{729}\\)",
+      "answer": "9"
+    },
+    {
+      "question": "\\(\\sqrt[3]{1000}\\)",
+      "answer": "10"
+    },
+    {
+      "question": "\\(\\sqrt[3]{64}\\)",
+      "answer": "4"
+    },
+    {
+      "question": "\\(\\sqrt[3]{512}\\)",
+      "answer": "8"
     },
     {
       "question": "10&sup3;",
@@ -31,20 +63,32 @@
       "answer": "729"
     },
     {
-      "question": "2&sup3;",
-      "answer": "8"
-    },
-    {
       "question": "8&sup3;",
       "answer": "512"
     },
     {
-      "question": "4&sup3;",
-      "answer": "64"
+      "question": "3&sup3;",
+      "answer": "27"
     },
     {
-      "question": "6&sup3;",
-      "answer": "216"
+      "question": "\\(\\sqrt[3]{343}\\)",
+      "answer": "7"
+    },
+    {
+      "question": "\\(\\sqrt[3]{27}\\)",
+      "answer": "3"
+    },
+    {
+      "question": "\\(\\sqrt[3]{0}\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(\\sqrt[3]{1}\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(\\sqrt[3]{216}\\)",
+      "answer": "6"
     }
   ]
 }

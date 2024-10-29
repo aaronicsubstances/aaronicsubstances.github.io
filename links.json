@@ -76,14 +76,14 @@
       ]
     },
     {
-      "title": "C2 - Squares and Cubes",
+      "title": "C2 - Powers and Roots",
       "links": [
         {
-          "title": "Squares",
+          "title": "Squares and Square Roots",
           "questionBankUrl": "whole-numbers-2/squares"
         },
         {
-          "title": "Cubes",
+          "title": "Cubes and Cube Roots",
           "questionBankUrl": "whole-numbers-2/cubes"
         }
       ]
@@ -162,7 +162,7 @@
           "questionBankUrl": "integers/comparisons"
         },
         {
-          "title": "Multiplication and Exponentiation of Integers",
+          "title": "Multiplication and Powers of Integers",
           "questionBankUrl": "integers/mul-and-squares-01"
         },
         {
@@ -174,7 +174,7 @@
           "questionBankUrl": "integers/division-02"
         },
         {
-          "title": "Multiplication, Exponentiation and Division of Large Integers",
+          "title": "Multiplication, Powers and Division of Large Integers",
           "questionBankUrl": "integers/mul-exp-div-practice",
           "description": "Intended for manual practice"
         }
@@ -250,7 +250,7 @@
           "questionBankUrl": "fractions-1/add-and-sub-01"
         },
         {
-          "title": "Multiplication, Exponentiation and Division of Fractions (Part 1)",
+          "title": "Multiplication, Powers and Division of Fractions (Part 1)",
           "questionBankUrl": "fractions-1/mul-squares-div-01"
         },
         {
@@ -259,7 +259,7 @@
           "description": "Intended for manual practice"
         },
         {
-          "title": "Multiplication, Exponentiation and Division of Fractions (Part 2)",
+          "title": "Multiplication, Powers and Division of Fractions (Part 2)",
           "questionBankUrl": "fractions-1/mul-exp-div-practice",
           "description": "Intended for manual practice"
         }

@@ -3,138 +3,63 @@
   "extraDescription": "for numbers in 1-25",
   "questions": [
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{9}\\)?",
-      "answer": "0.1111...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{7}{8}\\)?",
-      "answer": "0.875",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{6}{12}\\)?",
-      "answer": "0.5",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "15 &times; 5",
-      "answer": "75",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{10}\\)?",
-      "answer": "0.5",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "14 &times; 5",
-      "answer": "70",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 24 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "24,0,12,2,8,3,6,4"
-    },
-    {
-      "question": "20 &times; 4",
-      "answer": "80",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{8}{10}\\)?",
-      "answer": "0.8",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{6}{10}\\)?",
-      "answer": "0.6",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "13 &times; 5",
-      "answer": "65",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{11}\\)?",
-      "answer": "0.363636...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{7}{10}\\)?",
-      "answer": "0.7",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 11 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "11,0,11,1"
-    },
-    {
-      "question": "Express 5 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "5,0,5,1"
-    },
-    {
-      "question": "Express 20 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "20,0,10,2,5,4"
-    },
-    {
-      "question": "14 &times; 2",
-      "answer": "28",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{11}{12}\\)?",
-      "answer": "0.916666...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{11}\\)?",
-      "answer": "0.272727...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{7}{11}\\)?",
-      "answer": "0.636363...",
-      "numberInputTypes": ["dec"]
-    },
-    {
       "question": "23 &times; 3",
       "answer": "69",
       "expectedDenominators": [0]
     },
     {
-      "question": "18 &times; 4",
-      "answer": "72",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 12 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "12,0,6,2,4,3"
-    },
-    {
-      "question": "20 &times; 5",
-      "answer": "100",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 25 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "25,0,5,5"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{12}\\)?",
-      "answer": "0.3333...",
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{9}\\)?",
+      "answer": "0.5555...",
       "numberInputTypes": ["dec"]
     },
     {
-      "question": "13 &times; 3",
-      "answer": "39",
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{7}\\)?",
+      "answer": "0.714285714285...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{7}\\)?",
+      "answer": "0.285714285714...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{12}\\)?",
+      "answer": "0.16666...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "20 &times; 2",
+      "answer": "40",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{7}\\)?",
+      "answer": "0.142857142857...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "19 &times; 4",
+      "answer": "76",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{5}\\)?",
+      "answer": "0.4",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{8}{12}\\)?",
+      "answer": "0.6666...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "16 &times; 3",
+      "answer": "48",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "4&sup2;",
+      "answer": "16",
       "expectedDenominators": [0]
     },
     {
@@ -143,9 +68,144 @@
       "answer": "6,0,3,2"
     },
     {
-      "question": "17 &times; 4",
-      "answer": "68",
+      "question": "16 &times; 4",
+      "answer": "64",
       "expectedDenominators": [0]
+    },
+    {
+      "question": "21 &times; 3",
+      "answer": "63",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{4}\\)?",
+      "answer": "0.25",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{10}\\)?",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 24 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "24,0,12,2,8,3,6,4"
+    },
+    {
+      "question": "1&sup3;",
+      "answer": "1",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "13 &times; 5",
+      "answer": "65",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "17 &times; 5",
+      "answer": "85",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "16 &times; 2",
+      "answer": "32",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{6}\\)?",
+      "answer": "0.6666...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{6}\\)?",
+      "answer": "0.16666...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{11}\\)?",
+      "answer": "0.363636...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{6}{12}\\)?",
+      "answer": "0.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 20 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "20,0,10,2,5,4"
+    },
+    {
+      "question": "20 &times; 4",
+      "answer": "80",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{9}\\)?",
+      "answer": "0.4444...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "24 &times; 3",
+      "answer": "72",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "7&sup2;",
+      "answer": "49",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "\\(\\sqrt{16}\\)",
+      "answer": "4",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "14 &times; 4",
+      "answer": "56",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "5&sup2;",
+      "answer": "25",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{8}\\)?",
+      "answer": "0.125",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{6}{11}\\)?",
+      "answer": "0.545454...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "13 &times; 7",
+      "answer": "91",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 13 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "13,0,13,1"
+    },
+    {
+      "question": "16 &times; 5",
+      "answer": "80",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "24 &times; 2",
+      "answer": "48",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{5}\\)?",
+      "answer": "0.2",
+      "numberInputTypes": ["dec"]
     },
     {
       "question": "Express 18 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
@@ -153,8 +213,208 @@
       "answer": "18,0,9,2,6,3"
     },
     {
+      "question": "\\(\\sqrt[3]{8}\\)",
+      "answer": "2",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{4}\\)?",
+      "answer": "0.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "21 &times; 2",
+      "answer": "42",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 5 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "5,0,5,1"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{7}{8}\\)?",
+      "answer": "0.875",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{6}\\)?",
+      "answer": "0.3333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 16 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "16,0,8,2,4,4"
+    },
+    {
+      "question": "Express 12 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "12,0,6,2,4,3"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{12}\\)?",
+      "answer": "0.083333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(\\sqrt{1}\\)",
+      "answer": "1",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{8}{10}\\)?",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{7}\\)?",
+      "answer": "0.428571428571...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{8}\\)?",
+      "answer": "0.625",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 17 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "17,0,17,1"
+    },
+    {
+      "question": "22 &times; 2",
+      "answer": "44",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "17 &times; 3",
+      "answer": "51",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{12}\\)?",
+      "answer": "0.416666...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "1&sup2;",
+      "answer": "1",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{12}\\)?",
+      "answer": "0.25",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{9}{10}\\)?",
+      "answer": "0.9",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "25 &times; 3",
+      "answer": "75",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{6}\\)?",
+      "answer": "0.83333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{8}\\)?",
+      "answer": "0.375",
+      "numberInputTypes": ["dec"]
+    },
+    {
       "question": "What is the decimal expansion of \\(\\dfrac{2}{10}\\)?",
       "answer": "0.2",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "20 &times; 5",
+      "answer": "100",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "10&sup2;",
+      "answer": "100",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "18 &times; 2",
+      "answer": "36",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{8}\\)?",
+      "answer": "0.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "22 &times; 4",
+      "answer": "88",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "20 &times; 3",
+      "answer": "60",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{9}{12}\\)?",
+      "answer": "0.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{7}{10}\\)?",
+      "answer": "0.7",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "14 &times; 3",
+      "answer": "42",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{8}{11}\\)?",
+      "answer": "0.727272...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "14 &times; 7",
+      "answer": "98",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{5}\\)?",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "13 &times; 3",
+      "answer": "39",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "\\(\\sqrt[3]{1}\\)",
+      "answer": "1",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "18 &times; 3",
+      "answer": "54",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 10 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "10,0,5,2"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{4}\\)?",
+      "answer": "0.5",
       "numberInputTypes": ["dec"]
     },
     {
@@ -163,28 +423,193 @@
       "numberInputTypes": ["dec"]
     },
     {
+      "question": "Express 3 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "3,0,3,1"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{11}\\)?",
+      "answer": "0.090909...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "14 &times; 5",
+      "answer": "70",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "13 &times; 4",
+      "answer": "52",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "13 &times; 2",
+      "answer": "26",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "15 &times; 4",
+      "answer": "60",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "23 &times; 2",
+      "answer": "46",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "18 &times; 5",
+      "answer": "90",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{6}{10}\\)?",
+      "answer": "0.6",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "6&sup2;",
+      "answer": "36",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "14 &times; 2",
+      "answer": "28",
+      "expectedDenominators": [0]
+    },
+    {
       "question": "Express 14 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
       "answer": "14,0,7,2"
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{8}{12}\\)?",
-      "answer": "0.6666...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{6}{7}\\)?",
-      "answer": "0.857142857142...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "24 &times; 2",
-      "answer": "48",
+      "question": "3&sup3;",
+      "answer": "27",
       "expectedDenominators": [0]
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{10}{11}\\)?",
-      "answer": "0.909090...",
+      "question": "Express 21 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "21,0,7,3"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{9}{11}\\)?",
+      "answer": "0.818181...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "24 &times; 4",
+      "answer": "96",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{11}\\)?",
+      "answer": "0.181818...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{10}{12}\\)?",
+      "answer": "0.83333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 11 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "11,0,11,1"
+    },
+    {
+      "question": "25 &times; 4",
+      "answer": "100",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{6}{8}\\)?",
+      "answer": "0.75",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 23 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "23,0,23,1"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{9}\\)?",
+      "answer": "0.1111...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "19 &times; 2",
+      "answer": "38",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "2&sup3;",
+      "answer": "8",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{3}\\)?",
+      "answer": "0.3333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "25 &times; 2",
+      "answer": "50",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "18 &times; 4",
+      "answer": "72",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{7}{12}\\)?",
+      "answer": "0.583333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "15 &times; 5",
+      "answer": "75",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 7 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "7,0,7,1"
+    },
+    {
+      "question": "15 &times; 6",
+      "answer": "90",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 19 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "19,0,19,1"
+    },
+    {
+      "question": "9&sup2;",
+      "answer": "81",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 2 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "2,0,2,1"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{12}\\)?",
+      "answer": "0.3333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{11}{12}\\)?",
+      "answer": "0.916666...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{5}\\)?",
+      "answer": "0.6",
       "numberInputTypes": ["dec"]
     },
     {
@@ -193,23 +618,38 @@
       "numberInputTypes": ["dec"]
     },
     {
-      "question": "15 &times; 4",
-      "answer": "60",
+      "question": "Express 1 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "1,0,1,1"
+    },
+    {
+      "question": "19 &times; 3",
+      "answer": "57",
       "expectedDenominators": [0]
     },
     {
-      "question": "20 &times; 2",
-      "answer": "40",
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{11}\\)?",
+      "answer": "0.454545...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "14 &times; 6",
+      "answer": "84",
       "expectedDenominators": [0]
     },
     {
-      "question": "24 &times; 4",
-      "answer": "96",
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{9}\\)?",
+      "answer": "0.2222...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(\\sqrt{9}\\)",
+      "answer": "3",
       "expectedDenominators": [0]
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{7}\\)?",
-      "answer": "0.285714285714...",
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{11}\\)?",
+      "answer": "0.272727...",
       "numberInputTypes": ["dec"]
     },
     {
@@ -218,14 +658,74 @@
       "expectedDenominators": [0]
     },
     {
+      "question": "17 &times; 4",
+      "answer": "68",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{2}{8}\\)?",
+      "answer": "0.25",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{1}{2}\\)?",
+      "answer": "0.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 22 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "22,0,11,2"
+    },
+    {
+      "question": "2&sup2;",
+      "answer": "4",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{7}{11}\\)?",
+      "answer": "0.636363...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express 9 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "9,0,3,3"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{9}\\)?",
+      "answer": "0.3333...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{6}{7}\\)?",
+      "answer": "0.857142857142...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "22 &times; 3",
+      "answer": "66",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 25 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "25,0,5,5"
+    },
+    {
       "question": "Express 8 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
       "answer": "8,0,4,2"
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{8}\\)?",
-      "answer": "0.125",
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{10}\\)?",
+      "answer": "0.4",
       "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "15 &times; 2",
+      "answer": "30",
+      "expectedDenominators": [0]
     },
     {
       "question": "What is the decimal expansion of \\(\\dfrac{2}{3}\\)?",
@@ -233,7 +733,27 @@
       "numberInputTypes": ["dec"]
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{8}\\)?",
+      "question": "Express 15 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "15,0,5,3"
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{4}{7}\\)?",
+      "answer": "0.571428571428...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "\\(\\sqrt{4}\\)",
+      "answer": "2",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{10}\\)?",
+      "answer": "0.3",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{3}{6}\\)?",
       "answer": "0.5",
       "numberInputTypes": ["dec"]
     },
@@ -243,353 +763,8 @@
       "expectedDenominators": [0]
     },
     {
-      "question": "20 &times; 3",
-      "answer": "60",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{11}\\)?",
-      "answer": "0.454545...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{4}\\)?",
-      "answer": "0.75",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 15 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "15,0,5,3"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{12}\\)?",
-      "answer": "0.083333...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{11}\\)?",
-      "answer": "0.181818...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 16 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "16,0,8,2,4,4"
-    },
-    {
-      "question": "Express 4 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "4,0,2,2"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{7}{12}\\)?",
-      "answer": "0.583333...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{6}{8}\\)?",
-      "answer": "0.75",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{9}\\)?",
-      "answer": "0.5555...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{12}\\)?",
-      "answer": "0.416666...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{11}\\)?",
-      "answer": "0.090909...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{6}\\)?",
-      "answer": "0.83333...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 23 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "23,0,23,1"
-    },
-    {
-      "question": "22 &times; 4",
-      "answer": "88",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{10}\\)?",
-      "answer": "0.1",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "24 &times; 3",
-      "answer": "72",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "23 &times; 2",
-      "answer": "46",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 1 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "1,0,1,1"
-    },
-    {
-      "question": "16 &times; 2",
-      "answer": "32",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 21 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "21,0,7,3"
-    },
-    {
-      "question": "25 &times; 2",
-      "answer": "50",
-      "expectedDenominators": [0]
-    },
-    {
       "question": "21 &times; 4",
       "answer": "84",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{7}\\)?",
-      "answer": "0.714285714285...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 17 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "17,0,17,1"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{7}{9}\\)?",
-      "answer": "0.7777...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "18 &times; 5",
-      "answer": "90",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "21 &times; 2",
-      "answer": "42",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{10}\\)?",
-      "answer": "0.3",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "16 &times; 3",
-      "answer": "48",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{8}\\)?",
-      "answer": "0.25",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{12}\\)?",
-      "answer": "0.16666...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{9}{11}\\)?",
-      "answer": "0.818181...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{4}\\)?",
-      "answer": "0.25",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "14 &times; 4",
-      "answer": "56",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "22 &times; 2",
-      "answer": "44",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "19 &times; 5",
-      "answer": "95",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{9}{10}\\)?",
-      "answer": "0.9",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 9 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "9,0,3,3"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{9}\\)?",
-      "answer": "0.2222...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{9}\\)?",
-      "answer": "0.4444...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "25 &times; 4",
-      "answer": "100",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "16 &times; 4",
-      "answer": "64",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 22 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "22,0,11,2"
-    },
-    {
-      "question": "Express 3 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "3,0,3,1"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{8}\\)?",
-      "answer": "0.375",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{2}\\)?",
-      "answer": "0.5",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "13 &times; 6",
-      "answer": "78",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{4}\\)?",
-      "answer": "0.5",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{5}\\)?",
-      "answer": "0.8",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "19 &times; 2",
-      "answer": "38",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "13 &times; 2",
-      "answer": "26",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "14 &times; 6",
-      "answer": "84",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{7}\\)?",
-      "answer": "0.428571428571...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{5}\\)?",
-      "answer": "0.6",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{10}\\)?",
-      "answer": "0.4",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 2 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "2,0,2,1"
-    },
-    {
-      "question": "Express 7 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "7,0,7,1"
-    },
-    {
-      "question": "19 &times; 3",
-      "answer": "57",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{7}\\)?",
-      "answer": "0.142857142857...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "15 &times; 6",
-      "answer": "90",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{7}\\)?",
-      "answer": "0.571428571428...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{5}\\)?",
-      "answer": "0.2",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "Express 10 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "10,0,5,2"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{5}{8}\\)?",
-      "answer": "0.625",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "14 &times; 7",
-      "answer": "98",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "19 &times; 4",
-      "answer": "76",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "18 &times; 3",
-      "answer": "54",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "18 &times; 2",
-      "answer": "36",
       "expectedDenominators": [0]
     },
     {
@@ -598,34 +773,49 @@
       "expectedDenominators": [0]
     },
     {
-      "question": "13 &times; 7",
-      "answer": "91",
+      "question": "13 &times; 6",
+      "answer": "78",
       "expectedDenominators": [0]
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{6}\\)?",
+      "question": "4&sup3;",
+      "answer": "64",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "\\(\\sqrt{25}\\)",
+      "answer": "5",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 4 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "4,0,2,2"
+    },
+    {
+      "question": "3&sup2;",
+      "answer": "9",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "8&sup2;",
+      "answer": "64",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{10}{11}\\)?",
+      "answer": "0.909090...",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "What is the decimal expansion of \\(\\dfrac{5}{10}\\)?",
       "answer": "0.5",
       "numberInputTypes": ["dec"]
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{9}\\)?",
-      "answer": "0.3333...",
+      "question": "What is the decimal expansion of \\(\\dfrac{7}{9}\\)?",
+      "answer": "0.7777...",
       "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{3}\\)?",
-      "answer": "0.3333...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{8}{11}\\)?",
-      "answer": "0.727272...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "16 &times; 5",
-      "answer": "80",
-      "expectedDenominators": [0]
     },
     {
       "question": "17 &times; 2",
@@ -633,93 +823,8 @@
       "expectedDenominators": [0]
     },
     {
-      "question": "What is the decimal expansion of \\(\\dfrac{6}{11}\\)?",
-      "answer": "0.545454...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "15 &times; 2",
-      "answer": "30",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{10}{12}\\)?",
-      "answer": "0.83333...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{5}\\)?",
-      "answer": "0.4",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{9}{12}\\)?",
-      "answer": "0.75",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "22 &times; 3",
-      "answer": "66",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{4}{6}\\)?",
-      "answer": "0.6666...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{2}{6}\\)?",
-      "answer": "0.3333...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "13 &times; 4",
-      "answer": "52",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "14 &times; 3",
-      "answer": "42",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 13 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "13,0,13,1"
-    },
-    {
-      "question": "Express 19 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "19,0,19,1"
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{1}{6}\\)?",
-      "answer": "0.16666...",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "21 &times; 3",
-      "answer": "63",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "17 &times; 3",
-      "answer": "51",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "17 &times; 5",
-      "answer": "85",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "What is the decimal expansion of \\(\\dfrac{3}{12}\\)?",
-      "answer": "0.25",
-      "numberInputTypes": ["dec"]
-    },
-    {
-      "question": "25 &times; 3",
-      "answer": "75",
+      "question": "19 &times; 5",
+      "answer": "95",
       "expectedDenominators": [0]
     }
   ]
