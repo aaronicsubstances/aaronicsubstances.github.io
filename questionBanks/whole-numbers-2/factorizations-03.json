@@ -2,44 +2,9 @@
   "extraDescription": "for numbers in 51-75",
   "questions": [
     {
-      "question": "Express 67 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "question": "Express 64 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
-      "answer": "67,0,67,1"
-    },
-    {
-      "question": "Express 68 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "68,1,17,4"
-    },
-    {
-      "question": "Express 74 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "74,0,37,2"
-    },
-    {
-      "question": "Express 60 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "60,1,12,5,10,6"
-    },
-    {
-      "question": "Express 72 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "72,1,12,6,9,8"
-    },
-    {
-      "question": "Express 55 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "55,0,11,5"
-    },
-    {
-      "question": "Express 54 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "54,1,9,6"
-    },
-    {
-      "question": "Express 73 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "73,0,73,1"
+      "answer": "64,1,8,8"
     },
     {
       "question": "Express 70 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
@@ -47,24 +12,9 @@
       "answer": "70,1,10,7"
     },
     {
-      "question": "Express 75 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "question": "Express 67 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
-      "answer": "75,1,15,5"
-    },
-    {
-      "question": "Express 57 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "57,0,19,3"
-    },
-    {
-      "question": "Express 71 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "71,0,71,1"
-    },
-    {
-      "question": "Express 64 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "64,1,8,8"
+      "answer": "67,0,67,1"
     },
     {
       "question": "Express 52 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
@@ -72,29 +22,9 @@
       "answer": "52,1,13,4"
     },
     {
-      "question": "Express 58 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "58,0,29,2"
-    },
-    {
       "question": "Express 61 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
       "answer": "61,0,61,1"
-    },
-    {
-      "question": "\\(\\sqrt{64}\\)",
-      "answer": "8",
-      "expectedDenominators": [0]
-    },
-    {
-      "question": "Express 65 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "65,0,13,5"
-    },
-    {
-      "question": "Express 66 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
-      "numberInputTypes": ["fac"],
-      "answer": "66,1,11,6"
     },
     {
       "question": "Express 51 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
@@ -102,19 +32,29 @@
       "answer": "51,0,17,3"
     },
     {
-      "question": "Express 53 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "question": "Express 60 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
-      "answer": "53,0,53,1"
+      "answer": "60,1,12,5,10,6"
     },
     {
-      "question": "Express 59 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "question": "Express 65 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
-      "answer": "59,0,59,1"
+      "answer": "65,0,13,5"
     },
     {
-      "question": "Express 56 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "question": "Express 54 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
-      "answer": "56,1,8,7"
+      "answer": "54,1,9,6"
+    },
+    {
+      "question": "Express 68 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "68,1,17,4"
+    },
+    {
+      "question": "Express 63 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "63,1,9,7"
     },
     {
       "question": "Express 62 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
@@ -122,14 +62,79 @@
       "answer": "62,0,31,2"
     },
     {
+      "question": "Express 57 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "57,0,19,3"
+    },
+    {
+      "question": "Express 56 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "56,1,8,7"
+    },
+    {
+      "question": "Express 73 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "73,0,73,1"
+    },
+    {
+      "question": "Express 58 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "58,0,29,2"
+    },
+    {
+      "question": "Express 72 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "72,1,12,6,9,8"
+    },
+    {
       "question": "Express 69 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
       "answer": "69,0,23,3"
     },
     {
-      "question": "Express 63 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "question": "Express 74 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
       "numberInputTypes": ["fac"],
-      "answer": "63,1,9,7"
+      "answer": "74,0,37,2"
+    },
+    {
+      "question": "Express 75 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "75,1,15,5"
+    },
+    {
+      "question": "\\(\\sqrt[3]{64}\\)",
+      "answer": "4",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 53 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "53,0,53,1"
+    },
+    {
+      "question": "Express 71 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "71,0,71,1"
+    },
+    {
+      "question": "Express 59 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "59,0,59,1"
+    },
+    {
+      "question": "\\(\\sqrt{64}\\)",
+      "answer": "8",
+      "expectedDenominators": [0]
+    },
+    {
+      "question": "Express 66 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "66,1,11,6"
+    },
+    {
+      "question": "Express 55 as a product of two whole numbers. If possible, the two whole numbers must be greater than 1.",
+      "numberInputTypes": ["fac"],
+      "answer": "55,0,11,5"
     }
   ]
 }
