@@ -162,8 +162,8 @@
           "questionBankUrl": "integers/comparisons"
         },
         {
-          "title": "Multiplication of Integers",
-          "questionBankUrl": "integers/multiplication-01"
+          "title": "Multiplication and Exponentiation of Integers",
+          "questionBankUrl": "integers/mul-and-squares-01"
         },
         {
           "title": "Division of Integers (Part 1)",
@@ -174,8 +174,8 @@
           "questionBankUrl": "integers/division-02"
         },
         {
-          "title": "Multiplication and Division of Large Integers",
-          "questionBankUrl": "integers/mul-div-practice",
+          "title": "Multiplication, Exponentiation and Division of Large Integers",
+          "questionBankUrl": "integers/mul-exp-div-practice",
           "description": "Intended for manual practice"
         }
       ]
@@ -250,8 +250,8 @@
           "questionBankUrl": "fractions-1/add-and-sub-01"
         },
         {
-          "title": "Multiplication and Division of Fractions (Part 1)",
-          "questionBankUrl": "fractions-1/mul-and-div-01"
+          "title": "Multiplication, Exponentiation and Division of Fractions (Part 1)",
+          "questionBankUrl": "fractions-1/mul-squares-div-01"
         },
         {
           "title": "Addition and Subtraction of Fractions (Part 2)",
@@ -259,14 +259,14 @@
           "description": "Intended for manual practice"
         },
         {
-          "title": "Multiplication and Division of Fractions (Part 2)",
-          "questionBankUrl": "fractions-1/mul-div-practice",
+          "title": "Multiplication, Exponentiation and Division of Fractions (Part 2)",
+          "questionBankUrl": "fractions-1/mul-exp-div-practice",
           "description": "Intended for manual practice"
         }
       ]
     },
     {
-      "title": "C6 - Number Format Conversions",
+      "title": "C6 - Procedures for Number Format Conversions",
       "links": [
         {
           "title": "Common fractions and mixed fractions",
