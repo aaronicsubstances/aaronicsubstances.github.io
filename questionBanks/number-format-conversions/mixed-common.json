@@ -1,5 +1,5 @@
 {
-  "extraDescription": "Convert common fractions to/from mixed fractions",
+  "extraDescription": "Convert simple fractions to/from mixed fractions",
   "questions": [
     {
       "question": "Convert \\(5\\frac{3}{4}\\) to common fraction",
