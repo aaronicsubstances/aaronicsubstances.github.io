@@ -1,0 +1,386 @@
+{
+  "sections": [
+    {
+      "title": "C1 - Addition",
+      "links": [
+        {
+          "title": "Addition Part 1",
+          "questionBankUrl": "whole-numbers-1/addition-01"
+        },
+        {
+          "title": "Addition Part 2",
+          "questionBankUrl": "whole-numbers-1/addition-02"
+        },
+        {
+          "title": "Addition Part 3",
+          "questionBankUrl": "whole-numbers-1/addition-03"
+        }
+      ]
+    },
+    {
+      "title": "C1 - Subtraction and Comparison",
+      "links": [
+        {
+          "title": "Subtraction Part 1",
+          "questionBankUrl": "whole-numbers-1/subtraction-01"
+        },
+        {
+          "title": "Subtraction Part 2",
+          "questionBankUrl": "whole-numbers-1/subtraction-02"
+        },
+        {
+          "title": "Comparison of Whole Numbers",
+          "questionBankUrl": "whole-numbers-1/comparisons"
+        }
+      ]
+    },
+    {
+      "title": "C1 - Addition and Subtraction Procedures",
+      "links": [
+        {
+          "title": "Addition of Whole Numbers",
+          "questionBankUrl": "whole-numbers-1/addition-alg-exercises",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Subtraction of Whole Numbers",
+          "questionBankUrl": "whole-numbers-1/subtraction-alg-exercises",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C2 - Multiplication",
+      "links": [
+        {
+          "title": "Multiplication Part 1",
+          "questionBankUrl": "whole-numbers-2/multiplication-01"
+        },
+        {
+          "title": "Multiplication Part 2",
+          "questionBankUrl": "whole-numbers-2/multiplication-02"
+        },
+        {
+          "title": "Multiplication Part 3",
+          "questionBankUrl": "whole-numbers-2/multiplication-03"
+        },
+        {
+          "title": "Multiplication Part 4",
+          "questionBankUrl": "whole-numbers-2/multiplication-04"
+        },
+        {
+          "title": "Multiplication Part 5",
+          "questionBankUrl": "whole-numbers-2/multiplication-05",
+          "description": "12 times table"
+        }
+      ]
+    },
+    {
+      "title": "C2 - Powers and Roots",
+      "links": [
+        {
+          "title": "Squares and Square Roots",
+          "questionBankUrl": "whole-numbers-2/squares"
+        },
+        {
+          "title": "Cubes and Cube Roots",
+          "questionBankUrl": "whole-numbers-2/cubes"
+        }
+      ]
+    },
+    {
+      "title": "C2 - Factorization",
+      "links": [
+        {
+          "title": "Factorization Part 1",
+          "questionBankUrl": "whole-numbers-2/factorizations-01"
+        },
+        {
+          "title": "Factorization Part 2",
+          "questionBankUrl": "whole-numbers-2/factorizations-02"
+        },
+        {
+          "title": "Factorization Part 3",
+          "questionBankUrl": "whole-numbers-2/factorizations-03"
+        },
+        {
+          "title": "Factorization Part 4",
+          "questionBankUrl": "whole-numbers-2/factorizations-04"
+        }
+      ]
+    },
+    {
+      "title": "C2 - Division",
+      "links": [
+        {
+          "title": "Division Part 1",
+          "questionBankUrl": "whole-numbers-2/division-01"
+        },
+        {
+          "title": "Division Part 2",
+          "questionBankUrl": "whole-numbers-2/division-02"
+        }
+      ]
+    },
+    {
+      "title": "C2 - Procedures for Multiplication and Division",
+      "links": [
+        {
+          "title": "Multiplication of Whole Numbers",
+          "questionBankUrl": "whole-numbers-2/multiplication-alg-exercises",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Division of Whole Numbers",
+          "questionBankUrl": "whole-numbers-2/division-alg-exercises",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C3 - Integers",
+      "links": [
+        {
+          "title": "Subtraction which yields Integers",
+          "questionBankUrl": "integers/full-subtraction"
+        },
+        {
+          "title": "Addition and Subtraction of Integers (Part 1)",
+          "questionBankUrl": "integers/add-and-sub-01"
+        },
+        {
+          "title": "Addition and Subtraction of Integers (Part 2)",
+          "questionBankUrl": "integers/add-and-sub-02"
+        },
+        {
+          "title": "Addition and Subtraction of Large Integers",
+          "questionBankUrl": "integers/add-sub-practice",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Comparison of Integers",
+          "questionBankUrl": "integers/comparisons"
+        },
+        {
+          "title": "Multiplication and Powers of Integers",
+          "questionBankUrl": "integers/mul-and-squares-01"
+        },
+        {
+          "title": "Division of Integers (Part 1)",
+          "questionBankUrl": "integers/division-01"
+        },
+        {
+          "title": "Division of Integers (Part 2)",
+          "questionBankUrl": "integers/division-02"
+        },
+        {
+          "title": "Multiplication, Powers and Division of Large Integers",
+          "questionBankUrl": "integers/mul-exp-div-practice",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C4 - Divisibility Tests",
+      "links": [
+        {
+          "title": "Divisibility by 10",
+          "questionBankUrl": "divisibility/divisibility-test-by-10"
+        },
+        {
+          "title": "Divisibility by 5",
+          "questionBankUrl": "divisibility/divisibility-test-by-5"
+        },
+        {
+          "title": "Divisibility by 2",
+          "questionBankUrl": "divisibility/divisibility-test-by-2"
+        },
+        {
+          "title": "Divisibility by 3",
+          "questionBankUrl": "divisibility/divisibility-test-by-3"
+        },
+        {
+          "title": "Divisibility by 9",
+          "questionBankUrl": "divisibility/divisibility-test-by-9"
+        },
+        {
+          "title": "Divisibility by 11",
+          "questionBankUrl": "divisibility/divisibility-test-by-11"
+        },
+        {
+          "title": "Divisibility by 7",
+          "questionBankUrl": "divisibility/divisibility-test-by-7"
+        },
+        {
+          "title": "Divisibility by 2-11",
+          "questionBankUrl": "divisibility/divisibility-test-across-divisors"
+        }
+      ]
+    },
+    {
+      "title": "C4 - Prime and Composite Numbers",
+      "links": [
+        {
+          "title": "Primality Test Part 1",
+          "questionBankUrl": "divisibility/primality-test-01"
+        },
+        {
+          "title": "Primality Test Part 2",
+          "questionBankUrl": "divisibility/primality-test-02"
+        },
+        {
+          "title": "Primality Test Part 3",
+          "questionBankUrl": "divisibility/primality-test-03"
+        },
+        {
+          "title": "Primality Test Part 4",
+          "questionBankUrl": "divisibility/primality-test-04"
+        }
+      ]
+    },
+    {
+      "title": "C5 - Fractions",
+      "links": [
+        {
+          "title": "Comparison of Fractions",
+          "questionBankUrl": "fractions-1/comparisons"
+        },
+        {
+          "title": "Addition and Subtraction of Fractions (Part 1)",
+          "questionBankUrl": "fractions-1/add-and-sub-01"
+        },
+        {
+          "title": "Multiplication, Powers and Division of Fractions (Part 1)",
+          "questionBankUrl": "fractions-1/mul-squares-div-01"
+        },
+        {
+          "title": "Addition and Subtraction of Fractions (Part 2)",
+          "questionBankUrl": "fractions-1/add-sub-practice",
+          "description": "Intended for manual practice"
+        },
+        {
+          "title": "Multiplication, Powers and Division of Fractions (Part 2)",
+          "questionBankUrl": "fractions-1/mul-exp-div-practice",
+          "description": "Intended for manual practice"
+        }
+      ]
+    },
+    {
+      "title": "C6 - Procedures for Number Format Conversions",
+      "links": [
+        {
+          "title": "Common fractions and mixed fractions",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/mixed-common"
+        },
+        {
+          "title": "Fractions to decimal expansions (Part 1)",
+          "questionBankUrl": "number-format-conversions/common-to-dec-terminating-01"
+        },
+        {
+          "title": "Fractions to decimal expansions (Part 2)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/common-to-dec-terminating-02"
+        },
+        {
+          "title": "Decimal expansions to fractions (Part 1)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/terminating-dec-to-frac"
+        },
+        {
+          "title": "Rounding of decimal expansions (Part 1)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/terminating-dec-to-approx-dec"
+        },
+        {
+          "title": "Fractions to decimal expansions (Part 3)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/fraction-to-exact-dec"
+        },
+        {
+          "title": "Rounding of decimal expansions (Part 2)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/fraction-to-approx-dec"
+        },
+        {
+          "title": "Decimal expansions to fractions (Part 2, optional)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/exact-dec-to-simplest-frac"
+        }
+      ]
+    },
+    {
+      "title": "C7 - Advanced Arithmetic Practice",
+      "links": [
+        {
+          "title": "Part 1",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "adv-arithmetic-practice/manual-practice"
+        },
+        {
+          "title": "Part 2 (optional)",
+          "description": "Intended for practice with calculator",
+          "questionBankUrl": "adv-arithmetic-practice/calculator-practice"
+        }
+      ]
+    },
+    {
+      "title": "Algebra (MCQs)",
+      "links": [
+        {
+          "title": "Linear Equations",
+          "questionBankUrl": "algebra-mcqs/01-linear-equations"
+        }
+      ]
+    },
+    {
+      "title": "Linear Equations (Theory)",
+      "links": [
+        {
+          "title": "Part 1",
+          "questionBankUrl": "linear-equations-theory/01-equations"
+        },
+        {
+          "title": "Part 2",
+          "questionBankUrl": "linear-equations-theory/02-equations"
+        },
+        {
+          "title": "Part 3",
+          "questionBankUrl": "linear-equations-theory/03-equations"
+        },
+        {
+          "title": "Part 4",
+          "questionBankUrl": "linear-equations-theory/04-equations"
+        },
+        {
+          "title": "Part 5",
+          "questionBankUrl": "linear-equations-theory/05-equations"
+        },
+        {
+          "title": "Part 6",
+          "questionBankUrl": "linear-equations-theory/06-equations"
+        },
+        {
+          "title": "Part 7",
+          "questionBankUrl": "linear-equations-theory/07-equations"
+        },
+        {
+          "title": "Part 8",
+          "questionBankUrl": "linear-equations-theory/08-equations"
+        },
+        {
+          "title": "Part 9",
+          "questionBankUrl": "linear-equations-theory/09-equations"
+        },
+        {
+          "title": "Part 10",
+          "questionBankUrl": "linear-equations-theory/10-equations"
+        },
+        {
+          "title": "Part 11",
+          "questionBankUrl": "linear-equations-theory/11-equations"
+        }
+      ]
+    }
+  ]
+}
