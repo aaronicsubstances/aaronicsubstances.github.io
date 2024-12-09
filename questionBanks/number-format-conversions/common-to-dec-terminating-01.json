@@ -1,5 +1,5 @@
 {
-  "extraDescription": "Convert common fractions with powers of 10 as their denominators, to terminating decimal expansions",
+  "extraDescription": "Convert simple fractions with powers of 10 as their denominators, to terminating decimal expansions",
   "questions": [
     {
       "question": "Convert \\(\\dfrac{93}{1000}\\) to decimal expansion",

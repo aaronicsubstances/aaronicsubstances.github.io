@@ -1,0 +1,22 @@
+{
+    "isTheory": true,
+    "openingRemarks": "Theory example",
+    "questions": [
+        {
+            "question": "Simplify \\(2x + 3x\\)",
+            "answer": "\\(5x\\)"
+        },
+        {
+            "question": "Simplify \\(2x - 3x\\)",
+            "answer": "\\(-x\\)"
+        },
+        {
+            "question": "Simplify \\(2x \\times 3x\\)",
+            "answer": "\\(6x^2\\)"
+        },
+        {
+            "question": "Simplify \\(2x \\div 3x\\)",
+            "answer": "\\(\\frac{2}{3}\\)"
+        }
+    ]
+}

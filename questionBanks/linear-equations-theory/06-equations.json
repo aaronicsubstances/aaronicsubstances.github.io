@@ -1,0 +1,46 @@
+{
+  "isTheory": true,
+  "openingRemarks": "Find the solution to the following equations",
+  "questions": [
+    {
+      "question": "\\(12y + 10y + 14 = 80 \\)",
+      "answer": "\\[\n\\begin{align*}\n12y + 10y + 14 &= 80 \\\\\n22y + 14 &= 80 \\\\\n22y &= 80 - 14 \\\\\n22y &= 66 \\\\\n\\dfrac{22y}{22} &= \\dfrac{66}{22} \\\\\ny &= 3 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = 80</div>\n\n<div>Evaluate \\(12y + 10y + 14\\) if \\(y=3\\)</div>\n\n\\[\n\\begin{align*}\n12y + 10y +14 &= 12(3) + 10(3) + 14 \\\\\n&= 36 + 30 + 14 \\\\\n&= 80\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(6c - 8 - 2c = -16 \\)",
+      "answer": "\\[\n\\begin{align*}\n6c - 8 - 2c &= -16 \\\\\n6c - 2c &= -16 + 8 \\\\\n4c &= -8 \\\\\n\\dfrac{4c}{4} &= \\dfrac{-8}{4} \\\\\nc &= -2 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -16</div>\n\n<div>Evaluate \\(6c - 8 - 2c\\) if \\(c=-2\\)</div>\n\n\\[\n\\begin{align*}\n6c - 8 - 2c &= 6(-2) - 8 - 2(-2) \\\\\n&= -12 - 8 - -4 \\\\\n&= -12 - 8 + 4 \\\\\n&= -16\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(4(z + 5) = 32 \\)",
+      "answer": "\\[\n\\begin{align*}\n4(z + 5) &= 32 \\\\\n4z + 20 &= 32 \\\\\n4z &= 32 - 20 \\\\\n4z &= 12 \\\\\n\\dfrac{4z}{4} &= \\dfrac{12}{4} \\\\\nz &= 3 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = 32</div>\n\n<div>Evaluate \\(4(z + 5)\\) if \\(z=3\\)</div>\n\n\\[\n\\begin{align*}\n4(z + 5) &= 4(3 + 5) \\\\\n&= 4(8) \\\\\n&= 32\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(-2(4g - 3) = 30 \\)",
+      "answer": "\\[\n\\begin{align*}\n-2(4g - 3) &= 30 \\\\\n-8g + 6 &= 30 \\\\\n-8g &= 30 - 6 \\\\\n-8g &= 24 \\\\\n\\dfrac{-8g}{-8} &= \\dfrac{24}{-8} \\\\\ng &= -3 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = 30</div>\n\n<div>Evaluate \\(-2(4g - 3)\\) if \\(g=-3\\)</div>\n\n\\[\n\\begin{align*}\n-2(4g - 3) &= -2(4(-3) - 3) \\\\\n&= -2(-12 - 3) \\\\\n&= -2(-15) \\\\\n&= 30\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(6 + 5(m + 1) = 26 \\)",
+      "answer": "\\[\n\\begin{align*}\n6 + 5(m + 1) &= 26 \\\\\n6 +5m + 5 &= 26 \\\\\n5m &= 26 - 6 - 5 \\\\\n5m &= 15 \\\\\n\\dfrac{5m}{5} &= \\dfrac{15}{5} \\\\\nm &= 3 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = 26</div>\n\n<div>Evaluate \\(6+5(m + 1)\\) if \\(m=3\\)</div>\n\n\\[\n\\begin{align*}\n6 + 5(m + 1) &= 6 + 5(3 + 1) \\\\\n&= 6 + 5(4) \\\\\n&= 6 + 20 \\\\\n&= 26\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(5h + 2(11 - h) = -5 \\)",
+      "answer": "\\[\n\\begin{align*}\n5h + 2(11 - h) &= -5 \\\\\n5h +22 - 2h &= -5 \\\\\n5h - 2h &=  -5 - 22 \\\\\n3h &= -27 \\\\\n\\dfrac{3h}{3} &= \\dfrac{-27}{3} \\\\\nh &= -9 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -5</div>\n\n<div>Evaluate \\(5h+2(11 - h)\\) if \\(h=-9\\)</div>\n\n\\[\n\\begin{align*}\n5h + 2(11 - h) &= 5(-9) + 2(11 - (-9)) \\\\\n&= -45 + 2(11 + 9) \\\\\n&= -45 + 2(20) \\\\\n&= -45 + 40 \\\\\n&= -5\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(27 = 3c - 3(6 - 2c) \\)",
+      "answer": "\\[\n\\begin{align*}\n27 &= 3c - 3(6 - 2c) \\\\\n27 &= 3c - 18 + 6c \\\\\n27 + 18 &=  3c + 6c \\\\\n45 &= 9c \\\\\n\\dfrac{45}{9} &= \\dfrac{9c}{9} \\\\\n5 &= c \\\\\nc &= 5 \\\\\n\\end{align*}\n\\]\n\n<div>Check 27= RHS</div>\n\n<div>Evaluate \\(3c-3(6 - 2c)\\) if \\(c=5\\)</div>\n\n\\[\n\\begin{align*}\n3c - 3(6 - 2c) &= 3(5) - 3(6 - 2(5)) \\\\\n&= 15 - 3(6 - 10) \\\\\n&= 15 - 3(-4) \\\\\n&= 15 + 12 \\\\\n&= 27\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(-3 = 12y - 5(2y - 7) \\)",
+      "answer": "\\[\n\\begin{align*}\n-3 &= 12y - 5(2y - 7) \\\\\n-3 &= 12y - 10y + 35 \\\\\n-3  &=  2y + 35 \\\\\n-2y &= 35 + 3 \\\\\n-2y &= 38 \\\\\n\\dfrac{-2y}{-2} &= \\dfrac{38}{-2} \\\\\ny &= -19 \\\\\n\\end{align*}\n\\]\n\n<div>Check -3 = RHS</div>\n\n<div>Evaluate \\(12y-5(2y - 7)\\) if \\(y=-19\\)</div>\n\n\\[\n\\begin{align*}\n12y - 5(2y - 7) &= 12(-19) - 5(2(-19) - 7) \\\\\n&= -228 - 5(-38 - 7) \\\\\n&= -228 - 5(-45) \\\\\n&= -228 + 225 \\\\\n&= -3\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(-3(3 + x) + 4(x - 6) = -4 \\)",
+      "answer": "\\[\n\\begin{align*}\n-3(3 + x) + 4(x - 6) &= -4 \\\\\n-9 - 3x + 4x - 24 &= -4 \\\\\n-3x + 4x  &=  -4 + 9 + 24 \\\\\nx &= 29 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -4</div>\n\n<div>Evaluate \\(-3(3 + x) + 4(x - 6)\\) if \\(x=29\\)</div>\n\n\\[\n\\begin{align*}\n-3(3 + x) + 4(x - 6) &= -3(3 + 29) + 4(29 - 6) \\\\\n&= -3(32) + 4(23) \\\\\n&= -96 + 92 \\\\\n&= -4\n\\end{align*}\n\\]"
+    },
+    {
+      "question": "\\(5(r + 9) - 2(1 - r) = 1 \\)",
+      "answer": "\\[\n\\begin{align*}\n5(r + 9) - 2(1 - r) &= 1 \\\\\n5r + 45 - 2 + 2r &= 1 \\\\\n5r + 2r  &=  1 - 45 +2 \\\\\n7r &= -42 \\\\\n\\dfrac{7r}{7} &= \\dfrac{-42}{7} \\\\\nr &= -6\n\\end{align*}\n\\]\n\n<div>Check LHS = 1</div>\n\n<div>Evaluate \\(5(r + 9) - 2(1 - r)\\) if \\(r=-6\\)</div>\n\n\\[\n\\begin{align*}\n5(r + 9) - 2(1 - r) &= 5(-6 + 9) - 2(1 - (-6)) \\\\\n&= 5(3) - 2(1 + 6) \\\\\n&= 15 - 2(7) \\\\\n&= 15 - 14 \\\\\n&= 1\n\\end{align*}\n\\]"
+    }
+  ]
+}

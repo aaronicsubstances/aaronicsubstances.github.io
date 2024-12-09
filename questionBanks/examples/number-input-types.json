@@ -1,0 +1,83 @@
+{
+  "openingRemarks": "test of number input types",
+  "closingRemarks": "great achievement if you are able to convert between fractions and decimal expansions",
+  "inputTimeWaitSecs": 20,
+  "randomQuestionCount": -1,
+  "questions": [
+    {
+      "question": "Express \\(6 \\times 2\\) in mix,cfr",
+      "answer": "12",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "Express \\(2 \\times 2\\) in mix,cfr,dec",
+      "answer": "4",
+      "numberInputTypes": ["mix", "cfr", "dec"]
+    },
+    {
+      "question": "\\(4 \\times 10\\)",
+      "answer": "40",
+      "numberInputTypes": []
+    },
+    {
+      "question": "\\(12 \\times 2\\)",
+      "answer": "24",
+      "numberInputTypes": null
+    },
+    {
+      "question": "Express \\(11 \\times 12\\) as an integer",
+      "answer": "132",
+      "numberInputTypes": "int"
+    },
+    {
+      "question": "Express \\(8 \\times 11\\) as an integer",
+      "answer": "88",
+      "numberInputTypes": "int"
+    },
+    {
+      "question": "\\(10 \\times 6\\)",
+      "answer": "60"
+    },
+    {
+      "question": "Express \\(2 \\times 8\\) in dec,cfr",
+      "answer": "16",
+      "numberInputTypes": ["dec", "cfr"]
+    },
+    {
+      "question": "Express \\(3 \\times 12\\) in dec,mix",
+      "answer": "36",
+      "numberInputTypes": ["dec", "mix"]
+    },
+    {
+      "question": "Express \\(11 \\times 2\\) in dec,int",
+      "answer": "22",
+      "numberInputTypes": ["dec", "int"]
+    },
+    {
+      "question": "Express \\(11 \\div 3\\) in decimal expansion",
+      "answer": "3.(6)",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(11 \\div 2\\) in decimal expansion",
+      "answer": "5.5",
+      "numberInputTypes": ["dec"]
+    },
+    {
+      "question": "Express \\(0.625\\) as a common fraction",
+      "answer": "5/8",
+      "numberInputTypes": ["cfr"]
+    },
+    {
+      "question": "Simplify \\(-20.3\\overline{625}\\) as a mixed fraction",
+      "answer": "-20 1811/4995",
+      "numberInputTypes": ["mix"]
+    },
+    {
+      "question": "Simplify \\(\\dfrac{48}{60}\\)",
+      "answer": "48/60",
+      "numberInputType": ["cfr"],
+      "expectedDenominators": [5]
+    }
+  ]
+}

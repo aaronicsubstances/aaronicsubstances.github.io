@@ -1,0 +1,605 @@
+{
+  "openingRemarks": "NB: you have to give answers as simplified fractions.",
+  "questions": [
+    {
+      "question": "\\(\\dfrac{-70}{11} - \\dfrac{53}{2}\\)",
+      "answer": "-723/22",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [22]
+    },
+    {
+      "question": "\\(\\dfrac{43}{10} - \\dfrac{49}{11}\\)",
+      "answer": "-17/110",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [110]
+    },
+    {
+      "question": "\\(\\dfrac{43}{4} + \\dfrac{-88}{9}\\)",
+      "answer": "35/36",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [36]
+    },
+    {
+      "question": "\\(\\dfrac{37}{5} + \\dfrac{-6}{7}\\)",
+      "answer": "229/35",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [35]
+    },
+    {
+      "question": "\\(-12 + \\dfrac{8}{5}\\)",
+      "answer": "-52/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{-11}{6} - \\dfrac{65}{12}\\)",
+      "answer": "-29/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{82}{9} - -8\\)",
+      "answer": "154/9",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [9]
+    },
+    {
+      "question": "\\(\\dfrac{59}{10} - 98\\)",
+      "answer": "-921/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{-4}{7} + \\dfrac{64}{9}\\)",
+      "answer": "412/63",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [63]
+    },
+    {
+      "question": "\\(\\dfrac{-10}{3} + -84\\)",
+      "answer": "-262/3",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(\\dfrac{43}{5} + \\dfrac{-79}{7}\\)",
+      "answer": "-94/35",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [35]
+    },
+    {
+      "question": "\\(\\dfrac{-84}{5} + \\dfrac{-15}{2}\\)",
+      "answer": "-243/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{39}{10} + -14\\)",
+      "answer": "-101/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{-39}{5} + \\dfrac{-19}{4}\\)",
+      "answer": "-251/20",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [20]
+    },
+    {
+      "question": "\\(\\dfrac{-2}{3} - \\dfrac{-77}{6}\\)",
+      "answer": "73/6",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [6]
+    },
+    {
+      "question": "\\(\\dfrac{23}{4} - \\dfrac{-47}{7}\\)",
+      "answer": "349/28",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [28]
+    },
+    {
+      "question": "\\(\\dfrac{13}{2} - 13\\)",
+      "answer": "-13/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(24 + \\dfrac{-44}{5}\\)",
+      "answer": "76/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(-7 - \\dfrac{23}{2}\\)",
+      "answer": "-37/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(34 - \\dfrac{-21}{2}\\)",
+      "answer": "89/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(\\dfrac{-58}{11} + \\dfrac{-3}{2}\\)",
+      "answer": "-149/22",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [22]
+    },
+    {
+      "question": "\\(\\dfrac{-31}{6} - \\dfrac{5}{2}\\)",
+      "answer": "-23/3",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(\\dfrac{19}{8} - \\dfrac{43}{3}\\)",
+      "answer": "-287/24",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [24]
+    },
+    {
+      "question": "\\(\\dfrac{11}{7} - \\dfrac{-46}{3}\\)",
+      "answer": "355/21",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [21]
+    },
+    {
+      "question": "\\(-1 - \\dfrac{24}{5}\\)",
+      "answer": "-29/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{-51}{5} - \\dfrac{61}{10}\\)",
+      "answer": "-163/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{10}{9} - \\dfrac{65}{3}\\)",
+      "answer": "-185/9",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [9]
+    },
+    {
+      "question": "\\(\\dfrac{-23}{4} + \\dfrac{-13}{6}\\)",
+      "answer": "-95/12",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [12]
+    },
+    {
+      "question": "\\(-7 - -7\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [1, 0]
+    },
+    {
+      "question": "\\(-2 + \\dfrac{19}{4}\\)",
+      "answer": "11/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{31}{11} + \\dfrac{-38}{3}\\)",
+      "answer": "-325/33",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [33]
+    },
+    {
+      "question": "\\(\\dfrac{45}{8} - \\dfrac{23}{4}\\)",
+      "answer": "-1/8",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [8]
+    },
+    {
+      "question": "\\(20 + \\dfrac{79}{12}\\)",
+      "answer": "319/12",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [12]
+    },
+    {
+      "question": "\\(\\dfrac{-3}{10} - \\dfrac{-91}{4}\\)",
+      "answer": "449/20",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [20]
+    },
+    {
+      "question": "\\(\\dfrac{-77}{8} + -7\\)",
+      "answer": "-133/8",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [8]
+    },
+    {
+      "question": "\\(\\dfrac{37}{6} - \\dfrac{36}{5}\\)",
+      "answer": "-31/30",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [30]
+    },
+    {
+      "question": "\\(\\dfrac{-59}{4} - \\dfrac{7}{11}\\)",
+      "answer": "-677/44",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [44]
+    },
+    {
+      "question": "\\(\\dfrac{17}{3} + \\dfrac{33}{7}\\)",
+      "answer": "218/21",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [21]
+    },
+    {
+      "question": "\\(\\dfrac{-68}{7} - \\dfrac{-7}{3}\\)",
+      "answer": "-155/21",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [21]
+    },
+    {
+      "question": "\\(\\dfrac{-69}{10} + \\dfrac{49}{3}\\)",
+      "answer": "283/30",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [30]
+    },
+    {
+      "question": "\\(\\dfrac{48}{5} + \\dfrac{71}{5}\\)",
+      "answer": "119/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{-33}{4} + \\dfrac{-17}{4}\\)",
+      "answer": "-25/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(\\dfrac{38}{5} - 12\\)",
+      "answer": "-22/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{23}{4} + 32\\)",
+      "answer": "151/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{-73}{3} + \\dfrac{43}{10}\\)",
+      "answer": "-601/30",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [30]
+    },
+    {
+      "question": "\\(\\dfrac{51}{2} - \\dfrac{-47}{2}\\)",
+      "answer": "49",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [1, 0]
+    },
+    {
+      "question": "\\(\\dfrac{45}{4} + \\dfrac{-90}{7}\\)",
+      "answer": "-45/28",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [28]
+    },
+    {
+      "question": "\\(25 - \\dfrac{-97}{8}\\)",
+      "answer": "297/8",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [8]
+    },
+    {
+      "question": "\\(\\dfrac{38}{9} + \\dfrac{35}{3}\\)",
+      "answer": "143/9",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [9]
+    },
+    {
+      "question": "\\(\\dfrac{-33}{10} - \\dfrac{3}{5}\\)",
+      "answer": "-39/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{-52}{5} - \\dfrac{-83}{8}\\)",
+      "answer": "-1/40",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [40]
+    },
+    {
+      "question": "\\(\\dfrac{-96}{5} + 49\\)",
+      "answer": "149/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(-6 - \\dfrac{-74}{9}\\)",
+      "answer": "20/9",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [9]
+    },
+    {
+      "question": "\\(\\dfrac{-37}{7} + 6\\)",
+      "answer": "5/7",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [7]
+    },
+    {
+      "question": "\\(\\dfrac{20}{11} - 1\\)",
+      "answer": "9/11",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [11]
+    },
+    {
+      "question": "\\(\\dfrac{55}{6} + 95\\)",
+      "answer": "625/6",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [6]
+    },
+    {
+      "question": "\\(\\dfrac{-40}{11} - -30\\)",
+      "answer": "290/11",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [11]
+    },
+    {
+      "question": "\\(\\dfrac{23}{2} - \\dfrac{-91}{5}\\)",
+      "answer": "297/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{17}{5} + 37\\)",
+      "answer": "202/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{43}{4} - \\dfrac{-1}{6}\\)",
+      "answer": "131/12",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [12]
+    },
+    {
+      "question": "\\(\\dfrac{-79}{2} + \\dfrac{38}{3}\\)",
+      "answer": "-161/6",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [6]
+    },
+    {
+      "question": "\\(\\dfrac{-67}{3} - \\dfrac{-23}{6}\\)",
+      "answer": "-37/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(\\dfrac{23}{8} - \\dfrac{-91}{3}\\)",
+      "answer": "797/24",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [24]
+    },
+    {
+      "question": "\\(\\dfrac{-25}{3} + \\dfrac{99}{10}\\)",
+      "answer": "47/30",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [30]
+    },
+    {
+      "question": "\\(\\dfrac{17}{10} + -5\\)",
+      "answer": "-33/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{33}{2} - \\dfrac{-25}{4}\\)",
+      "answer": "91/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{-5}{2} - \\dfrac{79}{4}\\)",
+      "answer": "-89/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{73}{9} - \\dfrac{-33}{5}\\)",
+      "answer": "662/45",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [45]
+    },
+    {
+      "question": "\\(93 - \\dfrac{35}{2}\\)",
+      "answer": "151/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(\\dfrac{33}{5} - -99\\)",
+      "answer": "528/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{74}{5} - \\dfrac{59}{2}\\)",
+      "answer": "-147/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{-46}{5} - 29\\)",
+      "answer": "-191/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(-97 + \\dfrac{26}{5}\\)",
+      "answer": "-459/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{-83}{10} - 55\\)",
+      "answer": "-633/10",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [10]
+    },
+    {
+      "question": "\\(\\dfrac{8}{5} + -4\\)",
+      "answer": "-12/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(\\dfrac{-28}{5} + 17\\)",
+      "answer": "57/5",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [5]
+    },
+    {
+      "question": "\\(8 + \\dfrac{-47}{2}\\)",
+      "answer": "-31/2",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [2]
+    },
+    {
+      "question": "\\(\\dfrac{-77}{12} - \\dfrac{35}{11}\\)",
+      "answer": "-1267/132",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [132]
+    },
+    {
+      "question": "\\(\\dfrac{-13}{2} + \\dfrac{5}{4}\\)",
+      "answer": "-21/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(14 + \\dfrac{37}{4}\\)",
+      "answer": "93/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{-43}{4} - \\dfrac{-41}{12}\\)",
+      "answer": "-22/3",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(\\dfrac{-63}{4} + 21\\)",
+      "answer": "21/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{55}{3} + \\dfrac{13}{3}\\)",
+      "answer": "68/3",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [3]
+    },
+    {
+      "question": "\\(\\dfrac{-82}{9} + \\dfrac{-23}{11}\\)",
+      "answer": "-1109/99",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [99]
+    },
+    {
+      "question": "\\(\\dfrac{-34}{11} + \\dfrac{49}{2}\\)",
+      "answer": "471/22",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [22]
+    },
+    {
+      "question": "\\(\\dfrac{15}{4} - \\dfrac{4}{9}\\)",
+      "answer": "119/36",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [36]
+    },
+    {
+      "question": "\\(88 - \\dfrac{-32}{7}\\)",
+      "answer": "648/7",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [7]
+    },
+    {
+      "question": "\\(-7 + \\dfrac{-33}{8}\\)",
+      "answer": "-89/8",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [8]
+    },
+    {
+      "question": "\\(\\dfrac{-43}{4} - \\dfrac{-77}{8}\\)",
+      "answer": "-9/8",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [8]
+    },
+    {
+      "question": "\\(\\dfrac{-8}{5} - \\dfrac{5}{3}\\)",
+      "answer": "-49/15",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [15]
+    },
+    {
+      "question": "\\(\\dfrac{-5}{4} + \\dfrac{-13}{2}\\)",
+      "answer": "-31/4",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [4]
+    },
+    {
+      "question": "\\(\\dfrac{-25}{6} - -40\\)",
+      "answer": "215/6",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [6]
+    },
+    {
+      "question": "\\(\\dfrac{16}{11} - \\dfrac{-86}{9}\\)",
+      "answer": "1090/99",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [99]
+    },
+    {
+      "question": "\\(\\dfrac{-79}{10} + \\dfrac{-9}{4}\\)",
+      "answer": "-203/20",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [20]
+    },
+    {
+      "question": "\\(-5 + \\dfrac{34}{9}\\)",
+      "answer": "-11/9",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [9]
+    },
+    {
+      "question": "\\(\\dfrac{-90}{11} + \\dfrac{-28}{5}\\)",
+      "answer": "-758/55",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [55]
+    },
+    {
+      "question": "\\(1 - \\dfrac{2}{7}\\)",
+      "answer": "5/7",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [7]
+    },
+    {
+      "question": "\\(\\dfrac{83}{9} - -3\\)",
+      "answer": "110/9",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [9]
+    },
+    {
+      "question": "\\(\\dfrac{-1}{11} + \\dfrac{-39}{5}\\)",
+      "answer": "-434/55",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [55]
+    },
+    {
+      "question": "\\(\\dfrac{-65}{4} + \\dfrac{59}{8}\\)",
+      "answer": "-71/8",
+      "numberInputTypes": ["mix", "cfr"],
+      "expectedDenominators": [8]
+    }
+  ]
+}

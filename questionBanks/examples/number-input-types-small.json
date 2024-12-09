@@ -1,0 +1,75 @@
+{
+  "inputTimeWaitSecs": 30,
+  "randomQuestionCount": 100,
+  "questions": [
+    {
+      "question": "Express \\(6 \\times 2\\)<br>in mix,cfr",
+      "answer": "12",
+      "numberInputType": "mix,cfr"
+    },
+    {
+      "question": "Express \\(2 \\times 2\\) in mix,cfr,dec",
+      "answer": "4",
+      "numberInputType": "mix,cfr,dec"
+    },
+    {
+      "question": "\\(4 \\times 10\\)",
+      "answer": "40",
+      "numberInputType": ""
+    },
+    {
+      "question": "\\(12 \\times 2\\)",
+      "answer": "24",
+      "numberInputType": null
+    },
+    {
+      "question": "Express \\(11 \\times 12\\) as an integer",
+      "answer": "132",
+      "numberInputType": "int"
+    },
+    {
+      "question": "Express \\(8 \\times 11\\) as an integer",
+      "answer": "88",
+      "numberInputType": "int"
+    },
+    {
+      "question": "\\(10 \\times 6\\)",
+      "answer": "60"
+    },
+    {
+      "question": "Express \\(2 \\times 8\\) in dec,cfr",
+      "answer": "16",
+      "numberInputType": "dec,cfr"
+    },
+    {
+      "question": "Express \\(3 \\times 12\\) in dec,mix",
+      "answer": "36",
+      "numberInputType": "dec,mix"
+    },
+    {
+      "question": "Express \\(11 \\times 2\\) in dec,int",
+      "answer": "22",
+      "numberInputType": "dec,int"
+    },
+    {
+      "question": "Express \\(11 \\div 3\\) in decimal expansion",
+      "answer": "3.(6)",
+      "numberInputType": "dec"
+    },
+    {
+      "question": "Express \\(11 \\div 2\\) in decimal expansion",
+      "answer": "5.5",
+      "numberInputType": "dec"
+    },
+    {
+      "question": "Express \\(0.625\\) as a common fraction",
+      "answer": "5/8",
+      "numberInputType": "cfr"
+    },
+    {
+      "question": "Express \\(-20.3\\overline{625}\\) as a mixed fraction",
+      "answer": "-20 1811/4995",
+      "numberInputType": "mix"
+    }
+  ]
+}

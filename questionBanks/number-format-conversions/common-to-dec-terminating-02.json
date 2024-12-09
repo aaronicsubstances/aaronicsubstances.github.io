@@ -1,5 +1,5 @@
 {
-  "extraDescription": "Convert common fractions to terminating decimal expansions",
+  "extraDescription": "Convert simple fractions to terminating decimal expansions",
   "questions": [
     {
       "question": "Convert \\(\\dfrac{41}{2}\\) to decimal expansion",

@@ -3,393 +3,83 @@
   "openingRemarks": "NB: you can give answers as unsimplified fractions.",
   "questions": [
     {
-      "question": "\\(\\left(\\dfrac{9}{8}\\right)^2\\)",
-      "answer": "81/64",
+      "question": "\\(1 \\div \\dfrac{5}{9}\\)",
+      "answer": "9/5",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(2 \\times \\dfrac{1}{8}\\)",
-      "answer": "1/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1 \\times \\dfrac{5}{3}\\)",
-      "answer": "5/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\times \\dfrac{5}{2}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{4}{3}\\right)^2\\)",
-      "answer": "16/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{6} \\div \\dfrac{5}{6}\\)",
-      "answer": "1/5",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{7} \\times \\dfrac{2}{7}\\)",
-      "answer": "22/49",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{3} \\div \\dfrac{1}{3}\\)",
-      "answer": "1",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{12}{5} \\times \\dfrac{4}{5}\\)",
-      "answer": "48/25",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{2} \\div 2\\)",
-      "answer": "1/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(11 \\times \\dfrac{1}{8}\\)",
-      "answer": "11/8",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(7 \\div \\dfrac{5}{4}\\)",
-      "answer": "28/5",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(6 \\times \\dfrac{3}{2}\\)",
-      "answer": "9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{5}{3}\\right)^2\\)",
-      "answer": "25/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{9}{4} \\div \\dfrac{7}{4}\\)",
+      "question": "\\(1 \\times \\dfrac{9}{7}\\)",
       "answer": "9/7",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{1}{10} \\div 0\\)",
-      "answer": "undefined",
+      "question": "\\(1 \\times \\dfrac{2}{11}\\)",
+      "answer": "2/11",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(8 \\div \\dfrac{7}{9}\\)",
-      "answer": "72/7",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\div \\dfrac{4}{3}\\)",
+      "question": "\\(0 \\div \\dfrac{7}{4}\\)",
       "answer": "0",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{4}{3} \\times \\dfrac{1}{3}\\)",
-      "answer": "4/9",
+      "question": "\\(\\left(\\dfrac{1}{11}\\right)^2\\)",
+      "answer": "1/121",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{10}{11} \\times \\dfrac{4}{11}\\)",
-      "answer": "40/121",
+      "question": "\\(\\dfrac{11}{5} \\times 2\\)",
+      "answer": "22/5",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{7}{5} \\div \\dfrac{4}{5}\\)",
-      "answer": "7/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{3} \\times \\dfrac{10}{3}\\)",
-      "answer": "20/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{9}{5} \\div \\dfrac{1}{5}\\)",
-      "answer": "9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{5} \\div 2\\)",
-      "answer": "1/5",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{7}{4} \\times 3\\)",
-      "answer": "21/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{9} \\times 0\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(3 \\div \\dfrac{8}{7}\\)",
-      "answer": "21/8",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1 \\times \\dfrac{3}{10}\\)",
-      "answer": "3/10",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{9}{10} \\times \\dfrac{11}{10}\\)",
-      "answer": "99/100",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{7}{9} \\div 1\\)",
-      "answer": "7/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(4 \\div \\dfrac{7}{3}\\)",
-      "answer": "12/7",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(11 \\div \\dfrac{1}{5}\\)",
-      "answer": "55",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1 \\div \\dfrac{9}{7}\\)",
-      "answer": "7/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{12}{5} \\div \\dfrac{4}{5}\\)",
-      "answer": "3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{7}{10} \\div \\dfrac{11}{10}\\)",
-      "answer": "7/11",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{5}{3} \\times 1\\)",
-      "answer": "5/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{5}{6} \\times \\dfrac{7}{6}\\)",
-      "answer": "35/36",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1 \\times \\dfrac{9}{10}\\)",
-      "answer": "9/10",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{6}{11} \\times \\dfrac{1}{11}\\)",
-      "answer": "6/121",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{3}{2}\\right)^2\\)",
-      "answer": "9/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{4} \\times \\dfrac{3}{4}\\)",
-      "answer": "33/16",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{7}{3} \\div 3\\)",
-      "answer": "7/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\div \\dfrac{2}{5}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{3} \\times \\dfrac{4}{3}\\)",
-      "answer": "8/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\times \\dfrac{8}{3}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{4} \\times \\dfrac{1}{4}\\)",
-      "answer": "11/16",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\div \\dfrac{2}{3}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{5}{2} \\div 1\\)",
-      "answer": "5/2",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(3 \\div \\dfrac{5}{2}\\)",
-      "answer": "6/5",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(6 \\times \\dfrac{5}{2}\\)",
-      "answer": "15",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{3} \\times \\dfrac{2}{3}\\)",
-      "answer": "4/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{9}{10} \\div \\dfrac{3}{10}\\)",
-      "answer": "3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{7}{3}\\right)^2\\)",
-      "answer": "49/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{10}{3} \\div 2\\)",
-      "answer": "5/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{10}{9}\\right)^2\\)",
-      "answer": "100/81",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{6}{11} \\times \\dfrac{7}{11}\\)",
-      "answer": "42/121",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{2}{3}\\right)^2\\)",
-      "answer": "4/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{1}{10}\\right)^2\\)",
-      "answer": "1/100",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1^2\\)",
+      "question": "\\(\\dfrac{1}{2} \\div \\dfrac{1}{2}\\)",
       "answer": "1",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(6 \\div \\dfrac{7}{2}\\)",
-      "answer": "12/7",
+      "question": "\\(\\dfrac{4}{7} \\times \\dfrac{9}{7}\\)",
+      "answer": "36/49",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(0 \\times \\dfrac{1}{3}\\)",
+      "question": "\\(4 \\div \\dfrac{2}{3}\\)",
+      "answer": "6",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\times \\dfrac{12}{5}\\)",
       "answer": "0",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\left(\\dfrac{1}{2}\\right)^2\\)",
+      "question": "\\(\\dfrac{8}{7} \\) of \\( \\dfrac{12}{7}\\)",
+      "answer": "96/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{2} \\times \\dfrac{1}{2}\\)",
       "answer": "1/4",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{2}{9} \\div \\dfrac{7}{9}\\)",
-      "answer": "2/7",
+      "question": "\\(0 \\div \\dfrac{6}{11}\\)",
+      "answer": "0",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{7}{2} \\times \\dfrac{5}{2}\\)",
-      "answer": "35/4",
+      "question": "\\(3 \\div \\dfrac{2}{3}\\)",
+      "answer": "9/2",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{8}{11} \\div \\dfrac{1}{11}\\)",
-      "answer": "8",
+      "question": "\\(0 \\times \\dfrac{3}{2}\\)",
+      "answer": "0",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{11}{7} \\div 1\\)",
-      "answer": "11/7",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(3 \\times \\dfrac{9}{4}\\)",
-      "answer": "27/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{5}{4} \\div \\dfrac{11}{4}\\)",
-      "answer": "5/11",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{5}{4} \\times \\dfrac{1}{4}\\)",
-      "answer": "5/16",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{4} \\div \\dfrac{3}{4}\\)",
+      "question": "\\(\\dfrac{4}{11} \\div \\dfrac{12}{11}\\)",
       "answer": "1/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{3} \\times 1\\)",
-      "answer": "2/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{10}{3} \\div \\dfrac{8}{3}\\)",
-      "answer": "5/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{7} \\times \\dfrac{10}{7}\\)",
-      "answer": "20/49",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{5} \\times \\dfrac{9}{5}\\)",
-      "answer": "9/25",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{2}{5} \\times 1\\)",
-      "answer": "2/5",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\div \\dfrac{1}{4}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\times 2\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{1}{4}\\right)^2\\)",
-      "answer": "1/16",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
@@ -398,153 +88,23 @@
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{7}{8} \\div \\dfrac{7}{8}\\)",
-      "answer": "1",
+      "question": "\\(1 \\div \\dfrac{11}{3}\\)",
+      "answer": "3/11",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\left(\\dfrac{6}{7}\\right)^2\\)",
-      "answer": "36/49",
+      "question": "\\(\\dfrac{12}{7} \\) of \\( \\dfrac{6}{7}\\)",
+      "answer": "72/49",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\left(\\dfrac{3}{5}\\right)^2\\)",
-      "answer": "9/25",
+      "question": "\\(\\dfrac{8}{9} \\) of \\( \\dfrac{10}{9}\\)",
+      "answer": "80/81",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\left(\\dfrac{1}{6}\\right)^2\\)",
-      "answer": "1/36",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{5}{2} \\div 0\\)",
-      "answer": "undefined",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{3}{2} \\div \\dfrac{1}{2}\\)",
+      "question": "\\(\\dfrac{3}{5} \\div \\dfrac{1}{5}\\)",
       "answer": "3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\div \\dfrac{3}{5}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{3}{11}\\right)^2\\)",
-      "answer": "9/121",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(6 \\div \\dfrac{3}{8}\\)",
-      "answer": "16",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{7}{4} \\div \\dfrac{1}{4}\\)",
-      "answer": "7",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{3} \\div 1\\)",
-      "answer": "1/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{3}{8}\\right)^2\\)",
-      "answer": "9/64",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{9}{2} \\div 3\\)",
-      "answer": "3/2",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{4}{3} \\div \\dfrac{11}{3}\\)",
-      "answer": "4/11",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{4}{3} \\times 2\\)",
-      "answer": "8/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\times \\dfrac{10}{7}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1 \\times \\dfrac{1}{2}\\)",
-      "answer": "1/2",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{5} \\div \\dfrac{6}{5}\\)",
-      "answer": "1/6",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{3} \\div \\dfrac{1}{3}\\)",
-      "answer": "11",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{4}{5} \\div \\dfrac{8}{5}\\)",
-      "answer": "1/2",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{7}{3} \\times \\dfrac{10}{3}\\)",
-      "answer": "70/9",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{6}{11} \\div \\dfrac{6}{11}\\)",
-      "answer": "1",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(0 \\times \\dfrac{7}{11}\\)",
-      "answer": "0",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{4}{5} \\times \\dfrac{3}{5}\\)",
-      "answer": "12/25",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{1}{4} \\times \\dfrac{3}{4}\\)",
-      "answer": "3/16",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(4 \\div \\dfrac{8}{7}\\)",
-      "answer": "7/2",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{3}{10}\\right)^2\\)",
-      "answer": "9/100",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{10} \\times \\dfrac{7}{10}\\)",
-      "answer": "77/100",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(1 \\times \\dfrac{12}{7}\\)",
-      "answer": "12/7",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{3}{8} \\times \\dfrac{1}{8}\\)",
-      "answer": "3/64",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
@@ -553,53 +113,493 @@
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\left(\\dfrac{5}{6}\\right)^2\\)",
-      "answer": "25/36",
+      "question": "\\(\\dfrac{3}{4} \\div \\dfrac{1}{4}\\)",
+      "answer": "3",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{1}{6} \\div \\dfrac{1}{6}\\)",
-      "answer": "1",
+      "question": "\\(8 \\div \\dfrac{1}{2}\\)",
+      "answer": "16",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(\\dfrac{5}{3} \\times \\dfrac{1}{3}\\)",
-      "answer": "5/9",
+      "question": "\\(\\dfrac{7}{2} \\) of \\( \\dfrac{5}{2}\\)",
+      "answer": "35/4",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
-      "question": "\\(1 \\div \\dfrac{3}{5}\\)",
+      "question": "\\(\\dfrac{12}{11} \\) of \\( \\dfrac{6}{11}\\)",
+      "answer": "72/121",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\times \\dfrac{8}{7}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{7} \\) of \\( \\dfrac{2}{7}\\)",
+      "answer": "6/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\times \\dfrac{4}{3}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(10 \\div \\dfrac{1}{3}\\)",
+      "answer": "30",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(4 \\div \\dfrac{12}{5}\\)",
       "answer": "5/3",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{11}{3} \\div \\dfrac{8}{3}\\)",
-      "answer": "11/8",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\left(\\dfrac{3}{4}\\right)^2\\)",
-      "answer": "9/16",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{3}{2} \\times \\dfrac{11}{2}\\)",
-      "answer": "33/4",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{10}{7} \\times \\dfrac{11}{7}\\)",
-      "answer": "110/49",
-      "numberInputTypes": ["mix", "cfr"]
-    },
-    {
-      "question": "\\(\\dfrac{3}{5} \\div \\dfrac{9}{5}\\)",
-      "answer": "1/3",
       "numberInputTypes": ["mix", "cfr"]
     },
     {
       "question": "\\(\\dfrac{3}{2} \\div \\dfrac{3}{2}\\)",
       "answer": "1",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{6}{7} \\times \\dfrac{9}{7}\\)",
+      "answer": "54/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(2 \\div \\dfrac{6}{5}\\)",
+      "answer": "5/3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{7}{5} \\div 2\\)",
+      "answer": "7/10",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{4}{3} \\times 0\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(1 \\div \\dfrac{11}{2}\\)",
+      "answer": "2/11",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{9}{11} \\div 1\\)",
+      "answer": "9/11",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{2} \\div \\dfrac{11}{2}\\)",
+      "answer": "1/11",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{3}{7}\\right)^2\\)",
+      "answer": "9/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{10}{11} \\div \\dfrac{4}{11}\\)",
+      "answer": "5/2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(2 \\div \\dfrac{5}{6}\\)",
+      "answer": "12/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(11 \\times \\dfrac{5}{9}\\)",
+      "answer": "55/9",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{12}{7} \\div \\dfrac{9}{7}\\)",
+      "answer": "4/3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{2} \\div \\dfrac{5}{2}\\)",
+      "answer": "3/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(4 \\div \\dfrac{10}{3}\\)",
+      "answer": "6/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{9}{8} \\div \\dfrac{3}{8}\\)",
+      "answer": "3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{6} \\div 1\\)",
+      "answer": "1/6",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{12}{7} \\div \\dfrac{5}{7}\\)",
+      "answer": "12/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{9}{5}\\right)^2\\)",
+      "answer": "81/25",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{12}{11} \\div \\dfrac{7}{11}\\)",
+      "answer": "12/7",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{2} \\div 5\\)",
+      "answer": "3/10",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{7}{4}\\right)^2\\)",
+      "answer": "49/16",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{2}{5}\\right)^2\\)",
+      "answer": "4/25",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{6}{11} \\times \\dfrac{4}{11}\\)",
+      "answer": "24/121",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{9} \\times \\dfrac{1}{9}\\)",
+      "answer": "1/81",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(2 \\) of \\( \\dfrac{1}{3}\\)",
+      "answer": "2/3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{11}{8} \\times \\dfrac{1}{8}\\)",
+      "answer": "11/64",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{12}{11} \\times 0\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{11}{7} \\div \\dfrac{2}{7}\\)",
+      "answer": "11/2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{12}{5} \\times 1\\)",
+      "answer": "12/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(4^2\\)",
+      "answer": "16",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{6}{7}\\right)^2\\)",
+      "answer": "36/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{7}{11} \\times \\dfrac{12}{11}\\)",
+      "answer": "84/121",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{1}{2}\\right)^2\\)",
+      "answer": "1/4",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{11}{2} \\div \\dfrac{5}{2}\\)",
+      "answer": "11/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{2} \\times 1\\)",
+      "answer": "1/2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{9}{5} \\) of \\( 2\\)",
+      "answer": "18/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{4}{3} \\div \\dfrac{4}{3}\\)",
+      "answer": "1",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(1 \\) of \\( \\dfrac{4}{3}\\)",
+      "answer": "4/3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{12}{5} \\div \\dfrac{12}{5}\\)",
+      "answer": "1",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{7}{2} \\times 3\\)",
+      "answer": "21/2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{2}{3} \\times 1\\)",
+      "answer": "2/3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\div \\dfrac{2}{11}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{3}{2}\\right)^2\\)",
+      "answer": "9/4",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(12 \\times \\dfrac{2}{7}\\)",
+      "answer": "24/7",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{2} \\) of \\( \\dfrac{1}{2}\\)",
+      "answer": "3/4",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{11} \\times \\dfrac{7}{11}\\)",
+      "answer": "21/121",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(2 \\div \\dfrac{4}{3}\\)",
+      "answer": "3/2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{2} \\div 4\\)",
+      "answer": "1/8",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{12}{7}\\right)^2\\)",
+      "answer": "144/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{5}{9}\\right)^2\\)",
+      "answer": "25/81",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(1 \\) of \\( \\dfrac{9}{4}\\)",
+      "answer": "9/4",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{11}{8}\\right)^2\\)",
+      "answer": "121/64",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\times \\dfrac{1}{3}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{7}{3}\\right)^2\\)",
+      "answer": "49/9",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{2}{3} \\div 1\\)",
+      "answer": "2/3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{4} \\div \\dfrac{1}{4}\\)",
+      "answer": "1",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\times \\dfrac{1}{2}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{12}{11}\\right)^2\\)",
+      "answer": "144/121",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{2}{9} \\) of \\( \\dfrac{8}{9}\\)",
+      "answer": "16/81",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{5}{11} \\div \\dfrac{8}{11}\\)",
+      "answer": "5/8",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{6} \\div \\dfrac{7}{6}\\)",
+      "answer": "1/7",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{8}{11} \\div \\dfrac{5}{11}\\)",
+      "answer": "8/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{1}{4}\\right)^2\\)",
+      "answer": "1/16",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{9}{7} \\times \\dfrac{1}{7}\\)",
+      "answer": "9/49",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{2}{5} \\times 0\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{4}{5} \\) of \\( \\dfrac{2}{5}\\)",
+      "answer": "8/25",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{6}{11} \\div \\dfrac{3}{11}\\)",
+      "answer": "2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{4}{11} \\div \\dfrac{9}{11}\\)",
+      "answer": "4/9",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(1 \\div \\dfrac{1}{4}\\)",
+      "answer": "4",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{2}{5} \\div \\dfrac{1}{5}\\)",
+      "answer": "2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{11}{9} \\) of \\( \\dfrac{5}{9}\\)",
+      "answer": "55/81",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{1}{2} \\div \\dfrac{5}{2}\\)",
+      "answer": "1/5",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{11}{8} \\times \\dfrac{5}{8}\\)",
+      "answer": "55/64",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\div \\dfrac{1}{2}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{4}{3} \\div \\dfrac{2}{3}\\)",
+      "answer": "2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{11}{5}\\right)^2\\)",
+      "answer": "121/25",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(0 \\div \\dfrac{8}{3}\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{8} \\div 0\\)",
+      "answer": "undefined",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{5} \\div 2\\)",
+      "answer": "3/10",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{6}{5} \\div \\dfrac{4}{5}\\)",
+      "answer": "3/2",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(4 \\times \\dfrac{3}{2}\\)",
+      "answer": "6",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{2} \\times 0\\)",
+      "answer": "0",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{5}{8} \\div 0\\)",
+      "answer": "undefined",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{2}{11}\\right)^2\\)",
+      "answer": "4/121",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{5}{4} \\times 1\\)",
+      "answer": "5/4",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\dfrac{3}{2} \\) of \\( 2\\)",
+      "answer": "3",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{2}{3}\\right)^2\\)",
+      "answer": "4/9",
+      "numberInputTypes": ["mix", "cfr"]
+    },
+    {
+      "question": "\\(\\left(\\dfrac{7}{6}\\right)^2\\)",
+      "answer": "49/36",
       "numberInputTypes": ["mix", "cfr"]
     }
   ]

@@ -1,0 +1,174 @@
+{
+  "extraDescription": "for squares of 0-20 and roots in 0-20",
+  "randomQuestionCount": 5,
+  "questions": [
+    {
+      "question": "4&sup2;",
+      "answer": "16"
+    },
+    {
+      "question": "9&sup2;",
+      "answer": "81"
+    },
+    {
+      "question": "\\(\\sqrt{49}\\)",
+      "answer": "7"
+    },
+    {
+      "question": "17&sup2;",
+      "answer": "289"
+    },
+    {
+      "question": "\\(\\sqrt{256}\\)",
+      "answer": "16"
+    },
+    {
+      "question": "\\(\\sqrt{324}\\)",
+      "answer": "18"
+    },
+    {
+      "question": "15&sup2;",
+      "answer": "225"
+    },
+    {
+      "question": "\\(\\sqrt{289}\\)",
+      "answer": "17"
+    },
+    {
+      "question": "\\(\\sqrt{4}\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(\\sqrt{121}\\)",
+      "answer": "11"
+    },
+    {
+      "question": "\\(\\sqrt{196}\\)",
+      "answer": "14"
+    },
+    {
+      "question": "\\(\\sqrt{81}\\)",
+      "answer": "9"
+    },
+    {
+      "question": "19&sup2;",
+      "answer": "361"
+    },
+    {
+      "question": "2&sup2;",
+      "answer": "4"
+    },
+    {
+      "question": "13&sup2;",
+      "answer": "169"
+    },
+    {
+      "question": "\\(\\sqrt{100}\\)",
+      "answer": "10"
+    },
+    {
+      "question": "\\(\\sqrt{9}\\)",
+      "answer": "3"
+    },
+    {
+      "question": "\\(\\sqrt{400}\\)",
+      "answer": "20"
+    },
+    {
+      "question": "\\(\\sqrt{36}\\)",
+      "answer": "6"
+    },
+    {
+      "question": "1&sup2;",
+      "answer": "1"
+    },
+    {
+      "question": "5&sup2;",
+      "answer": "25"
+    },
+    {
+      "question": "\\(\\sqrt{144}\\)",
+      "answer": "12"
+    },
+    {
+      "question": "\\(\\sqrt{169}\\)",
+      "answer": "13"
+    },
+    {
+      "question": "18&sup2;",
+      "answer": "324"
+    },
+    {
+      "question": "7&sup2;",
+      "answer": "49"
+    },
+    {
+      "question": "6&sup2;",
+      "answer": "36"
+    },
+    {
+      "question": "11&sup2;",
+      "answer": "121"
+    },
+    {
+      "question": "\\(\\sqrt{0}\\)",
+      "answer": "0"
+    },
+    {
+      "question": "0&sup2;",
+      "answer": "0"
+    },
+    {
+      "question": "20&sup2;",
+      "answer": "400"
+    },
+    {
+      "question": "\\(\\sqrt{1}\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(\\sqrt{16}\\)",
+      "answer": "4"
+    },
+    {
+      "question": "16&sup2;",
+      "answer": "256"
+    },
+    {
+      "question": "\\(\\sqrt{225}\\)",
+      "answer": "15"
+    },
+    {
+      "question": "\\(\\sqrt{64}\\)",
+      "answer": "8"
+    },
+    {
+      "question": "12&sup2;",
+      "answer": "144"
+    },
+    {
+      "question": "\\(\\sqrt{25}\\)",
+      "answer": "5"
+    },
+    {
+      "question": "\\(\\sqrt{361}\\)",
+      "answer": "19"
+    },
+    {
+      "question": "3&sup2;",
+      "answer": "9"
+    },
+    {
+      "question": "8&sup2;",
+      "answer": "64"
+    },
+    {
+      "question": "14&sup2;",
+      "answer": "196"
+    },
+    {
+      "question": "10&sup2;",
+      "answer": "100"
+    }
+  ]
+}
