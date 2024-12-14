@@ -1,6 +1,6 @@
 {
     "isTheory": true,
-    "randomQuestionCount": -1,
+    "pageSize": -1,
     "questions": [
         {
             "question": "Simplify \\(\\dfrac{1200 \\times 1260}{800}\\) and write your answer in standard form",
