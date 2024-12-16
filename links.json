@@ -328,12 +328,19 @@
       "title": "C10 - Equations",
       "links": [
         {
-          "title": "Equations -Theory",
-          "questionBankUrl": "algebra-intro/01-linear-equations-theory"
+          "title": "Linear Equations - Theory",
+          "questionBankUrl": "algebra-intro/01-linear-equations-theory",
+          "description": "Alt 1"
         },
         {
-          "title": "Equations - MCQs",
-          "questionBankUrl": "algebra-intro/02-linear-equations-mcqs"
+          "title": "Linear Equations - Theory",
+          "questionBankUrl": "algebra-intro/02b-linear-equations-theory",
+          "description": "Alt 2"
+        },
+        {
+          "title": "Linear Equations - MCQs",
+          "questionBankUrl": "algebra-intro/02a-linear-equations-mcqs",
+          "description": "Alt 2"
         }
       ]
     }
