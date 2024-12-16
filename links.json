@@ -325,14 +325,14 @@
       ]
     },
     {
-      "title": "C9 - Equations",
+      "title": "C10 - Equations",
       "links": [
         {
-          "title": "Linear Equations - Theory Part 1",
+          "title": "Equations -Theory",
           "questionBankUrl": "algebra-intro/01-linear-equations-theory"
         },
         {
-          "title": "Linear Equations - MCQs Part 1",
+          "title": "Equations - MCQs",
           "questionBankUrl": "algebra-intro/02-linear-equations-mcqs"
         }
       ]
