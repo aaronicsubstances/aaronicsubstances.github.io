@@ -1,0 +1,86 @@
+{
+    "isTheory": true,
+    "openingRemarks": "Finding Factors of Integers",
+    "questions": [
+        {
+            "question": "Find the set of positive factors of 5",
+            "answer": "<p>To find the set of factors of 5:\n<p><em>Found</em>: 1 &times; 5\n<p>Prime factorization of 5 = 5\n<p>Since 5 is a prime number, search ends.\n<p>\n<p>So set of factors of 5 is: <strong>{1, 5}</strong>\n"
+        },
+        {
+            "question": "Generate all factorizations of 5 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 5 is: {1, 5}\n<p>To factorize positive number 5 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has all factors being positive, and the other has all factors being negative.\n<p>So the desired factorizations of 5 are:\n<p>1 &times; 5\n<p>-1 &times; -5"
+        },
+        {
+            "question": "Find the set of positive factors of 6",
+            "answer": "<p>To find the factors of 6,\n<p><em>Found</em>: 1 &times; 6\n<p>Prime factorization of 6 = 2 &times; 3\n<p>Search continues since 6 is not a prime number.\n<p>Searching between 1 and 6: Can 2 be computed from the prime factors of 6? Yes, and the\nleftover prime factor is 3.\n<p><em>Found</em>: 2 &times; 3\n<p>No integer exists between 2 and 3, so search ends.\n<p>\n<p>So set of factors of 6 is: {1, 6, 2, 3}\n<p>And normalizing it gives the final result: <strong>{1, 2, 3, 6}</strong>"
+        },
+        {
+            "question": "Generate all factorizations of -6 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 6 is: {1, 6, 2, 3}\n<p>To factorize negative number -6 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -6 are:\n<p>-1 &times; 6\n<p>1 &times; -6<p>-2 &times; 3<p>2 &times; -3"
+        },
+        {
+          "question": "Find the set of positive factors of 15",
+          "answer": "<p>To find the factors of 15,\n<p><em>Found</em>: 1 &times; 15\n<p>Prime factorization of 15 = 3 &times; 5\n<p>Search continues since 15 is not a prime number.\n<p>Searching between 1 and 15: Can 2 be computed from the prime factors of 15? No. Can 3 be computed from the prime factors of 15? Yes, and the leftover prime factor is 5.\n<p><em>Found</em>: 3 &times; 5\n<p>Since 5 is prime, search ends.\n<p>\n<p>So set of factors of 15 is: {1, 15, 3, 5}\n<p>And normalizing it gives the final result: <strong>{1, 3, 5, 15}</strong>"
+        },
+        {
+            "question": "Generate all factorizations of 15 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 15 is: {1, 15, 3, 5}\n<p>To factorize positive number 15 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has all factors being positive, and the other has all factors being negative.\n<p>So the desired factorizations of 15 are:\n<p>1 &times; 15\n<p>-1 &times; -15<p>3 &times; 5<p>-3 &times; -5"
+        },
+        {
+            "question": "Find the set of positive factors of 18",
+            "answer": "<p>To find the set of factors of 18:\n<p><em>Found</em>: 1 &times; 18\n<p>Prime factorization of 18 = 6 &times; 3 = 2 &times; 3 &times; 3\n<p>Search continues since 18 is not a prime number.\n<p>Searching between 1 and 18: Can 2 be computed from the prime factors of 18? Yes, and the product of the\nleftover prime factors is 3 &times; 3 = 9.\n<p><em>Found</em>: 2 &times; 9\n<p>Search continues since 9 is not a prime number.\n<p>Searching between 2 and 9: Can 3 be computed from the prime factors of 18? Yes, and the product of the\nleftover prime factors is 2 &times; 3 = 6.\n<p><em>Found</em>: 3 &times; 6\n<p>Search continues since 6 is not a prime number.\n<p>Searching between 3 and 6: Can 4 be computed from the prime factors of 18? No. Can 5 be computed from the prime factors of 18? No.\n<p>No factor was found between 3 and 6, so search ends.\n\n<p>So set of factors of 18 is: {1, 18, 2, 9, 3, 6}\n<p>And normalizing it gives the final result: <strong>{1, 2, 3, 6, 9, 18}</strong>\n"
+        },
+        {
+            "question": "Generate all factorizations of -18 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 18 is: {1, 18, 2, 9, 3, 6}\n<p>To factorize negative number -18 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -18 are:\n<p>-1 &times; 18\n<p>1 &times; -18<p>-2 &times; 9<p>2 &times; -9<p>-3 &times; 6<p>3 &times; -6"
+        },
+        {
+            "question": "Find the set of positive factors of 24",
+            "answer": "<p>To find the set of factors of 24:\n<p><em>Found</em>: 1 &times; 24\n<p>Prime factorization of 24 = 6 &times; 4 = 2 &times; 3 &times; 2 &times; 2\n<p>Search continues since 24 is not a prime number.\n<p>Searching between 1 and 24: Can 2 be computed from the prime factors of 24? Yes, and the product of the\nleftover prime factors is 3 &times; 2 &times; 2 = 12.\n<p><em>Found</em>: 2 &times; 12\n<p>Search continues since 12 is not a prime number.\n<p>Searching between 2 and 12: Can 3 be computed from the prime factors of 24? Yes, and the product of the\nleftover prime factors is 2 &times; 2 &times; 2 = 8.\n<p><em>Found</em>: 3 &times; 8\n<p>Search continues since 8 is not a prime number.\n<p>Searching between 3 and 8: Can 4 be computed from the prime factors of 24? Yes, and the product of the\nleftover prime factors is 2 &times; 3 = 6.\n<p><em>Found</em>: 4 &times; 6\n<p>Search continues since 6 is not a prime number.\n<p>Searching between 4 and 6: Can 5 be computed from the prime factors of 24? No.\n<p>No factor was found between 4 and 6, so search ends.\n\n<p>So set of factors of 18 is: {1, 24, 2, 12, 3, 8, 4, 6} \n\n<p>And normalizing it gives the final result: <strong>{1, 2, 3, 4, 6, 8, 12, 24}</strong>\n"
+        },
+        {
+            "question": "Generate all factorizations of 24 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 24 is: {1, 24, 2, 12, 3, 8, 4, 6}\n<p>To factorize positive number 24 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has all factors being positive, and the other has all factors being negative.\n<p>So the desired factorizations of 24 are:\n<p>1 &times; 24\n<p>-1 &times; -24<p>2 &times; 12<p>-2 &times; -12<p>3 &times; 8<p>-3 &times; -8<p>4 &times; 6<p>-4 &times; -6"
+        },
+        {
+            "question": "Find the set of positive factors of 25",
+            "answer": "<p>To find the factors of 25,\n<p><em>Found</em>: 1 &times; 25\n<p>Prime factorization of 25 = 5 &times; 5\n<p>Search continues since 25 is not a prime number.\n<p>Searching between 1 and 25: Can 2 be computed from the prime factors of 25? No. Can 3 be computed from the prime factors of 25? No. 4? No. 5? Yes, and the leftover prime factor is 5.\n<p><em>Found</em>: 5 &times; 5\n<p>Since no integer exists between 5 and 5, search ends.\n<p>\n<p>So set of factors of 25 is: {1, 25, 5, 5}\n<p>And normalizing it gives the final result: <strong>{1, 5, 25}</strong>"
+        },
+        {
+            "question": "Generate all factorizations of -25 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 25 is: {1, 25, 5, 5}\n<p>To factorize negative number -25 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -25 are:\n<p>-1 &times; 25\n<p>1 &times; -25<p>-5 &times; 5\n<p>5 &times; -5 (actually the same as -5 &times; 5)"
+        },
+        {
+          "question": "Find the set of positive factors of 27",
+          "answer": "<p>To find the factors of 27,\n<p><em>Found</em>: 1 &times; 27\n<p>Prime factorization of 27 = 3 &times; 9 = 3 &times; 3 &times; 3\n<p>Search continues since 27 is not a prime number.\n<p>Searching between 1 and 27: Can 2 be computed from the prime factors of 27? No. Can 3 be computed from the prime factors of 27? Yes, and the product of the leftover prime factors is 3 &times; 3 = 9.\n<p><em>Found</em>: 3 &times; 9\n<p>Search continues since 9 is not a prime number.\n<p>Searching between 3 and 9: Can 4 be computed from the prime factors of 27? No. Can 5 be computed from the prime factors of 27? No. 6? No. 7? No. 8? No.\n<p>No factor found between 3 and 9, so search ends.\n<p>\n<p>So set of factors of 27 is: {1, 27, 3, 9}\n<p>And normalizing it gives the final result: <strong>{1, 3, 9, 27}</strong>"
+        },
+        {
+            "question": "Generate all factorizations of 27 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 27 is: {1, 27, 3, 9}\n<p>To factorize positive number 27 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has all factors being positive, and the other has all factors being negative.\n<p>So the desired factorizations of 27 are:\n<p>1 &times; 27\n<p>-1 &times; -27<p>3 &times; 9<p>-3 &times; -9"
+        },
+        {
+          "question": "Find the set of positive factors of 28",
+          "answer": "<p>To find the factors of 28,\n<p><em>Found</em>: 1 &times; 28\n<p>Prime factorization of 28 = 4 &times; 7 = 2 &times; 2 &times; 7\n<p>Search continues since 28 is not a prime number.\n<p>Searching between 1 and 28: Can 2 be computed from the prime factors of 28? Yes, and the product of the leftover prime factors is 2 &times; 7 = 14.\n<p><em>Found</em>: 2 &times; 14\n<p>Search continues since 14 is not prime number.\n<p>Searching between 2 and 14: Can 3 be computed from the prime factors of 28? No. Can 4 be computed from the prime factors of 28? Yes, and the leftover prime factor is 7.\n<p><em>Found</em>: 4 &times; 7\n<p>Since 7 is prime, search ends.\n<p>\n<p>So set of factors of 28 is: {1, 28, 2, 14, 4, 7}\n<p>And normalizing it gives the final result: <strong>{1, 2, 4, 7, 14, 28}</strong>"
+        },
+        {
+            "question": "Generate all factorizations of -28 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 28 is: {1, 28, 2, 14, 4, 7}\n<p>To factorize negative number -28 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -28 are:\n<p>-1 &times; 28\n<p>1 &times; -28<p>-2 &times; 14\n<p>2 &times; -14\n<p>-4 &times; 7\n<p>4 &times; -7"
+        },
+        {
+            "question": "Find the set of positive factors of 29",
+            "answer": "<p>To find the set of factors of 29:\n<p><em>Found</em>: 1 &times; 29\n<p>Prime factorization of 29 = 29\n<p>Since 29 is a prime number, search ends.\n<p>\n<p>So set of factors of 29 is: <strong>{1, 29}</strong>\n"
+        },
+        {
+            "question": "Generate all factorizations of 29 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 29 is: {1, 29}\n<p>To factorize positive number 29 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has all factors being positive, and the other has all factors being negative.\n<p>So the desired factorizations of 29 are:\n<p>1 &times; 29\n<p>-1 &times; -29"
+        },
+        {
+            "question": "Find the set of positive factors of 30",
+            "answer": "<p>To find the factors of 30,\n<p><em>Found</em>: 1 &times; 30\n<p>Prime factorization of 30 = 3 &times; 10 = 3 &times; 2 &times; 5\n<p>Search continues since 30 is not a prime number.\n<p>Searching between 1 and 30: Can 2 be computed from the prime factors of 30? Yes, and the product of the leftover prime factors is 3 &times; 5 = 15.\n<p><em>Found</em>: 2 &times; 15\n<p>Search continues since 15 is not prime number.\n<p>Searching between 2 and 15: Can 3 be computed from the prime factors of 30? Yes, and the product of the leftover prime factors is 2 &times; 5 = 10.\n<p><em>Found</em>: 3 &times; 10\n<p>Search continues since 10 is not prime.\n<p>Searching between 3 and 10: Can 4 be computed from the prime factors of 30? No. Can 5 be computed from the prime factors of 30? Yes, and the product of the leftover prime factors is 2 &times; 3 = 6\n<p><em>Found</em>: 5 &times; 6\n<p>No integer exists between 5 and 6, so search ends.\n<p>\n<p>So set of factors of 30 is: {1, 30, 2, 15, 3, 10, 5, 6}\n<p>And normalizing it gives the final result: <strong>{1, 2, 3, 5, 6, 10, 15, 30}</strong>"
+        },
+        {
+            "question": "Generate all factorizations of -30 as a product of two integers",
+            "answer": "<p>From the previous question, the set of positive factors of 30 is: {1, 30, 2, 15, 3, 10, 5, 6}\n<p>To factorize negative number -30 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -30 are:\n<p>-1 &times; 30\n<p>1 &times; -30<p>-2 &times; 15\n<p>2 &times; -15\n<p>-3 &times; 10\n<p>3 &times; -10\n<p>-5 &times; 6\n<p>5 &times; -6"
+        }
+    ]
+}

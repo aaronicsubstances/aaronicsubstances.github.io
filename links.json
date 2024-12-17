@@ -325,6 +325,24 @@
       ]
     },
     {
+      "title": "C8 - Preparation for Quadratic Expressions",
+      "links": [
+        {
+          "title": "Finding Factors of Integers (Theory)",
+          "questionBankUrl": "quadratic-prep/finding-factors-of-integers"
+        },
+        {
+          "title": "Quadratic Factorization Preparation (Theory)",
+          "questionBankUrl": "quadratic-prep/01-factorization-prep-theory"
+        },
+        {
+          "title": "Quadratic Factorization Preparation",
+          "questionBankUrl": "quadratic-prep/02-factorization-prep",
+          "description": "Intended for mental practice"
+        }
+      ]
+    },
+    {
       "title": "C10 - Equations",
       "links": [
         {
