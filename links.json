@@ -325,20 +325,44 @@
       ]
     },
     {
-      "title": "C8 - Preparation for Quadratic Expressions",
+      "title": "C8 - Advanced Factorization",
       "links": [
         {
           "title": "Finding Factors of Integers (Theory)",
-          "questionBankUrl": "quadratic-prep/finding-factors-of-integers"
+          "questionBankUrl": "adv-factorization/finding-factors-of-integers"
         },
         {
-          "title": "Quadratic Factorization Preparation (Theory)",
-          "questionBankUrl": "quadratic-prep/01-factorization-prep-theory"
+          "title": "Finding Factors of Integers with A Given Sum (Part 1, Theory)",
+          "questionBankUrl": "adv-factorization/quad-factorization-prep-01-theory"
         },
         {
-          "title": "Quadratic Factorization Preparation",
-          "questionBankUrl": "quadratic-prep/02-factorization-prep",
+          "title": "Finding Factors of Integers with A Given Sum (Part 2)",
+          "questionBankUrl": "adv-factorization/quad-factorization-prep-02",
           "description": "Intended for mental practice"
+        },
+        {
+          "title": "Finding Factors of Integers with A Given Sum (Part 3)",
+          "questionBankUrl": "adv-factorization/quad-factorization-prep-03",
+          "description": "Intended for mental practice"
+        }
+      ]
+    },
+    {
+      "title": "C9 - Evaluation of Math Expressions",
+      "links": [
+        {
+          "title": "Part 1 (Theory)",
+          "questionBankUrl": "expression-evaluation/01-theory"
+        },
+        {
+          "title": "Part 2 (Theory)",
+          "questionBankUrl": "expression-evaluation/02-theory",
+          "description": "Involves roots"
+        },
+        {
+          "title": "Part 3 (Theory)",
+          "questionBankUrl": "expression-evaluation/03-theory",
+          "description": "Involves functions"
         }
       ]
     },

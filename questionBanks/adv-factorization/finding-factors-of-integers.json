@@ -48,7 +48,7 @@
         },
         {
             "question": "Generate all factorizations of -25 as a product of two integers",
-            "answer": "<p>From the previous question, the set of positive factors of 25 is: {1, 25, 5, 5}\n<p>To factorize negative number -25 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -25 are:\n<p>-1 &times; 25\n<p>1 &times; -25<p>-5 &times; 5\n<p>5 &times; -5 (actually the same as -5 &times; 5)"
+            "answer": "<p>From the previous question, the set of positive factors of 25 is: {1, 25, 5, 5}\n<p>To factorize negative number -25 into two integers, generate two factorizations for each of the factorizations found from the previous question, in which one has first factor being negative, and the other has second factor being negative.\n<p>So the desired factorizations of -25 are:\n<p>-1 &times; 25\n<p>1 &times; -25<p>-5 &times; 5\n<p>5 &times; -5"
         },
         {
           "question": "Find the set of positive factors of 27",

@@ -1,6 +1,6 @@
 {
     "isTheory": true,
-    "openingRemarks": "Quadratic Factorization Preparation",
+    "openingRemarks": "Finding Factors of Integers with A Given Sum",
     "questions": [
         {
             "question": "Find two integers whose product is -5 and whose sum is 4.",

@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/d4b95805da787f2e.css","style",{"crossOrigin":""}]
-0:["bZKqSIVzrBWFOBkoMv184",[[["",{"children":["preview",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d4b95805da787f2e.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+0:["yvmOIgAyz21ovMpxKlz9U",[[["",{"children":["preview",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d4b95805da787f2e.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:HL["/_next/static/css/5c0352adec56a9e6.css","style",{"crossOrigin":""}]
 5:I[56954,[],""]
 6:I[60988,["601","static/chunks/app/error-2f7f3a29995db7e9.js"],""]

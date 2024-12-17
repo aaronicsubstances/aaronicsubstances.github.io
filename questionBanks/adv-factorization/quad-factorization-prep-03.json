@@ -1,0 +1,357 @@
+{
+  "inputTimeWaitSecs": 90,
+  "extraDescription": "For products with magnitudes 21 to 50",
+  "openingRemarks": "Enter answer as space or comma separated pair of integers.<p>NB: You can also enter 'U' or 'unexpected' if no pair of integers exist to satisfy the demands of the question.",
+  "questions": [
+    {
+      "question": "Find two integers whose product is -50 and whose sum is -23.",
+      "answer": "2 -25",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -44 and whose sum is -7.",
+      "answer": "4 -11",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -45 and whose sum is 12.",
+      "answer": "-3 15",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -48 and whose sum is 8.",
+      "answer": "-4 12",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -28 and whose sum is 12.",
+      "answer": "-2 14",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -33 and whose sum is 8.",
+      "answer": "-3 11",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 29 and whose sum is -30.",
+      "answer": "-1 -29",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 45 and whose sum is 14.",
+      "answer": "5 9",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -40 and whose sum is -6.",
+      "answer": "4 -10",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 24 and whose sum is -14.",
+      "answer": "-2 -12",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 42 and whose sum is -23.",
+      "answer": "-2 -21",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 39 and whose sum is -16.",
+      "answer": "-3 -13",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 42 and whose sum is 17.",
+      "answer": "3 14",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 28 and whose sum is 16.",
+      "answer": "2 14",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 32 and whose sum is -12.",
+      "answer": "-4 -8",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 22 and whose sum is 13.",
+      "answer": "2 11",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 27 and whose sum is -12.",
+      "answer": "-3 -9",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 38 and whose sum is -21.",
+      "answer": "-2 -19",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 48 and whose sum is 16.",
+      "answer": "4 12",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 40 and whose sum is 22.",
+      "answer": "2 20",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 40 and whose sum is 14.",
+      "answer": "4 10",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -50 and whose sum is 23.",
+      "answer": "-2 25",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 26 and whose sum is 15.",
+      "answer": "2 13",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 34 and whose sum is -19.",
+      "answer": "-2 -17",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -48 and whose sum is 2.",
+      "answer": "-6 8",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 35 and whose sum is 12.",
+      "answer": "5 7",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -48 and whose sum is -13.",
+      "answer": "3 -16",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -29 and whose sum is -28.",
+      "answer": "1 -29",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -36 and whose sum is -5.",
+      "answer": "4 -9",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -33 and whose sum is -8.",
+      "answer": "3 -11",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -36 and whose sum is 0.",
+      "answer": "6 -6",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -44 and whose sum is 7.",
+      "answer": "-4 11",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -30 and whose sum is 1.",
+      "answer": "-5 6",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 26 and whose sum is -15.",
+      "answer": "-2 -13",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 34 and whose sum is 19.",
+      "answer": "2 17",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -26 and whose sum is -11.",
+      "answer": "2 -13",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 42 and whose sum is -13.",
+      "answer": "-6 -7",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -44 and whose sum is -20.",
+      "answer": "2 -22",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -48 and whose sum is 22.",
+      "answer": "-2 24",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -30 and whose sum is -7.",
+      "answer": "3 -10",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -24 and whose sum is -10.",
+      "answer": "2 -12",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -35 and whose sum is -2.",
+      "answer": "5 -7",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 25 and whose sum is -10.",
+      "answer": "-5 -5",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 48 and whose sum is 19.",
+      "answer": "3 16",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -28 and whose sum is -3.",
+      "answer": "4 -7",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 39 and whose sum is 16.",
+      "answer": "3 13",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -35 and whose sum is 2.",
+      "answer": "-5 7",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 28 and whose sum is -16.",
+      "answer": "-2 -14",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is -40 and whose sum is 6.",
+      "answer": "-4 10",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    },
+    {
+      "question": "Find two integers whose product is 29 and whose sum is 30.",
+      "answer": "1 29",
+      "numberInputTypes": [
+        "prequad"
+      ]
+    }
+  ]
+}
