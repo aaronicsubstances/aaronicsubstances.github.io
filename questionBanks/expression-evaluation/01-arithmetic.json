@@ -4,411 +4,811 @@
   "questions": [
     {
       "question": "Evaluate \\( x-y \\quad \\) if \\( x=-5, y=-6 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=-5-(-6) \\\\\n&=-5+6\\\\\n&=1\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-5-(-6) \\\\\n&=-5+6\\\\\n&=1\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "11", "-1", "-12", "1"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( x^{2}-31 \\quad \\) if \\( x=6 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=6^{2} -31 \\\\\n&=36-31\\\\\n&=5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=6^{2} -31 \\\\\n&=36-31\\\\\n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "0", "-19", "5", "-5"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( x-y \\quad \\) if \\( x=-9, y=-14 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=-9-(-14) \\\\\n&=-9+14\\\\\n&=5\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-9-(-14) \\\\\n&=-9+14\\\\\n&=5\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "-23", "4", "-5", "5"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( x^{2}-95 \\quad \\) if \\( x=10 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=10^{2}-95 \\\\\n&=100-95 \\\\\n&=5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=10^{2}-95 \\\\\n&=100-95 \\\\\n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "5", "12", "-85", "50"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( a-8 \\quad \\) if \\( a=-13 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=-13-(-8) \\\\\n&=5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-13-(-8) \\\\\n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "6", "5", "21", "-21"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( a^{2}-190 \\quad \\) if \\( a=14 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=14^{2}-190 \\\\\n&=196-190 \\\\\n&=6\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=14^{2}-190 \\\\\n&=196-190 \\\\\n&=6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "6", "200", "5", "50"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( 2c-d \\quad \\) if \\( c=-3, d=-9 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=2(-3)-(-9) \\\\\n&=-6+9 \\\\\n&=3\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(-3)-(-9) \\\\\n&=-6+9 \\\\\n&=3\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-3", "4", "3", "-15"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( c^{2}-18 \\quad \\) if \\( c=5 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=5^{2}-18\\\\\n&=25-18\\\\\n&=7\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5^{2}-18\\\\\n&=25-18\\\\\n&=7\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "7", "-5", "-8", "10"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( r^{2}+s^{2} \\quad \\) if \\( r=6, s=3 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=6^{2}+3^{2} \\\\\n&=36+9 \\\\\n&=45\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=6^{2}+3^{2} \\\\\n&=36+9 \\\\\n&=45\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "27", "45", "42", "44"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( r+s \\quad \\) if \\( r=3, s=6 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=3+6\\\\\n&=9\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3+6\\\\\n&=9\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "7", "8", "9", "10"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( 3v\\quad \\) if \\( v=-5 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=3(-5)\\\\\n&=-15\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(-5)\\\\\n&=-15\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "10", "12", "15", "-15"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( u-8\\quad \\) if \\( u=-7 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=-7-8\\\\\n&=-15\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-7-8\\\\\n&=-15\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "10", "12", "15", "-15"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( v^{2}\\quad \\) if \\( v=11 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=11^{2}\\\\\n&=121\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=11^{2}\\\\\n&=121\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "22", "44", "120", "121"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( 2u+39 \\quad \\) if \\( u=41 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=2(41)+39\\\\\n&=82+39\\\\\n&=121\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(41)+39\\\\\n&=82+39\\\\\n&=121\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "22", "44", "120", "121"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( w^{2}-z^{2}\\quad \\) if \\( w=2, z=-3 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=2^{2}-(-3)^{2}\\\\\n&=4-9\\\\\n&=-5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2^{2}-(-3)^{2}\\\\\n&=4-9\\\\\n&=-5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "13", "-5", "5", "10"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( 3w-2z\\quad \\) if \\( w=2, z=-3 \\) ",
-      "answer": "\\[\n\\begin{align*}\n&=3(2)-2(-3)\\\\\n&=6+6\\\\\n&=12\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(2)-2(-3)\\\\\n&=6+6\\\\\n&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "0", "36", "11", "12"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( 8+x \\quad \\) if \\( x=4 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=8+4 \\\\ \n&=12\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=8+4 \\\\ \n&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "10", "3", "11", "12"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( 16-x \\quad \\) if \\( x=4 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=16-4 \\\\ \n&=12\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=16-4 \\\\ \n&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "12", "13", "14", "15"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( 11-x \\quad \\) if \\( x=3 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=11-3 \\\\\n&=8\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=11-3 \\\\\n&=8\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "7", "8", "9", "10"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( 2x+y \\quad \\) if \\( x=3, y=8\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(3)+8 \\\\\n&=6+8\\\\\n&=14\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(3)+8 \\\\\n&=6+8\\\\\n&=14\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "14", "11", "13", "15"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( 3b-37 \\quad \\) if \\( b=14 \\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(14)-37 \\\\\n&=42-37 \\\\\n&=5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(14)-37 \\\\\n&=42-37 \\\\\n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "3", "4", "5", "10"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( 2b+3a \\quad \\) if \\( a=5, b=14\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(14)+3(5) \\\\\n&=28+15 \\\\\n&=43\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(14)+3(5) \\\\\n&=28+15 \\\\\n&=43\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "40", "52", "43", "46"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( c-d \\quad \\) if \\( c=6, d=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=6-4\\\\\n&=2\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=6-4\\\\\n&=2\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "2", "-2", "1", "0"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( 2d \\quad \\) if \\( d=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(4)\\\\\n&=8\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(4)\\\\\n&=8\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "6", "8", "10", "24"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( c+2 \\quad \\) if \\( c=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=6+2 \\\\ \n&=8\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=6+2 \\\\ \n&=8\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "12", "10", "8", "14"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( 2f-10 \\quad \\) if \\( f=8\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(8)-10 \\\\ \n&=16-10 \\\\ \n&=6\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(8)-10 \\\\ \n&=16-10 \\\\ \n&=6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-6", "18", "2", "6"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( 3f+2e \\quad \\) if \\( e=6, f=8\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(8)+2(6) \\\\ \n&=24+12 \\\\ \n&=36\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(8)+2(6) \\\\ \n&=24+12 \\\\ \n&=36\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "36", "30", "42", "48"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\( 3h-28\\quad \\) if \\( h=12\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(12)-28 \\\\ \n&=36-28 \\\\ \n&=8\n\\end{align*}\n\\] \n\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(12)-28 \\\\ \n&=36-28 \\\\ \n&=8\n\\end{align*}\n\\] \n\n\n",
+      "choices": [
+        "128", "8", "10", "12"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( h+2g \\quad \\) if \\( g=8, h=12\\)",
-      "answer": "\\[\n\\begin{align*}\n&=12+2(8) \\\\ \n&=12+16\\\\\n&=28\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=12+2(8) \\\\ \n&=12+16\\\\\n&=28\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "18", "42", "28", "30"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( 5k+2j \\quad \\) if \\( j=2, k=-2\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(-2)+2(2) \\\\\n&=-10+4 \\\\\n&=-6\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(-2)+2(2) \\\\\n&=-10+4 \\\\\n&=-6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-14", "14", "6", "-6"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( 3n+2m=91 \\quad \\) if \\( m=14, n=21\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(21)+2(14) \\\\ \n&=63+28\\\\\n&=91\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(21)+2(14) \\\\ \n&=63+28\\\\\n&=91\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "81", "100", "91", "90"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( 2q+3p \\quad \\) if \\( p=-15, q=25\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(25)+3(-15) \\\\ \n&=50-45 \\\\ \n&=5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(25)+3(-15) \\\\ \n&=50-45 \\\\ \n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "50", "5", "95", "-10"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( 3s-78\\quad \\) if \\( s=18\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(18)-78 \\\\\n&=54-78 \\\\\n&=-24\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(18)-78 \\\\\n&=54-78 \\\\\n&=-24\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "51", "26", "-24", "17"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( s+2r \\quad \\) if \\( r=32, s=18\\)",
-      "answer": "\\[\n\\begin{align*}\n&=18+2(32) \\\\\n&=18+64 \\\\\n&=82\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=18+2(32) \\\\\n&=18+64 \\\\\n&=82\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "81", "82", "83", "87"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\( 5v+2u\\quad \\) if \\( u=-17, v=-19\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(-19)+2(-17) \\\\\n&=-95-34 \\\\\n&=-129\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(-19)+2(-17) \\\\\n&=-95-34 \\\\\n&=-129\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "45", "-61", "61", "-129"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\( 9w+7z-208\\quad \\) if \\( w=13,z=13\\)",
-      "answer": "\\[\n\\begin{align*}\n&=9(13)+7(13)-208 \\\\\n&=117+91=208 \\\\\n&=208-208 \\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=9(13)+7(13)-208 \\\\\n&=117+91-208 \\\\\n&=208-208 \\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "416", "200", "0", "208"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\( 5z+11w-208\\quad \\) if \\( w=13, z=13\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(13)+11(13)-208 \\\\\n&=65+143-208 \\\\\n&=208-208\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(13)+11(13)-208 \\\\\n&=65+143-208 \\\\\n&=208-208\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "0", "200", "10", "170"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(3 x+\\dfrac{y}{2}\\quad \\) if \\( x=5, y=18\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(5)+\\dfrac{18}{2} \\\\\n&=15+9\\\\\n&=24\\\\\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(5)+\\dfrac{18}{2} \\\\\n&=15+9\\\\\n&=24\\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "24", "16", "33", "21"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(x+\\dfrac{y}{3}\\quad \\) if \\(x=5, y=18\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5+\\dfrac{18}{3}\\\\\n&=5+6\\\\\n&=11\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5+\\dfrac{18}{3}\\\\\n&=5+6\\\\\n&=11\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "14", "11", "7", "6"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(5x+\\dfrac{y}{3}\\quad \\) if \\( x=10, y=12\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(10)+\\dfrac{12}{3} \\\\ \n&=50+4\\\\\n&=54\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(10)+\\dfrac{12}{3} \\\\ \n&=50+4\\\\\n&=54\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "62", "54", "46", "4"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(\\dfrac{x}{2}+3y\\quad \\) if \\(x=10, y=12\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{10}{2}+3(12)\\\\\n&=5+36\\\\\n&=41\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{10}{2}+3(12)\\\\\n&=5+36\\\\\n&=41\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "45", "38", "41", "31"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(7a+\\dfrac{b}{2}\\quad \\) if \\( a=5, b=40\\)",
-      "answer": "\\[\n\\begin{align*}\n&=7(5)+\\dfrac{40}{2} \\\\\n&=35+20\\\\\n&=55\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=7(5)+\\dfrac{40}{2} \\\\\n&=35+20\\\\\n&=55\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "15", "55", "45", "40"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(4a+\\dfrac{b}{4}\\quad \\) if \\(a=5, b=40\\)",
-      "answer": "\\[\n\\begin{align*}\n&=4(5)+\\dfrac{40}{4} \\\\\n&=20+10\\\\\n&=30 \\\\\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=4(5)+\\dfrac{40}{4} \\\\\n&=20+10\\\\\n&=30 \\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "20", "50", "25", "30"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(\\dfrac{c}{2}+\\dfrac{d}{3}\\quad \\) if \\( c=8, d=75\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{8}{2}+\\dfrac{75}{3}\\\\\n&=4+25\\\\\n&=29\n\\end{align*}\n\\]\n\n"
-    },
-    {
-      "question": "Evaluate \\(\\dfrac{c}{2}+\\dfrac{d}{3}\\quad \\) if \\( c=8, d=75\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{8}{2}+\\dfrac{75}{3}\\\\\n&=4+25\\\\\n&=29\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{8}{2}+\\dfrac{75}{3}\\\\\n&=4+25\\\\\n&=29\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "26", "29", "14", "30"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(\\dfrac{c}{4}+\\dfrac{d}{5}\\quad \\) if \\(c=8, d=75\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{8}{4}+\\dfrac{75}{5}\\\\\n&=3+14\\\\\n&=17\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{8}{4}+\\dfrac{75}{5}\\\\\n&=3+14\\\\\n&=17\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "20", "26", "17", "21"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(\\dfrac{e}{3}+\\dfrac{f}{2}\\quad \\) if \\( e=30, f=36\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{30}{3}+\\dfrac{36}{2}\\\\\n&=10+18\\\\\n&=28\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{30}{3}+\\dfrac{36}{2}\\\\\n&=10+18\\\\\n&=28\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "28", "38", "17", "30"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(\\dfrac{e}{2}-\\dfrac{t}{3}\\quad \\) if \\(r=30, f=36\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{30}{2}-\\dfrac{36}{3}\\\\\n&=15-12\\\\\n&=3\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{30}{2}-\\dfrac{36}{3}\\\\\n&=15-12\\\\\n&=3\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "3", "-3", "17", "27"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(\\dfrac{g}{3}-\\dfrac{h}{5}\\quad \\) if \\( g=63, h=120\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{63}{3}-\\dfrac{120}{5}\\\\\n&=21-24\\\\\n&=-3\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{63}{3}-\\dfrac{120}{5}\\\\\n&=21-24\\\\\n&=-3\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "3", "-3", "17", "-45"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(\\dfrac{g}{7}+\\dfrac{h}{4}=39\\quad \\) if \\(g=63, h=120\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{63}{7}+\\dfrac{120}{4}\\\\\n&=9+30\\\\\n&=39\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{63}{7}+\\dfrac{120}{4}\\\\\n&=9+30\\\\\n&=39\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "37", "29", "40", "39"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(19-\\dfrac{k}{2}\\quad \\) if \\( k=30\\)",
-      "answer": "\\[\n\\begin{align*}\n&=19-\\dfrac{30}{2} \\\\\n&=19-15 \\\\\n&=4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=19-\\dfrac{30}{2} \\\\\n&=19-15 \\\\\n&=4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "9", "33", "4", "16"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(\\dfrac{j}{2}-\\dfrac{k}{3}\\quad \\) if \\(j=12, k=30\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{12}{2}-\\dfrac{30}{3}\\\\\n&=6-10\\\\\n&=-4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{12}{2}-\\dfrac{30}{3}\\\\\n&=6-10\\\\\n&=-4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "8", "15", "-4", "16"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(\\dfrac{m}{3}-18+\\dfrac{n}{2}\\quad \\) if \\( m=18, n=24\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{18}{3}-18+\\dfrac{24}{2} \\\\ \n&=6-18+12\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{18}{3}-18+\\dfrac{24}{2} \\\\ \n&=6-18+12\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "4", "0", "2", "5"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(\\dfrac{m}{2}-\\dfrac{n}{3}-1\\quad \\) if \\(m=18, n=24\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{18}{2}-\\dfrac{24}{3}-1 \\\\ \n&=9-8-1\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{18}{2}-\\dfrac{24}{3}-1 \\\\ \n&=9-8-1\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "0", "4", "1", "2"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(\\dfrac{p}{6}-56+\\dfrac{q}{2}\\quad \\) if \\( p=66, q=90\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{66}{6}-56+\\dfrac{90}{2} \\\\ \n&=11-56+45\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{66}{6}-56+\\dfrac{90}{2} \\\\ \n&=11-56+45\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "0", "11", "2", "7"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(\\dfrac{p}{2}-\\dfrac{q}{5}-15\\quad \\) if \\(p=66, q=90\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{66}{2}-\\dfrac{90}{5}-15 \\\\ \n&=33-18-15\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{66}{2}-\\dfrac{90}{5}-15 \\\\ \n&=33-18-15\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "6", "1", "3", "0"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(\\dfrac{3 r}{2}+\\dfrac{s}{3}\\quad \\) if \\( r=16, s=30\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{3(16)}{2}+\\dfrac{30}{3} \\\\\n&=24+10\\\\\n&=34\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{3(16)}{2}+\\dfrac{30}{3} \\\\\n&=24+10\\\\\n&=34\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "32", "28", "34", "35"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(\\dfrac{r}{4}+\\dfrac{2s}{5}\\quad \\) if \\(r=16, s=30\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{16}{4}+\\dfrac{2(30)}{5} \\\\\n&=4+12\\\\\n&=16\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{16}{4}+\\dfrac{2(30)}{5} \\\\\n&=4+12\\\\\n&=16\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "16", "18", "110", "14"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(\\dfrac{2u}{3}-50+\\dfrac{5w}{2}\\quad \\) if \\(u=30, w=12\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{2(30)}{3}-50+\\dfrac{5(12)}{2} \\\\\n&=20-50+30\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{2(30)}{3}-50+\\dfrac{5(12)}{2} \\\\\n&=20-50+30\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "50", "0", "40", "10"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(\\dfrac{7u}{2}-\\dfrac{w}{3}-101\\quad \\) if \\(u=30, w=12\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{7(30)}{2}-\\dfrac{12}{3}-101 \\\\\n&=105-4-101\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{7(30)}{2}-\\dfrac{12}{3}-101 \\\\\n&=105-4-101\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "8", "15", "0", "1"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(\\dfrac{5w}{3}-830+\\dfrac{5z}{4}\\quad \\) if \\(w=120, z=504\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{5(120)}{3}-830+\\dfrac{5(504)}{4} \\\\ \n&=\\dfrac{600}{3}-830+\\dfrac{2520}{4} \\\\ \n&=200-830+630\\\\\n&=0\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{5(120)}{3}-830+\\dfrac{5(504)}{4} \\\\ \n&=\\dfrac{600}{3}-830+\\dfrac{2520}{4} \\\\ \n&=200-830+630\\\\\n&=0\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "0", "30", "100", "-1160"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(\\dfrac{7w}{2}+\\dfrac{z}{7}-420\\quad \\) if \\(w=120, z=504\\)",
-      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{7(120)}{2}+\\dfrac{504}{7}-420 \\\\ \n&=\\dfrac{840}{2}+72-420 \\\\ \n&=420+72-420\\\\\n&=72\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=\\dfrac{7(120)}{2}+\\dfrac{504}{7}-420 \\\\ \n&=\\dfrac{840}{2}+72-420 \\\\ \n&=420+72-420\\\\\n&=72\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "800", "44", "172", "72"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(e^{2}+2 e-5\\quad \\) if \\(e=5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5^{2}+2(5)-5 \\\\\n&=25+10-5\\\\\n&=35-5\\\\\n&=30\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5^{2}+2(5)-5 \\\\\n&=25+10-5\\\\\n&=35-5\\\\\n&=30\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "15", "20", "25", "30"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(f-3e\\quad \\) if \\(e=5, f=30\\)",
-      "answer": "\\[\n\\begin{align*}\n&=30-3(5) \\\\\n&=30-15 \\\\\n&=15\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=30-3(5) \\\\\n&=30-15 \\\\\n&=15\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "15", "20", "25", "0"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(2g^{2}+3g-50\\quad \\) if \\(g=-6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(-6)^{2}+3(-6)-50 \\\\\n&=72-18-50 \\\\\n&=4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(-6)^{2}+3(-6)-50 \\\\\n&=72-18-50 \\\\\n&=4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "22", "10", "4", "5"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(h-4g\\quad \\) if \\(g=-6, h=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=4-4(-6) \\\\\n&=4+24 \\\\\n&=28\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=4-4(-6) \\\\\n&=4+24 \\\\\n&=28\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-22", "20", "22", "28"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(5j+21\\quad \\) if \\(j=-5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(-5)+21 \\\\\n&=-25+21 \\\\\n&=-4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(-5)+21 \\\\\n&=-25+21 \\\\\n&=-4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "1", "-4", "6", "2"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(3j^{2}-5j-104\\quad \\) if \\(j=-5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(-5)^{2}-5(-5)-104 \\\\\n&=75+25-104 \\\\\n&=-4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(-5)^{2}-5(-5)-104 \\\\\n&=75+25-104 \\\\\n&=-4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-4", "4", "2", "8"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(2m+3n\\quad \\) if \\(m=3, n=-4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(3)+3(-4) \\\\\n&=6-12\\\\\n&=-6\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(3)+3(-4) \\\\\n&=6-12\\\\\n&=-6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "12", "10", "-6", "18"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(2m^{2}+n+3m=23\\quad \\) if \\(m=3, n=-4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(3)^{2}+(-4)+3(3) \\\\\n&=18-4+9 \\\\\n&=23\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(3)^{2}+(-4)+3(3) \\\\\n&=18-4+9 \\\\\n&=23\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "14", "27", "20", "23"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(2p^{2}-q+5p\\quad \\) if \\(p=-4, q=3\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(-4)^{2}-3+5(-4) \\\\\n&=32-3-20 \\\\\n&=9\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(-4)^{2}-3+5(-4) \\\\\n&=32-3-20 \\\\\n&=9\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "9", "10", "15", "-11"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(2p-3q\\quad \\) if \\(p=-4, q=3\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(-4)-3(3) \\\\\n&=-8-9\\\\\n&=-17\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(-4)-3(3) \\\\\n&=-8-9\\\\\n&=-17\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "6", "5", "-17", "7"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(2x+y-3z\\quad \\) if \\(x=2, y=4, z=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(2)+4-3(4) \\\\\n&=4+4-12 \\\\\n&=-4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(2)+4-3(4) \\\\\n&=4+4-12 \\\\\n&=-4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-4", "10", "16", "8"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(3x+y+z\\quad \\) if \\(x=2, y=4, z=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(2)+4+4 \\\\\n&=6+4+4\\\\\n&=14\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(2)+4+4 \\\\\n&=6+4+4\\\\\n&=14\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "12", "14", "16", "10"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(x-y+2z\\quad \\) if \\(x=2, y=4, z=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2-4+2(4) \\\\\n&=-2+8\\\\\n&=6\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2-4+2(4) \\\\\n&=-2+8\\\\\n&=6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "4", "6", "12", "0"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(5a+2b+c\\quad \\) if \\(a=4, b=5, c=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(4)+2(5)+6 \\\\\n&=20+10+6\\\\\n&=36\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(4)+2(5)+6 \\\\\n&=20+10+6\\\\\n&=36\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "30", "20", "36", "26"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(3a+4b+2c\\quad \\) if \\(a=4, b=5, c=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=3(4)+4(5)+2(6) \\\\\n&=12+20+12\\\\\n&=44\\\\\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=3(4)+4(5)+2(6) \\\\\n&=12+20+12\\\\\n&=44\\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "41", "34", "31", "44"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(a+5b+c\\quad \\) if \\(a=4, b=5, c=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=4+5(5)+6 \\\\\n&=4+25+6\\\\\n&=35\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=4+5(5)+6 \\\\\n&=4+25+6\\\\\n&=35\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "17", "20", "35", "15"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(2d+3e-4f\\quad \\) if \\(d=5, e=3, f=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(5)+3(3)-4(6) \\\\\n&=10+9-24\\\\\n&=-5\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(5)+3(3)-4(6) \\\\\n&=10+9-24\\\\\n&=-5\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "-14", "14", "-5", "-13"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(d-e-f\\quad \\) if \\(d=5, e=3, f=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5-3-6\\\\\n&=-4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5-3-6\\\\\n&=-4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-3", "2", "-4", "6"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(9d-2e-2f\\quad \\) if \\(d=5, e=3, f=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=9(5)+2(3)-2(6) \\\\\n&=45+6-12 \\\\\n&=39\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=9(5)+2(3)-2(6) \\\\\n&=45+6-12 \\\\\n&=39\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "40", "41", "39", "37"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(g-7h-7i\\quad \\) if \\(g=4, h=4, i=7\\)",
-      "answer": "\\[\n\\begin{align*}\n&=4-7(4)-7(7) \\\\\n&=4-28-49\\\\\n&=-73\\\\\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=4-7(4)-7(7) \\\\\n&=4-28-49\\\\\n&=-73\\\\\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "51", "62", "-73", "70"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(g-7h-7i\\quad \\) if \\(g=4, h=4, i=7\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(4)-2(4)+7 \\\\\n&=8-8+7\\\\\n&=7\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(4)-2(4)+7 \\\\\n&=8-8+7\\\\\n&=7\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "7", "0", "4", "8"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(5g+3h+i\\quad \\) if \\(g=4, h=4, i=7\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5(4)+3(4)+7 \\\\\n&=20+12+7\\\\\n&=39\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5(4)+3(4)+7 \\\\\n&=20+12+7\\\\\n&=39\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "29", "15", "27", "39"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(j+k+l\\quad \\) if \\(j=8, k=2, l=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=8+2+4\\\\\n&=14\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=8+2+4\\\\\n&=14\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "10", "14", "16", "24"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(2j-3k+9l\\quad \\) if \\(j=8, k=2, l=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(8)-3(2)+9(4) \\\\\n&=16-6+36\\\\\n&=46\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(8)-3(2)+9(4) \\\\\n&=16-6+36\\\\\n&=46\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "46", "50", "56", "42"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(-j+k-3l\\quad \\) if \\(j=8, k=2, l=4\\)",
-      "answer": "\\[\n\\begin{align*}\n&=-8+2-3(4) \\\\\n&=-6-12\\\\\n&=-18\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-8+2-3(4) \\\\\n&=-6-12\\\\\n&=-18\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-6", "18", "-20", "-18"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(-m+4n-p\\quad \\) if \\(m=2, n=5, p=5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=-2+4(5)-5 \\\\\n&=-2+20-5\\\\\n&=13\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-2+4(5)-5 \\\\\n&=-2+20-5\\\\\n&=13\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "21", "13", "31", "32"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(2m-3n+5p\\quad \\) if \\(m=2, n=5, p=5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(2)-3(5)+5(5) \\\\\n&=4-15+25\\\\\n&=14\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(2)-3(5)+5(5) \\\\\n&=4-15+25\\\\\n&=14\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-36", "14", "40", "18"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(7m-n+p\\quad \\) if \\(m=2, n=5, p=5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=7(2)-5+5 \\\\\n&=14-5+5\\\\\n&=14\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=7(2)-5+5 \\\\\n&=14-5+5\\\\\n&=14\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "24", "7", "0", "14"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(2q+2r-5s\\quad \\) if \\(q=5, r=-6, s=-3\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(5)+2(-6)-5(-3) \\\\\n&=10-12+15\\\\\n&=13\n\\end{align*}\n\\] \n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(5)+2(-6)-5(-3) \\\\\n&=10-12+15\\\\\n&=13\n\\end{align*}\n\\] \n\n",
+      "choices": [
+        "-27", "37", "13", "27"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(q-r+2s\\quad \\) if \\(q=5, r=-6, s=-3\\)",
-      "answer": "\\[\n\\begin{align*}\n&=5-(-6)+3(-3) \\\\\n&=5+6-6\\\\\n&=5\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=5-(-6)+3(-3) \\\\\n&=5+6-6\\\\\n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "17", "5", "-5", "-17"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(-q+5r+5s\\quad \\) if \\(q=5, r=-6, s=-3\\)",
-      "answer": "\\[\n\\begin{align*}\n&=-5+5(-6)+5(-3) \\\\\n&=-5-30-15\\\\\n&=-50\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-5+5(-6)+5(-3) \\\\\n&=-5-30-15\\\\\n&=-50\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-50", "51", "46", "-55"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(t-5u-5v\\quad \\) if \\(t=2, u=4, v=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2-5(4)-5(6) \\\\\n&=2-20-30\\\\\n&=-48\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2-5(4)-5(6) \\\\\n&=2-20-30\\\\\n&=-48\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-46", "-48", "50", "-52"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(2t+u+3v\\quad \\) if \\(t=2, u=4, v=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(2)+4+3(6) \\\\\n&=4+4+18\\\\\n&=26\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(2)+4+3(6) \\\\\n&=4+4+18\\\\\n&=26\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "20", "28", "26", "22"
+      ],
+      "correctChoice": 2
     },
     {
       "question": "Evaluate \\(-5t+5u-v\\quad \\) if \\(t=2, u=4, v=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=-5(2)+5(4)-6\\\\\n&=-10+20-6\\\\\n&=4\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-5(2)+5(4)-6\\\\\n&=-10+20-6\\\\\n&=4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "24", "4", "36", "14"
+      ],
+      "correctChoice": 1
     },
     {
       "question": "Evaluate \\(9w+x-y\\quad \\) if \\(w=-9, x=7,y=-5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=9(-9)+7-(-5) \\\\\n&=-81+7+5\\\\\n&=-69\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=9(-9)+7-(-5) \\\\\n&=-81+7+5\\\\\n&=-69\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-69", "87", "75", "-62"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(2w+7x-3y\\quad \\) if \\(w=-9, x=7,y=-5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(-9)+7(7)-3(-5) \\\\\n&=-18+49+15\\\\\n&=46\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(-9)+7(7)-3(-5) \\\\\n&=-18+49+15\\\\\n&=46\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-73", "55", "66", "46"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "Evaluate \\(-7w+5x+5y\\quad \\) if \\(w=-9, x=7,y=-5\\)",
-      "answer": "\\[\n\\begin{align*}\n&=-7(-9)+5(7)+5(-5) \\\\\n&=63+35-25\\\\\n&=73\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-7(-9)+5(7)+5(-5) \\\\\n&=63+35-25\\\\\n&=73\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "73", "75", "80", "93"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(8x-5y+2z\\quad \\) if \\(x=-8, y=-6, z=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=8(-8)-5(-6)+2(6) \\\\\n&=-64+30+12\\\\\n&=-22\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=8(-8)-5(-6)+2(6) \\\\\n&=-64+30+12\\\\\n&=-22\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-22", "20", "-30", "52"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(-3x+7y-z\\quad \\) if \\(x=-8, y=-6, z=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=-3(-8)+7(-6)-6 \\\\\n&=24-42-6\\\\\n&=-24\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=-3(-8)+7(-6)-6 \\\\\n&=24-42-6\\\\\n&=-24\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "-24", "14", "16", "23"
+      ],
+      "correctChoice": 0
     },
     {
       "question": "Evaluate \\(2z-5x-y\\quad \\) if \\(x=-8, y=-6, z=6\\)",
-      "answer": "\\[\n\\begin{align*}\n&=2(6)-5(-8)-(-6) \\\\\n&=12+40+6\\\\\n&=58\n\\end{align*}\n\\]\n\n"
+      "answer": "\\[\n\\begin{align*}\n&=2(6)-5(-8)-(-6) \\\\\n&=12+40+6\\\\\n&=58\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "52", "58", "47", "48"
+      ],
+      "correctChoice": 1
     }
   ]
 }
