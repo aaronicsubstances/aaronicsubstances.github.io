@@ -162,8 +162,12 @@
           "questionBankUrl": "integers/comparisons"
         },
         {
-          "title": "Multiplication and Powers of Integers",
-          "questionBankUrl": "integers/mul-and-squares-01"
+          "title": "Multiplication of Integers",
+          "questionBankUrl": "integers/multiplication-01"
+        },
+        {
+          "title": "Powers and Roots of Integers",
+          "questionBankUrl": "integers/powers_and_roots"
         },
         {
           "title": "Division of Integers (Part 1)",
@@ -371,11 +375,13 @@
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "algebra-intro/01-linear-equations"
+          "questionBankUrl": "equation-solving/01-linear-equations",
+          "description": "Linear equations"
         },
         {
           "title": "Part 2",
-          "questionBankUrl": "algebra-intro/02-linear-equations"
+          "questionBankUrl": "equation-solving/02-linear-equations",
+          "description": "Linear equations"
         }
       ]
     }

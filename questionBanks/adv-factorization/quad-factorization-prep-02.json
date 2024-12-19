@@ -1,7 +1,7 @@
 {
   "inputTimeWaitSecs": 90,
   "extraDescription": "For products with magnitudes 1 to 20",
-  "openingRemarks": "Enter answer as space or comma separated pair of integers.<p>NB: You can also enter 'U' or 'unexpected' if no pair of integers exist to satisfy the demands of the question.",
+  "openingRemarks": "Provide answer as space or comma separated pair of integers. E.g. 5 3<p>NB: You can also enter 'U' or 'unexpected' if no pair of integers exist to satisfy the demands of the question.",
   "questions": [
     {
       "question": "Find two integers whose product is 20 and whose sum is 9.",

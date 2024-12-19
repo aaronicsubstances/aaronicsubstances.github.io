@@ -1,0 +1,205 @@
+{
+  "openingRemarks": "NB: You can enter 'U' or 'unexpected' for results which are not expected or defined",
+  "questions": [
+    {
+      "question": "-3&sup2;",
+      "answer": "-9"
+    },
+    {
+      "question": "\\(\\sqrt[3]{-8}\\)",
+      "answer": "-2"
+    },
+    {
+      "question": "\\(\\sqrt{-16}\\)",
+      "answer": "undefined"
+    },
+    {
+      "question": "-8&sup2;",
+      "answer": "-64"
+    },
+    {
+      "question": "\\(\\sqrt{-4}\\)",
+      "answer": "undefined"
+    },
+    {
+      "question": "-3&sup3;",
+      "answer": "-27"
+    },
+    {
+      "question": "\\(\\sqrt{0}\\)",
+      "answer": "0"
+    },
+    {
+      "question": "\\(\\sqrt{49}\\)",
+      "answer": "7"
+    },
+    {
+      "question": "\\(\\sqrt{-49}\\)",
+      "answer": "undefined"
+    },
+    {
+      "question": "(-4)&sup2;",
+      "answer": "16"
+    },
+    {
+      "question": "2&sup3;",
+      "answer": "8"
+    },
+    {
+      "question": "3&sup3;",
+      "answer": "27"
+    },
+    {
+      "question": "\\(\\sqrt[3]{-27}\\)",
+      "answer": "-3"
+    },
+    {
+      "question": "5&sup2;",
+      "answer": "25"
+    },
+    {
+      "question": "1&sup2;",
+      "answer": "1"
+    },
+    {
+      "question": "-1&sup3;",
+      "answer": "-1"
+    },
+    {
+      "question": "6&sup2;",
+      "answer": "36"
+    },
+    {
+      "question": "9&sup2;",
+      "answer": "81"
+    },
+    {
+      "question": "(-2)&sup3;",
+      "answer": "-8"
+    },
+    {
+      "question": "7&sup2;",
+      "answer": "49"
+    },
+    {
+      "question": "\\(\\sqrt{81}\\)",
+      "answer": "9"
+    },
+    {
+      "question": "-4&sup3;",
+      "answer": "-64"
+    },
+    {
+      "question": "\\(\\sqrt[3]{64}\\)",
+      "answer": "4"
+    },
+    {
+      "question": "(-6)&sup2;",
+      "answer": "36"
+    },
+    {
+      "question": "4&sup3;",
+      "answer": "64"
+    },
+    {
+      "question": "(-7)&sup2;",
+      "answer": "49"
+    },
+    {
+      "question": "\\(\\sqrt{4}\\)",
+      "answer": "2"
+    },
+    {
+      "question": "(-1)&sup2;",
+      "answer": "1"
+    },
+    {
+      "question": "(-2)&sup2;",
+      "answer": "4"
+    },
+    {
+      "question": "\\(\\sqrt{25}\\)",
+      "answer": "5"
+    },
+    {
+      "question": "2&sup2;",
+      "answer": "4"
+    },
+    {
+      "question": "8&sup2;",
+      "answer": "64"
+    },
+    {
+      "question": "\\(\\sqrt[3]{27}\\)",
+      "answer": "3"
+    },
+    {
+      "question": "\\(\\sqrt{-81}\\)",
+      "answer": "undefined"
+    },
+    {
+      "question": "-6&sup2;",
+      "answer": "-36"
+    },
+    {
+      "question": "1&sup3;",
+      "answer": "1"
+    },
+    {
+      "question": "(-5)&sup2;",
+      "answer": "25"
+    },
+    {
+      "question": "(-1)&sup3;",
+      "answer": "-1"
+    },
+    {
+      "question": "\\(\\sqrt{36}\\)",
+      "answer": "6"
+    },
+    {
+      "question": "\\(\\sqrt[3]{-64}\\)",
+      "answer": "-4"
+    },
+    {
+      "question": "(-10)&sup2;",
+      "answer": "100"
+    },
+    {
+      "question": "5&sup3;",
+      "answer": "125"
+    },
+    {
+      "question": "\\(\\sqrt{64}\\)",
+      "answer": "8"
+    },
+    {
+      "question": "\\(\\sqrt{1}\\)",
+      "answer": "1"
+    },
+    {
+      "question": "\\(\\sqrt[3]{-1}\\)",
+      "answer": "-1"
+    },
+    {
+      "question": "-2&sup2;",
+      "answer": "-4"
+    },
+    {
+      "question": "10&sup2;",
+      "answer": "100"
+    },
+    {
+      "question": "-1&sup2;",
+      "answer": "-1"
+    },
+    {
+      "question": "0&sup3;",
+      "answer": "0"
+    },
+    {
+      "question": "\\(\\sqrt{-36}\\)",
+      "answer": "undefined"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 {
+  "openingRemarks": "NB:<p>1. Provide product anwers as two whole numbers separated by the symbol &times; or *. E.g. 22 &times; 34 (or 22 * 34)<p>2. To indicate that an answer is a repeating decimal expansion, let the repeating part occur more than once, and let the answer end with 2 or more dots. E.g. 13/2 can be given as 6.5000..",
   "extraDescription": "for numbers in 76-100",
   "questions": [
     {

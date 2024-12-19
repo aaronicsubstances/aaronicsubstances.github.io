@@ -421,19 +421,8 @@
       "correctChoice": 0
     },
     {
-      "question": "\\(\\dfrac{2 x}{3} =8 \\)",
-      "answer": "\\[\n\\begin{align*}\n\\dfrac{2 x}{3} &=8 \\\\\n3 \\times \\dfrac{2 x}{3} &=3 \\times 8 \\\\\n2x &= 24 \\\\\n\\dfrac{2 x}{2} &=\\dfrac{24}{2} \\\\\nx &=12 \n\n\\end{align*}\n\\] \n\n<div>Check LHS = 8 </div>\n\n<div>Evaluate \\( \\dfrac{2 x}{3} \\) if \\( x=12 \\)</div>\n\n\\[\n\\begin{align*}\n&=\\dfrac{2(12)}{3}\\\\\n&=\\dfrac{24}{3}\\\\\n&=8\n\\end{align*}\n\\]",
-      "choices": [
-        " -8",
-        " 6",
-        " 20",
-        " 8"
-      ],
-      "correctChoice": 3
-    },
-    {
       "question": "\\(\\dfrac{3}{5} y+\\dfrac{2}{5} y=1 \\)",
-      "answer": "\\[\n\\begin{align*}\n\\dfrac{3}{5} y+\\dfrac{2}{5} y&=1 \\\\\n5 \\times \\left(\\dfrac{3 y}{5}+ \\dfrac{2}{5} y\\right)&=5 \\times 1 \\\\\n5 \\times \\dfrac{3 y}{5}+5 \\times \\dfrac{2}{5} y&=5 \\\\\n3 y+2 y&=5 \\\\\n5y&=5\\\\\n\\dfrac{5 y}{5}&=\\dfrac{5}{5} \\\\\n&y=1\n \n\\end{align*}\n\\] \n\n<div>Check LHS = 1 </div>\n\n<div>Evaluate \\( \\dfrac{3}{5} y+\\dfrac{2 }{5}y \\) if \\( y=1 \\)</div>\n\n\\[\n\\begin{align*}\n&=\\dfrac{3}{5}(1)+\\dfrac{2}{5}(1) \\\\\n&=\\dfrac{3}{5}+\\dfrac{2}{5} \\\\\n&=1\n\\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{3}{5} y+\\dfrac{2}{5} y&=1 \\\\\n5 \\times \\left(\\dfrac{3 y}{5}+ \\dfrac{2}{5} y\\right)&=5 \\times 1 \\\\\n5 \\times \\dfrac{3 y}{5}+5 \\times \\dfrac{2}{5} y&=5 \\\\\n3 y+2 y&=5 \\\\\n5y&=5\\\\\n\\dfrac{5 y}{5}&=\\dfrac{5}{5} \\\\\ny&=1\n \n\\end{align*}\n\\] \n\n<div>Check LHS = 1 </div>\n\n<div>Evaluate \\( \\dfrac{3}{5} y+\\dfrac{2 }{5}y \\) if \\( y=1 \\)</div>\n\n\\[\n\\begin{align*}\n&=\\dfrac{3}{5}(1)+\\dfrac{2}{5}(1) \\\\\n&=\\dfrac{3}{5}+\\dfrac{2}{5} \\\\\n&=1\n\\end{align*}\n\\]",
       "choices": [
         " 1",
         " 2",
@@ -573,17 +562,6 @@
         " 36"
       ],
       "correctChoice": 2
-    },
-    {
-      "question": "\\(0.5x = 3 \\)",
-      "answer": "\\[\n\\begin{align*}\n0.5x&=3\\\\\n\\dfrac{0.5 x}{0.5}&=\\dfrac{3}{0.5} \\\\\nx&=6 \\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = 3 </div>\n\n<div>Evaluate \\( 0.5 x \\) if \\( x=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=0.5(6)\\\\\n&=3\n\\end{align*}\n\\]",
-      "choices": [
-        " 6",
-        " 3",
-        " 9",
-        " -3"
-      ],
-      "correctChoice": 0
     },
     {
       "question": "\\(0.2 x=48-0.04 x \\)",
@@ -784,6 +762,28 @@
       "correctChoice": 1
     },
     {
+      "question": "\\(4(g + 8) = 7 + 4g \\)",
+      "answer": "\\[\n\\begin{align*}\n4(g + 8) &= 7 + 4g \\\\\n4g + 32 &= 7 + 4g  \\\\\n32- 7  &= 4g - 4g  \\\\\n25 &= 0\n\\end{align*}\n\\]\n\n<div>Since \\(25 = 0\\) is always false,  the equation does not have a solution.</div>\n",
+      "choices": [
+        "1",
+        "2",
+        "4 or 5",
+        "No number satisfies the equation"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\(-4(-5h - 4) = 2(10h + 8) \\)",
+      "answer": "\\[\n\\begin{align*}\n-4(-5h - 4) &= 2(10h + 8) \\\\\n20h + 16 &= 20h + 16  \\\\\n20h- 20h  &= 16 - 16  \\\\\n0 &= 0\n\\end{align*}\n\\]\n\n<div>Since \\(0=0\\) is always true, all numbers satisfy the equation.</div>\n",
+      "choices": [
+        "All numbers satisfy the equation",
+        "1 only",
+        "-10 only",
+        "2 and 6 only"
+      ],
+      "correctChoice": 0
+    },
+    {
       "question": "\\(4(x-5)=3(x+1) \\)",
       "answer": "\\[\n\\begin{align*}\n4(x-5)&=3(x+1) \\\\\n4 x-20&=3 x+3 \\\\\n4 x-3 x&=3+20 \\\\\nx&=23\n\\end{align*}\n\\] \n\n<div>Check LHS = RHS </div>\n\n<div>Evaluate \\( 4(x-5) \\) if \\( x=23 \\)</div>\n\n\\[\n\\begin{align*}\n&=4(23-5) \\\\\n&=4(18)\\\\\n&=72\n\\end{align*}\n\\]\n\n<div>Evaluate \\( 3(x+1) \\) if \\( x=23 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(23+1) \\\\\n&=3(24)\\\\\n&=72\n\\end{align*}\n\\]",
       "choices": [
@@ -906,18 +906,18 @@
     },
     {
       "question": "\\(3 t+4=12+3 t \\)",
-      "answer": "\\[\n\\begin{align*}\n3 t+4&=12+3 t \\\\\n3 t-3 t&=12-4 \\\\\n0&=8\\\\\n\\end{align*}\n\\] \n\n<div>\nSince \\(0=8\\) is always false, no value of \\(t\\) satisfies the equation\n</div>",
+      "answer": "\\[\n\\begin{align*}\n3 t+4&=12+3 t \\\\\n3 t-3 t&=12-4 \\\\\n0&=8\\\\\n\\end{align*}\n\\] \n\n<p>\nSince \\(0=8\\) is always false, no value of \\(t\\) satisfies the equation\n",
       "choices": [
         " 8",
         " 3",
         " 4",
-        " No solution"
+        "No number satisfies the equation"
       ],
       "correctChoice": 3
     },
     {
       "question": "\\(12 y+6=6(2 y+1) \\)",
-      "answer": "\\[\n\\begin{align*}\n12 y+6&=6(2 y+1) \\\\\n12 y+6&=12 y+6 \\\\\n12 y-12 y&=6-6 \\\\\n0&=0\\\\\n\\end{align*}\n\\] \n\n<div>\nSince \\(0=0\\) is always true, any value of \\(y\\) satisfies the equation\n</div>",
+      "answer": "\\[\n\\begin{align*}\n12 y+6&=6(2 y+1) \\\\\n12 y+6&=12 y+6 \\\\\n12 y-12 y&=6-6 \\\\\n0&=0\\\\\n\\end{align*}\n\\] \n\n<p>\nSince \\(0=0\\) is always true, any value of \\(y\\) satisfies the equation\n",
       "choices": [
         " All numbers satisfy the equation",
         " 8 only",
@@ -928,22 +928,22 @@
     },
     {
       "question": "\\(3(4 g+6)=2(6 g+9) \\)",
-      "answer": "\\[\n\\begin{align*}\n3(4 g+6)&=2(6 g+9) \\\\\n12 g+18&=12 g+18 \\\\\n12 g-12 g&=18-18 \\\\\n0&=0\\\\\n\\end{align*}\n\\] \n\n<div>\nSince \\(0=0\\) is always true, any value of \\(g\\) satisfies the equation\n</div>",
+      "answer": "\\[\n\\begin{align*}\n3(4 g+6)&=2(6 g+9) \\\\\n12 g+18&=12 g+18 \\\\\n12 g-12 g&=18-18 \\\\\n0&=0\\\\\n\\end{align*}\n\\] \n\n<p>\nSince \\(0=0\\) is always true, any value of \\(g\\) satisfies the equation\n",
       "choices": [
         " 20 only",
         " 8 only",
         " All numbers satisfy the equation",
-        " 5only"
+        " 5 only"
       ],
       "correctChoice": 2
     },
     {
       "question": "\\(5(1+2 m)=\\dfrac{1}{2}(8+20 m) \\)",
-      "answer": "\\[\n\\begin{align*}\n5(1+2 m)&=\\dfrac{1}{2}(8+20 m) \\\\\n2 \\times 5(1+2 m)&=2 \\times \\dfrac{1}{2}(8+20 m) \\\\\n10(1+2 m)&=8+20 m \\\\\n10+20 m&=8+20 m \\\\\n20 m-20 m&=8-10 \\\\\n0&=-2\\\\\n\\end{align*}\n\\] \n\n<div>\nSince \\(0=-2\\) is always false, no value of \\(m\\) satisfies the equation\n</div>",
+      "answer": "\\[\n\\begin{align*}\n5(1+2 m)&=\\dfrac{1}{2}(8+20 m) \\\\\n2 \\times 5(1+2 m)&=2 \\times \\dfrac{1}{2}(8+20 m) \\\\\n10(1+2 m)&=8+20 m \\\\\n10+20 m&=8+20 m \\\\\n20 m-20 m&=8-10 \\\\\n0&=-2\\\\\n\\end{align*}\n\\] \n\n<p>\nSince \\(0=-2\\) is always false, no value of \\(m\\) satisfies the equation\n",
       "choices": [
         " -5",
         " 7",
-        " No solution",
+        " No number satisfies the equation",
         " 1"
       ],
       "correctChoice": 2
