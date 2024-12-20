@@ -374,14 +374,20 @@
       "title": "C10 - Solving Equations",
       "links": [
         {
-          "title": "Part 1",
-          "questionBankUrl": "equation-solving/01-linear-equations",
-          "description": "Linear equations"
+          "title": "Linear equations Part 1",
+          "questionBankUrl": "equation-solving/01-linear-equations"
         },
         {
-          "title": "Part 2",
-          "questionBankUrl": "equation-solving/02-linear-equations",
-          "description": "Linear equations"
+          "title": "Linear equations Part 2",
+          "questionBankUrl": "equation-solving/02-linear-equations"
+        },
+        {
+          "title": "Quadratic equations Part 1",
+          "questionBankUrl": "equation-solving/01-quadratic-equations"
+        },
+        {
+          "title": "Quadratic equations Part 2",
+          "questionBankUrl": "equation-solving/02-quadratic-equations"
         }
       ]
     }
