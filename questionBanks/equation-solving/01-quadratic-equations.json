@@ -28,10 +28,10 @@
       "question": "\\((x-5)(x-9)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(x-5)(x-9)&=0 \\\\\nx-5=0 && \\text{or} \\quad x-9=0 \\\\\nx=5 && x=9\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\( -5 \\), \\(-9 \\)",
-        "\\( -5 \\), \\(9 \\)",
-        "\\( 5 \\), \\(9 \\)",
-        "\\( 5 \\), \\(-9 \\)"
+        "-5, -9",
+        "-5, 9",
+        "5, 9",
+        "5, -9"
       ],
       "correctChoice": 2
     },
@@ -39,10 +39,10 @@
       "question": "\\((x-4) (x-6)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(x-4) (x-6)&=0 \\\\\nx-4=0 && \\text{or} \\quad x-6=0 \\\\\nx=4 && x=6\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\( -4 \\), \\(6 \\)",
-        "\\( 4 \\), \\(6 \\)",
-        "\\(-4 \\), \\(-6 \\)",
-        "\\( 4 \\), \\(-6 \\)"
+        "-4, 6",
+        "4, 6",
+        "-4, -6",
+        "4, -6"
       ],
       "correctChoice": 1
     },
@@ -50,10 +50,10 @@
       "question": "\\((x+2)(x+1)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(x+2)(x+1)&=0 \\\\\nx+2=0 && \\text{or} \\quad x+1=0 \\\\\nx=-2 && x=-1\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\( -2 \\), \\(-1 \\)",
-        "\\( -2 \\), \\(1 \\)",
-        "\\(2 \\), \\(-1 \\)",
-        "\\( 2 \\), \\(1 \\)"
+        "-2, -1",
+        "-2, 1",
+        "2, -1",
+        "2, 1"
       ],
       "correctChoice": 0
     },
@@ -61,10 +61,10 @@
       "question": "\\((x+5)(x+2)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(x+5)(x+2)&=0 \\\\\nx+5=0 && \\text{or} \\quad x+2=0 \\\\\nx=-5 && x=-2\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\( 5 \\), \\(2 \\)",
-        "\\( -5 \\), \\(2 \\)",
-        "\\(5 \\), \\(-2 \\)",
-        "\\( -5 \\), \\(-2 \\)"
+        "5, 2",
+        "-5, 2",
+        "5, -2",
+        "-5, -2"
       ],
       "correctChoice": 3
     },
@@ -72,10 +72,10 @@
       "question": "\\((4 x-5) (x-7)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(4 x-5) (x-7)&=0 \\\\ \n4 x-5=0 && \\text{or} \\quad  x-7=0 \\\\ \n4x=5 && x=7   \\\\\n\\dfrac{4 x}{4}=\\dfrac{5}{4}\\\\\nx=\\dfrac{5}{4}\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\( x=\\dfrac{-5}{4} \\), \\(7 \\)",
-        "\\( x=\\dfrac{5}{4} \\), \\(7 \\)",
-        "\\( x=\\dfrac{5}{4} \\), \\(-7 \\)",
-        "\\( x=\\dfrac{-5}{4} \\), \\(-7 \\)"
+        "\\( -\\dfrac{5}{4} \\), 7",
+        "\\( \\dfrac{5}{4} \\), 7",
+        "\\( \\dfrac{5}{4} \\), -7",
+        "\\( -\\dfrac{5}{4} \\), -7"
       ],
       "correctChoice": 1
     },
@@ -83,10 +83,10 @@
       "question": "\\((2x+1)  (x+4)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(2x+1)  (x+4)&=0 \\\\ \n2x+1=0 && \\text{or} \\quad  x+4=0 \\\\ \n2x=-1&& x=-4   \\\\\n\\frac{2x}{2}=\\frac{-1}{2} \\\\\nx=-\\frac{1}{2}\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\( -\\dfrac{1}{2} \\), \\(4 \\)",
-        "\\( \\dfrac{1}{2} \\), \\(4 \\)",
-        "\\( \\dfrac{1}{2} \\), \\(-4 \\)",
-        "\\( -\\dfrac{1}{2} \\), \\(-4 \\)"
+        "\\( -\\dfrac{1}{2} \\), 4",
+        "\\( \\dfrac{1}{2} \\), 4",
+        "\\( \\dfrac{1}{2} \\), -4",
+        "\\( -\\dfrac{1}{2} \\), -4"
       ],
       "correctChoice": 3
     },
@@ -94,10 +94,10 @@
       "question": "\\((2x+3)  (x-6)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(2x+3)  (x-6)&=0 \\\\ \n2x+3=0 && \\text{or} \\quad  x-6=0 \\\\ \n2x=-3&& x=6\\\\\n\\frac{2x}{2}=\\frac{-3}{2}\\\\\nx=-\\frac{3}{2}\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(x=-\\dfrac{3}{2}\\), \\(6\\)",
-        "\\(x=-\\dfrac{3}{2}\\), \\(-6\\)",
-        "\\(x=\\dfrac{3}{2}\\), \\(6\\)",
-        "\\(x=\\dfrac{3}{2}\\), \\(-6\\)"
+        "\\(-\\dfrac{3}{2}\\), 6",
+        "\\(-\\dfrac{3}{2}\\), -6",
+        "\\(\\dfrac{3}{2}\\), 6",
+        "\\(\\dfrac{3}{2}\\), -6"
       ],
       "correctChoice": 0
     },
@@ -105,10 +105,10 @@
       "question": "\\((5x+1)  (4x-5)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(5x+1)  (4x-5)&=0 \\\\ \n5x+1=0 && \\text{or} \\quad  4x-5=0 \\\\ \n5x=- 1 && 4x=5 \\\\\n\\frac{5x}{5}=\\frac{-1}{5} && \\frac{4x}{4}=\\frac{5}{4}   \\\\\nx=-\\frac{1}{5}&& x=\\frac{5}{4}\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(x=\\dfrac{1}{5}\\), \\(x=\\dfrac{5}{4}\\)",
-        "\\(x=-\\dfrac{1}{5}\\), \\(x=\\dfrac{5}{4}\\)",
-        "\\(x=-\\dfrac{1}{5}\\), \\(x=-\\dfrac{5}{4}\\)",
-        "\\(x=\\dfrac{1}{5}\\), \\(x=-\\dfrac{5}{4}\\)"
+        "\\(\\dfrac{1}{5}\\), \\(\\dfrac{5}{4}\\)",
+        "\\(-\\dfrac{1}{5}\\), \\(\\dfrac{5}{4}\\)",
+        "\\(-\\dfrac{1}{5}\\), \\(-\\dfrac{5}{4}\\)",
+        "\\(\\dfrac{1}{5}\\), \\(-\\dfrac{5}{4}\\)"
       ],
       "correctChoice": 1
     },
@@ -116,10 +116,10 @@
       "question": "\\((2x-3) (2x-5)=0\\)",
       "answer": "\\[\n\\begin{align*}\n(2x-3) (2x-5)&=0 \\\\ \n2x-3=0 && \\text{or} \\quad  2x-5=0 \\\\ \n2x=3 && 2x=5\\\\\n\\frac{2x}{2}=\\frac{3}{2} && \\frac{2x}{2}=\\frac{5}{2}   \\\\\nx=\\frac{3}{2}&& x=\\frac{5}{2}\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(x=-\\dfrac{3}{2}\\), \\(x=\\dfrac{5}{2}\\)",
-        "\\(x=-\\dfrac{3}{2}\\), \\(x=-\\dfrac{5}{2}\\)",
-        "\\(x=\\dfrac{3}{2}\\), \\(x=\\dfrac{5}{2}\\)",
-        "\\(x=-\\dfrac{3}{2}\\), \\(x=-\\dfrac{5}{2}\\)"
+        "\\(-\\dfrac{3}{2}\\), \\(\\dfrac{5}{2}\\)",
+        "\\(-\\dfrac{3}{2}\\), \\(-\\dfrac{5}{2}\\)",
+        "\\(\\dfrac{3}{2}\\), \\(\\dfrac{5}{2}\\)",
+        "\\(-\\dfrac{3}{2}\\), \\(-\\dfrac{5}{2}\\)"
       ],
       "correctChoice": 2
     },
@@ -127,10 +127,10 @@
       "question": "\\(3(4x+3)  (2x-1)=0\\)",
       "answer": "\\[\n\\begin{align*}\n3(4x+3)  (2x-1)&=0 \\\\ \n4x+3=0 && \\text{or} \\quad  2x-1=0 \\\\\n4x=-3 && 2x=1 \\\\ \n\\frac{4x}{4}=\\frac{-3}{4} &&\\frac{2x}{2}=\\frac{-1}{2}   \\\\\nx=-\\frac{3}{4} && x=-\\frac{1}{2}\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(x=-\\dfrac{3}{4}\\), \\(x=-\\dfrac{1}{2}\\)",
-        "\\(x=-\\dfrac{3}{4}\\), \\(x=\\dfrac{1}{2}\\)",
-        "\\(x=\\dfrac{3}{4}\\), \\(x=\\dfrac{1}{2}\\)",
-        "\\(x=\\dfrac{3}{4}\\), \\(x=-\\dfrac{1}{2}\\)"
+        "\\(-\\dfrac{3}{4}\\), \\(-\\dfrac{1}{2}\\)",
+        "\\(-\\dfrac{3}{4}\\), \\(\\dfrac{1}{2}\\)",
+        "\\(\\dfrac{3}{4}\\), \\(\\dfrac{1}{2}\\)",
+        "\\(\\dfrac{3}{4}\\), \\(-\\dfrac{1}{2}\\)"
       ],
       "correctChoice": 0
     },
@@ -138,10 +138,10 @@
       "question": "\\(x^{2}-4 x=0\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}-4 x&=0 \\\\ \nx(x-4)&=0 \\\\\nx=0 && \\text{or} \\quad  x-4=0 \\\\\n&& x=4 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-4\\)",
-        "\\(0\\), \\(4\\)",
-        "\\(0\\), \\(2\\)",
-        "\\(4\\), \\(-2\\)"
+        "0, -4",
+        "0, 4",
+        "0, 2",
+        "4, -2"
       ],
       "correctChoice": 1
     },
@@ -149,10 +149,10 @@
       "question": "\\(x^{2}+4x=0\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}+4x&=0 \\\\ \nx(x+4)&=0 \\\\\nx=0 && \\text{or} \\quad  x+4=0 \\\\\n&& x=-4 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-4\\)",
-        "\\(0\\), \\(4\\)",
-        "\\(0\\), \\(6\\)",
-        "\\(0\\), \\(1\\)"
+        "0, -4",
+        "0, 4",
+        "0, 6",
+        "0, 1"
       ],
       "correctChoice": 0
     },
@@ -160,10 +160,10 @@
       "question": "\\(x^{2}-3x=0\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}-3x&=0 \\\\ \nx(x-3)&=0 \\\\\nx=0 && \\text{or} \\quad   x-3=0 \\\\\n&& x=3 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(3\\), \\(-3\\)",
-        "\\(0\\), \\(-3\\)",
-        "\\(0\\), \\(3\\)",
-        "\\(0\\), \\(6\\)"
+        "3, -3",
+        "0, -3",
+        "0, 3",
+        "0, 6"
       ],
       "correctChoice": 2
     },
@@ -171,10 +171,10 @@
       "question": "\\(x^{2}-5x=0\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}-5x&=0 \\\\ \nx(x-5)&=0 \\\\\nx=0 && \\text{or} \\quad  x-5=0 \\\\\n&& x=5 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-5\\)",
-        "\\(0\\), \\(10\\)",
-        "\\(0\\), \\(2\\)",
-        "\\(0\\), \\(5\\)"
+        "0, -5",
+        "0, 10",
+        "0, 2",
+        "0, 5"
       ],
       "correctChoice": 3
     },
@@ -182,10 +182,10 @@
       "question": "\\(x^{2}-9x=0\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}-9x&=0 \\\\ \nx(x-9)&=0 \\\\\nx=0 && \\text{or} \\quad  x-9=0 \\\\\n&& x=9 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(9\\)",
-        "\\(0\\), \\(3\\)",
-        "\\(0\\), \\(-9\\)",
-        "\\(0\\), \\(-3\\)"
+        "0, 9",
+        "0, 3",
+        "0, -9",
+        "0, -3"
       ],
       "correctChoice": 0
     },
@@ -193,10 +193,10 @@
       "question": "\\(x^{2}+3x=0\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}+3x&=0 \\\\ \nx(x+3)&=0 \\\\\nx=0 && \\text{or} \\quad  x+3=0 \\\\\n&& x=-3 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-3\\)",
-        "\\(0\\), \\(2\\)",
-        "\\(0\\), \\(3\\)",
-        "\\(0\\), \\(\\frac{1}{3}\\)"
+        "0, -3",
+        "0, 2",
+        "0, 3",
+        "0, \\(\\frac{1}{3}\\)"
       ],
       "correctChoice": 0
     },
@@ -204,10 +204,10 @@
       "question": "\\(4x^{2}-16x=0\\)",
       "answer": "\\[\n\\begin{align*}\n4x^{2}-16x&=0 \\\\ \n4x(x-4)&=0 \\\\\n4x=0 && \\text{or} \\quad  x-4=0 \\\\\n\\frac{4x}{4}=\\frac{0}{4} && x=4 \\\\\nx=0\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-4\\)",
-        "\\(0\\), \\(4\\)",
-        "\\(0\\), \\(\\dfrac{1}{4}\\)",
-        "\\(0\\), \\(2\\)"
+        "0, -4",
+        "0, 4",
+        "0, \\(\\dfrac{1}{4}\\)",
+        "0, 2"
       ],
       "correctChoice": 1
     },
@@ -215,10 +215,10 @@
       "question": "\\(2x^{2}+6x=0\\)",
       "answer": "\\[\n\\begin{align*}\n2x^{2}+6x&=0 \\\\ \n2x(x+3)&=0 \\\\\n2x=0 && \\text{or} \\quad   x+3=0 \\\\\n\\frac{2x}{2}=\\frac{0}{2} && x=-3 \\\\\nx=0\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(3\\)",
-        "\\(0\\), \\(-3\\)",
-        "\\(0\\), \\(\\dfrac{1}{3}\\)",
-        "\\(0\\), \\(-\\dfrac{1}{3}\\)"
+        "0, 3",
+        "0, -3",
+        "0, \\(\\dfrac{1}{3}\\)",
+        "0, \\(-\\dfrac{1}{3}\\)"
       ],
       "correctChoice": 1
     },
@@ -226,10 +226,10 @@
       "question": "\\(2x^{2}+4x=0\\)",
       "answer": "\\[\n\\begin{align*}\n2x^{2}+4x&=0 \\\\ \n2x(x+2)&=0 \\\\\n2x=0 && \\text{or} \\quad  x+2=0 \\\\\n\\frac{2x}{2}=\\frac{0}{2} && x=-2 \\\\\nx=0\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-2\\)",
-        "\\(0\\), \\(4\\)",
-        "\\(0\\), \\(2\\)",
-        "\\(0\\), \\(-4\\)"
+        "0, -2",
+        "0, 4",
+        "0, 2",
+        "0, -4"
       ],
       "correctChoice": 0
     },
@@ -237,10 +237,10 @@
       "question": "\\(10x^{2}+2x=0\\)",
       "answer": "\\[\n\\begin{align*}\n10x^{2}+2x&=0 \\\\ \nx(10x+2)&=0 \\\\\nx=0 && \\text{or} \\quad  10x+2=0 \\\\\n&& 10x=-2\\\\\n&& \\frac{10x}{10}=\\frac{-2}{10}\\\\\n&& x=-0.2\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(0.2\\)",
-        "\\(0\\), \\(-0.2\\)",
-        "\\(0\\), \\(0.04\\)",
-        "\\(0\\), \\(10\\)"
+        "0, 0.2",
+        "0, -0.2",
+        "0, 0.04",
+        "0, 10"
       ],
       "correctChoice": 1
     },
@@ -248,10 +248,10 @@
       "question": "\\(10x^{2}+6x=0\\)",
       "answer": "\\[\n\\begin{align*}\n10x^{2}+6x&=0 \\\\ \nx(10x+6)&=0 \\\\\nx=0  && \\text{or} \\quad  10x+6=0 \\\\\n&& 10x=-6\\\\\n&& \\frac{10x}{10}=\\frac{-6}{10}\\\\\n&& x=-\\frac{3}{5}\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(\\dfrac{3}{5}\\)",
-        "\\(0\\), \\(\\dfrac{5}{3}\\)",
-        "\\(0\\), \\(-\\dfrac{3}{5}\\)",
-        "\\(0\\), \\(10\\)"
+        "0, \\(\\dfrac{3}{5}\\)",
+        "0, \\(\\dfrac{5}{3}\\)",
+        "0, \\(-\\dfrac{3}{5}\\)",
+        "0, 10"
       ],
       "correctChoice": 2
     },
@@ -259,153 +259,164 @@
       "question": "\\(5x^{2}=-3x\\)",
       "answer": "\\[\n\\begin{align*}\n5x^{2}&=-3x \\\\\n5x^{2}+3x&=0 \\\\ \nx(5x+3)&=0 \\\\\nx=0  && \\text{or} \\quad  5x+3=0 \\\\\n&& 5x = -3 \\\\\n&& \\frac{5x}{5}=\\frac{-3}{5}\\\\\n&& x=-\\frac{3}{5}\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(0\\), \\(-\\dfrac{3}{5}\\)",
-        "\\(0\\), \\(\\dfrac{5}{3}\\)",
-        "\\(0\\), \\(\\dfrac{3}{5}\\)",
-        "\\(0\\), \\(-\\dfrac{5}{3}\\)"
+        "0, \\(-\\dfrac{3}{5}\\)",
+        "0, \\(\\dfrac{5}{3}\\)",
+        "0, \\(\\dfrac{3}{5}\\)",
+        "0, \\(-\\dfrac{5}{3}\\)"
       ],
       "correctChoice": 0
     },
     {
       "question": "\\(x^{2}-9=0\\)",
-      "answer": "\\[\n\\begin{align*}\nx^{2}-9&=0 \\\\ \nx^{2}-3^{2}&=0 \\\\ \n(x-3)(x+3)&=0 \\\\\nx-3=0 && \\text{or} \\quad  x+3=0 \\\\ \nx=3 && x=-3 \\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\nx^{2}-9&=0 \\\\\nx^{2}&=9 \\\\\nx&=\\pm\\sqrt{9}\\\\\nx&=\\pm3\\\\\nx&=3, -3\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\nx^{2}-9&=0 \\\\ \nx^{2}-3^{2}&=0 \\\\ \n(x-3)(x+3)&=0 \\\\\nx-3=0 && \\text{or} \\quad  x+3=0 \\\\ \nx=3 && x=-3 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-3\\), \\(-9\\)",
-        "\\(-3\\), \\(9\\)",
-        "\\(-3\\), \\(3\\)",
-        "\\(0\\), \\(3\\)"
+        "-3, -9",
+        "-3, 9",
+        "-3, 3",
+        "0, 3"
       ],
       "correctChoice": 2
     },
     {
       "question": "\\(x^{2}-4=0\\)",
-      "answer": "\\[\n\\begin{align*}\nx^{2}-4&=0 \\\\ \nx^{2}-2^{2}&=0 \\\\ \n(x-2)(x+2)&=0 \\\\ \nx-2=0 && \\text{or} \\quad  x+2=0 \\\\ \nx=2 && x=-2\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\nx^{2}-4&=0 \\\\\nx^{2}&=4 \\\\\nx&=\\pm\\sqrt{4}\\\\\nx&=\\pm2\\\\\nx&=2, -2\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\nx^{2}-4&=0 \\\\ \nx^{2}-2^{2}&=0 \\\\ \n(x-2)(x+2)&=0 \\\\ \nx-2=0 && \\text{or} \\quad  x+2=0 \\\\ \nx=2 && x=-2\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-2\\), \\(-4\\)",
-        "\\(-2\\), \\(2\\)",
-        "\\(-2\\), \\(4\\)",
-        "\\(0\\), \\(-2\\)"
+        "-2, -4",
+        "-2, 2",
+        "-2, 4",
+        "0, -2"
       ],
       "correctChoice": 1
     },
     {
       "question": "\\(x^{2}-36=0\\)",
-      "answer": "\\[\n\\begin{align*}\nx^{2}-36&=0 \\\\\nx^{2}-6^{2}&=0 \\\\\n(x-6)(x+6)&=0 \\\\\nx-6=0 && \\text{or} \\quad  x+6=0 \\\\ \nx=6 && x=-6\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\nx^{2}-36&=0 \\\\\nx^{2}&=36 \\\\\nx&=\\pm\\sqrt{36}\\\\\nx&=\\pm6\\\\\nx&=6, -6\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\nx^{2}-36&=0 \\\\\nx^{2}-6^{2}&=0 \\\\\n(x-6)(x+6)&=0 \\\\\nx-6=0 && \\text{or} \\quad  x+6=0 \\\\ \nx=6 && x=-6\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-6\\), \\(6\\)",
+        "-6, 6",
         "\\(-6\\) only",
-        "\\(0\\), \\(6\\)",
-        "\\(-6\\), \\(36\\)"
+        "0, 6",
+        "-6, 36"
       ],
       "correctChoice": 0
     },
     {
       "question": "\\(9x^{2}-36=0\\)",
-      "answer": "\\[\n\\begin{align*}\n9x^{2}-36&=0 \\\\\n3^{2} x^{2}-6^{2}&=0 \\\\\n(3x-6)(3 x+6)&=0 \\\\\n3x-6=0 && \\text{or} \\quad  3x+6=0 \\\\\n3x = 6 && 3x =-6 \\\\\n\\dfrac{3x}{3}=\\dfrac{6}{3} && \\dfrac{3x}{3}=\\dfrac{-6}{3} \\\\\nx=2  && x=-2 \\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n9x^{2}-36&=0 \\\\\n9x^{2}&=36 \\\\\n\\dfrac{9x^2}{9}&=\\dfrac{36}{9}\\\\\nx^2&=4\\\\\nx&=\\pm\\sqrt{4}\\\\\nx&=\\pm2\\\\\nx&=2, -2\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n9x^{2}-36&=0 \\\\\n3^{2} x^{2}-6^{2}&=0 \\\\\n(3x)^{2}-6^{2}&=0 \\\\\n(3x-6)(3 x+6)&=0 \\\\\n3x-6=0 && \\text{or} \\quad  3x+6=0 \\\\\n3x = 6 && 3x =-6 \\\\\n\\dfrac{3x}{3}=\\dfrac{6}{3} && \\dfrac{3x}{3}=\\dfrac{-6}{3} \\\\\nx=2  && x=-2 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
         "\\(-2\\) only",
-        "\\(-2\\), \\(2\\)",
+        "-2, 2",
         "\\(2\\) only",
-        "\\(0\\), \\(2\\)"
+        "0, 2"
       ],
       "correctChoice": 1
     },
     {
       "question": "\\(25x^{2}-100=0\\)",
-      "answer": "\\[\n\\begin{align*}\n25x^{2}-100&=0 \\\\\n5x^{2}-10^{2}&=0 \\\\\n(5x-10)(5x+10)&=0 \\\\\n5x-10=0 && \\text{or} \\quad  5x+10=0 \\\\\n5x=10 && 5x =-10\\\\\n\\dfrac{5x}{5}=\\dfrac{10}{5}  && \\text{or} \\quad   \\dfrac{5x}{5}=\\dfrac{-10}{5} \\\\\nx=2 &&\\quad x=-2 \\\\ \\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n25x^{2}-100&=0 \\\\\n25x^{2}&=100 \\\\\n\\dfrac{25x^2}{25}&=\\dfrac{100}{25}\\\\\nx^2&=4\\\\\nx&=\\pm\\sqrt{4}\\\\\nx&=\\pm2\\\\\nx&=2, -2\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n25x^{2}-100&=0 \\\\\n5^2x^{2}-10^{2}&=0 \\\\\n(5x)^{2}-10^{2}&=0 \\\\\n(5x-10)(5x+10)&=0 \\\\\n5x-10=0 && \\text{or} \\quad  5x+10=0 \\\\\n5x=10 && 5x =-10\\\\\n\\dfrac{5x}{5}=\\dfrac{10}{5}  && \\text{or} \\quad   \\dfrac{5x}{5}=\\dfrac{-10}{5} \\\\\nx=2 &&\\quad x=-2 \\\\ \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-2\\), \\(2\\)",
+        "-2, 2",
         "\\(-2\\) only",
         "\\(2\\) only",
-        "\\(0\\), \\(2\\)"
+        "0, 2"
       ],
       "correctChoice": 0
     },
     {
       "question": "\\(4x^{2}-16=0\\)",
-      "answer": "\\[\n\\begin{align*}\n4x^{2}-16&=0\\\\\n2^{2} x^{2}-4^{2}&=0 \\\\\n(2 x-4)(2 x+4)&=0 \\\\\n2 x+4=0 && \\text{or} \\quad  2 x+4=0 \\\\\n2x = 4 && 2x=-4\\\\\n\\dfrac{2 x}{2}=\\dfrac{4}{2} &&\\dfrac{2 x}{2}=\\dfrac{-4}{2} \\\\\nx=2 && x=-2\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n4x^{2}-16&=0 \\\\\n4x^{2}&=16 \\\\\n\\dfrac{4x^2}{4}&=\\dfrac{16}{4}\\\\\nx^2&=4\\\\\nx&=\\pm\\sqrt{4}\\\\\nx&=\\pm2\\\\\nx&=2, -2\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n4x^{2}-16&=0\\\\\n2^{2} x^{2}-4^{2}&=0 \\\\\n(2x)^{2}-4^{2}&=0 \\\\\n(2 x-4)(2 x+4)&=0 \\\\\n2 x+4=0 && \\text{or} \\quad  2 x+4=0 \\\\\n2x = 4 && 2x=-4\\\\\n\\dfrac{2 x}{2}=\\dfrac{4}{2} &&\\dfrac{2 x}{2}=\\dfrac{-4}{2} \\\\\nx=2 && x=-2\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
         "\\(-2\\) only",
-        "\\(-2\\), \\(2\\)",
+        "-2, 2",
         "\\(2\\) only",
-        "\\(2\\), \\(0\\)"
+        "2, 0"
       ],
       "correctChoice": 1
     },
     {
       "question": "\\(9x^{2}-81=0\\)",
-      "answer": "\\[\n\\begin{align*}\n9x^{2}-81&=0 \\\\ \n3^{2}x^{2}-9^{2}&=0 \\\\\n(3x-9)(3 x+9)&=0 \\\\\n3x-9=0  && \\text{or} \\quad   3x+9=0 \\\\\n3x=9 && 3x=-9\\\\\n\\dfrac{3x}{3}=\\dfrac{9}{3} && \\dfrac{3x}{3}=\\dfrac{-9}{3} \\\\\nx=3 && x=-3\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n9x^{2}-81&=0 \\\\\n9x^{2}&=81 \\\\\n\\dfrac{9x^2}{9}&=\\dfrac{81}{9}\\\\\nx^2&=9\\\\\nx&=\\pm\\sqrt{9}\\\\\nx&=\\pm3\\\\\nx&=3, -3\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n9x^{2}-81&=0 \\\\ \n3^{2}x^{2}-9^{2}&=0 \\\\\n(3x)^{2}-9^{2}&=0 \\\\\n(3x-9)(3 x+9)&=0 \\\\\n3x-9=0  && \\text{or} \\quad   3x+9=0 \\\\\n3x=9 && 3x=-9\\\\\n\\dfrac{3x}{3}=\\dfrac{9}{3} && \\dfrac{3x}{3}=\\dfrac{-9}{3} \\\\\nx=3 && x=-3\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
         "\\(-3\\) only",
         "\\(3\\) only",
-        "\\(-3\\), \\(3\\)",
-        "\\(3\\), \\(0\\)"
+        "-3, 3",
+        "3, 0"
       ],
       "correctChoice": 2
     },
     {
       "question": "\\(100 x^{2}-36=0\\)",
-      "answer": "\\[\n\\begin{align*}\n100 x^{2}-36&=0 \\\\\n10^{2} x^{2}-6^{2}&=0 \\\\\n(10 x-6)(10 x+6)&=0 \\\\\n10 x-6=0  && \\text{or} \\quad   10 x+6=0 \\\\\n\\dfrac{10 x}{10}=\\dfrac{6}{10} && \\dfrac{10 x}{10}=\\dfrac{-6}{10} \\\\\nx=\\dfrac{3}{5} && x=-\\dfrac{3}{5}\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n100x^{2}-36&=0 \\\\\n100x^{2}&=36 \\\\\n\\dfrac{100x^2}{100}&=\\dfrac{36}{100}\\\\\nx^2&=\\dfrac{9}{25}\\\\\nx&=\\pm\\sqrt{\\dfrac{9}{25}}\\\\\nx&=\\pm\\dfrac{\\sqrt{9}}{\\sqrt{25}}\\\\\nx&=\\pm\\dfrac{3}{5}\\\\\nx&=\\dfrac{3}{5}, -\\dfrac{3}{5}\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n100 x^{2}-36&=0 \\\\\n10^{2} x^{2}-6^{2}&=0 \\\\\n(10x)^{2}-6^{2}&=0 \\\\\n(10 x-6)(10 x+6)&=0 \\\\\n10 x-6=0  && \\text{or} \\quad   10 x+6=0 \\\\\n\\dfrac{10 x}{10}=\\dfrac{6}{10} && \\dfrac{10 x}{10}=\\dfrac{-6}{10} \\\\\nx=\\dfrac{3}{5} && x=-\\dfrac{3}{5}\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
         "\\(-\\dfrac{3}{5}\\) only",
-        "\\(\\dfrac{3}{5}\\), \\(0\\)",
-        "\\(\\dfrac{-3}{5}\\), \\(0\\)",
+        "\\(\\dfrac{3}{5}\\), 0",
+        "\\(\\dfrac{-3}{5}\\), 0",
         "\\(-\\dfrac{3}{5}\\), \\(\\dfrac{3}{5}\\)"
       ],
       "correctChoice": 3
     },
     {
       "question": "\\(16x^{2}-256=0\\)",
-      "answer": "\\[\n\\begin{align*}\n16x^{2}-256&=0 \\\\\n4^{2} x^{2}-16^{2}&=0 \\\\\n(4x-16)(4x+16)&=0 \\\\\n4x-16=0 && \\text{or} \\quad  4x+16=0 \\\\\n\\dfrac{4x}{4}=\\dfrac{16}{4} && \\dfrac{4x}{4}=\\dfrac{-16}{4} \\\\\nx=4 && x=-4\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n16x^{2}-256&=0 \\\\\n16x^{2}&=256 \\\\\n\\dfrac{16x^2}{16}&=\\dfrac{256}{16}\\\\\nx^2&=16\\\\\nx&=\\pm\\sqrt{16}\\\\\nx&=\\pm4\\\\\nx&=4, -4\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n16x^{2}-256&=0 \\\\\n4^{2} x^{2}-16^{2}&=0 \\\\\n(4x)^{2}-16^{2}&=0 \\\\\n(4x-16)(4x+16)&=0 \\\\\n4x-16=0 && \\text{or} \\quad  4x+16=0 \\\\\n\\dfrac{4x}{4}=\\dfrac{16}{4} && \\dfrac{4x}{4}=\\dfrac{-16}{4} \\\\\nx=4 && x=-4\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-4\\), \\(4\\)",
-        "\\(-4\\), \\(-8\\)",
-        "\\(4\\), \\(2\\)",
-        "\\(4\\), \\(0\\)"
+        "-4, 4",
+        "-4, -8",
+        "4, 2",
+        "4, 0"
       ],
       "correctChoice": 0
     },
     {
       "question": "\\(4x^{2}-64=0\\)",
-      "answer": "\\[\n\\begin{align*}\n4x^{2}-64&=0 \\\\\n(2x)^{2}-8^{2}&=0 \\\\\n(2x-8)(2x+8)&=0 \\\\\n2x-8=0  && \\text{or} \\quad  2x+8=0 \\\\\n2x=8 && 2x=-8 \\\\\n\\dfrac{2 x}{2}=\\dfrac{8}{2} && \\dfrac{2x}{2}=\\dfrac{-8}{2} \\\\\nx=4 && x=-4\\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n4x^{2}-64&=0 \\\\\n4x^{2}&=64 \\\\\n\\dfrac{4x^2}{4}&=\\dfrac{64}{4}\\\\\nx^2&=16\\\\\nx&=\\pm\\sqrt{16}\\\\\nx&=\\pm4\\\\\nx&=4, -4\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n4x^{2}-64&=0 \\\\\n2^{2} x^{2}-8^{2}&=0 \\\\\n(2x)^{2}-8^{2}&=0 \\\\\n(2x-8)(2x+8)&=0 \\\\\n2x-8=0  && \\text{or} \\quad  2x+8=0 \\\\\n2x=8 && 2x=-8 \\\\\n\\dfrac{2 x}{2}=\\dfrac{8}{2} && \\dfrac{2x}{2}=\\dfrac{-8}{2} \\\\\nx=4 && x=-4\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-4\\), \\(-2\\)",
-        "\\(-4\\), \\(4\\)",
-        "\\(4\\), \\(8\\)",
-        "\\(0\\), \\(4\\)"
+        "-4, -2",
+        "-4, 4",
+        "4, 8",
+        "0, 4"
       ],
       "correctChoice": 1
     },
     {
       "question": "\\(16x^{2}-144=0\\)",
-      "answer": "\\[\n\\begin{align*}\n16x^{2}-144&=0 \\\\\n(4x)^{2}-12^{2}&=0 \\\\\n(4x-12)(4x+12)&=0 \\\\\n4x-12=0  && \\text{or} \\quad   4x+12=0 \\\\\n\\dfrac{4 x}{4}=\\dfrac{12}{4} &&  \\dfrac{4 x}{4}=\\dfrac{-12}{4} \\\\\nx=3 && x=-3 \\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n16x^{2}-144&=0 \\\\\n16x^{2}&=144 \\\\\n\\dfrac{16x^2}{16}&=\\dfrac{144}{16}\\\\\nx^2&=9\\\\\nx&=\\pm\\sqrt{9}\\\\\nx&=\\pm3\\\\\nx&=3, -3\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n16x^{2}-144&=0 \\\\\n4^{2} x^{2}-12^{2}&=0 \\\\\n(4x)^{2}-12^{2}&=0 \\\\\n(4x-12)(4x+12)&=0 \\\\\n4x-12=0  && \\text{or} \\quad   4x+12=0 \\\\\n\\dfrac{4 x}{4}=\\dfrac{12}{4} &&  \\dfrac{4 x}{4}=\\dfrac{-12}{4} \\\\\nx=3 && x=-3 \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-3\\), \\(-6\\)",
-        "\\(3\\), \\(1.5\\)",
-        "\\(3\\), \\(12\\)",
-        "\\(-3\\), \\(3\\)"
+        "-3, -6",
+        "3, 1.5",
+        "3, 12",
+        "-3, 3"
       ],
       "correctChoice": 3
     },
     {
       "question": "\\(100x^{2}-16=0\\)",
-      "answer": "\\[\n\\begin{align*}\n100x^{2}-16&=0 \\\\\n10^{2}x^{2}-4^{2}&=0 \\\\\n(10x-4)(10x+4)&=0 \\\\\n10x-4=0 && \\text{or} \\quad  10x+4=0 \\\\\n\\dfrac{10x}{10}=\\dfrac{4}{10}  && \\text{or} \\quad   \\dfrac{10x}{10}=\\dfrac{-4}{10} \\\\\nx=\\dfrac{2}{5}  && \\text{or} \\quad   x=-\\dfrac{2}{5} \\\\ \\\\\n\\end{align*}\n\\] \n\n",
+      "answer": "\\[\n\\begin{align*}\n100x^{2}-16&=0 \\\\\n100x^{2}&=16 \\\\\n\\dfrac{100x^2}{100}&=\\dfrac{16}{100}\\\\\nx^2&=\\dfrac{4}{25}\\\\\nx&=\\pm\\sqrt{\\dfrac{4}{25}}\\\\\nx&=\\pm\\dfrac{\\sqrt{4}}{\\sqrt{25}}\\\\\nx&=\\pm\\dfrac{2}{5}\\\\\nx&=\\dfrac{2}{5}, -\\dfrac{2}{5}\n\\end{align*}\n\\] \n<em>Alternatively, using difference of two squares:</em>\\[\n\\begin{align*}\n100x^{2}-16&=0 \\\\\n10^{2}x^{2}-4^{2}&=0 \\\\\n(10x)^{2}-4^{2}&=0 \\\\\n(10x-4)(10x+4)&=0 \\\\\n10x-4=0 && \\text{or} \\quad  10x+4=0 \\\\\n\\dfrac{10x}{10}=\\dfrac{4}{10}  && \\text{or} \\quad   \\dfrac{10x}{10}=\\dfrac{-4}{10} \\\\\nx=\\dfrac{2}{5}  && \\text{or} \\quad   x=-\\dfrac{2}{5} \\\\ \\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
         "\\(\\dfrac{-2}{5}\\), 1",
         "\\(\\dfrac{-2}{5}\\), \\(\\dfrac{2}{5}\\)",
         "\\(\\dfrac{2}{5}\\), 1",
-        "\\(\\dfrac{2}{5}\\), \\(4\\)"
+        "\\(\\dfrac{2}{5}\\), 4"
       ],
       "correctChoice": 1
+    },
+    {
+      "question": "\\(x^{2}+9=0\\)",
+      "answer": "\\[\n\\begin{align*}\nx^{2}+9&=0 \\\\\nx^{2}&=-9 \\\\\nx&=\\pm\\sqrt{-9}\n\\end{align*}\n\\] \n\n<p>Since square root of a negative number is undefined, there is no exact fraction or approximation of exact fraction that satisfies the given equation.",
+      "choices": [
+        "-3 only",
+        "3 only",
+        "3, -3",
+        "No exact fraction solution"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "\\(x^{2}+5 x+4=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 5 and c = 4\n<p>Looking for integer factors of (1 &times; 4) which add up to 5 ... and those factors are 4 and 1\n<p>Therefore replace 5x with 4x + 1x\n\\[\n\\begin{align*}\nx^{2}+5 x+4&=0 \\\\\nx^2 + 4x + 1x + 4&=0\\\\\n(x^{2}+4 x)+(1x+4)&=0 \\\\\nx(x+4)+1(x+4)&=0 \\\\\n(x+1)(x+4)&=0 \\\\\nx+1=0 && \\text{or} \\quad  x+4=0 \\\\\nx=-1 && x=-4\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(1\\), \\(4\\)",
-        "\\(-1\\), \\(-4\\)",
-        "\\(-1\\), \\(4\\)",
-        "\\(1\\), \\(-4\\)"
+        "1, 4",
+        "-1, -4",
+        "-1, 4",
+        "1, -4"
       ],
       "correctChoice": 1
     },
@@ -413,10 +424,10 @@
       "question": "\\(x^{2}+x-2=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 1 and c = -2\n<p>Looking for integer factors of (1 &times; -2) which add up to 1 ... and those factors are 2 and -1\n<p>Therefore replace x with 2x - 1x\n\\[\n\\begin{align*}\nx^{2}+x-2&=0 \\\\\nx^{2}+2 x-1 x-2&=0 \\\\ \n(x^{2}+2 x)-(1 x+2)&=0 \\\\ \nx(x+2)-1(x+2)&=0 \\\\ \n(x+2)(x-1)&=0 \\\\ \nx+2=0 && \\text{or} \\quad  x-1=0 \\\\ \nx=-2 && x=1\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-1\\), \\(-2\\)",
-        "\\(1\\), \\(2\\)",
-        "\\(1\\), \\(-2\\)",
-        "\\(-1\\), \\(2\\)"
+        "-1, -2",
+        "1, 2",
+        "1, -2",
+        "-1, 2"
       ],
       "correctChoice": 2
     },
@@ -424,10 +435,10 @@
       "question": "\\(x^{2}-7 x+12=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = -7 and c = 12\n<p>Looking for integer factors of (1 &times; 12) which add up to -7 ... and those factors are -3 and -4\n<p>Therefore replace -7x with -3x - 4x\n\\[\n\\begin{align*}\nx^{2}-7 x+12&=0 \\\\\nx^{2}-3x-4 x+12&=0 \\\\ \n(x^{2}-3x)-(4 x-12)&=0 \\\\\nx(x-3) -4(x-3)&=0 \\\\\n(x-3)(x-4)&=0 \\\\\nx-3=0 && \\text{or} \\quad  x-4=0 \\\\\nx=3 && x=4\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(4\\), \\(3\\)",
-        "\\(-4\\), \\(3\\)",
-        "\\(4\\), \\(-3\\)",
-        "\\(-4\\), \\(-3\\)"
+        "4, 3",
+        "-4, 3",
+        "4, -3",
+        "-4, -3"
       ],
       "correctChoice": 0
     },
@@ -435,10 +446,10 @@
       "question": "\\(x^{2}+5 x+6=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 5 and c = 6\n<p>Looking for integer factors of (1 &times; 6) which add up to 5 ... and those factors are 3 and 2\n<p>Therefore replace 5x with 3x + 2x\n\\[\n\\begin{align*}\nx^{2}+5 x+6&=0 \\\\\nx^{2}+3 x+2 x+6&=0 \\\\  \n(x^{2}+3 x)+(2 x+6)&=0 \\\\ \nx(x+3)+2(x+3)&=0 \\\\ \n(x+3)(x+2)&=0 \\\\ \nx+3=0 && \\text{or} \\quad  x+2=0 \\\\ \nx=-3 &&  x=-2\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-2\\), \\(3\\)",
-        "\\(2\\), \\(3\\)",
-        "\\(-2\\), \\(-3\\)",
-        "\\(2\\), \\(-3\\)"
+        "-2, 3",
+        "2, 3",
+        "-2, -3",
+        "2, -3"
       ],
       "correctChoice": 2
     },
@@ -446,10 +457,10 @@
       "question": "\\(x^{2}-7 x+10=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = -7 and c = 10\n<p>Looking for integer factors of (1 &times; 10) which add up to -7 ... and those factors are -5 and -2\n<p>Therefore replace -7x with -5x - 2x\n\\[\n\\begin{align*}\nx^{2}-7 x+10&=0 \\\\\nx^{2}-5 x-2 x+10&=0 \\\\\n(x^{2}-5 x)-(2 x-10)&=0 \\\\\nx(x-5)-2(x-5)&=0 \\\\\n(x-5)(x-2)&=0 \\\\\nx-5=0  && \\text{or} \\quad   x-2=0 \\\\\nx=5 && x=2\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-2\\), \\(-5\\)",
-        "\\(2\\), \\(5\\)",
-        "\\(-2\\), \\(5\\)",
-        "\\(2\\), \\(-5\\)"
+        "-2, -5",
+        "2, 5",
+        "-2, 5",
+        "2, -5"
       ],
       "correctChoice": 1
     },
@@ -457,10 +468,10 @@
       "question": "\\(x^{2}-5 x+6=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = -5 and c = 6\n<p>Looking for integer factors of (1 &times; 6) which add up to -5 ... and those factors are -3 and -2\n<p>Therefore replace -5x with -3x - 2x\n\\[\n\\begin{align*}\nx^{2}-5 x+6&=0 \\\\\nx^{2}-3 x-2 x+6&=0 \\\\\n(x^{2}-3 x)-(2 x-6)&=0 \\\\\nx(x-3)-2(x-3)&=0 \\\\\n(x-2)(x-3)&=0 \\\\\nx-2=0 && \\text{or} \\quad  x-3=0 \\\\\nx=2 && x=3\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(2\\), \\(3\\)",
-        "\\(-2\\), \\(3\\)",
-        "\\(-2\\), \\(-3\\)",
-        "\\(2\\), \\(-3\\)"
+        "2, 3",
+        "-2, 3",
+        "-2, -3",
+        "2, -3"
       ],
       "correctChoice": 0
     },
@@ -468,10 +479,10 @@
       "question": "\\(x^{2}+9 x+20=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 9 and c = 20\n<p>Looking for integer factors of (1 &times; 20) which add up to 9 ... and those factors are 5 and 4\n<p>Therefore replace 9x with 5x + 4x\n\\[\n\\begin{align*}\nx^{2}+9 x+20&=0 \\\\\nx^{2}+5 x+4 x+20&=0 \\\\\n(x^{2}+5 x)+(4 x+20)&=0 \\\\\nx(x+5)+4(x+5)&=0 \\\\\n(x+4)(x+5)&=0 \\\\\nx+4=0  && \\text{or} \\quad  x+5=0 \\\\\nx=-4 && x=-5\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-4\\), \\(5\\)",
-        "\\(4\\), \\(5\\)",
-        "\\(-4\\), \\(-5\\)",
-        "\\(4\\), \\(-5\\)"
+        "-4, 5",
+        "4, 5",
+        "-4, -5",
+        "4, -5"
       ],
       "correctChoice": 2
     },
@@ -479,10 +490,10 @@
       "question": "\\(x^{2}-8 x+15=0\\)",
       "f": "<p>Compared to general form of quadratic equation, a = 1, b = -8 and c = 15\n<p>Looking for integer factors of (1 &times; 15) which add up to -8 ... and those factors are -5 and -3\n<p>Therefore replace -8x with -5x - 3x\n\\[\n\\begin{align*}\nx^{2}-8 x+15&=0 \\\\\nx^{2}-5 x-3 x+15&=0 \\\\\n(x^{2}-5 x)-(3 x-15)&=0 \\\\ \nx(x-5)-3(x-5)&=0\\\\\n(x-3)(x-5)&=0 \\\\\nx-3=0 && \\text{or} \\quad  x-5=0 \\\\ \nx=3 && x=5\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-3\\), \\(5\\)",
-        "\\(-3\\), \\(-5\\)",
-        "\\(3\\), \\(-5\\)",
-        "\\(3\\), \\(5\\)"
+        "-3, 5",
+        "-3, -5",
+        "3, -5",
+        "3, 5"
       ],
       "correctChoice": 3
     },
@@ -490,10 +501,10 @@
       "question": "\\(x^{2}+3 x+2=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 3 and c = 2\n<p>Looking for integer factors of (1 &times; 2) which add up to 3 ... and those factors are 2 and 1\n<p>Therefore replace 3x with 2x + 1x\n\\[\n\\begin{align*}\nx^{2}+3 x+2&=0 \\\\\nx^{2}+2 x+1x+2&=0 \\\\\n(x^{2}+2 x)+(1x+2)&=0 \\\\\nx(x+2)+1(x+2)&=0 \\\\\n(x+1)(x+2)&=0 \\\\\nx+1=0 && \\text{or} \\quad  x+2=0 \\\\\nx=-1 && x=-2\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(1\\), \\(2\\)",
-        "\\(-1\\), \\(-2\\)",
-        "\\(-1\\), \\(2\\)",
-        "\\(1\\), \\(-2\\)"
+        "1, 2",
+        "-1, -2",
+        "-1, 2",
+        "1, -2"
       ],
       "correctChoice": 1
     },
@@ -501,10 +512,10 @@
       "question": "\\(x^{2}-5 x+4=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = -5 and c = 4\n<p>Looking for integer factors of (1 &times; 4) which add up to -5 ... and those factors are -4 and -1\n<p>Therefore replace -5x with -4x - 1x\n\\[\n\\begin{align*}\nx^{2}-5 x+4&=0 \\\\\nx^{2}-4 x-1 x+4&=0 \\\\  \n(x^{2}-4 x)-(1 x-4)&=0 \\\\ \nx(x-4)-1(x-4)&=0 \\\\ \n(x-1)(x-4)&=0 \\\\ \nx-1=0 && \\text{or} \\quad  x-4=0 \\\\ \nx=1 && x=4\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-1\\), \\(2\\)",
-        "\\(-1\\), \\(4\\)",
-        "\\(1\\), \\(4\\)",
-        "\\(1\\), \\(-4\\)"
+        "-1, 2",
+        "-1, 4",
+        "1, 4",
+        "1, -4"
       ],
       "correctChoice": 2
     },
@@ -512,10 +523,10 @@
       "question": "\\(x^{2}+7 x+12=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 7 and c = 12\n<p>Looking for integer factors of (1 &times; 12) which add up to 7 ... and those factors are 4 and 3\n<p>Therefore replace 7x with 4x + 3x\n\\[\n\\begin{align*}\nx^{2}+7 x+12&=0 \\\\\nx^{2}+4 x+3 x+12&=0 \\\\\n(x^{2}+4 x)+(3 x+12)&=0 \\\\\nx(x+4)+3(x+4)&=0 \\\\\n(x+3)(x+4)&=0 \\\\ \nx+3=0 && \\text{or} \\quad   x+4=0 \\\\\nx=-3 && x=-4\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(3\\), \\(4\\)",
-        "\\(-3\\), \\(4\\)",
-        "\\(3\\), \\(-4\\)",
-        "\\(-3\\), \\(-4\\)"
+        "3, 4",
+        "-3, 4",
+        "3, -4",
+        "-3, -4"
       ],
       "correctChoice": 3
     },
@@ -523,10 +534,10 @@
       "question": "\\(x^{2}+8 x+15=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 8 and c = 15\n<p>Looking for integer factors of (1 &times; 15) which add up to 8 ... and those factors are 5 and 3\n<p>Therefore replace 8x with 5x + 3x\n\\[\n\\begin{align*}\n x^{2}+8 x+15&=0 \\\\\nx^{2}+5 x+3 x+15&=0 \\\\\n(x^{2}+5 x)+(3 x+15)&=0 \\\\\nx(x+5)+3(x+5)&=0 \\\\\n(x+3)(x+5)&=0 \\\\\nx+3=0 && \\text{or} \\quad  x+5=0 \\\\\nx=-3 && x=-5\\\\\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(3\\), \\(5\\)",
-        "\\(-3\\), \\(-5\\)",
-        "\\(-3\\), \\(5\\)",
-        "\\(3\\), \\(-5\\)"
+        "3, 5",
+        "-3, -5",
+        "-3, 5",
+        "3, -5"
       ],
       "correctChoice": 1
     },
@@ -534,10 +545,10 @@
       "question": "\\(x^{2}+5 x=6\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}+5 x&=6 \\\\\nx^{2}+5 x-6&=0 \\\\\n\\end{align*}\n\\]\n<p>Compared to general form of quadratic equation, a = 1, b = 5 and c = -6\n<p>Looking for integer factors of (1 &times; -6) which add up to 5 ... and those factors are 6 and -1\n<p>Therefore replace 5x with 6x - 1x\n\\[\n\\begin{align*}\nx^{2}+5 x-6&=0\\\\\nx^{2}+6 x-1x-6&=0 \\\\ \n(x^{2}+6 x)-(1x+6)&=0 \\\\ \nx(x+6)-1(x+6)&=0 \\\\ \n(x-1)(x+6)&=0 \\\\ \nx-1=0 && \\text{or} \\quad  x+6=0 \\\\ \nx=1 && x=-6\\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = 6 </div>\n\n<div>Evaluate \\( x^{2}+5 x \\) if \\(x=1 \\)</div>\n\n\\[\n\\begin{align*}\n&=1^{2}+5(1) \\\\\n&=1+5 \\\\\n&=6\n\\end{align*}\n\\] \n\n<div>Evaluate \\( x^{2}+5 x \\) if \\(x=-6 \\)</div>\n\n\\[\n\\begin{align*}\n&=(-6)^{2}+5(-6) \\\\\n&=36-30 \\\\\n&=6\n\\end{align*}\n\\]\n\n",
       "choices": [
-        "\\(-1\\), \\(-6\\)",
-        "\\(-1\\), \\(6\\)",
-        "\\(1\\), \\(6\\)",
-        "\\(1\\), \\(-6\\)"
+        "-1, -6",
+        "-1, 6",
+        "1, 6",
+        "1, -6"
       ],
       "correctChoice": 3
     },
@@ -556,10 +567,10 @@
       "question": "\\(x^{2}=6x\\)",
       "answer": "\\[\n\\begin{align*}\nx^{2}&=6x\\\\\nx^{2}-6x&=0 \\\\ \nx(x-6)&=0 \\\\\nx=0 && \\text{or} \\quad  x-6=0 \\\\\n&& x=6\\\\\n\\end{align*}\n\\] \n\n<div>Check LHS= RHS</div>\n\n<div>Evaluate \\( x^{2} \\) if \\(x=0 \\)</div>\n\n\\[\n\\begin{align*}\n&=0^{2} \\\\\n&=0\n\\end{align*}\n\\] \n\n<div>Evaluate \\( 6x \\) if \\(x=0 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(0)\\\\\n&=0 \\\\\n\\end{align*}\n\\]\n\n<div>Evaluate \\( x^{2} \\) if \\(x=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=6^{2} \\\\\n&=36\n\\end{align*}\n\\]\n\n<div>Evaluate \\( 6x \\) if \\(x=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(6)\\\\\n&=36\\\\\n\\end{align*}\n\\]\n\n",
       "choices": [
-        "\\(0\\), \\(-6\\)",
-        "\\(0\\), \\(36\\)",
-        "\\(0\\), \\(6\\)",
-        "\\(0\\), \\(-36\\)"
+        "0, -6",
+        "0, 36",
+        "0, 6",
+        "0, -36"
       ],
       "correctChoice": 2
     },
@@ -567,10 +578,10 @@
       "question": "\\((2 x+5)(x-2)+7=0\\)",
       "answer": "\\[\n\\begin{align*}\n(2 x+5)(x-2)+7&=0 \\\\\n2 x^{2}-4 x+5 x-10+7&=0 \\\\\n2 x^{2}+x-3&=0 \\\\\n\\end{align*}\n\\]\n<p>Compared to general form of quadratic equation, a = 2, b = 1 and c = -3\n<p>Looking for integer factors of (2 &times; -3) which add up to 1 ... and those factors are 3 and -2\n<p>Therefore replace -6x with 3x - 2x\n\\[\n\\begin{align*}\n2 x^{2}+x-3&=0 \\\\\n2 x^{2}+3 x-2 x-3&=0 \\\\\n(2 x^{2}+3 x)-(2 x+3)&=0 \\\\\nx(2 x+3)-1(2 x+3)&=0 \\\\\n(x-1)(2 x+3)&=0 \\\\\nx-1=0 && \\text{or} \\quad  2 x+3=0 \\\\\nx=1 && 2x = -3\\\\\n&& \\dfrac{2 x}{2}=\\dfrac{-3}{2} \\\\\n&& =-\\dfrac{3}{2}\\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = 0 </div>\n\n<div>Evaluate \\( (2 x+5)(x-2)+7=0\\) if \\(x=1\\)</div>\n\n\\[\n\\begin{align*}\n&=(2(1)+5)(1-2)+7 \\\\\n&=(7)(-1)+7 \\\\\n&=-7+7\\\\\n&=0\n\\end{align*}\n\\]\n\n<div>Evaluate \\( (2 x+5)(x-2)+7=0\\) if \\(x=-\\dfrac{3}{2}\\)</div>\n\n\\[\n\\begin{align*}\n&=\\left(2\\left(-\\dfrac{3}{2}\\right)+5\\right)\\left(\\dfrac{-3}{2}-2\\right)+7 \\\\\n&=(-3 + 5)\\left(\\dfrac{-7}{2}\\right)+7 \\\\\n&=(2)\\left(\\dfrac{-7}{2}\\right)+7 \\\\\n&=-7+7\\\\\n&=0\n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(1\\), \\(\\dfrac{3}{2}\\)",
-        "\\(-1\\), \\(-\\dfrac{3}{2}\\)",
-        "\\(1\\), \\(-\\dfrac{3}{2}\\)",
-        "\\(-1\\), \\(\\dfrac{3}{2}\\)"
+        "1, \\(\\dfrac{3}{2}\\)",
+        "-1, \\(-\\dfrac{3}{2}\\)",
+        "1, \\(-\\dfrac{3}{2}\\)",
+        "-1, \\(\\dfrac{3}{2}\\)"
       ],
       "correctChoice": 2
     },
@@ -578,21 +589,32 @@
       "question": "\\(x+4=\\dfrac{21}{x}\\)",
       "answer": "\\[\n\\begin{align*}\nx+4&=\\dfrac{21}{x} \\\\ \nx^{2}+4 x&=21 \\\\\nx^{2}+4 x-21&=0 \\\\\n\\end{align*}\n\\]\n<p>Compared to general form of quadratic equation, a = 1, b = 4 and c = -21\n<p>Looking for integer factors of (1 &times; -21) which add up to 4 ... and those factors are 7 and -3\n<p>Therefore replace 4x with 7x - 3x\n\\[\n\\begin{align*}\nx^{2}+4 x-21&=0 \\\\\nx^{2}+7 x-3 x-21&=0 \\\\\n(x^{2}+7 x)-(3 x+21)&=0 \\\\\nx(x+7)-3(x+7)&=0 \\\\\n(x-3)(x+7)&=0 \\\\\nx-3=0 && \\text{or} \\quad  x+7=0 \\\\\nx=3 && x=-7 \\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = RHS</div>\n\n<div>Evaluate \\( x+4\\) if \\(x=3\\)</div>\n\n\\[\n\\begin{align*}\n&=3+4 \\\\\n&=7\\\\\n\\end{align*}\n\\]\n\n<div>Evaluate \\( \\dfrac{21}{x}\\) if \\(x=3\\)</div>\n\n\\[\n\\begin{align*}\n&=\\dfrac{21}{3}\\\\\n&=7\\\\\n\\end{align*}\n\\]\n\n<div>Evaluate \\( x+4\\) if \\(x=-7\\)</div>\n\n\\[\n\\begin{align*}\n&=-7+4\\\\\n&=-3\n\\end{align*}\n\\]\n\n<div>Evaluate \\( \\dfrac{21}{x}\\) if \\(x=-7\\)</div>\n\n\\[\n\\begin{align*}\n&=\\dfrac{21}{-7}\\\\\n&=-3\\\\\n\\end{align*}\n\\]\n\n",
       "choices": [
-        "\\(3\\), \\(-7\\)",
-        "\\(-3\\), \\(-7\\)",
-        "\\(-3\\), \\(7\\)",
-        "\\(3\\), \\(7\\)"
+        "3, -7",
+        "-3, -7",
+        "-3, 7",
+        "3, 7"
       ],
       "correctChoice": 0
+    },
+    {
+      "question": "\\(x^{2}+6x+6=0\\)",
+      "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 6 and c = 6\n<p>Looking for integer factors of (1 &times; 6) which add up to 6 ... no such pair of factors can be found.\n<p>Therefore there is no exact fraction that can satisfy the equation.",
+      "choices": [
+        "-5, -1",
+        "5, 1",
+        "-5, 1",
+        "No exact fraction solution"
+      ],
+      "correctChoice": 3
     },
     {
       "question": "\\(x^{2}+6x+5=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = 6 and c = 5\n<p>Looking for integer factors of (1 &times; 5) which add up to 6 ... and those factors are 5 and 1\n<p>Therefore replace 6x with 5x + 1x\n\\[\n\\begin{align*}\nx^{2}+6x+5&=0 \\\\\nx^{2}+5x+x+5&=0 \\\\\n(x^{2}+5x)+(x+5)&=0 \\\\\nx(x+5)+1(x+5)&=0 \\\\\n(x+1)(x+5)&=0 \\\\\nx+1=0 && \\text{or} \\quad  x+5=0 \\\\\nx=-1 && x=-5 \\\\ \n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-5\\), \\(-1\\)",
-        "\\(5\\), \\(1\\)",
-        "\\(-5\\), \\(1\\)",
-        "\\(5\\), \\(0\\)"
+        "-5, -1",
+        "5, 1",
+        "-5, 1",
+        "5, 0"
       ],
       "correctChoice": 0
     },
@@ -600,10 +622,10 @@
       "question": "\\(x^{2}-5x-6=0\\)",
       "answer": "<p>Compared to general form of quadratic equation, a = 1, b = -5 and c = -6\n<p>Looking for integer factors of (1 &times; -6) which add up to -5 ... and those factors are -6 and 1\n<p>Therefore replace -5x with -6x + 1x\n\\[\n\\begin{align*}\nx^{2}-5x-6&=0 \\\\\n(x^{2}-6x)+(x-6)&=0 \\\\\nx^{2}-6x+x-6&=0 \\\\\nx(x-6)+1(x-6)&=0 \\\\\n(x+1)(x-6)&=0 \\\\\nx+1=0  && \\text{or} \\quad  x-6=0 \\\\\nx=-1 && x=6 \\\\ \n\\end{align*}\n\\] \n\n",
       "choices": [
-        "\\(-1\\), \\(-6\\)",
-        "\\(1\\), \\(6\\)",
-        "\\(-1\\), \\(6\\)",
-        "\\(1\\), \\(-6\\)"
+        "-1, -6",
+        "1, 6",
+        "-1, 6",
+        "1, -6"
       ],
       "correctChoice": 2
     }

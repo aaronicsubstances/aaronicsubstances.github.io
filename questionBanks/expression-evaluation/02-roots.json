@@ -404,7 +404,7 @@
       },
       {
         "question": "Evaluate \\(\\sqrt{r}+6\\quad \\) if \\(r=\\dfrac{1}{36}\\)",
-        "answer": "\\[\n\\begin{align*}\n&=\\sqrt{\\dfrac{1}{36}} + 6\\\\\n&=\\dfrac{1}{6} + 6\\\\\n&=\\dfrac{37}{6}\n\\end{align*}\n\\]\n\n",
+        "answer": "\\[\n\\begin{align*}\n&=\\sqrt{\\dfrac{1}{36}} + 6\\\\\n&=\\dfrac{\\sqrt{1}}{\\sqrt{36}} + 6\\\\\n&=\\dfrac{1}{6} + 6\\\\\n&=\\dfrac{37}{6}\n\\end{align*}\n\\]\n\n",
         "choices": [
           "\\(\\dfrac{37}{6}\\)", "\\(\\sqrt{37}\\)", "\\(\\dfrac{37}{36}\\)", "6"
         ],
@@ -412,7 +412,7 @@
       },
       {
         "question": "Evaluate \\(\\sqrt{r+38}\\quad \\) if \\(r=\\dfrac{1}{36}\\)",
-        "answer": "\\[\n\\begin{align*}\n&=\\sqrt{\\dfrac{1}{36}+38}\\\\\n&=\\sqrt{\\dfrac{1369}{36}}\\\\\n&=\\dfrac{37}{36}\n\\end{align*}\n\\]\n\n",
+        "answer": "\\[\n\\begin{align*}\n&=\\sqrt{\\dfrac{1}{36}+38}\\\\\n&=\\sqrt{\\dfrac{1369}{36}}\\\\\n&=\\dfrac{\\sqrt{1369}}{\\sqrt{36}}\\\\\n&=\\dfrac{37}{36}\n\\end{align*}\n\\]\n\n",
         "choices": [
           "\\(\\dfrac{37}{6}\\)", "\\(\\sqrt{37}\\)", "\\(\\dfrac{37}{36}\\)", "6"
         ],
