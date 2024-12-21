@@ -388,6 +388,14 @@
         {
           "title": "Quadratic equations Part 2",
           "questionBankUrl": "equation-solving/02-quadratic-equations"
+        },
+        {
+          "title": "Simultaneous Equations Part 1",
+          "questionBankUrl": "equation-solving/01-simultaneous-equations"
+        },
+        {
+          "title": "Simultaneous Equations Part 2",
+          "questionBankUrl": "equation-solving/02-simultaneous-equations"
         }
       ]
     }

@@ -1,0 +1,512 @@
+{
+  "isTheory": true,
+  "openingRemarks": "Solve the following simultaneous linear equations<p>NB: Elimination method is used.",
+  "questions": [
+    {
+      "question": "\\[\n\\begin{align*}\n3x+y&=33 \\\\\n2x+y&=24 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3x+y&=33 &&  (1) \\\\\n2x+y&=24 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(y\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(3x - 2x) + (y - y) &= 33 - 24\\\\\nx&=9\n\\end{align*}\n\\] \n\n<p>Substitute \\(x=9\\) into equation (2):</p>\n\\[\n\\begin{align*}\n2(9)+y&=24 \\\\\n18+y&=24 \\\\\ny&=24-18 \\\\\ny&=6\n\\end{align*}\n\\] \n\n<div>Check LHS = 33 in equation (1)</div>\n\n<div>Evaluate \\( 3x+y \\) if \\(x=9, y=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(9)+6 \\\\\n&=27+6 \\\\\n&=33\n\\end{align*}\n\\]\n\n<div>Check LHS = 24 in equation (2)</div>\n\n<div>Evaluate \\( 2x+y \\) if \\(x=9, y=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=2(9)+6 \\\\\n&=18+6 \\\\\n&=24\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=-9\\), \\(y=6\\)",
+        "\\(x=9\\) , \\(y=6\\)",
+        "\\(x=9\\) , \\(y=-6\\)",
+        "\\(x=-9\\) , \\(y=-6\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3x+y&=12 \\\\\n3x+2y&=18 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3x+y&=12 && (1) \\\\\n3x+2y&=18 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(y\\)\n<p>equation (1) &times; 2: </p>\n\\[\n\\begin{align*}\n6x+2y&=24 \\qquad (3) \\\\\n3x+2y&=18 \\qquad(2)\n\\end{align*}\n\\]\n<p>equation (3) minus equation(2): </p>\n\\[\n\\begin{align*}\n(6x-3x) + (2y-2y)&= 24-18\\\\\n3x &= 6\\\\\n\\dfrac{3 x}{3}&=\\frac{6}{3} \\\\\nx&=2\n\\end{align*}\n\\]\n<p>Substitute \\(x=9\\) into equation (2):</p>\n\\[\n\\begin{align*}\n3(2)+2y&=18 \\\\ \n2y&=18-6 \\\\\n27&=12\\\\\n\\dfrac{2y}{2}&=\\dfrac{12}{2} \\\\\ny&=6 \n\\end{align*}\n\\] \n\n<div>Check LHS= 12 in equation  (1)</div>\n\n<div>Evaluate \\( 3x+y \\) if \\(x=2, y=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(2)+6 \\\\\n&=6+6 \\\\\n&=12\n\\end{align*}\n\\]\n\n<div>Check LHS= 18 in equation (2)</div>\n\n<div>Evaluate \\( 3x+2y \\) if \\(x=2, y=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(2)+2(6) \\\\\n&=6+12 \\\\\n&=18\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=2\\), \\(y=6\\)",
+        "\\(x=-2\\) , \\(y=6\\)",
+        "\\(x=2\\) , \\(y=-6\\)",
+        "\\(x=-2\\) , \\(y=-6\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n4a+2b &= 42 \\\\\n3a+2 b&=36 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n4a+2b &= 42 && (1) \\\\\n3a+2 b&=36 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(b\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(4a - 3a) + (2b-2b) &= 42-36\\\\\na&=6\n\\end{align*}\n\\]\n<p>Substitute \\(a=6\\) into equation (1):</p>\n\\[\n\\begin{align*}\n4(6)+2 b&=42 \\\\\n24+2 b&=42 \\\\\n2b&=42-24 \\\\\n2b&=18\\\\\n\\dfrac{2 b}{2}&=\\dfrac{18}{2} \\\\\nb&=9\n\\end{align*}\n\\] \n\n<div>Check LHS= 42 in equation  (1)</div>\n\n<div>Evaluate \\( 4a+2b \\) if \\(a=6, b=9 \\)</div>\n\n\\[\n\\begin{align*}\n&=4(6) +2(9) \\\\\n&=24+18 \\\\\n&=42\n\\end{align*}\n\\]\n\n<div>Check LHS= 36 in equation (2)</div>\n\n<div>Evaluate \\( 3a+2b \\) if \\(a=6, b=9 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(6)+2(9) \\\\\n&=18+18 \\\\\n&=36\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(a=-6\\) , \\(b=9\\)",
+        "\\(a=6\\) , \\(b=9\\)",
+        "\\(a=-6\\) , \\(b=-9\\)",
+        "\\(a=6\\) , \\(b=-9\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\nc+d&=13 \\\\\nc-d&=3 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\nc+d&=13 && (1) \\\\\nc-d&=3 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(c\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(c-c) + (d --d) &= 13-3\\\\\n2d &= 10\\\\\n\\dfrac{2d}{2} &= \\dfrac{10}{2} \\\\ \nd&=5\n\\end{align*}\n\\]\n\n<p>Substitute \\(d=5\\) into equation (2):</p>\n\\[\n\\begin{align*}\nc-5&=3 \\\\\nc&=3+5 \\\\\nc&=8\n\\end{align*}\n\\] \n\n<div>Check LHS= 13 in equation  (1)</div>\n\n<div>Evaluate \\( c+d \\) if \\(c=8, d=5 \\)</div>\n\n\\[\n\\begin{align*}\n&=8+5\\\\\n&=13\n\\end{align*}\n\\]\n\n<div>Check LHS = 3 in equation (2)</div>\n\n<div>Evaluate \\(c-d \\) if \\(c=8, d=5\\)</div>\n\n\\[\n\\begin{align*}\n&=8-5\\\\\n&=3\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(c=-8\\), \\(d=5\\)",
+        "\\(c=8\\), \\(d=-5\\)",
+        "\\(c=-8\\), \\(d=-5\\)",
+        "\\(c=8\\), \\(d=5\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n2e+f=15 \\qquad (1) \\\\\n-2e+3f=13 \\qquad (2)\n\\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n2e+f=15 \\qquad (1) \\\\\n-2e+3f=13 \\qquad (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(e\\)\n<p>equation (1) +  equation (2): </p>\n\\[\n\\begin{align*}\n(2e+-2e)+(f+3f)&=15+13\\\\\n4f&=28\\\\\n\\dfrac{4f}{4}&=\\frac{28}{4} \\\\\nf&=7\n\\end{align*}\n\\] \n\n<p>Substitute \\(f=7\\) into equation (1):</p>\n\\[\n\\begin{align*}\n2e+7&=15 \\\\\n2e&=15-7\\\\\n2e&=8\\\\\n\\dfrac{2e}{2}&=\\frac{8}{2} \\\\\ne&=4\n\\end{align*}\n\\] \n\n<div>Check LHS = 15 in equation  (1)</div>\n\n<div>Evaluate \\( 2e+f \\) if \\(e=4, f=7 \\)</div>\n\n\\[\n\\begin{align*}\n&=2(4)+7 \\\\\n&=8+7 \\\\\n&=15\n\\end{align*}\n\\]\n\n<div>Check LHS = 13 in equation (2)</div>\n\n<div>Evaluate \\( -2e+3f\\) if \\(e=4, f=7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-2(4)+3(7) \\\\\n&=-8+21 \\\\\n&=13\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(e=4\\), \\(f=7\\)",
+        "\\(e=-4\\), \\(f=-7\\)",
+        "\\(e=-4\\), \\(f=7\\)",
+        "\\(e=4\\), \\(f=-7\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n2g+5h&=32 \\\\\n-4g+5h&=-4 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n2g+5h&=32 && (1) \\\\\n-4g+5h&=-4 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(h\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(2g--4g) + (5h-5h) &=32--4\\\\ \n6g&=36\\\\\n\\dfrac{6g}{6}&=\\dfrac{36}{6} \\\\ \ng&=6\n\\end{align*}\n\\] \n\n<p>Substitute \\(g=6\\) into equation (2):</p>\n\\[\n\\begin{align*}\n2(6)+5h&=32 \\\\\n12+5h&=32 \\\\\n5h&=32-12\\\\\n5h&=20\n\\dfrac{5h}{5}&=\\dfrac{20}{5} \\\\\nh&=4 \n\\end{align*}\n\\] \n\n<div>Check LHS = 32 in equation  (1)</div>\n\n<div>Evaluate \\( 2g+5h \\) if \\(g=6, h=4 \\)</div>\n\n\\[\n\\begin{align*}\n&=2(6) +5(4) \\\\\n&=12+20\\\\\n&=32\n\\end{align*}\n\\]\n\n<div>Check LHS = -4 in equation (2)</div>\n\n<div>Evaluate \\( -4g+5h \\) if \\(g=6, h=4 \\)</div>\n\n\\[\n\\begin{align*}\n&=-4(6)+5(4) \\\\\n&=-24+20 \\\\\n&=-4\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(g=-6\\), \\(h=4\\)",
+        "\\(g=-6\\), \\(h=-4\\)",
+        "\\(g=6\\), \\(h=4\\)",
+        "\\(g=6\\), \\(h=-4\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\nj+2k &=22 \\\\\n-7j-2k &=-46 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\nj+2k &=22 && (1) \\\\\n-7j-2k &=-46 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(k\\)\n<p>equation (1) + equation (2): </p>\n\\[\n\\begin{align*}\n(j + -7j) + (2k + -2k) &= 22 +-46\\\\\n-6j&=-24\\\\\n\\dfrac{-6j}{-6}&=\\frac{-24}{-6} \\\\\nj&=4\n\\end{align*}\n\\] \n\n<p>Substitute \\(j=4\\) into equation (2):</p>\n\\[\n\\begin{align*}\n4+2k&=22 \\\\\n2k&=22-4 \\\\\n2k&=18\\\\\n\\dfrac{2k}{2}&=\\dfrac{18}{2} \\\\\nk&=9\n\\end{align*}\n\\] \n\n<div>Check LHS = 22 in equation  (1)</div>\n\n<div>Evaluate \\( j+2k\\) if \\(j=4, k=9 \\)</div>\n\n\\[\n\\begin{align*}\n&=4+2(9) \\\\\n&=4+18\\\\\n&=22\n\\end{align*}\n\\]\n\n<div>Check LHS = -46 in equation (2)</div>\n\n<div>Evaluate \\( -7j-2k\\) if \\(j=4, k=9 \\)</div>\n\n\\[\n\\begin{align*}\n&=-7(4)-2(9) \\\\\n&=-28-18 \\\\\n&=-46\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(j=4\\) , \\(k=9\\)",
+        "\\(j=-4\\) , \\(k=-9\\)",
+        "\\(j=-4\\) , \\(k=9\\)",
+        "\\(j=4\\) , \\(k=-9\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-5m-6n&=-45 \\\\\n-5m+6n&=15 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-5m-6n&=-45 && (1) \\\\\n-5m+6n&=15 && (2) \n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(m\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(-5m--5m) + (-6n-6n) &= -45-15\\\\\n-12n&=60\\\\\n\\dfrac{-12n}{-12}&=\\frac{-60}{-12}\\\\ \nn&=5 \\\\ \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(n=5\\) into equation (2):</p>\n\\[\n\\begin{align*}\n-5m+6(5)&=15 \\\\\n-5m+30&=15 \\\\\n-5 m&=15-30 \\\\\n-5m&=-45\\\\\n\\dfrac{-5 m}{-5}&=\\dfrac{-15}{-5} \\\\\nm&=3\n\\end{align*}\n\\] \n\n<div>Check LHS = -45 in equation  (1)</div>\n\n<div>Evaluate \\( -5m-6n\\) if \\(n=5, m=3 \\)</div>\n\n\\[\n\\begin{align*}\n&=-5(3)-6(5) \\\\\n&=-15-30 \\\\\n&=-45\n\\end{align*}\n\\]\n\n<div>Check LHS = 15 in equation (2)</div>\n\n<div>Evaluate \\( -5m+6n=15\\) if \\(n=5, m=3 \\)</div>\n\n\\[\n\\begin{align*}\n&=-5(3)+6(5)\\\\\n&=-15+30\\\\\n&=15\\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(n=-5\\), \\(m=-3\\)",
+        "\\(n=-5\\), \\(m=3\\)",
+        "\\(n=5\\), \\(m=3\\)",
+        "\\(n=5\\), \\(m=-3\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-4p-8q&=100 \\\\\n-4p+6q&=-26 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-4p-8q&=100 && (1) \\\\\n-4p+6q&=-26 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(p\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(-4p - -4p) + (-8q-6q) &= 100--26\\\\\n-14q&=126\\\\\n\\dfrac{-14 q}{-14} &=\\frac{126}{-14} \\\\\nq&=-9\n\\end{align*}\n\\] \n\n<p>Substitute \\(q=-9\\) into equation (2):</p>\n\\[\n\\begin{align*}\n-4p+6 q&=-26 \\\\\n-4p+6(-9)&=-26 \\\\\n-4p-54&=-26 \\\\\n-4p&=-26+54 \\\\\n-4p&=28\\\\\n\\dfrac{-4 p}{-4}&=\\dfrac{28}{-4} \\\\\np&=-7\n\\end{align*}\n\\] \n\n<div>Check LHS = 100 in equation  (1)</div>\n\n<div>Evaluate \\( -4p-8q\\) if \\(q=-9, p=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-4(-7)-8(-9) \\\\\n&=28+72\\\\\n&=100\\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -26 in equation (2)</div>\n\n<div>Evaluate \\(-4p+6q \\) if \\(q=-9, p=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-4(-7)+6(-9) \\\\\n&=28-54\\\\\n&=-26\\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(q=-9\\), \\(p=7\\)",
+        "\\(q=-9\\), \\(p=-7\\)",
+        "\\(q=9\\), \\(p=-7\\)",
+        "\\(q=9\\), \\(p=7\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-5r-8s&=67 \\\\\n5r+9s&=-71 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-5r-8s&=67 && (1) \\\\\n5r+9s&=-71 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(r\\)\n<p>equation (1) + equation (2): </p>\n\\[\n\\begin{align*}\n(-5r+5r) + (-8s+9s) &= 67+-71\\\\\ns&=-4\n\\end{align*}\n\\] \n\n<p>Substitute \\(s=-4\\) into equation (2):</p>\n\\[\n\\begin{align*}\n-5r-8(-4)&=67 \\\\\n-5r+32&=67 \\\\\n-5r&=67-32 \\\\\n-5r&=35\\\\\n\\dfrac{-5 r}{-5}&=\\dfrac{35}{-5} \\\\\nr&=-7\n\\end{align*}\n\\] \n\n<div>Check LHS = 67 in equation  (1)</div>\n\n<div>Evaluate \\( -5r-8s\\) if \\(s=-4, r=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-5(-7)-8(-4) \\\\\n&=35+32 \\\\\n&=67\n\n\\end{align*}\n\\]\n\n<div>Check LHS = -71 in equation (2)</div>\n\n<div>Evaluate \\( -5r+9s \\) if \\(s=-4, r=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=5(-7)+9(-4) \\\\\n&=-35-36 \\\\\n&=-71\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(s=-4\\), \\(r=-7\\)",
+        "\\(s=4\\), \\(r=7\\)",
+        "\\(s=-4\\), \\(r=7\\)",
+        "\\(s=4\\), \\(r=-7\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\nu+4v&=-9  \\\\\n-2u-4v&=6 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\nu+4v&=-9  && (1) \\\\\n-2u-4v&=6 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(v\\)\n<p>equation (1) + equation (2): </p>\n\\[\n\\begin{align*}\n(u+-2u) + (4v+-4v) &=-9+6\\\\\n-u&=-3\\\\\nu&=3\n\\end{align*}\n\\] \n\n<p>Substitute \\(u=3\\) into equation (1):</p>\n\\[\n\\begin{align*}\n3+4v&=-9 \\\\\n4v&=-9-3 \\\\\n4v&=-12 \\\\\n\\dfrac{4v}{4} &= \\dfrac{-12}{4}\\\\\nv&=-3\n\\end{align*}\n\\] \n\n<div>Check LHS = -9 in equation  (1)</div>\n\n<div>Evaluate \\( u+4v \\) if \\(u=3, v=-3 \\)</div>\n\n\\[\n\\begin{align*}\n&=3+4(-3) \\\\\n&=3-12\\\\\n&=-9\n\\end{align*}\n\\]\n\n<div>Check LHS = 6 in equation (2)</div>\n\n<div>Evaluate \\(-2u-4v \\) if \\(u=3, v=-3 \\)</div>\n\n\\[\n\\begin{align*}\n&=-2(3)-4(-3) \\\\\n&=-6+12\\\\\n&=6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(u=-3\\), \\(v=-3\\)",
+        "\\(u=3\\), \\(v=3\\)",
+        "\\(u=3\\), \\(v=-3\\)",
+        "\\(u=-3\\), \\(v=3\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n7w+9z &=100 \\\\\n7w+6z &=76 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n7w+9z &=100 && (1) \\\\\n7w+6z &=76 &&  (2) \n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(w\\)\n<p>equation (1) minus equation (2): </p>\n\\[\n\\begin{align*}\n(7w-7w)+(9z-6z)&=100-76\\\\\n3z&=24\\\\\n\\dfrac{3z}{3}&=\\dfrac{24}{3} \\\\\nz&=8\n\\end{align*}\n\\]\n\n<p>Substitute \\(z=8\\) into equation (2):</p>\n\\[\n\\begin{align*}\n7w+6(8)&=76 \\\\\n7w+48&=76 \\\\\n7w&=76-48 \\\\\n7w&=28\\\\\n\\dfrac{7w}{7}&=\\dfrac{28}{7} \\\\\nw&=4\n\\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = 100 in equation  (1)</div>\n\n<div>Evaluate \\( 7w+9z\\) if \\(w=4, z=8 \\)</div>\n\n\\[\n\\begin{align*}\n&=7(4)+9(8) \\\\\n&=28 + 72 \\\\\n&=100\n\\end{align*}\n\\]\n\n<div>Check LHS = 76 in equation (2)</div>\n\n<div>Evaluate \\( 7w+9z\\) if \\(w=4, z=8 \\)</div>\n\n\\[\n\\begin{align*}\n&=7(4)+6(8) \\\\\n&=28+48\\\\\n&=76\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(w=-4\\) , \\(z=8\\)",
+        "\\(w=4\\) , \\(z=-8\\)",
+        "\\(w=-4\\) , \\(z=-8\\)",
+        "\\(w=4\\) , \\(z=8\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n6 x+2 y&=30 \\\\\n2 x+y&=12  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n6 x+2 y&=30 &&  (1) \\\\\n2 x+y&=12  && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(y\\)\n<p>equation (2) &times; 3: </p>\n\\[\n\\begin{align*}\n6x+2 y&=30 && (1) \\\\\n6x+3 y&=36 && (3)\\\\\n\\end{align*}\n\\]\n<p>equation (3) minus equation (1): </p>\n\\[\n\\begin{align*}\n(6x-6x) + (3y-2y) &= 36-30\\\\\ny&=6\n\\end{align*}\n\\] \n\n<p>Substitute \\(y=6\\) into equation (2):</p>\n\\[\n\\begin{align*}\n2 x+6&=12 \\\\\n2 x&=12-6 \\\\\n2x&=6\\\\\n\\dfrac{2x}{2}&=\\dfrac{6}{2} \\\\\nx&=3\n\\end{align*}\n\\] \n\n<div>Check LHS = 30 in equation  (1)</div>\n\n<div>Evaluate \\( 6x+2y\\) if \\(x=3,y=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(3)+2(6) \\\\\n&=18+12\\\\\n&=30\n\\end{align*}\n\\]\n\n<div>Check LHS = 12 in eq. (2)</div>\n\n<div>Evaluate \\( 2x+y\\) if \\(x=3,y=6 \\)</div>\n\n\\[\n\\begin{align*}\n&=2(3)+6 \\\\\n&=6+6\\\\\n&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=-3\\), \\(y=6\\)",
+        "\\(x=3\\), \\(y=-6\\)",
+        "\\(x=3\\), \\(y=6\\)",
+        "\\(x=-3\\), \\(y=-6\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3x+2y&=26 \\\\\nx+3y&=25  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3x+2y&=26 &&  (1)  \\\\\nx+3y&=25  && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(x\\)\n<p>equation (2) &times; 3: </p>\n\\[\n\\begin{align*}\n3x+2y&=26  && (1) \\\\\n3x+9y&=75 &&(3)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (1): </p>\n\\[\n\\begin{align*}\n(3x-3x) + (9y-2y) &= 75-26\\\\\n7y&=49\\\\\n\\dfrac{7y}{7}&=\\dfrac{49}{7}\\\\\ny&=7\n\\end{align*}\n\\] \n\n<p>Substitute \\(y=7\\) into equation (2):</p>\n\\[\n\\begin{align*}\n3x+2(7)&=26 \\\\\n3x+14&=26\\\\\n3x&=26-14 \\\\\n3x&=12\\\\\n\\dfrac{3x}{3}&=\\dfrac{12}{3} \\\\\nx&=4\\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = 26 in equation  (1)</div>\n\n<div>Evaluate \\( 3x+2y\\) if \\(x=4, y=7 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(4)+2(7) \\\\\n&=12+14\\\\\n&=26\n\\end{align*}\n\\]\n\n<div>Check LHS = 25 in equation (2)</div>\n\n<div>Evaluate \\( x+3y\\) if \\(x=4,y=7 \\)</div>\n\n\\[\n\\begin{align*}\n&=4+3(7) \\\\\n&=4+21\\\\\n&=25\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=4\\) , \\(y=7\\)",
+        "\\(x=-4\\) , \\(y=-7\\)",
+        "\\(x=-4\\) , \\(y=7\\)",
+        "\\(x=4\\) , \\(y=-7\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3a+2b&=40 \\\\\na+b&=16 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3a+2b&=40 &&  (1) \\\\\na+b&=16 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(a\\)\n<p>equation (2) &times; 3: </p>\n\\[\n\\begin{align*}\n3a+2b&=40  && (1) \\\\\n3a+3b&=48 && (3)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (1): </p>\n\\[\n\\begin{align*}\n(3a-3a) + (3b-2b) &= 48-40\\\\\nb&=8\n\\end{align*}\n\\] \n\n<p>Substitute \\(b=8\\) into equation (1):</p>\n\\[\n\\begin{align*}\n3a+2(8)&=40\\\\\n3a+16&=40\\\\\n3a&=40-16 \\\\\n3a&=24\\\\\n\\dfrac{3a}{3}&=\\dfrac{24}{3} \\\\\na&=8\n\\end{align*}\n\\] \n\n<div>Check LHS = 40 in equation  (1)</div>\n\n<div>Evaluate \\( 3a+2b\\) if \\(a=8,b=8 \\)</div>\n\n\\[\n\\begin{align*}\n&=3(8)+2(8) \\\\\n&=24+16\\\\\n&=40\n\\end{align*}\n\\]\n\n<div>Check LHS = 16 in equation (2)</div>\n\n<div>Evaluate \\( a+b\\) if \\(a=8,b=8 \\)</div>\n\n\\[\n\\begin{align*}\n&=8+8\\\\\n&=16\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(a=8\\) , \\(b=8\\)",
+        "\\(a=-8\\) , \\(b=8\\)",
+        "\\(a=8\\) , \\(b=-8\\)",
+        "\\(a=-8\\) , \\(b=-8\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n5c+12d&=133  \\\\\n6c+4d&=66 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n5c+12d&=133  && (1)  \\\\\n6c+4d&=66 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(d\\)\n<p>equation (2) &times; 3: </p>\n\\[\n\\begin{align*}\n5c+12d&=133 && (1)\\\\\n18c+12d&=198 && (3)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (1): </p>\n\\[\n\\begin{align*}\n(18c-5c) + (12d-12d) &= 198-133\\\\\n13c&=65\\\\\n\\dfrac{13c}{13}&=\\dfrac{65}{13} \\\\\nc&=5 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(c=5\\) into equation (2):</p>\n\\[\n\\begin{align*}\n6(5)+4d&=66\\\\\n30+4d&=66\\\\\n4d&=66-30 \\\\\n4d&=36\\\\\n\\dfrac{4d}{4}&=\\dfrac{36}{4} \\\\\nd&=9\n\\end{align*}\n\\] \n\n<div>Check LHS = 133 in equation  (1)</div>\n\n<div>Evaluate \\( 5c+12d\\) if \\(c=5,d=9 \\)</div>\n\n\\[\n\\begin{align*}\n&=5(5)+12(9) \\\\\n&=25+108\\\\\n&=133\n\\end{align*}\n\\]\n\n<div>Check LHS = 66 in equation (2)</div>\n\n<div>Evaluate \\( 6c+4d\\) if \\(c=5,d=9 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(5)+4(9) \\\\\n&=30+36\\\\\n&=66\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(c=-5\\), \\(d=9\\)",
+        "\\(c=5\\), \\(d=9\\)",
+        "\\(c=-5\\), \\(d=-9\\)",
+        "\\(c=5\\), \\(d=-9\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-14e - f &= -44  \\\\\n-2e - 5f &= -16  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-14e - f &= -44  && (1) \\\\\n-2e - 5f &= -16  && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(f\\)\n<p>equation (1) &times; 5: </p>\n\\[\n\\begin{align*}\n-70e - 5f &= -220 && (3)\\\\\n-2e - 5f &= -16 && (2)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (2): </p>\n\\[\n\\begin{align*}\n(-70e -- 2e) + (-5f--5f) &= -220--16\\\\\n-68e &= -204\\\\\n\\dfrac{-68e}{-68} &= \\dfrac{-204}{-68} \\\\\ne&=3 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(e=3\\) into equation (2):</p>\n\\[\n\\begin{align*}\n-2(3) - 5f &= -16 \\\\\n-6 - 5f &= -16 \\\\\n-5f &= -16 + 6 \\\\\n-5f &= -10 \\\\\n\\dfrac{-5f}{-5} &= \\dfrac{-10}{-5} \\\\\nf &= 2\\\\\n\\end{align*}\n\\] \n\n<div>Check LHS = -44 in equation  (1)</div>\n\n<div>Evaluate \\( -14e-f\\) if \\(e=3, f=2 \\)</div>\n\n\\[\n\\begin{align*}\n&=-14(3) - 2 \\\\\n&= -42 - 2 \\\\\n&= -44\n\\end{align*}\n\\]\n\n<div>Check LHS = -16 in equation (2)</div>\n\n<div>Evaluate \\( -2e-5f\\) if \\(e=3, f=2 \\)</div>\n\n\\[\n\\begin{align*}\n&=-2(3) - 5(2)\\\\\n&= -6 - 10 \\\\\n&= -16\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(c=-3\\), \\(f=-2\\)",
+        "\\(c=-3\\), \\(f=2\\)",
+        "\\(c=3\\), \\(f=-2\\)",
+        "\\(c=3\\), \\(f=2\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-4g + 8h &= -96 \\\\\n-g + 4h &= -42 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-4g + 8h &= -96 && (1) \\\\\n-g + 4h &= -42 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(h\\)\n<p>equation (2) &times; 2: </p>\n\\[\n\\begin{align*}\n-4g + 8h &= -96 && (1) \\\\\n-2g + 8h &= -84 && (3)\n\\end{align*}\n\\]\n<p>equation (1) minus equation (3): </p>\n\\[\n\\begin{align*}\n(-4g--2g) + (8h-8h) &= -96 - -84 \\\\\n-2g &= -12\\\\\n\\frac{-2g}{-2} &= \\frac{-12}{-2} \\\\\ng &= 6\n\\end{align*}\n\\] \n\n<p>Substitute \\(g=6\\) into equation (3):</p>\n\\[\n\\begin{align*}\n-2(6) + 8h &= -84 \\\\\n-12 + 8h &= -84 \\\\\n8h &= -72 \\\\\n\\dfrac{8h}{8} &= \\dfrac{-72}{8} \\\\\nh &= -9 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -96 in equation 1</div>\n\n<div>Evaluate \\( -4g + 8h \\) if \\( g = 6, h = -9 \\)</div>\n\n\\[\n\\begin{align*}\n&=-4(6) + 8(-9) \\\\\n&=-24 - 72 \\\\\n&= -96\n\\end{align*}\n\\]\n\n<div>Check LHS = -42 in equation 2</div>\n\n<div>Evaluate \\( -g + 4h \\) if \\( g = 6, h = -9 \\)</div>\n\n\\[\n\\begin{align*}\n&=-6 + 4(-9) \\\\\n&=-6 - 36\\\\\n&= -42\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\( g = 6, h = -9 \\)",
+        "\\( g = -6, h = 9 \\)",
+        "\\( g = -6, h = -9 \\)",
+        "\\( g = 6, h = 9 \\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n36j - 2k &= -262 \\\\\n-4j + 5k &= 53 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n36j - 2k &= -262 && (1) \\\\\n-4j + 5k &= 53 && (2) \n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(k\\)\n<p>equation (1) &times; -5, equation (2) &times; 2: </p>\n\\[\n\\begin{align*}\n-180j + 10k &= 1310 &&  (3) \\\\\n-8j + 10k &= 106 && (4) \\\\\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(-180j --8j) + (10k + 10k) &= 1310 - 106\\\\\n-172j &= 1204 \\\\\n\\dfrac{-172j}{-172} &= \\dfrac{1204}{-172} \\\\\nj &= -7 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(j=-7\\) into equation (1):</p>\n\\[\n\\begin{align*}\n36(-7) - 2k &= -262 \\\\\n-252 - 2k &= -262 \\\\\n-2k &= -262 + 252 \\\\\n-2k &= -10\\\\\n\\dfrac{-2k}{-2} &= \\dfrac{-10}{-2} \\\\\nk &= 5 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -262 in equation (1)</div>\n\n<div>Evaluate \\( 36j - 2k \\) if  \\(j = -7, k = 5\\)</div>\n\n\\[\n\\begin{align*}\n&=36(-7) - 2(5) \\\\\n&=-252 - 10\\\\\n&= -262\n\\end{align*}\n\\]\n\n<div>Check LHS = 53 in equation (2)</div>\n\n<div>Evaluate \\( -4j + 5k \\) if  \\(j = -7, k = 5\\)</div>\n\n\\[\n\\begin{align*}\n&=-4(-7) + 5(5) \\\\\n&=28 + 25\\\\\n&= 53\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\( j = 7, k = 5 \\)",
+        "\\( j = 7, k = -5 \\)",
+        "\\( j = -7, k = -5 \\)",
+        "\\( j = -7, k = 5 \\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n2m - 7n &= 36 \\\\\nm - n &= 3 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n2m - 7n &= 36 && (1)  \\\\\nm - n &= 3 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(m\\)\n<p>equation (2) &times; 2: </p>\n\\[\n\\begin{align*}\n2m - 7n &= 36 && (1) \\\\\n2m - 2n &= 6 &&  (3)\n\\end{align*}\n\\]\n<p>equation (1) minus equation (3): </p>\n\\[\n\\begin{align*}\n(2m - 2m) + (-7n--2n) &= 36-6\\\\\n-5n &=30 \\\\\n\\dfrac{-5n}{-5} &= \\dfrac{30}{-5} \\\\\nn &= -6\n\\end{align*}\n\\] \n\n<p>Substitute \\(n=-6\\) into equation (2):</p>\n\\[\n\\begin{align*}\nm - (-6)& = 3 \\\\\nm + 6& = 3 \\\\\nm &= 3 - 6 \\\\\nm &= -3 \n\\end{align*}\n\\]\n\n<div>Check LHS = 36 in equation (1)</div>\n\n<div>Evaluate \\( 2m - 7n \\) if \\( n=-6, m=-3 \\)</div>\n\n\\[\n\\begin{align*}\n&=2(-3) - 7(-6) \\\\\n&=-6 + 42 \\\\\n&= 36\n\\end{align*}\n\\]\n\n<div>Check LHS = 3 in equation (2)</div>\n\n<div>Evaluate \\( m - n \\) if \\( n=-6, m=-3 \\)</div>\n\n\\[\n\\begin{align*}\n&=-3 - (-6) \\\\\n&= 3\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\( m = -3, n = -6 \\)",
+        "\\( m = 3, n = 6 \\)",
+        "\\( m = -3, n = 6 \\)",
+        "\\( m = 3, n = -3 \\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\np - 2q &= 21 \\\\\n-4p + q &= -42 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\np - 2q &= 21 && (1)  \\\\\n-4p + q &= -42 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(q\\)\n<p>equation (2) &times; 2: </p>\n\\[\n\\begin{align*}\np -2q &= 21 && (1) \\\\\n-8p + 2q &= -84 && (3)\n\\end{align*}\n\\]\n<p>equation (1) + equation (3): </p>\n\\[\n\\begin{align*}\n(p + -8p) + (-2q + 2q) &= 21 + -84\\\\\n-7p &= -63\\\\\n\\dfrac{-7p}{-7} &= \\dfrac{-63}{-7}  \\\\\np &= 9 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(p=9\\) into equation (1):</p>\n\\[\n\\begin{align*}\n9 - 2q &= 21 \\\\\n-2q &= 21 - 9 \\\\\n-2q &= 12\\\\\n\\dfrac{-2q}{-2} &= \\dfrac{12}{-2} \\\\\nq &= -6\n\\end{align*}\n\\]\n\n<div>Check LHS = 21 in equation (1)</div>\n\n<div>Evaluate \\( p - 2q \\) if  \\(p = 9, q = -6\\)</div>\n\n\\[\n\\begin{align*}\n&=9 - 2(-6) \\\\\n&=9 + 12 \\\\\n&= 21\n\\end{align*}\n\\]\n\n<div>Check LHS = -42 in equation(2)</div>\n\n<div>Evaluate \\( -4p + q \\) if  \\( p = 9, q = -6\\)</div>\n\n\\[\n\\begin{align*}\n&=-4(9) - 6 \\\\\n&=-36 -6\\\\\n& = -42\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\( p = -9, q = 6 \\)",
+        "\\( p = 9, q = -6 \\)",
+        "\\( p = 9, q = 6 \\)",
+        "\\( p = -9, q = -6 \\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-5r - 110s &= 175 \\\\\n-9r + 10s &= -101 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-5r - 110s &= 175 && (1) \\\\\n-9r + 10s &= -101 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(r\\)\n<p>equation (1) &times; 9, equation (2) &times; 5: </p>\n\\[\n\\begin{align*}\n-45r - 990s &= 1575 && (3) \\\\\n-45r + 50s &= -505 &&  (4)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(-45r - -45r) + (-990s - 50s) &= 1575 --505 \\\\\n-1040s &= 2080\\\\\n\\dfrac{-1040s}{-1040} &= \\dfrac{2080}{-1040} \\\\\ns &= -2 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(s=-2\\) into equation (1):</p>\n\\[\n\\begin{align*}\n-5r - 110(-2) &= 175 \\\\\n-5r + 220 &= 175 \\\\\n-5r &= 175 - 220 \\\\\n-5r &= -45\\\\\n\\dfrac{-5r}{-5} &= \\dfrac{-45}{-5} \\\\\nr &= 9 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = 175 in equation (1)</div>\n\n<div>Evaluate \\( -5r - 110s \\) if  \\(r = 9, s = -2\\)</div>\n\n\\[\n\\begin{align*}\n&=-5(9) - 110(-2) \\\\\n&=-45 + 220 \\\\\n&= 175\n\\end{align*}\n\\]\n\n<div>Check LHS = -101 in equation (2)</div>\n\n<div>Evaluate \\( -9r + 10s \\) if  \\( r = 9, s = -2\\)</div>\n\n\\[\n\\begin{align*}\n&=-9(9) + 10(-2) \\\\\n&=-81 - 20 \\\\\n&= -101\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\( r = 9, s = 2 \\)",
+        "\\( r = -9, s = 2 \\)",
+        "\\( r = -9, s = -2 \\)",
+        "\\( r = 9, s = -2 \\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-20u-8 v&=-148 \\\\\n5u-2v&=53 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-20u-8 v&=-148 &&  (1) \\\\\n5u-2v&=53 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(u\\)\n<p>equation (2) &times; 4: </p>\n\\[\n\\begin{align*}\n-20u-8 v&=-148 && (1) \\\\\n20u-8 v&=212 &&  (4)\n\\end{align*}\n\\]\n<p>equation (1) + equation (4): </p>\n\\[\n\\begin{align*}\n(-20u + 20u) + (-8v + -8v) &= -148 + 212\\\\\n-16v &= 64\\\\\n\\dfrac{-16v}{-16} &= \\dfrac{64}{-16} \\\\\nv &= -4 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(v=-4\\) into equation (1):</p>\n\\[\n\\begin{align*}\n-20u-8(-4)&=-148 \\\\\n-20u+32&=-148 \\\\\n-20u&=-148-32 \\\\\n-20u&=-180\\\\\n\\dfrac{-20u}{-20}&=\\dfrac{-180}{-20} \\\\\nu&=9\n\\end{align*}\n\\]\n\n<div>Check LHS = -148 in equation (1)</div>\n\n<div>Evaluate \\( -20u-8 v \\) if  \\(u = 9, v = -4\\)</div>\n\n\\[\n\\begin{align*}\n&=-20(9)-8(-4) \\\\\n&=-180+32\\\\\n&=-148\n\\end{align*}\n\\]\n\n<div>Check LHS = 53 in equation (2) </div>\n\n<div>Evaluate \\( 5u-2v\\) if  \\( u = 9, v = -4\\)</div>\n\n\\[\n\\begin{align*}\n&=5(4)-2(-4) \\\\\n&=45+8\\\\\n&=53\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\( u=9, v=-4 \\)",
+        "\\(u=9, v=4 \\)",
+        "\\( u=-9, v=-4 \\)",
+        "\\( u=-9, v=4 \\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-4w+104 z&=-448 \\\\\n5w-13 z&=92 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-4w+104 z&=-448 &&  (1) \\\\\n5w-13 z&=92 &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(w\\)\n<p>equation (1) &times; 5, equation (2) &times; -4: </p>\n\\[\n\\begin{align*}\n-20 w+520 z&=-2240 && (3) \\\\\n-20w +52 z&=-368 && (4)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(-20w --20w) + (520z-52z)&=-2240--368 \\\\\n468z &= -1872 \\\\\n\\dfrac{468 z}{468}&=\\dfrac{-1872}{468} \\\\\nz&=-4\n\\end{align*}\n\\] \n\n<p>Substitute \\(z=-4\\) into equation (2):</p>\n\\[\n\\begin{align*}\n5 w-13 z &=92 \\\\\n5w-13(-4)&=92 \\\\\n5w+52 &=92 \\\\\n5w&=92-52 \\\\\n5w&=40\\\\\n\\dfrac{5 w}{5}  &=\\dfrac{40}{5} \\\\\nw &=8\n\\end{align*}\n\\]\n\n<div>Check LHS = -448 in equation (1)</div>\n\n<div>Evaluate \\(-4 w+104 z \\) if  \\( w=8,  z=-4\\)</div>\n\\[\n\\begin{align*}\n&=-4(8)+104(-4) \\\\\n&=-32-416\\\\\n&=-448\n\\end{align*}\n\\]\n\n<div>Check LHS =92 in equation (2) </div>\n\n<div>Evaluate \\(5 w-13 z \\) if  \\( w=8,  z=-4\\)</div>\n\n\\[\n\\begin{align*}\n&=5(8)-13(-4) \\\\\n&=40+52\\\\\n&=92\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(w=-8, z=-4\\)",
+        "\\(w=8, z=4\\)",
+        "\\(w=8, z=-4\\)",
+        "\\(w=-8, z=4\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n4 x+5 y&=61 \\\\\n5 x+3 y&=47  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n4 x+5 y&=61 &&  (1) \\\\\n5 x+3 y&=47  &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(x\\)\n<p>equation (1) &times; 5, equation (2) &times; 4: </p>\n\\[\n\\begin{align*}\n20x+25 y&=305 && (3) \\\\\n20 x+12 y&=188 && (4)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(20x - 20x) + (25y -12y) &= 305 - 188\\\\\n3y &= 117 \\\\\n\\dfrac{13 y}{13} &=\\frac{117}{13} \\\\\ny &=9 \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(y=9\\) into equation (1):</p>\n\\[\n\\begin{align*}\n4 x+5(9)&=61 \\\\\n4 x+45&=61 \\\\\n4 x&=61-45 \\\\\n4x&=16\\\\\n\\frac{4 x}{4}&=\\frac{16}{4} \\\\\nx&=4 \n\\end{align*}\n\\]\n\n<div>Check LHS = 61 in equation (1)</div>\n\n<div>Evaluate \\(4 x+5 y  \\) if  \\( x=4, y=9\\)</div>\n\n\\[\n\\begin{align*}\n&=4(4)+5(9) \\\\\n&=16+45\\\\\n&=61\n\\end{align*}\n\\]\n\n<div>Check LHS = 47 in equation (2) </div>\n\n<div>Evaluate \\(5 x+3 y \\) if  \\( x=4, y=9\\)</div>\n\n\\[\n\\begin{align*}\n&=5(4)+3(9) \\\\\n&=20+27\\\\\n&=47\n\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=4, y=9\\)",
+        "\\(x=-4, y=9\\)",
+        "\\(x=4, y=-9\\)",
+        "\\(x=-4, y=-9\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n4 x+5 y&=72  \\\\\n5 x+3 y&=64  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n4 x+5 y&=72  && (1) \\\\\n5 x+3 y&=64  && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(x\\)\n<p>equation (1) &times; 5, equation (2) &times; 4: </p>\n\\[\n\\begin{align*}\n20x+25 y&=360 && (3) \\\\\n20 x+12 y&=256 && (4)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(20x - 20x) + (25y - 12y) &= 360 - 256 \\\\\n13y &= 104\\\\\n\\dfrac{13 y}{13} &=\\dfrac{104}{13} \\\\\ny &=8\n\\end{align*}\n\\] \n\n<p>Substitute \\(y=8\\) into equation (2):</p>\n\\[\n\\begin{align*}\n5 x+3(8)&=64 \\\\\n5x+24&=64 \\\\\n5x&=64-24 \\\\\n5x&=40\\\\\n\\dfrac{5x}{5}&=\\dfrac{40}{5} \\\\\nx&=8 \\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = 72 in equation (1)</div>\n\n<div>Evaluate \\(4x+5y  \\) if  \\( x=8, y=8\\)</div>\n\n\\[\n\\begin{align*}\n&=4(8)+5(8) \\\\\n&=32+40\\\\\n&=72\n\\end{align*}\n\\]\n\n<div>Check LHS = 64 in equation (2) </div>\n\n<div>Evaluate \\(5 x+3 y \\) if  \\( x=8, y=8\\)</div>\n\n\\[\n\\begin{align*}\n&=5(8)+3(8) \\\\\n&=40+24\\\\\n&=64\n\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=-8, y=8\\)",
+        "\\(x=-8, y=-8\\)",
+        "\\(x=8, y=-8\\)",
+        "\\(x=8, y=8\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n6 a+7 b &=74 \\\\\n7 a+6 b &=69 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n6 a+7 b &=74 && (1) \\\\\n7 a+6 b &=69 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(a\\)\n<p>equation (1) &times; 7, equation (2) &times; 6: </p>\n\\[\n\\begin{align*}\n42 a+49 b &=518 && (3)  \\\\\n42 a+36 b&=414 && (4)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(42a - 42a) + (49b - 36b) &= 518 - 414 \\\\\n13b &= 104 \\\\\n\\dfrac{13b}{13} &=\\dfrac{104}{13} \\\\\nb &=8\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(b=8\\) into equation (1):</p>\n\\[\n\\begin{align*}\n6a+7(8) &=74 \\\\\n6a+56&=74 \\\\\n6a &=74-56 \\\\\n6a &= 18\\\\\n\\dfrac{6 a}{6}&=\\dfrac{18}{6} \\\\\na &=3\n\\end{align*}\n\\]\n\n<div>Check LHS = 74 in equation (1)</div>\n\n<div>Evaluate \\(6 a+7 b  \\) if  \\( a=3, 6=8 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(3)+7(8) \\\\\n&=18+56\\\\\n&=74\n\\end{align*}\n\\]\n\n<div>Check LHS = 69 in equation (2) </div>\n\n<div>Evaluate \\(7 a+6 b \\) if  \\( a=3, b=8 \\)</div>\n\n\\[\n\\begin{align*}\n&=7(3)+6(8) \\\\\n&=21+48\\\\\n&=69\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(a=-3, b=8 \\)",
+        "\\(a=3, b=8 \\)",
+        "\\(a=-3, b=-8 \\)",
+        "\\(a=3, b=-8 \\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n4c+8 d &=52 \\\\\n6 c+6 d &=60 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n4c+8 d &=52 && (1) \\\\\n6 c+6 d &=60 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(c\\)\n<p>equation (1) &times; 6, equation (2) &times; 4: </p>\n\\[\n\\begin{align*}\n24 c+48 d &=312 && (3)  \\\\\n24 c + 24 d &=240 && (4)\n\\end{align*}\n\\]\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(24c - 24c) + (48d-24d) &= 312-240\\\\\n24d&=72\\\\\n\\dfrac{24 d}{24} &=\\dfrac{72}{24} \\\\\nd &=3\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(d=3\\) into equation (1):</p>\n\\[\n\\begin{align*}\n4 c+8(3)&=52 \\\\\n4 c+24&=52 \\\\\n4 c&=52-24 \\\\\n4c&=28\\\\\n\\dfrac{4 c}{4}&=\\dfrac{28}{4} \\\\\nc&=7\n\\end{align*}\n\\]\n\n<div>Check LHS = 52 in equation (1)</div>\n\n<div>Evaluate \\(4 c+8 d   \\) if  \\( c=7, d=3 \\)</div>\n\n\\[\n\\begin{align*}\n&=4(7)+8(3) \\\\\n&=28+24\\\\\n&=52\n\\end{align*}\n\\]\n\n<div>Check LHS = 60 in equation (2)  </div>\n\n<div>Evaluate \\(6 c+6 d \\) if  \\( c=7, d=3 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(7)+6(3) \\\\\n&=42+18\\\\\n&=60\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(c=7, d=3 \\)",
+        "\\(c=-7, d=3 \\)",
+        "\\(c=7, d=-3 \\)",
+        "\\(c=-7, d=-3 \\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n4 e-8 f&=-24 \\\\\n5 e+6 f&=82 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n4 e-8 f&=-24 && (1)  \\\\\n5 e+6 f&=82 &&  (2) \n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(e\\)\n<p>equation (1) &times; 5, equation (2) &times; 4: </p>\n\\[\n\\begin{align*}\n20 e-40 f&=-120 && (3)  \\\\\n20 e+24 f&=328 && (4)\\\\\n\\end{align*}\n\\]\n<p>equation (4) minus equation (3): </p>\n\\[\n\\begin{align*}\n(20e-20e) + (24f --40f) &= (328--120) \\\\\n64f &= 448\\\\\n\\dfrac{64 f}{64}&=\\dfrac{448}{64} \\\\\nf&=7\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(f=7\\) into equation (1):</p>\n\\[\n\\begin{align*}\n4 e-8(7)&=-24 \\\\\n4 e-56&=-24 \\\\\n4 e&=-24+56 \\\\\n4e&=32\\\\\n\\dfrac{4 e}{4}&=\\dfrac{32}{4} \\\\\ne&=8\n\\end{align*}\n\\]\n\n<div>Check LHS = -24 in equation (1)</div>\n\n<div>Evaluate \\(4 e-8 f  \\) if  \\( e=8, f=7 \\)</div>\n\n\\[\n\\begin{align*}\n&=4(8)-8(7) \\\\\n&=32-56\\\\\n&=-24\n\\end{align*}\n\\]\n\n<div>Check LHS = 82 in equation (2)  </div>\n\n<div>Evaluate \\(5 e+6 f  \\) if  \\( e=8, f=7 \\)</div>\n\n\\[\n\\begin{align*}\n&=5(8)+6(7) \\\\\n&=40+42\\\\\n&=82\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(e=8, f=-7 \\)",
+        "\\(e=-8, f=-7 \\)",
+        "\\(e=8, f=7 \\)",
+        "\\(e=-8, f=7 \\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n6 g-10 h&=112 \\\\\n-7 g+8 h&=-105 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n6 g-10 h&=112 && (1) \\\\\n-7 g+8 h&=-105 &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(g\\)\n<p>equation (1) &times; 7, equation (2) &times; 6: </p>\n\\[\n\\begin{align*}\n42 g-70 h&=784 && (3)  \\\\\n-42 g+48 h&=-630 && (4)\n\\end{align*}\n\\]\n<p>equation (3) + equation (4): </p>\n\\[\n\\begin{align*}\n(42g + -42g) + (-70h + 48h) &= 784 + -630\\\\\n-22h &= 154\\\\\n\\frac{-22 h}{-22}&=\\frac{154}{-22} \\\\\nh&=-7\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(h=-7\\) into equation (1):</p>\n\\[\n\\begin{align*}\n6 g-10(-7)&=112 \\\\\n6 g+70&=112 \\\\\n6 g&=112-70 \\\\\n6g&=42\\\\\n\\dfrac{6 g}{6}&=\\dfrac{42}{6} \\\\\ng&=7\n\\end{align*}\n\\]\n\n<div>Check LHS = 112 into equation (1)</div>\n\n<div>Evaluate \\(6 g-10h  \\) if  \\( g=7, n=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=6(7)-10(-7) \\\\\n&=42+70\\\\\n&=112\n\\end{align*}\n\\]\n\n<div>Check LHS = -105 in equation (2)  </div>\n\n<div>Evaluate \\(-7 g+8 h  \\) if  \\( g=7, h=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-7(7)+8(-7) \\\\\n&=-49-56\\\\\n&=-105\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(g=7, h=-7 \\)",
+        "\\(g=-7, h=7 \\)",
+        "\\(g=7, h=7 \\)",
+        "\\(g=-7, h=-7 \\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-7 j+12 k&=74 \\\\\n-8 j-10 k&=-34 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-7 j+12 k&=74 && (1) \\\\\n-8 j-10 k&=-34 && (2) \n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(j\\)\n<p>equation (1) &times; 8, equation (2) &times; 7: </p>\n\\[\n\\begin{align*}\n-56 j+96 k&=592 && (3)  \\\\\n-56 j-70 k&=-238 && (4)\n\\end{align*}\n\\]\n<p>equation (3) minus  equation (4): </p>\n\\[\n\\begin{align*}\n(-56j--56j) + (96k--70k) &= 592--238\\\\\n166k &= 830\\\\\n\\dfrac{166 k}{166}&=\\dfrac{830}{166} \\\\\nk&=5\n\\end{align*}\n\\] \n\n<p>Substitute \\(k=5\\) into equation (2):</p>\n\\[\n\\begin{align*}\n-8 j-10(5) &=-34 \\\\\n-8 j-50 &=-34 \\\\\n-8 j &=-34+50 \\\\\n-8j &= 16\\\\\n\\dfrac{-8 j}{-8} &=\\dfrac{16}{-8} \\\\\nj &=-2\n\\end{align*}\n\\]\n\n<div>Check LHS = 74 into equation (1)</div>\n\n<div>Evaluate \\(-7 j+12 k   \\) if  \\( j=-2, k=5  \\)</div>\n\n\\[\n\\begin{align*}\n&=-7(-2)+12(5) \\\\\n&=14+60\\\\\n&=74\n\\end{align*}\n\\]\n\n<div>Check LHS = -34 in equation (2)  </div>\n\n<div>Evaluate \\(-8 j-10 k  \\) if  \\( j=-2, k=5  \\)</div>\n\n\\[\n\\begin{align*}\n&=-8(-2)-10(5) \\\\\n&=16-50\\\\\n&=-34\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(j=2, k=5 \\)",
+        "\\(j=-2, k=-5 \\)",
+        "\\(j=2, k=-5 \\)",
+        "\\(j=-2, k=5 \\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-9 m+6 n&=-39 \\\\\n-11 m-5 n&=-134 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-9 m+6 n&=-39 && (1) \\\\\n-11 m-5 n&=-134 &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(n\\)\n<p>equation (1) &times; 5, equation (2) &times; 6: </p>\n\\[\n\\begin{align*}\n-45 m+30 n&=-195 && (3)  \\\\\n-66m-30 n&=-804 && (4)\n\\end{align*}\n\\]\n<p>equation (3) +  equation (4): </p>\n\\[\n\\begin{align*}\n(-45m+-66m)+(30n+-30n)&=-195+-804\\\\\n-111m &= -999\\\\\n\\dfrac{-111m}{-111}&=\\dfrac{-999}{-111} \\\\\nm&=9\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(m=9\\) into equation (1):</p>\n\\[\n\\begin{align*}\n-9(9)+6 n &=-39 \\\\\n-81+6 n &=-39 \\\\\n6 n&=-39+81 \\\\\n6n&=42\\\\\n\\dfrac{6 n}{6} &=\\dfrac{42}{6} \\\\\nn&=7\n\\end{align*}\n\\]\n\n<div>Check LHS = -39 into equation (1)</div>\n\n<div>Evaluate \\(-9 m+6 n\\) if  \\( m=9, n= 7  \\)</div>\n\n\\[\n\\begin{align*}\n&=-9(9)+6(7) \\\\\n&=-81+42\\\\\n&=-39\n\\end{align*}\n\\]\n\n<div>Check LHS = -134 in equation (2)  </div>\n\n<div>Evaluate \\(-11 m-5 n\\) if  \\( m=9, n=7\\)</div>\n\n\\[\n\\begin{align*}\n&=-11(9)-5(7) \\\\\n&=-99-35\\\\\n&=-134\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(m=-9, n=-7 \\)",
+        "\\(m=9, n=7 \\)",
+        "\\(m=-9, n=7 \\)",
+        "\\(m=9, n=-7 \\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-12p+13q=161 \\\\\n14p+12q =-52 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-12p+13q=161 && (1) \\\\\n14p+12q =-52 && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(p\\)\n<p>equation (1) &times; 14, equation (2) &times; 12: </p>\n\\[\n\\begin{align*}\n-168 p+182 q &=2254 && (3)  \\\\\n168 p+144 q &=-624 && (4)\n\\end{align*}\n\\]\n<p>equation (3) + equation (4): </p>\n\\[\n\\begin{align*}\n(-168p+168p) + (182q+144q) &= 2254+-624\\\\\n326q&=1630\\\\\n\\dfrac{326q}{326}&=\\dfrac{1630}{326} \\\\\nq&=5\n\\end{align*}\n\\] \n\n<p>Substitute \\(q=5\\) into equation (1):</p>\n\\[\n\\begin{align*}\n-12 p+13(5)&=161 \\\\\n-12 p+65&=161 \\\\\n-12 p&=161-65 \\\\\n-12p&=96\\\\\n\\dfrac{-12 p}{-12}&=\\dfrac{96}{12} \\\\\np&=-8\n\\end{align*}\n\\]\n\n<div>Check LHS = 161 into equation (1)</div>\n\n<div>Evaluate \\(-12 p+13 q\\) if  \\(p=-8, q=5\\)</div>\n\n\\[\n\\begin{align*}\n&=-12(-8)+13(5) \\\\\n&=96+65\\\\\n&=161\n\\end{align*}\n\\]\n\n<div>Check LHS =-52 in equation (2)  </div>\n\n<div>Evaluate \\(14 p+12 q \\) if  \\(p=-8, q=5\\)</div>\n\n\\[\n\\begin{align*}\n&=14(-8)+12(5) \\\\\n&=-112+60\\\\\n&=-52\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(p=-8, q=5 \\)",
+        "\\(p=8, q=5 \\)",
+        "\\(p=-8, q=-5 \\)",
+        "\\(p=8, q=-5\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-11 r-10s&=103 \\\\\n-13 r-8s&=95  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-11 r-10s&=103 && (1)  \\\\\n-13 r-8s&=95  && (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(s\\)\n<p>equation (1) &times; 4, equation (2) &times; 5: </p>\n\\[\n\\begin{align*}\n-44 r-40s&=412 && (3)  \\\\\n-65 r-40s&=475 && (4)\n\\end{align*}\n\\]\n<p>equation (4) minus equation (3): </p>\n\\[\n\\begin{align*}\n(-65r--44r) + (-40s--40s) &= 475-412\\\\\n-21r&=63\\\\\n\\dfrac{-21 r}{21}&=\\dfrac{63}{-21} \\\\\nr&=-3\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(r=3\\) into equation (1):</p>\n\\[\n\\begin{align*}\n-11(-3)-10s&=103 \\\\\n33-10s&=103 \\\\\n-10s&=103-33 \\\\\n-10s&=70\\\\\n\\dfrac{-10s}{-10}&=\\dfrac{70}{-10} \\\\\ns&=-7\n\\end{align*}\n\\]\n\n<div>Check LHS = 103 into equation (1)</div>\n\n<div>Evaluate \\(-11r-10s\\) if  \\(r=-3, s=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-11(-3)-10(-7) \\\\\n&=33+70\\\\\n&=103\n\\end{align*}\n\\]\n\n<div>Check LHS = 95 in equation (2)  </div>\n\n<div>Evaluate \\(13 r-8s \\) if  \\(r=-3, s=-7 \\)</div>\n\n\\[\n\\begin{align*}\n&=-13(-3)-8(-7) \\\\\n&=39+56\\\\\n&=95\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(r=3, s=7 \\)",
+        "\\(r=-3,  s=-7 \\)",
+        "\\(r=-3,  s=7 \\)",
+        "\\(r=3, s=-7\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n-10u-10v&=-110 \\\\\n11u-9v&=81 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n-10u-10v&=-110 && (1)  \\\\\n11u-9v&=81 &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(v\\)\n<p>equation (1) &times; 9, equation (2) &times; 10: </p>\n\\[\n\\begin{align*}\n-90u-90 v=-990 && (3)  \\\\\n110u-90v=810 && (4)\n\\end{align*}\n\\]\n<p>equation (3) &minus; equation (4): </p>\n\\[\n\\begin{align*}\n(-90u-110u) + (-90v--90v) &= -990-810\\\\\n-200u&=-1800\\\\\n\\dfrac{-200u}{-200}&=\\dfrac{-1800}{-200} \\\\\nu&=9\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(u=9\\) into equation (1):</p>\n\\[\n\\begin{align*}\n-10(9)-10v&=-110 \\\\\n-90-10v&=-110 \\\\\n-10v&=-110+90 \\\\\n-10v&=-20\\\\\n\\dfrac{-10v}{-10}&=\\dfrac{-20}{-10} \\\\\nv&=2\\\\\n\\end{align*}\n\\]\n\n<div>Check LHS = -110 into equation (1)</div>\n\n<div>Evaluate \\(-10u-10v\\) if  \\(u=9, v=2  \\)</div>\n\n\\[\n\\begin{align*}\n&=-10(9)-10(2) \\\\\n&=-90-20\\\\\n&=-110\n\\end{align*}\n\\]\n\n<div>Check LHS = 81 in equation (2)  </div>\n\n<div>Evaluate \\(11u-9v \\) if  \\(u=9, v=2 \\)</div>\n\n\\[\n\\begin{align*}\n&=11(9)-9(2) \\\\\n&=99-18\\\\\n&=81\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(u=-9, v=2 \\)",
+        "\\(u=9, v=-2 \\)",
+        "\\(u=-9, v=-2 \\)",
+        "\\(u=9, v=2\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3w-10 z &=53 \\\\\n-4 w-9z &=108 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3w-10 z &=53 && (1) \\\\\n-4 w-9z &=108 &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to eliminate \\(w\\)\n<p>equation (1) &times; 4, equation (2) &times; 3: </p>\n\\[\n\\begin{align*}\n12w-40z &=212 && (3)  \\\\\n-12 w-27 z &=324 && (4)\n\\end{align*}\n\\]\n<p>equation (3) + equation (4): </p>\n\\[\n\\begin{align*}\n(12w+-12w) + (-40z+-27z) &= 212+324\\\\\n-67z&=536\\\\\n\\dfrac{-67z}{-67}&=\\dfrac{536}{-67} \\\\\nz&=-8\\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(z=-8\\) into equation (1):</p>\n\\[\n\\begin{align*}\n3w-10(8)&=53 \\\\\n3w+80 &=53 \\\\\n3w &=53-80 \\\\\n3w&=-27\\\\\n\\dfrac{3w}{3}&=\\dfrac{-27}{3} \\\\\nw &=-9\n\\end{align*}\n\\]\n\n<div>Check LHS = 53 into equation (1)</div>\n\n<div>Evaluate \\(3w-10 z \\) if  \\(w=-9, z=-8   \\)</div>\n\n\\[\n\\begin{align*}\n&=3(-9)-10(-8) \\\\\n&=-27+80\\\\\n&=53\n\\end{align*}\n\\]\n\n<div>Check LHS = 108 in equation (2)  </div>\n\n<div>Evaluate \\(-4w-9z\\) if  \\(w=-9, z=-8 \\)</div>\n\n\\[\n\\begin{align*}\n&=-4(-9)-9(-8) \\\\\n&=36+72\\\\\n&=108\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(w=-9, z=-8 \\)",
+        "\\(w=-9, z=8 \\)",
+        "\\(w=9, z=8 \\)",
+        "\\(w=9, z=-8\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3x+\\dfrac{y}{2}&=24 \\\\\nx+\\dfrac{y}{3}&=11 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3x+\\dfrac{y}{2}&=24 && (1) \\\\\nx+\\dfrac{y}{3}&=11 && (2)\n\\end{align*}\n\\] \n<p>Proceed to clear fractions.\n<p>equation (1) &times; 2, equation (2) &times; 3:</p>\n\\[\n\\begin{align*}\n2\\times 3x+2 \\times \\dfrac{y}{2}&=2 \\times 24 \\\\\n6x+y&=48 && (3)\n\\end{align*}\n\\] \n\\[\n\\begin{align*}\n3 \\times x+3 \\times \\dfrac{y}{3}&=3 \\times 11 \\\\\n3x+y&=33&& (4)\n\\end{align*}\n\\] \n<p>Eliminate \\(y\\)\n<p>equation (3) minus equation (4): </p>\n\\[\n\\begin{align*}\n(6x-3x) + (y-y)&=48-33\\\\\n3x&=15\\\\\n\\dfrac{3 x}{3}&=\\dfrac{15}{3} \\\\\nx&=5\n\\end{align*}\n\\] \n\n<p>Substitute \\(x=5\\) into equation (3):</p>\n\\[\n\\begin{align*}\n6(5)+y&=48 \\\\\n30+y&=48 \\\\\ny&=48-30 \\\\\ny&=18\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=5, y=18\\)",
+        "\\(x=-5, y=-18\\)",
+        "\\(x=-5, y=18\\)",
+        "\\(x=5, y=-18\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n5x+\\dfrac{y}{3}&=54 \\\\\n\\dfrac{x}{2}+3 y&=41 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n5x+\\dfrac{y}{3}&=54 &&  (1) \\\\\n\\dfrac{x}{2}+3 y&=41 &&(2)\n\\end{align*}\n\\] \n<p>Proceed to clear fractions.\n<p>equation (1) &times; 3, equation (2) &times; 2:</p>\n\\[\n\\begin{align*}\n3 \\times 5x+3\\times \\frac{y}{3}&=3 \\times 54 \\\\\n15x+y&=162&& (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n2 \\times \\frac{x}{2}+2\\times 3y&=2 \\times 41 \\\\\nx+6y&=82 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(y\\)\n<p>equation (3) &times; 6: </p>\n\\[\n\\begin{align*}\n90x+6y&=972 && (5) \\\\\nx+6y&=82 && (4)\n\\end{align*}\n\\]\n<p>equation (5) minus equation (4): </p>\n\\[\n\\begin{align*}\n(90x-x)+(6y-6y)&=972-82\\\\\n89x&=890 \\\\\n\\dfrac{89x}{89}&=\\dfrac{890}{89}\\\\\nx&=10\n\\end{align*}\n\\] \n\n<p>Substitute \\(x=10\\) into equation (4):</p>\n\\[\n\\begin{align*}\n(10)+6y&=82 \\\\\n6y&=82-10 \\\\\n6y&=72\\\\\n\\dfrac{6y}{6}&=\\dfrac{72}{6} \\\\\ny&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=-10, y=-12\\)",
+        "\\(x=10, y=-12\\)",
+        "\\(x=10, y=12\\)",
+        "\\(x=-10, y=12\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{e}{3}+\\dfrac{f}{2} & =28 \\\\\n\\dfrac{e}{2}-\\dfrac{f}{3} & =3 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{e}{3}+\\dfrac{f}{2} & =28 && (1)\\\\\n\\dfrac{e}{2}-\\dfrac{f}{3} & =3 && (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 6, equation (2) &times 6:</p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{e}{3}+6\\times\\dfrac{f}{2} & =6 \\times 28 \\\\\n2e+3 f &=168 && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n6 \\times \\dfrac{e}{2}-6 \\times \\dfrac{f}{3} & =6 \\times 3 \\\\\n3e-2 f &=18 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(f\\)\n<p>equation (3) &times 2, equation (4) &times 3:</p>\n\\[\n\\begin{align*}\n4e+6f&=336 && (5) \\\\\n9e-6 f &=54 && (6)\n\\end{align*}\n\\]\n<p>equation (5) + equation (6): </p>\n\\[\n\\begin{align*}\n(4e+9e)+(6f+-6f)&=336+54\\\\\n13e&=390\\\\\n\\dfrac{13e}{13}&=\\dfrac{390}{13}\\\\\ne&=30\n\\end{align*}\n\\]\n\n<p>Substitute \\(e=30\\) into equation (3):</p>\n\\[\n\\begin{align*}\n2(30)+3f&=168 \\\\\n60+3f&=168 \\\\\n3f&=168-60 \\\\\n3f&=108\\\\\n\\dfrac{3f}{3}&=\\dfrac{108}{3}\\\\\nf&=36\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(e=30, f=36\\)",
+        "\\(e=-30, f=36\\)",
+        "\\(e=30, f=-36\\)",
+        "\\(e=-30, f=-36\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{g}{3}-\\dfrac{h}{5}&=-3 \\\\\n\\dfrac{g}{7}+\\dfrac{h}{4}&=39 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{g}{3}-\\dfrac{h}{5}&=-3 && (1) \\\\\n\\dfrac{g}{7}+\\dfrac{h}{4}&=39 && (2) \n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 15, equation (2) &times 28:</p>\n\\[\n\\begin{align*}\n15 \\times \\dfrac{g}{3}-15 \\times \\dfrac{h}{5}&=15 \\times -3\\\\\n5g-3h&=-45 && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n28 \\times \\dfrac{g}{7}+28 \\times \\dfrac{h}{4}&=28 \\times 39\\\\\n4g+7h&=1092 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(g\\)\n<p>equation (3) &times 4, equation (4) &times 5:</p>\n\\[\n\\begin{align*}\n20g-12h&=-180 && (5) \\\\\n20g+35h&=5460 && (6)\n\\end{align*}\n\\]\n<p>equation (6) minus equation (5): </p>\n\\[\n\\begin{align*}\n(20g-20g) + (35h--12h) &= 5460--180\\\\\n47h &= 5640\\\\\n\\dfrac{47 h}{47}&=\\dfrac{5640}{47} \\\\\nn&=120\n\\end{align*}\n\\] \n\n<p>Substitute \\(h=120\\) into equation (3):</p>\n\\[\n\\begin{align*}\n5g-3(120) &=-45 \\\\\n5g-360& =-45 \\\\\n5g&= -45+360 \\\\\n5g&=315\\\\\n\\dfrac{5g}{5} & =\\dfrac{315}{5} \\\\\ng&= 63\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(g=63, h=-120 \\)",
+        "\\(g=63, h=120 \\)",
+        "\\(g=-63, h=120 \\)",
+        "\\(g=-63, h=-120 \\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{j}{3}&=19-\\dfrac{k}{2} \\\\\n\\dfrac{j}{2}-\\dfrac{k}{3}&=-4 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{j}{3}&=19-\\dfrac{k}{2} && (1) \\\\\n\\dfrac{j}{2}-\\dfrac{k}{3}&=-4 && (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 6, equation (2) &times 6:</p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{j}{3}&=6 \\times 19 - 6 \\times \\dfrac{k}{2}\\\\\n2j&=114-3k \\\\\n2j+3k&=114&& (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n6 \\times \\dfrac{j}{2}-6 \\times \\dfrac{k}{3}&=6 \\times -4\\\\\n3j-2 k&=-24 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(j\\)\n<p>equation (3) &times 3, equation (4) &times 2: </p>\n\\[\n\\begin{align*}\n6j+9 k&=342 && (5) \\\\\n6j-4 k&=-48 && (6)\n\\end{align*}\n\\]\n<p>equation (5) minus equation (6): </p>\n\\[\n\\begin{align*}\n(6j-6j) + (9k--4k) &= 342--48\\\\\n13k&=390\\\\\n\\dfrac{13 k}{13}&=\\dfrac{390}{13} \\\\\nk&=30\n\\end{align*}\n\\]\n<p>Substitute \\(k=30\\) into equation (3):</p>\n\\[\n\\begin{align*}\n2j+3(30)&=114 \\\\\n2j+90&=114 \\\\\n2j &=114-90 \\\\\n2j&=24\\\\\n\\dfrac{2j}{2}&=\\dfrac{24}{2} \\\\\nj&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(k=-30, j=12\\)",
+        "\\(k=30, j=-12\\)",
+        "\\(k=-30, j=-12\\)",
+        "\\(k=30, j=12\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{m}{3}-18+\\dfrac{n}{2}&=0 \\\\\n\\dfrac{m}{2}-\\dfrac{n}{3}-1&=0 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{m}{3}-18+\\dfrac{n}{2}&=0 && (1)\\\\\n\\dfrac{m}{2}-\\dfrac{n}{3}-1&=0 && (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 6, equation (2) &times 6:</p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{m}{3} - 6 \\times 18 + 6 \\times \\dfrac{n}{2} &=  6 \\times 0\\\\\n2m-108+3n&=0 \\\\\n2m+3n&=108&& (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n6 \\times \\dfrac{m}{2}-6 \\times \\dfrac{n}{3}-6 \\times 1&=6 \\times 0\\\\\n3m-2n-6&=0\\\\\n3m-2n&=6 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(m\\)\n<p>equation (3) &times 3, equation (4) &times 3:</p>\n\\[\n\\begin{align*}\n6m+9n&=324 && (5) \\\\\n6m-4n&=12 && (6)\n\\end{align*}\n\\]\n<p>equation (5) minus equation (6): </p>\n\\[\n\\begin{align*}\n(6m-6m) + (9n--4n)&=324-12\\\\\n13n&=312\\\\\n\\dfrac{13 n}{13}&=\\dfrac{312}{13} \\\\\nn&=24\n\\end{align*}\n\\] \n\n<p>Substitute \\(n=24\\) into equation (4):</p>\n\\[\n\\begin{align*}\n3m-2(24)&=6 \\\\\n3m-48&=6 \\\\\n3m&=6+48 \\\\\n3m&=54\\\\\n\\dfrac{3m}{3}&=\\dfrac{54}{3} \\\\\nm&=18\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(m=18, n=-24\\)",
+        "\\(m=-18, n=24\\)",
+        "\\(m=18, n=24\\)",
+        "\\(m=-18, n=-24\\)"
+      ],
+      "correctChoice": 2
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{p}{6}-56+\\dfrac{q}{2}&=0 \\\\\n\\dfrac{p}{2}-\\dfrac{q}{5}-15&=0 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{p}{6}-56+\\dfrac{q}{2}&=0 && (1) \\\\\n\\dfrac{p}{2}-\\dfrac{q}{5}-15&=0 && (2)\n\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 6, equation (2) &times 10:</p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{p}{6} - 6 \\times 56 + 6 \\times \\dfrac{q}{2} &=  6 \\times 0\\\\\np-336+3q&=0 \\\\\np+3 q&=336 && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n10 \\times \\dfrac{p}{2}-10 \\times \\dfrac{q}{5}-10 \\times 15&=10 \\times 0\\\\\n5p-2q-150&=0\\\\\n5p-2 q&=150 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(p\\)\n<p>equation (3) &times 5:</p>\n\\[\n\\begin{align*}\n5p+15 q&=1680 && (5)\\\\\n5p-2 q&=150 && (4)\n\\end{align*}\n\\]\n<p>equation (5) minus equation (4): </p>\n\\[\n\\begin{align*}\n(5p-5p) + (15q--2q)&=1680-150\\\\\n17q&=1530\\\\\n\\dfrac{17 q}{17}&=\\dfrac{1530}{17} \\\\\nq&=90\n\\end{align*}\n\\]\n\n<p>Substitute \\(q=90\\) into equation (4):</p>\n\\[\n\\begin{align*}\n5p-2(90)&=150 \\\\\n5p-180&=150 \\\\\n5p&=150+180 \\\\\n5p&=330\\\\\n\\dfrac{5 p}{5}&=\\dfrac{330}{5} \\\\\np&=66\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(p=66, q=90\\)",
+        "\\(p=-66, q=-90\\)",
+        "\\(p=-66, q=90\\)",
+        "\\(p=66, q=-90\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{3r}{2}+\\dfrac{s}{3}&=34 \\\\\n\\dfrac{r}{4}+\\dfrac{2s}{5}&=16 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{3r}{2}+\\dfrac{s}{3}&=34 && (1) \\\\\n\\dfrac{r}{4}+\\dfrac{2s}{5}&=16 &&  (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 6, equation (2) &times 20:</p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{3r}{2} + 6 \\times \\dfrac{s}{3} &=  6 \\times 34\\\\\n9r+2s&=204 && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n20 \\times \\dfrac{r}{4}+20 \\times \\dfrac{2s}{5}&=20 \\times 16\\\\\n5r+8s&=320 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(s\\)\n<p>equation (3) &times 4:</p>\n\\[\n\\begin{align*}\n36r+8s&=816 && (5)\\\\\n5r+8s&=320 && (4)\n\\end{align*}\n\\]\n<p>equation (5) minus equation (4): </p>\n\\[\n\\begin{align*}\n(36r-5r) + (8s-8s)&=816-320\\\\\n31r&=496\\\\\n\\dfrac{31r}{31} &=\\dfrac{496}{31} \\\\\nr &=16\n\\end{align*}\n\\]\n\n<p>Substitute \\(r=16\\) into equation (3):</p>\n\\[\n\\begin{align*}\n9(16)+2s&=204 \\\\\n144+2s&=204 \\\\\n2s&=204-114 \\\\\n2s&=60\\\\\n\\dfrac{2s}{2}&=\\dfrac{60}{2} \\\\\ns&=30\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(r=16, s=-30\\)",
+        "\\(r=-16, s=-30\\)",
+        "\\(r=-16, s=30\\)",
+        "\\(r=16, s=30\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{2u}{3}-50+\\dfrac{5w}{2}&=0 \\\\\n\\dfrac{7u}{2}-\\dfrac{w}{3}-101&=0 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{2u}{3}-50+\\dfrac{5w}{2}&=0 && (1)  \\\\\n\\dfrac{7u}{2}-\\dfrac{w}{3}-101&=0 && (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 6, equation (2) &times 6:</p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{2u}{3} - 6 \\times 50 + 6 \\times \\dfrac{5w}{2} &=  6 \\times 0\\\\\n4u-300+15w&=0\\\\\n4u+15w&=300 && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n6 \\times \\dfrac{7u}{2}-6 \\times \\dfrac{w}{3}-6 \\times 101&=6 \\times 0\\\\\n21u-2w-606&=0\\\\\n21u-2w&=606 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(w\\)\n<p>equation (3) &times 2, equation (4) &times 15:</p>\n\\[\n\\begin{align*}\n8u+30w&=600 &&  (5) \\\\\n315u-30w&=9090 &&  (6)\n\\end{align*}\n\\]\n\n<p>equation (5) + equation (6): </p>\n\\[\n\\begin{align*}\n(8u+315u)+(30w+-30w)&=600+9090\\\\\n323u&=9690\\\\\n\\dfrac{323u}{323}&=\\dfrac{9690}{323} \\\\\nu &=30\n\\end{align*}\n\\]\n\n<p>Substitute \\(u=30\\) into equation (3):</p>\n\\[\n\\begin{align*}\n4(30)+15w&=300 \\\\\n120+15w &=300 \\\\\n15w &=300-120 \\\\\n15w&=180\\\\\n\\dfrac{15w}{15}&=\\dfrac{180}{15} \\\\\nw &=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(u=30, w=-12\\)",
+        "\\(u=30, w=12\\)",
+        "\\(u=-30, w=-12\\)",
+        "\\(u=-30, w=12\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{5w}{3}-830+\\dfrac{5z}{4}&=0 \\\\\n\\dfrac{7w}{2}+\\dfrac{z}{7}-420&=72  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{5w}{3}-830+\\dfrac{5z}{4}&=0 && (1) \\\\\n\\dfrac{7w}{2}+\\dfrac{z}{7}-420&=72  && (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times 12, equation (2) &times 14:</p>\n\\[\n\\begin{align*}\n12 \\times \\dfrac{5w}{3} - 12 \\times 830 + 12 \\times \\dfrac{5z}{4} &=  12 \\times 0\\\\\n20w-9960+15z&=0\\\\\n20w+15z&=9960  && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n\\dfrac{7w}{2}+\\dfrac{z}{7}&=72+420\\\\\n14 \\times \\dfrac{7w}{2}+14 \\times \\dfrac{z}{7}&=14 \\times 492\\\\\n49w+2 z&=6888 && (4)\n\\end{align*}\n\\]\n<p>Eliminate \\(w\\)\n<p>equation (3) &times 2, equation (4) &times 15:</p>\n\\[\n\\begin{align*}\n40w+30 z&=19920 &&  (5) \\\\\n735w+30z&=103320 &&  (6)\n\\end{align*}\n\\]\n\n<p>equation (6) &minus; equation (5): </p>\n\\[\n\\begin{align*}\n(735w-40w) + (30z-30z) &= 103320-19920\\\\\n695w&=83400\\\\\n\\dfrac{695w}{695}&=\\dfrac{83400}{695} \\\\\nw &=120\n\\end{align*}\n\\]\n\n<p>Substitute \\(w=120\\) into equation (3):</p>\n\\[\n\\begin{align*}\n20(120)+15z &=9960 \\\\\n2400+15z &=9960 \\\\\n15z &=9960-2400 \\\\\n15z&=7560\\\\\n\\dfrac{15z}{15} &=\\dfrac{7560}{15} \\\\\nz &=504\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(w=120, z=504 \\)",
+        "\\(w=-120, z=504 \\)",
+        "\\(w=-120, z=-504 \\)",
+        "\\(w=120, z=-504 \\)"
+      ],
+      "correctChoice": 0
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "isTheory": true,
+  "openingRemarks": "Solve the following simultaneous equations<p>NB: Substitution method is used.",
+  "questions": [
+     {
+      "question": "\\[\n\\begin{align*}\ny&=8+x \\\\\ny&=16-x \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\ny&=8+x && (1) \\\\\ny&=16-x && (2) \n\\end{align*}\n\\] \n\n<p>Substitute \\(y\\) from equation (1) into equation (2):</p>\n\\[\n\\begin{align*}\n(8+x)&=16-x \\\\\n8+x&=16-x \\\\\nx+x&=16-8 \\\\\n2x&=8\\\\\n\\dfrac{2 x}{2}&=\\dfrac{8}{2} \\\\\nx&=4\n\\end{align*}\n\\]\n<p>Substitute \\(x=4\\) into equation (1):</p>\n\\[\n\\begin{align*}\ny&=8+4 \\\\\n&=12\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=-4, y=12 \\)",
+        "\\(x=4, y=-12 \\)",
+        "\\(x=-4, y=-12 \\)",
+        "\\(x=4, y=12\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\ny&=11-x \\\\\n2x+y&=14 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\ny&=11-x && (1) \\\\\n2x+y&=14 && (2)\n\\end{align*}\n\\] \n\n<p>Substitute \\(y\\)  from equation (1) into equation (2):</p>\n\\[\n\\begin{align*}\n2x+(11-x)&=14  \\\\\n2x+11-x&=14  \\\\\n2x-x&=14-11 \\\\\nx&=3\\\\\n\\end{align*}\n\\]\n\n<p>Substitute \\(x=3\\) into equation (1):</p>\n\\[\n\\begin{align*}\ny&=11-3 \\\\\n&=8\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(x=3, y=8 \\)",
+        "\\(x=-3, y=8 \\)",
+        "\\(x=3, y=-8 \\)",
+        "\\(x=-3, y=-8\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\na&=3 b-37  \\\\\n2b+3 a&=43 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\na&=3 b-37  && (1) \\\\\n2b+3 a&=43 && (2)\n\\end{align*}\n\\] \n\n<p>Substitute \\(a\\)  from equation (1) into equation (2):</p>\n\\[\n\\begin{align*}\n2 b+3(3 b-37)&=43 \\\\\n2 b+9b-111&=43 \\\\\n11b&=43+111 \\\\\n11b&=154\\\\\n\\dfrac{11b}{11}&=\\dfrac{154}{11} \\\\\nb&=14\n\\end{align*}\n\\] \n\n<p>Substitute \\(b=14\\) into equation (1):</p>\n\\[\n\\begin{align*}\na&=3(14)-37 \\\\\n&=42-37 \\\\\n&=5\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(a=5, b=14 \\)",
+        "\\(a=5, b=-14 \\)",
+        "\\(a=-5, b=14\\)",
+        "\\(a=-5, b=-14\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\nc-d&=2  \\\\\n2 d&=c+2 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\nc-d&=2  && (1) \\\\\n2 d&=c+2 && (2)\n\\end{align*}\n\\] \n\n<p>Proceed to make \\(c\\) the subject in equation (1):</p>\n\\[\n\\begin{align*}\nc&=2+d && (3)\n\\end{align*}\n\\] \n\n<p>Substitute \\(c\\) from equation (3) into equation (2):</p>\n\\[\n\\begin{align*}\n2 d&=(2+d)+2 \\\\\n2 d&=2+d+2 \\\\\n2 d-d&=2+2 \\\\\nd&=4\n\\end{align*}\n\\]\n\n<p>Substitute \\(d=4\\) into equation (3):</p>\n\\[\n\\begin{align*}\nc&=2+4 \\\\\n&=6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(c=-6, d=4 \\)",
+        "\\(c=6, d=4 \\)",
+        "\\(c=-6, d=-4\\)",
+        "\\(c=6, d=-4\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\ne&=2 f-10 \\\\\n3 f+2 e&=36 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\ne&=2 f-10 &&  (1) \\\\\n3 f+2 e&=36 && (2)\n\\end{align*}\n\\] \n\n<p>Substitute \\(e\\) from equation (1) into equation (2):</p>\n\\[\n\\begin{align*}\n3 f+2(2 f-10)&=36 \\\\\n3 f+4 f-20&=36 \\\\\n7 f&=36+20 \\\\\n7f&=56\\\\\n\\dfrac{7 f}{7}&=\\dfrac{56}{7} \\\\\nf&=8\n\\end{align*}\n\\]\n<p>Substitute \\(f=8\\) into equation (1):</p>\n\\[\n\\begin{align*}\ne&=2(8)-10 \\\\\n&=16-10 \\\\\n&=6\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(e=-6, f=8 \\)",
+        "\\(e=6, f=8 \\)",
+        "\\(e=6, f=-8\\)",
+        "\\(e=-6, f=-8\\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\ng&=3 h-28  \\\\\nh+2 g&=28 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\ng&=3 h-28  &&  (1) \\\\\nh+2 g&=28 && (2)\n\\end{align*}\n\\] \n\n<p>Substitute \\(g\\) from equation (1) into equation (2):</p>\n\\[\n\\begin{align*}\nh+2(3 h-28)&=28 \\\\\nh+6 h-56&=28 \\\\\n7 h&=28+56 \\\\\n7h&=84\\\\\n\\dfrac{7 h}{7}&=\\dfrac{84}{7} \\\\\nh&=12 \\\\\n\\end{align*}\n\\]\n\n<p>Substitute \\(h=12\\) into equation (1):</p>\n\\[\n\\begin{align*}\ng&=3(12)-28 \\\\\n&=36-28 \\\\\n&=8\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(g=8, h=12 \\)",
+        "\\(g=-8, h=-12 \\)",
+        "\\(g=-8, h=12\\)",
+        "\\(g=8, h=-12\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3 j&=k+8 \\\\\n5 k+2 j&=-6 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3 j&=k+8 && (1)  \\\\\n5 k+2 j&=-6 && (2)\n\\end{align*}\n\\] \n\n<p>Proceed to make  \\(k\\) the subject in equation (1):</p>\n\\[\n\\begin{align*}\n3 j-8&=k &&(3)\n\\end{align*}\n\\]\n\n<p>Substitute \\(k\\) from equation (3) into equation (2):</p>\n\\[\n\\begin{align*}\n5(3 j-8)+2 j&=-6 \\\\\n15 j-40+2 j&=-6 \\\\\n15 j+2 j&=-6+40 \\\\\n17j&=34\\\\\n\\frac{17 j}{17}&=\\frac{34}{17} \\\\\nj&=2\n\\end{align*}\n\\] \n\n<p>Substitute \\(j=2\\) into equation (3):</p>\n\\[\n\\begin{align*}\nk&=3(2)-8\\\\\n&=6-8 \\\\\n&=-2\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(j=-2, k=-2 \\)",
+        "\\(j=-2, k=2 \\)",
+        "\\(j=2, k=2\\)",
+        "\\(j=2, k=-2\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3m&=2 n \\\\\n3n+2 m&=91 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3m&=2 n &&  (1)  \\\\\n3n+2 m&=91 && (2) \n\\end{align*}\n\\] \n\n<p>Proceed to make \\(m\\) the subject in equation (1):</p>\n\\[\n\\begin{align*}\n3m&=2n\\\\\n\\dfrac{3 m}{3} &=\\dfrac{2 n}{3} \\\\\nm&=\\dfrac{2 n}{3} && (3)\n\\end{align*}\n\\] \n\n<p>Substitute \\(m\\) from equation (3) into equation (2):</p>\n\\[\n\\begin{align*}\n3n+2\\left(\\dfrac{2 n}{3}\\right)&=91 \\\\\n3n+\\dfrac{4 n}{3}&=91 \\\\\n3\\times \\left(3n+\\dfrac{4 n}{3}\\right)&=3 \\times 91 \\\\\n3\\times 3 n+3 \\times \\dfrac{4 n}{3}&=3\\times 91 \\\\\n9n+4 n&=273 \\\\\n13n&=273\\\\\n\\frac{13 n}{13}&=\\frac{273}{13} \\\\\nn&=21\n\\end{align*}\n\\] \n\n<p>Substitute \\(n=21\\) into equation (3):</p>\n\\[\n\\begin{align*}\nm&=\\dfrac{2 (21)}{3} \\\\\n&=\\dfrac{42}{3} \\\\\n&=14\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(m=14, n=21 \\)",
+        "\\(m=-14, n=-21 \\)",
+        "\\(m=-14, n=21\\)",
+        "\\(m=14, n=-21\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n5p&=-3 q  \\\\\n2q+3 p&=5 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n5p&=-3 q  && (1)  \\\\\n2q+3 p&=5 && (2)\n\\end{align*}\n\\] \n\n<p>Proceed to make \\(p\\) the subject in equation (1):</p>\n\\[\n\\begin{align*}\n5p&=-3 q\\\\\n\\frac{5 p}{5}&=\\frac{-3 q}{5} \\\\\np&=\\dfrac{-3 q}{5} && (3) \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(p\\) from equation (3) into equation (2):</p>\n\\[\n\\begin{align*}\n2q+3\\left(\\dfrac{-3 q}{5}\\right)&=5 \\\\\n2q+\\dfrac{-9 q}{5}&=5 \\\\\n5\\times \\left(2 q+ \\dfrac{-9 q}{5}\\right)&=5 \\times 5 \\\\\n5\\times 2 q+5 \\times \\dfrac{-9 q}{5}&=5 \\times 5 \\\\\n10q-9 q&=25 \\\\\nq&=25\n\\end{align*}\n\\] \n\n<p>Substitute \\(q=25\\) into equation (3):</p>\n\\[\n\\begin{align*}\np&=\\dfrac{-3(25)}{5} \\\\\n&=\\dfrac{-75}{5} \\\\\n&=-15  \\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(p=-15, q=-25 \\)",
+        "\\(p=15, q=25 \\)",
+        "\\(p=15, q=-25\\)",
+        "\\(p=-15, q=25\\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\nr&=3 s-78 \\\\\ns+2 r&=68 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\nr&=3 s-78 &&   (1)  \\\\\ns+2 r&=68 && (2) \n\\end{align*}\n\\] \n\n<p>Substitute \\(r\\) from equation (1) into equation (2):</p>\n\\[\n\\begin{align*}\ns+2(3s-78)&=68 \\\\\ns+6s-156&=68 \\\\\n7s&=68+156 \\\\\n7s&=224\\\\\n\\dfrac{7s}{7}&=\\dfrac{224}{7} \\\\\ns&=32\n\\end{align*}\n\\] \n\n<p>Substitute \\(s=32\\) into equation (1):</p>\n\\[\n\\begin{align*}\nr&=3(32)-78 \\\\\n&=96-78 \\\\\n&=18\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(r=18, s=32  \\)",
+        "\\(r=-18, s=-32  \\)",
+        "\\(r=-18, s=32 \\)",
+        "\\(r=18, s=-32 \\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n3u&=v-32 \\\\\n5v+2u&=-129  \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n3u&=v-32 && (1)  \\\\\n5v+2u&=-129  && (2)\n\\end{align*}\n\\] \n\n<p>Proceed to make \\(u\\) the subject in equation (1):</p>\n\\[\n\\begin{align*}\n3u&=v-32\\\\\n\\dfrac{3u}{3}&=\\dfrac{v-32}{3} \\\\\nu&=\\dfrac{v-32}{3} && (3)\n\\end{align*}\n\\] \n\n<p>Substitute \\(u\\) from equation (3) into equation (2):</p>\n\\[\n\\begin{align*}\n5v+2\\left(\\dfrac{v-32}{3}\\right)&=-129 \\\\\n3 \\times \\left( 5v+ 2\\left(\\dfrac{v-32}{3}\\right)\\right)&=3 \\times -129 \\\\\n3 \\times 5v+3 \\times 2\\left(\\dfrac{v-32}{3}\\right)&=3 \\times -129 \\\\\n15v+2 (v-32)&=-387 \\\\\n15v+2 v-64&=-387 \\\\\n17v&=-387+64 \\\\\n17v&=-323\\\\\n\\dfrac{17 v}{17}&=\\dfrac{-323}{17} \\\\\nv&=-19\n\\end{align*}\n\\] \n\n<p>Substitute \\(v=-19\\) into equation (3):</p>\n\\[\n\\begin{align*}\nu&=\\dfrac{-19-32}{3} \\\\\n&=\\dfrac{-51}{3} \\\\\n&=-17\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(u=17, v=-19\\)",
+        "\\(u=-17, v=19\\)",
+        "\\(u=17, v=19\\)",
+        "\\(u=-17, v=-19 \\)"
+      ],
+      "correctChoice": 3
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n9w+7z-208&=0  \\\\\n0&=5z+11w-208 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n9w+7z-208&=0  &&(1) \\\\\n0&=5z+11w-208 && (2) \n\\end{align*}\n\\]\n\n<p>Proceed to make \\(w\\) the subject in equation (1):</p>\n\\[\n\\begin{align*}\n9w+7z-208&=0 \\\\\n9 w&=208-7z \\\\\n\\dfrac{9 w}{9}&=\\dfrac{208-7 z}{9} \\\\\nw&=\\dfrac{208-7 z}{9} && (3) \\\\\n\\end{align*}\n\\] \n\n<p>Substitute \\(w\\) from equation (3) into equation (2):</p>\n\\[\n\\begin{align*}\n-5 z-11\\left(\\frac{208-7 z}{9}\\right)&=-208 \\\\\n5 z-\\frac{2288-77 z}{9}&=-208 \\\\\n9\\times \\left(-5 z- \\dfrac{2288-77 z}{9}\\right)&=9 \\times -208 \\\\\n9\\times-5 z-9 \\times \\dfrac{2288-77 z}{9}&=9 \\times -208 \\\\\n-45 z-(2288-77 z)&=-1872 \\\\\n-45 z-2288+77 z&=-1872 \\\\\n32 z&=-1872+2288 \\\\\n32z&=416\\\\\n\\dfrac{32 z}{32}&=\\dfrac{416}{32} \\\\\nz&=13\n\\end{align*}\n\\] \n\n<p>Substitute \\(z=13\\) into equation (3):</p>\n\\[\n\\begin{align*}\nw&=\\dfrac{208-7(13)}{9} \\\\\n&=\\dfrac{208-91}{9} \\\\\n&=\\dfrac{117}{9} \\\\\n&=13\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(w=-13, z=-13 \\)",
+        "\\(w=13, z=13 \\)",
+        "\\(w=-13, z=13 \\)",
+        "\\(w=13, z=-13  \\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n7a+\\dfrac{b}{2}&=55  \\\\\n4a+\\dfrac{b}{4}&=30 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n7a+\\dfrac{b}{2}&=55  &&  (1) \\\\\n4a+\\dfrac{b}{4}&=30 && (2)\n\\end{align*}\n\\] \n<p>Proceed to clear fractions.\n<p>equation (1) &times; 2, equation (2) &times; 4:</p>\n\\[\n\\begin{align*}\n2 \\times 7 a+2 \\times \\dfrac{b}{2}&=2 \\times 55 \\\\\n14a +b&=110 && (3)\n\\end{align*}\n\\] \n\\[\n\\begin{align*}\n4 \\times 4 a+4 \\times \\dfrac{b}{4}&=4 \\times 30 \\\\\n16a+b&=120 && (4)\n\\end{align*}\n\\]\n<p>Make \\(b\\) the subject  in equation  (3):</p>\n\\[\n\\begin{align*}\n14a +b&=110\\\\\nb&=110-14a && (5)\n\\end{align*}\n\\]\n<p>Substitute \\(b\\) from equation (5) into equation (4):</p>\n\\[\n\\begin{align*}\n16a+(110-14a)&=120 \\\\\n16a+110-14a&=120 \\\\\n16a-14a&=120-110 \\\\\n2a&=10\\\\\n\\dfrac{2a}{2}&=\\dfrac{10}{2} \\\\\na&=5\n\\end{align*}\n\\]\n\n<p>Substitute \\(a=5\\) into equation (5):</p>\n\\[\n\\begin{align*}\nb&=110-14(5) \\\\\n&=110-70 \\\\\n&=40\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(a=5, b=-40 \\)",
+        "\\(a=5, b=40 \\)",
+        "\\(a=-5, b=-40 \\)",
+        "\\(a=-5, b=40 \\)"
+      ],
+      "correctChoice": 1
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n\\dfrac{c}{2}+\\dfrac{d}{3}&=29 \\\\\n\\dfrac{c}{4}+\\dfrac{d}{5}&=17 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n\\dfrac{c}{2}+\\dfrac{d}{3}&=29 && (1)  \\\\\n\\dfrac{c}{4}+\\dfrac{d}{5}&=17 && (2)\n\\end{align*}\n\\]\n<p>Proceed to clear fractions.\n<p>equation (1) &times; 6, equation (2) &times;  20: </p>\n\\[\n\\begin{align*}\n6 \\times \\dfrac{c}{2}+6 \\times \\dfrac{d}{3}&=6 \\times 29 \\\\\n3 c+2 d&=174 && (3)\n\\end{align*}\n\\]\n\\[\n\\begin{align*}\n20 \\times \\dfrac{c}{4}+20 \\times \\dfrac{d}{5}&=20 \\times 17 \\\\\n5 c+4 d&=340 && (4)\n\\end{align*}\n\\]\n\n<p>Make \\( c \\) the subject in equation (3):</p>\n\\[\n\\begin{align*}\n3 c+2 d&=174 \\\\\n3c&=174-2d\\\\\n\\dfrac{3 c}{3}&=\\dfrac{174-2 d}{3} \\\\\nc&=\\dfrac{174-2 d}{3} && (5)\n\\end{align*}\n\\]\n<p>Substitute \\(c\\) from equation (5) into equation (4):</p>\n\\[\n\\begin{align*}\n5\\left(\\dfrac{174-2 d}{3}\\right)+4 d&=340 \\\\\n3 \\times 5\\left(\\dfrac{174-2 d}{3}\\right)+3 \\times 4d&=3\\times 340  \\\\\n5(174-2 d)+12 d&=1020 \\\\\n870-10 d+12 d&=1020 \\\\\n2 d&=1020-870 \\\\\n2d&=150\\\\\n\\dfrac{2 d}{2}&=\\dfrac{150}{2} \\\\\nd&=75\\\\\n\\end{align*}\n\\]\n<p>Substitute \\(d=75\\) into equation (5):</p>\n\\[\n\\begin{align*}\nc&=\\dfrac{174-2 (75)}{3}\\\\\nc&=\\dfrac{174-150}{3}\\\\\nc&=\\dfrac{24}{3}\\\\\nc&=8\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(c=8, d=75\\)",
+        "\\(c=-8, d=75\\)",
+        "\\(c=8, d=-75\\)",
+        "\\(c=-8, d=-75\\)"
+      ],
+      "correctChoice": 0
+    },
+    {
+      "question": "\\[\n\\begin{align*}\n2p^{2}-q+5p&=9 \\\\\n2p-3q&=-17 \\end{align*}\n\\]",
+      "answer": "\\[\n\\begin{align*}\n2p^{2}-q+5p&=9 &&  (1) \\\\\n2p-3q&=-17 && (2)\n\\end{align*}\n\\]\n<p>Proceed to make \\(q\\) the subject in equation (2):</p>\n\\[\n\\begin{align*}\n2p-3q&=-17\\\\\n-3q&=-17-2p\\\\\n\\frac{-3q}{-3}&=\\frac{-17-2p}{-3} \\\\\nq&=\\frac{-17-2 p}{-3} \\\\\n&=\\frac{-1(17+2 p)}{-3} \\\\\nq&=\\frac{17+2 p}{3} && (3)\n\\end{align*}\n\\]\n<p>Substitute \\(q\\) from equation (3) into equation (1):</p>\n\\[\n\\begin{align*}\n2p^{2}-\\left(\\frac{17+2 p}{3}\\right)+5p&=9\\\\\n3 \\times 2 p^{2}- 3 \\times \\left(\\frac{17+2 p}{3}\\right)+3 \\times 5p&=3 \\times 9 \\\\\n6 p^{2}-(17+2 p)+15p&=27 \\\\\n6 p^{2}-17-2 p+15p&=27 \\\\\n6 p^{2}-17+13p-27&=0 \\\\\n6 p^{2}+13 p-44&=0\n\\end{align*}\n\\] \n<p>Compared to general form of quadratic equation, ie \\(ax^2+bx+c=0\\), a = 6, b = 13 and c = -44\n<p>Looking for integer factors of (6 &times; -44) which add up to 13 ... and those factors are -11 and 24\n<p>Therefore replace 13p with -11p + 24p\n\\[\n\\begin{align*}\n 6 p^{2}+13 p-44&=0\\\\\n6 p^{2}-11p + 24p-44&=0\\\\\n(6 p^{2}-11p) + (24p-44)&=0\\\\\np(6p-11)+4(6p-11)&=0\\\\\n(6p-11)(p+4)&=0\\\\\n6p-11=0 && \\text{or} \\quad  p+4=0 \\\\\n6p=11 && p=-4 \\\\\np=\\dfrac{11}{6}\n\\end{align*}\n\\]\n\n<p>Substitute \\(p=-4\\) into equation (3):</p>\n\\[\n\\begin{align*}\nq&=\\frac{17+2 (-4)}{3} \\\\\n&=\\frac{17-8}{3} \\\\\n&=\\frac{9}{3}\\\\\n&=3\n\\end{align*}\n\\]\n\n<p>Substitute \\(p=\\dfrac{11}{6}\\) into equation (3):</p>\n\\[\n\\begin{align*}\nq&=\\frac{17+2 \\left(\\dfrac{11}{6}\\right)}{3} \\\\\n&=\\frac{17+\\dfrac{11}{3}}{3} \\\\\n&=\\dfrac{\\quad \\dfrac{62}{3} \\quad}{3} \\\\\n&=\\dfrac{62}{9}\\\\\n\\end{align*}\n\\]\n\n",
+      "choices": [
+        "\\(p=\\dfrac{11}{6}, q=\\dfrac{62}{9} \\) ; \\(p=-4, q=3 \\)",
+        "\\(p=\\dfrac{11}{6}, q=\\dfrac{62}{9} \\) ; \\(p=-4, q=-1 \\)",
+        "\\(p=\\dfrac{11}{6}, q=3 \\) ; \\(p=-4, q=\\dfrac{62}{9} \\)",
+        "\\(p=\\dfrac{11}{6}, q=4 \\) ; \\(p=-3, q=\\dfrac{62}{9} \\)"
+      ],
+      "correctChoice": 0
+    }
+  ]
+}
