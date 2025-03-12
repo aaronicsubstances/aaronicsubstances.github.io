@@ -1,6 +1,6 @@
 {
   "isTheory": true,
-  "openingRemarks": "Evaluation of Math Expressions",
+  "title": "Evaluation of Math Expressions",
   "questions": [
     {
       "question": "Evaluate \\( x-y \\quad \\) if \\( x=-5, y=-6 \\)",

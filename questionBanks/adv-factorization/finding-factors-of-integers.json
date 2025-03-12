@@ -1,6 +1,6 @@
 {
     "isTheory": true,
-    "openingRemarks": "Finding Factors of Integers",
+    "title": "Finding Factors of Integers",
     "questions": [
         {
             "question": "Find the set of positive factors of 5",

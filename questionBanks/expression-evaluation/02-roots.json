@@ -1,6 +1,6 @@
 {
     "isTheory": true,
-    "openingRemarks": "Evaluation of Math Expressions Involving Roots",
+    "title": "Evaluation of Math Expressions Involving Roots",
     "questions": [
       {
         "question": "Evaluate \\(\\sqrt{5x - 6}\\quad \\) if \\(x=14\\)",

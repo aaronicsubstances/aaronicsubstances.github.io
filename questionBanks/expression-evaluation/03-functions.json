@@ -1,6 +1,6 @@
 {
   "isTheory": true,
-  "openingRemarks": "Evaluation of Math Expressions Involving Functions",
+  "title": "Evaluation of Math Expressions Involving Functions",
   "questions": [
     {
       "question": "Evaluate \\(tb \\quad\\) if \\(t=5, b=10\\)",
