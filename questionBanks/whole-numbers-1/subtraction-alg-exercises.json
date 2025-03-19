@@ -1,6 +1,6 @@
 {
   "extraDescription": "NB: second operand is never greater than first operand",
-  "inputTimeWaitSecs": 60,
+  "inputTimeWaitSecs": 120,
   "questions": [
     {
       "question": "5482 &minus; 2389",
