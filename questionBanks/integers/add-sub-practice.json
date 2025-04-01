@@ -1,5 +1,5 @@
 {
-  "inputTimeWaitSecs": 60,
+  "inputTimeWaitSecs": 120,
   "questions": [
     {
       "question": "2719 &minus; 8058",
