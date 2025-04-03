@@ -5,302 +5,488 @@
     {
       "question": "45 &#xF7; -9",
       "answer": "-5",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "4 &#xF7; 6",
       "answer": "2/3",
-      "numberInputTypes": ["mix"],
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "0 &#xF7; 0",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "undefined"
     },
     {
       "question": "1 &#xF7; 0",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "undefined"
     },
     {
       "question": "0 &#xF7; 3",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "0"
     },
     {
       "question": "63 &#xF7; -9",
       "answer": "-7",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "0 &#xF7; 4",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "0"
     },
     {
       "question": "2 &#xF7; 0",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "undefined"
     },
     {
       "question": "-40 &#xF7; 8",
       "answer": "-5",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-48 &#xF7; 4",
       "answer": "-12",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "0 &#xF7; 7",
       "answer": "0",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "2 &#xF7; 2",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "1"
     },
     {
       "question": "-2 &#xF7; 2",
       "answer": "-1",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "2 &#xF7; 1",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "2"
     },
     {
       "question": "88 &#xF7; 11",
       "answer": "8",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "4 &#xF7; 4",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "1"
     },
     {
       "question": "21 &#xF7; 7",
       "answer": "3",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "0 &#xF7; 2",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "0"
     },
     {
       "question": "0 &#xF7; -9",
       "answer": "0",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-120 &#xF7; -12",
       "answer": "10",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "37 &#xF7; -5",
-      "answer": "-37/5",
-      "numberInputTypes": ["mix"],
+      "answer": "-7 2/5",
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "4 &#xF7; 1",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "4"
     },
     {
       "question": "-24 &#xF7; -4",
       "answer": "6",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-21 &#xF7; 4",
-      "answer": "-21/4",
-      "numberInputTypes": ["mix"],
+      "answer": "-5 1/4",
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "23 &#xF7; -2",
-      "answer": "-23/2",
-      "numberInputTypes": ["mix"],
+      "answer": "-11 1/2",
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "-38 &#xF7; -9",
-      "answer": "38/9",
-      "numberInputTypes": ["mix"],
+      "answer": "4 2/9",
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "60 &#xF7; 10",
       "answer": "6",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-9 &#xF7; -3",
       "answer": "3",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-40 &#xF7; 5",
       "answer": "-8",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "24 &#xF7; -4",
       "answer": "-6",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "0 &#xF7; 1",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "0"
     },
     {
       "question": "-30 &#xF7; 10",
       "answer": "-3",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "72 &#xF7; -12",
       "answer": "-6",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "0 &#xF7; 2",
       "answer": "0",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "12 &#xF7; -3",
       "answer": "-4",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "83 &#xF7; -9",
-      "answer": "-83/9",
-      "numberInputTypes": ["mix"],
+      "answer": "-9 2/9",
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "42 &#xF7; 7",
       "answer": "6",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-110 &#xF7; 10",
       "answer": "-11",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "3 &#xF7; 3",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "1"
     },
     {
       "question": "3 &#xF7; 1",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "3"
     },
     {
       "question": "-55 &#xF7; -11",
       "answer": "5",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "4 &#xF7; 0",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "undefined"
     },
     {
       "question": "108 &#xF7; 12",
       "answer": "9",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "72 &#xF7; 12",
       "answer": "6",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "3 &#xF7; 0",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "undefined"
     },
     {
       "question": "1 &#xF7; 1",
-      "expectedDenominators": [0],
-      "numberInputTypes": ["mix"],
+      "expectedDenominators": [
+        0
+      ],
+      "numberInputTypes": [
+        "mix"
+      ],
       "answer": "1"
     },
     {
       "question": "49 &#xF7; 7",
       "answer": "7",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-6 &#xF7; 2",
       "answer": "-3",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "43 &#xF7; 8",
-      "answer": "43/8",
-      "numberInputTypes": ["mix"],
+      "answer": "5 3/8",
+      "numberInputTypes": [
+        "mix"
+      ],
       "acceptNanAnswer": true
     },
     {
       "question": "-8 &#xF7; 2",
       "answer": "-4",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     }
   ]
 }

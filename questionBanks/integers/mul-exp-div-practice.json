@@ -1,5 +1,5 @@
 {
-  "inputTimeWaitSecs": 240,
+  "inputTimeWaitSecs": 	240,
   "questions": [
     {
       "question": "-98 &times; 6",
@@ -7,13 +7,17 @@
     },
     {
       "question": "-2375 &#xF7; -16",
-      "answer": "2375/16",
-      "numberInputTypes": ["mix"]
+      "answer": "148 7/16",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-8538 &#xF7; 5",
-      "answer": "-8538/5",
-      "numberInputTypes": ["mix"]
+      "answer": "-1707 3/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-92 &times; -10",
@@ -21,8 +25,10 @@
     },
     {
       "question": "-7846 &#xF7; -14",
-      "answer": "3923/7",
-      "numberInputTypes": ["mix"]
+      "answer": "560 3/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(-97)&sup2;",
@@ -38,8 +44,10 @@
     },
     {
       "question": "3790 &#xF7; -3",
-      "answer": "-3790/3",
-      "numberInputTypes": ["mix"]
+      "answer": "-1263 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "127 &times; -43",
@@ -48,13 +56,19 @@
     {
       "question": "-4566 &#xF7; -3",
       "answer": "1522",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-8097 &#xF7; -10",
-      "answer": "8097/10",
-      "numberInputTypes": ["mix"]
+      "answer": "809 7/10",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "499 &times; 66",
@@ -74,8 +88,10 @@
     },
     {
       "question": "149 &#xF7; 3",
-      "answer": "149/3",
-      "numberInputTypes": ["mix"]
+      "answer": "49 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "91 &times; -17",
@@ -103,18 +119,24 @@
     },
     {
       "question": "-2649 &#xF7; -4",
-      "answer": "2649/4",
-      "numberInputTypes": ["mix"]
+      "answer": "662 1/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-433 &#xF7; 9",
-      "answer": "-433/9",
-      "numberInputTypes": ["mix"]
+      "answer": "-48 1/9",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "6518 &#xF7; 4",
-      "answer": "3259/2",
-      "numberInputTypes": ["mix"]
+      "answer": "1629 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-62 &times; 106",
@@ -122,8 +144,10 @@
     },
     {
       "question": "9086 &#xF7; 15",
-      "answer": "9086/15",
-      "numberInputTypes": ["mix"]
+      "answer": "605 11/15",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-402 &times; 16",
@@ -132,23 +156,33 @@
     {
       "question": "9114 &#xF7; -7",
       "answer": "-1302",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-7309 &#xF7; -4",
-      "answer": "7309/4",
-      "numberInputTypes": ["mix"]
+      "answer": "1827 1/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "8259 &#xF7; -8",
-      "answer": "-8259/8",
-      "numberInputTypes": ["mix"]
+      "answer": "-1032 3/8",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3243 &#xF7; -12",
-      "answer": "-1081/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-270 1/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "18 &times; 384",
@@ -173,13 +207,19 @@
     {
       "question": "-272 &#xF7; 8",
       "answer": "-34",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "1127 &#xF7; 12",
-      "answer": "1127/12",
-      "numberInputTypes": ["mix"]
+      "answer": "93 11/12",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-55 &times; -56",
@@ -187,13 +227,17 @@
     },
     {
       "question": "-4810 &#xF7; 15",
-      "answer": "-962/3",
-      "numberInputTypes": ["mix"]
+      "answer": "-320 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "7995 &#xF7; -2",
-      "answer": "-7995/2",
-      "numberInputTypes": ["mix"]
+      "answer": "-3997 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-96 &times; 74",
@@ -206,8 +250,12 @@
     {
       "question": "830 &#xF7; -2",
       "answer": "-415",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "342 &times; 23",
@@ -219,13 +267,17 @@
     },
     {
       "question": "-7166 &#xF7; 7",
-      "answer": "-7166/7",
-      "numberInputTypes": ["mix"]
+      "answer": "-1023 5/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3390 &#xF7; 7",
-      "answer": "3390/7",
-      "numberInputTypes": ["mix"]
+      "answer": "484 2/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "399 &times; 80",
@@ -241,18 +293,24 @@
     },
     {
       "question": "373 &#xF7; -6",
-      "answer": "-373/6",
-      "numberInputTypes": ["mix"]
+      "answer": "-62 1/6",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-3404 &#xF7; -15",
-      "answer": "3404/15",
-      "numberInputTypes": ["mix"]
+      "answer": "226 14/15",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "565 &#xF7; -3",
-      "answer": "-565/3",
-      "numberInputTypes": ["mix"]
+      "answer": "-188 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-320 &times; -34",
@@ -272,13 +330,17 @@
     },
     {
       "question": "2860 &#xF7; 15",
-      "answer": "572/3",
-      "numberInputTypes": ["mix"]
+      "answer": "190 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3199 &#xF7; 3",
-      "answer": "3199/3",
-      "numberInputTypes": ["mix"]
+      "answer": "1066 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "42 &times; -460",
@@ -291,8 +353,12 @@
     {
       "question": "-555 &#xF7; 15",
       "answer": "-37",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "220 &times; -40",
@@ -300,13 +366,17 @@
     },
     {
       "question": "-4899 &#xF7; -8",
-      "answer": "4899/8",
-      "numberInputTypes": ["mix"]
+      "answer": "612 3/8",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3124 &#xF7; -3",
-      "answer": "-3124/3",
-      "numberInputTypes": ["mix"]
+      "answer": "-1041 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "121 &times; 42",
@@ -314,23 +384,31 @@
     },
     {
       "question": "4981 &#xF7; 7",
-      "answer": "4981/7",
-      "numberInputTypes": ["mix"]
+      "answer": "711 4/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "1706 &#xF7; 16",
-      "answer": "853/8",
-      "numberInputTypes": ["mix"]
+      "answer": "106 5/8",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-3386 &#xF7; -9",
-      "answer": "3386/9",
-      "numberInputTypes": ["mix"]
+      "answer": "376 2/9",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-9787 &#xF7; 13",
-      "answer": "-9787/13",
-      "numberInputTypes": ["mix"]
+      "answer": "-752 11/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "37 &times; 413",
@@ -338,18 +416,24 @@
     },
     {
       "question": "9205 &#xF7; -13",
-      "answer": "-9205/13",
-      "numberInputTypes": ["mix"]
+      "answer": "-708 1/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-9151 &#xF7; -16",
-      "answer": "9151/16",
-      "numberInputTypes": ["mix"]
+      "answer": "571 15/16",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "5059 &#xF7; 5",
-      "answer": "5059/5",
-      "numberInputTypes": ["mix"]
+      "answer": "1011 4/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-337 &times; 17",
@@ -369,8 +453,10 @@
     },
     {
       "question": "3012 &#xF7; -8",
-      "answer": "-753/2",
-      "numberInputTypes": ["mix"]
+      "answer": "-376 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "10 &times; 38",
@@ -382,45 +468,65 @@
     },
     {
       "question": "-9883 &#xF7; 3",
-      "answer": "-9883/3",
-      "numberInputTypes": ["mix"]
+      "answer": "-3294 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "1644 &#xF7; -2",
       "answer": "-822",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-3215 &#xF7; -16",
-      "answer": "3215/16",
-      "numberInputTypes": ["mix"]
+      "answer": "200 15/16",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3837 &#xF7; 10",
-      "answer": "3837/10",
-      "numberInputTypes": ["mix"]
+      "answer": "383 7/10",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3462 &#xF7; -13",
-      "answer": "-3462/13",
-      "numberInputTypes": ["mix"]
+      "answer": "-266 4/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "7701 &#xF7; 10",
-      "answer": "7701/10",
-      "numberInputTypes": ["mix"]
+      "answer": "770 1/10",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-1360 &#xF7; -4",
       "answer": "340",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-2285 &#xF7; -11",
-      "answer": "2285/11",
-      "numberInputTypes": ["mix"]
+      "answer": "207 8/11",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(312)&sup3;",
@@ -428,14 +534,20 @@
     },
     {
       "question": "5737 &#xF7; 3",
-      "answer": "5737/3",
-      "numberInputTypes": ["mix"]
+      "answer": "1912 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "8835 &#xF7; 3",
       "answer": "2945",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "13 &times; -41",
@@ -444,23 +556,33 @@
     {
       "question": "5352 &#xF7; -6",
       "answer": "-892",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-8053 &#xF7; 11",
-      "answer": "-8053/11",
-      "numberInputTypes": ["mix"]
+      "answer": "-732 1/11",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-4407 &#xF7; -9",
-      "answer": "1469/3",
-      "numberInputTypes": ["mix"]
+      "answer": "489 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "5196 &#xF7; -16",
-      "answer": "-1299/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-324 3/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(291)&sup3;",
@@ -472,8 +594,10 @@
     },
     {
       "question": "8573 &#xF7; -13",
-      "answer": "-8573/13",
-      "numberInputTypes": ["mix"]
+      "answer": "-659 6/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-21 &times; -131",
@@ -481,18 +605,24 @@
     },
     {
       "question": "7503 &#xF7; -14",
-      "answer": "-7503/14",
-      "numberInputTypes": ["mix"]
+      "answer": "-535 13/14",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-6306 &#xF7; 5",
-      "answer": "-6306/5",
-      "numberInputTypes": ["mix"]
+      "answer": "-1261 1/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "4491 &#xF7; -2",
-      "answer": "-4491/2",
-      "numberInputTypes": ["mix"]
+      "answer": "-2245 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-85 &times; 27",
@@ -508,8 +638,10 @@
     },
     {
       "question": "-6997 &#xF7; 12",
-      "answer": "-6997/12",
-      "numberInputTypes": ["mix"]
+      "answer": "-583 1/12",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "23 &times; -58",
@@ -526,13 +658,19 @@
     {
       "question": "-5508 &#xF7; -9",
       "answer": "612",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-1162 &#xF7; -11",
-      "answer": "1162/11",
-      "numberInputTypes": ["mix"]
+      "answer": "105 7/11",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(240)&sup2;",
@@ -549,8 +687,12 @@
     {
       "question": "6280 &#xF7; 5",
       "answer": "1256",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-219 &times; 62",
@@ -558,8 +700,10 @@
     },
     {
       "question": "-2842 &#xF7; -16",
-      "answer": "1421/8",
-      "numberInputTypes": ["mix"]
+      "answer": "177 5/8",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-83 &times; -97",
@@ -579,8 +723,10 @@
     },
     {
       "question": "6774 &#xF7; -5",
-      "answer": "-6774/5",
-      "numberInputTypes": ["mix"]
+      "answer": "-1354 4/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "27 &times; 89",
@@ -592,28 +738,38 @@
     },
     {
       "question": "-3769 &#xF7; 14",
-      "answer": "-3769/14",
-      "numberInputTypes": ["mix"]
+      "answer": "-269 3/14",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "5299 &#xF7; -13",
-      "answer": "-5299/13",
-      "numberInputTypes": ["mix"]
+      "answer": "-407 8/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "2649 &#xF7; -12",
-      "answer": "-883/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-220 3/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "1281 &#xF7; 9",
-      "answer": "427/3",
-      "numberInputTypes": ["mix"]
+      "answer": "142 1/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-1339 &#xF7; -5",
-      "answer": "1339/5",
-      "numberInputTypes": ["mix"]
+      "answer": "267 4/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "456 &times; -16",
@@ -621,8 +777,10 @@
     },
     {
       "question": "7274 &#xF7; -9",
-      "answer": "-7274/9",
-      "numberInputTypes": ["mix"]
+      "answer": "-808 2/9",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-361 &times; -12",
@@ -634,8 +792,10 @@
     },
     {
       "question": "961 &#xF7; 13",
-      "answer": "961/13",
-      "numberInputTypes": ["mix"]
+      "answer": "73 12/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "53 &times; 3",
@@ -647,8 +807,10 @@
     },
     {
       "question": "-9287 &#xF7; 7",
-      "answer": "-9287/7",
-      "numberInputTypes": ["mix"]
+      "answer": "-1326 5/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-51 &times; -90",
@@ -668,18 +830,24 @@
     },
     {
       "question": "-1001 &#xF7; 5",
-      "answer": "-1001/5",
-      "numberInputTypes": ["mix"]
+      "answer": "-200 1/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "107 &#xF7; 3",
-      "answer": "107/3",
-      "numberInputTypes": ["mix"]
+      "answer": "35 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "3720 &#xF7; 14",
-      "answer": "1860/7",
-      "numberInputTypes": ["mix"]
+      "answer": "265 5/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(488)&sup2;",
@@ -687,8 +855,10 @@
     },
     {
       "question": "425 &#xF7; -3",
-      "answer": "-425/3",
-      "numberInputTypes": ["mix"]
+      "answer": "-141 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-26 &times; 108",
@@ -701,23 +871,33 @@
     {
       "question": "9182 &#xF7; -2",
       "answer": "-4591",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "-6212 &#xF7; -14",
-      "answer": "3106/7",
-      "numberInputTypes": ["mix"]
+      "answer": "443 5/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-3515 &#xF7; 10",
-      "answer": "-703/2",
-      "numberInputTypes": ["mix"]
+      "answer": "-351 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-8503 &#xF7; -7",
-      "answer": "8503/7",
-      "numberInputTypes": ["mix"]
+      "answer": "1214 5/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "142 &times; -4",
@@ -737,8 +917,10 @@
     },
     {
       "question": "-1031 &#xF7; 4",
-      "answer": "-1031/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-257 3/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "48 &times; 36",
@@ -746,24 +928,34 @@
     },
     {
       "question": "-3790 &#xF7; 8",
-      "answer": "-1895/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-473 3/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-9816 &#xF7; 4",
       "answer": "-2454",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "1801 &#xF7; -4",
-      "answer": "-1801/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-450 1/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "8984 &#xF7; -15",
-      "answer": "-8984/15",
-      "numberInputTypes": ["mix"]
+      "answer": "-598 14/15",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-104 &times; 83",
@@ -775,19 +967,27 @@
     },
     {
       "question": "5106 &#xF7; 8",
-      "answer": "2553/4",
-      "numberInputTypes": ["mix"]
+      "answer": "638 1/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-2606 &#xF7; 9",
-      "answer": "-2606/9",
-      "numberInputTypes": ["mix"]
+      "answer": "-289 5/9",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-2094 &#xF7; 3",
       "answer": "-698",
-      "numberInputTypes": ["mix"],
-      "expectedDenominators": [0]
+      "numberInputTypes": [
+        "mix"
+      ],
+      "expectedDenominators": [
+        0
+      ]
     },
     {
       "question": "(-64)&sup2;",
@@ -803,13 +1003,17 @@
     },
     {
       "question": "-3863 &#xF7; 15",
-      "answer": "-3863/15",
-      "numberInputTypes": ["mix"]
+      "answer": "-257 8/15",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "5849 &#xF7; -14",
-      "answer": "-5849/14",
-      "numberInputTypes": ["mix"]
+      "answer": "-417 11/14",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "20 &times; -396",
@@ -817,8 +1021,10 @@
     },
     {
       "question": "-1713 &#xF7; -15",
-      "answer": "571/5",
-      "numberInputTypes": ["mix"]
+      "answer": "114 1/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(-102)&sup3;",
@@ -826,8 +1032,10 @@
     },
     {
       "question": "4950 &#xF7; -12",
-      "answer": "-825/2",
-      "numberInputTypes": ["mix"]
+      "answer": "-412 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(219)&sup3;",
@@ -835,13 +1043,17 @@
     },
     {
       "question": "2173 &#xF7; 6",
-      "answer": "2173/6",
-      "numberInputTypes": ["mix"]
+      "answer": "362 1/6",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-9429 &#xF7; 4",
-      "answer": "-9429/4",
-      "numberInputTypes": ["mix"]
+      "answer": "-2357 1/4",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-189 &times; 28",
@@ -849,13 +1061,17 @@
     },
     {
       "question": "7957 &#xF7; 10",
-      "answer": "7957/10",
-      "numberInputTypes": ["mix"]
+      "answer": "795 7/10",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-7269 &#xF7; 13",
-      "answer": "-7269/13",
-      "numberInputTypes": ["mix"]
+      "answer": "-559 2/13",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "(-229)&sup2;",
@@ -867,8 +1083,10 @@
     },
     {
       "question": "-8264 &#xF7; -10",
-      "answer": "4132/5",
-      "numberInputTypes": ["mix"]
+      "answer": "826 2/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "300 &times; 8",
@@ -880,13 +1098,17 @@
     },
     {
       "question": "-2900 &#xF7; 7",
-      "answer": "-2900/7",
-      "numberInputTypes": ["mix"]
+      "answer": "-414 2/7",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "2713 &#xF7; -14",
-      "answer": "-2713/14",
-      "numberInputTypes": ["mix"]
+      "answer": "-193 11/14",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "9 &times; 263",
@@ -902,18 +1124,24 @@
     },
     {
       "question": "-7648 &#xF7; 10",
-      "answer": "-3824/5",
-      "numberInputTypes": ["mix"]
+      "answer": "-764 4/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-8332 &#xF7; 5",
-      "answer": "-8332/5",
-      "numberInputTypes": ["mix"]
+      "answer": "-1666 2/5",
+      "numberInputTypes": [
+        "mix"
+      ]
     },
     {
       "question": "-7375 &#xF7; -10",
-      "answer": "1475/2",
-      "numberInputTypes": ["mix"]
+      "answer": "737 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
     }
   ]
 }
