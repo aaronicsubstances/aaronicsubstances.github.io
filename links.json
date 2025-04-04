@@ -297,14 +297,14 @@
           "questionBankUrl": "number-format-conversions/terminating-dec-to-approx-dec"
         },
         {
-          "title": "Rounding of decimal expansions (Part 2)",
-          "description": "Intended for manual practice",
-          "questionBankUrl": "number-format-conversions/fraction-to-approx-dec"
-        },
-        {
           "title": "Fractions to decimal expansions (Part 3)",
           "description": "Intended for manual practice",
           "questionBankUrl": "number-format-conversions/fraction-to-exact-dec"
+        },
+        {
+          "title": "Rounding of decimal expansions (Part 2)",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "number-format-conversions/fraction-to-approx-dec"
         },
         {
           "title": "Decimal expansions to fractions (Part 2)",
