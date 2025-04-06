@@ -1,5 +1,6 @@
 {
   "openingRemarks": "NB: you have to give answers as simplified fractions.",
+  "inputTimeWaitSecs": 	240,
   "questions": [
     {
       "question": "\\(\\dfrac{-70}{11} - \\dfrac{53}{2}\\)",
