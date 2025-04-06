@@ -1,6 +1,7 @@
 {
   "extraDescription": "for nonnegative fractions, in which the denominators are the same or one of the denominators is 1",
   "openingRemarks": "NB: you can give answers as unsimplified fractions.",
+  "inputTimeWaitSecs": 	90,
   "questions": [
     {
       "question": "\\(1 \\div \\dfrac{5}{9}\\)",
