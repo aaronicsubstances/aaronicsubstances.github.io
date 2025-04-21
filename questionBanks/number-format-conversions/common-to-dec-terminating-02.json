@@ -1,6 +1,6 @@
 {
   "extraDescription": "Convert simple fractions to terminating decimal expansions",
-  "inputTimeWaitSecs": 	240,
+  "inputTimeWaitSecs": 	300,
   "questions": [
     {
       "question": "Convert \\(\\dfrac{41}{2}\\) to decimal expansion",
