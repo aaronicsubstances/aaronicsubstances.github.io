@@ -1,6 +1,6 @@
 {
   "openingRemarks": "NB: you have to give answers as simplified fractions.",
-  "inputTimeWaitSecs": 	240,
+  "inputTimeWaitSecs": 240,
   "questions": [
     {
       "question": "\\(\\dfrac{17}{3} \\div \\dfrac{95}{7}\\)",
