@@ -1,6 +1,6 @@
 {
   "extraDescription": "Convert terminating decimal expansions to fractions",
-  "inputTimeWaitSecs": 	120,
+  "inputTimeWaitSecs": 	180,
   "questions": [
     {
       "question": "Convert 3.3 to fraction",

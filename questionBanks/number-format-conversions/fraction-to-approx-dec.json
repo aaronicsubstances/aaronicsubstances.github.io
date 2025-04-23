@@ -1,6 +1,6 @@
 {
   "extraDescription": "Convert fractions to rounded decimal expansions",
-  "inputTimeWaitSecs": 	240,
+  "inputTimeWaitSecs": 	360,
   "questions": [
     {
       "question": "Convert \\(\\dfrac{7}{2}\\) to decimal expansion and round to 3 decimal places",
