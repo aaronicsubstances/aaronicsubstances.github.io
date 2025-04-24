@@ -1,0 +1,355 @@
+{
+    "inputTimeWaitSecs": 120,
+    "questions": [
+      {
+        "question": "\\(113.5\\) + \\(8077\\)",
+        "answer": "8190.5",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(203.6\\) + \\(5.151\\)",
+        "answer": "208.751",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(28.2\\) &minus; \\(-22.19\\)",
+        "answer": "50.39",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(616.7\\) &minus; \\(43.27\\)",
+        "answer": "573.43",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(0.495\\) + \\(89.23\\)",
+        "answer": "89.725",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-470.2\\) &minus; \\(-5.482\\)",
+        "answer": "-464.718",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-7.134\\) + \\(-8116\\)",
+        "answer": "-8123.134",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(200.2\\) &minus; \\(71.25\\)",
+        "answer": "128.95",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(2.941\\) &minus; \\(439.1\\)",
+        "answer": "-436.159",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-70.34\\) &minus; \\(668\\)",
+        "answer": "-738.34",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(5852\\) + \\(172.2\\)",
+        "answer": "6024.2",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(887.6\\) &minus; \\(-8836\\)",
+        "answer": "9723.6",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(515.1\\) + \\(5.797\\)",
+        "answer": "520.897",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(25.72\\) + \\(7.547\\)",
+        "answer": "33.267",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(62.1\\) &minus; \\(633.2\\)",
+        "answer": "-571.1",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-682.6\\) &minus; \\(-9371\\)",
+        "answer": "8688.4",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(1.554\\) &minus; \\(3355\\)",
+        "answer": "-3353.446",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(798.7\\) + \\(55.49\\)",
+        "answer": "854.19",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(45.12\\) &minus; \\(-1983\\)",
+        "answer": "2028.12",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(44.7\\) + \\(9.238\\)",
+        "answer": "53.938",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(132.6\\) &minus; \\(2.017\\)",
+        "answer": "130.583",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(28.78\\) + \\(-162.4\\)",
+        "answer": "-133.62",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(1.211\\) + \\(9952\\)",
+        "answer": "9953.211",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(0.921\\) + \\(37.16\\)",
+        "answer": "38.081",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(19.67\\) + \\(5929\\)",
+        "answer": "5948.67",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-41.43\\) + \\(8902\\)",
+        "answer": "8860.57",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(5587\\) &minus; \\(-619.2\\)",
+        "answer": "6206.2",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(1966\\) + \\(1.585\\)",
+        "answer": "1967.585",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(3.957\\) &minus; \\(-869.7\\)",
+        "answer": "873.657",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-28.94\\) &minus; \\(4.8\\)",
+        "answer": "-33.74",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-89.7\\) + \\(63.36\\)",
+        "answer": "-26.34",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-939.4\\) + \\(397.1\\)",
+        "answer": "-542.3",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-55.08\\) + \\(586.2\\)",
+        "answer": "531.12",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(5.247\\) + \\(4480\\)",
+        "answer": "4485.247",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-80.8\\) &minus; \\(893.3\\)",
+        "answer": "-974.1",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-64.99\\) + \\(3.94\\)",
+        "answer": "-61.05",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(75.42\\) + \\(87.75\\)",
+        "answer": "163.17",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-58.47\\) &minus; \\(244.5\\)",
+        "answer": "-302.97",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(76.22\\) + \\(-5626\\)",
+        "answer": "-5549.78",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(0.328\\) &minus; \\(6.885\\)",
+        "answer": "-6.557",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(7798\\) + \\(9485\\)",
+        "answer": "17283",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(8408\\) &minus; \\(379.8\\)",
+        "answer": "8028.2",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-95.8\\) &minus; \\(-306.6\\)",
+        "answer": "210.8",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(5704\\) &minus; \\(0.611\\)",
+        "answer": "5703.389",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(50.75\\) + \\(-40.44\\)",
+        "answer": "10.31",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(9.379\\) &minus; \\(54.67\\)",
+        "answer": "-45.291",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-380.5\\) &minus; \\(9829\\)",
+        "answer": "-10209.5",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(94.16\\) &minus; \\(44.56\\)",
+        "answer": "49.6",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-67.26\\) + \\(82.39\\)",
+        "answer": "15.13",
+        "numberInputTypes": [
+          "dec"
+        ]
+      },
+      {
+        "question": "\\(-213.2\\) &minus; \\(628.7\\)",
+        "answer": "-841.9",
+        "numberInputTypes": [
+          "dec"
+        ]
+      }
+    ]
+  }
