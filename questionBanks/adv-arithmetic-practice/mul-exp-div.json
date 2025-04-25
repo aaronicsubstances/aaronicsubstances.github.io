@@ -2,174 +2,8 @@
   "inputTimeWaitSecs": 360,
   "questions": [
     {
-      "question": "\\(3.49\\) &times; \\(513\\)",
-      "answer": "1790.37",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(8.88\\) &times; \\(5.81\\)",
-      "answer": "51.5928",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(13.9^2\\)",
-      "answer": "193.21",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(0.559\\) &times; \\(45\\)",
-      "answer": "25.155",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.013\\) &div; \\(0.05\\) to 3 decimal places",
-      "answer": "0.260",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        3
-      ]
-    },
-    {
-      "question": "\\(66.6^2\\)",
-      "answer": "4435.56",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(175\\) &times; \\(21.5\\)",
-      "answer": "3762.5",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(0.859\\) &times; \\(-12.9\\)",
-      "answer": "-11.0811",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.013\\) &div; \\(0.008\\) to 0 decimal places",
-      "answer": "2.",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        0
-      ]
-    },
-    {
-      "question": "\\(593\\) &times; \\(44\\)",
-      "answer": "26092",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(0.782^2\\)",
-      "answer": "0.611524",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(852\\) &times; \\(8.61\\)",
-      "answer": "7335.72",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(-405\\) &times; \\(9.21\\)",
-      "answer": "-3730.05",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(38.7\\) &times; \\(89.4\\)",
-      "answer": "3459.78",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(-68\\) &times; \\(7.36\\)",
-      "answer": "-500.48",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(3\\) &div; \\(0.16\\) to 1 decimal place",
-      "answer": "18.8",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        1
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.016\\) &div; \\(12\\) to 3 decimal places",
-      "answer": "0.001",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        3
-      ]
-    },
-    {
-      "question": "\\(63.9\\) &times; \\(59.8\\)",
-      "answer": "3821.22",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(5.01^2\\)",
-      "answer": "25.1001",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(4.01\\) &times; \\(18\\)",
-      "answer": "72.18",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(55.8\\) &times; \\(0.82\\)",
-      "answer": "45.756",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(834\\) &times; \\(329\\)",
-      "answer": "274386",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.01\\) &div; \\(-0.009\\) to 2 decimal places",
-      "answer": "-1.11",
+      "question": "Round the result of \\(5\\) &div; \\(9\\) to 2 decimal places",
+      "answer": "0.56",
       "numberInputTypes": [
         "dec"
       ],
@@ -178,100 +12,64 @@
       ]
     },
     {
-      "question": "\\(549\\) &times; \\(1.76\\)",
-      "answer": "966.24",
+      "question": "\\((0.34)^2\\)",
+      "answer": "0.1156",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "\\(720^2\\)",
-      "answer": "518400",
+      "question": "\\(0.49\\) &times; \\(-792\\)",
+      "answer": "-388.08",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "\\(23.9\\) &times; \\(7.71\\)",
-      "answer": "184.269",
+      "question": "\\(6.06\\) &times; \\(0.225\\)",
+      "answer": "1.3635",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "\\(0.226\\) &times; \\(0.703\\)",
-      "answer": "0.158878",
+      "question": "\\(699\\) &times; \\(-4.61\\)",
+      "answer": "-3222.39",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Round the result of \\(16\\) &div; \\(0.007\\) to 3 decimal places",
-      "answer": "2285.714",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        3
-      ]
-    },
-    {
-      "question": "\\(0.978\\) &times; \\(0.472\\)",
-      "answer": "0.461616",
+      "question": "\\(957\\) &times; \\(725\\)",
+      "answer": "693825",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Round the result of \\(3\\) &div; \\(-9\\) to 1 decimal place",
-      "answer": "-0.3",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        1
-      ]
-    },
-    {
-      "question": "\\(287\\) &times; \\(1.72\\)",
-      "answer": "493.64",
+      "question": "\\(977\\) &times; \\(-6.14\\)",
+      "answer": "-5998.78",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Round the result of \\(0.6\\) &div; \\(4\\) to 1 decimal place",
-      "answer": "0.2",
+      "question": "\\(-821\\) &times; \\(63.9\\)",
+      "answer": "-52461.9",
       "numberInputTypes": [
         "dec"
-      ],
-      "expectedDps": [
-        1
       ]
     },
     {
-      "question": "Round the result of \\(0.1\\) &div; \\(4\\) to 0 decimal places",
-      "answer": "0.",
+      "question": "\\(23\\) &times; \\(3.82\\)",
+      "answer": "87.86",
       "numberInputTypes": [
         "dec"
-      ],
-      "expectedDps": [
-        0
       ]
     },
     {
-      "question": "Round the result of \\(0.4\\) &div; \\(0.01\\) to 3 decimal places",
-      "answer": "40.000",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        3
-      ]
-    },
-    {
-      "question": "Round the result of \\(7\\) &div; \\(0.001\\) to 4 decimal places",
-      "answer": "7000.0000",
+      "question": "Round the result of \\(0.5\\) &div; \\(12\\) to 4 decimal places",
+      "answer": "0.0417",
       "numberInputTypes": [
         "dec"
       ],
@@ -280,41 +78,62 @@
       ]
     },
     {
-      "question": "\\(449\\) &times; \\(0.876\\)",
-      "answer": "393.324",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0\\) &div; \\(0.16\\) to 1 decimal place",
-      "answer": "0.0",
+      "question": "Round the result of \\(1.5\\) &div; \\(5\\) to 3 decimal places",
+      "answer": "0.300",
       "numberInputTypes": [
         "dec"
       ],
       "expectedDps": [
-        1
+        3
       ]
     },
     {
-      "question": "Round the result of \\(-3\\) &div; \\(0.11\\) to 4 decimal places",
-      "answer": "-27.2727",
+      "question": "\\(-325\\) &times; \\(391\\)",
+      "answer": "-127075",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(940\\) &times; \\(97.2\\)",
+      "answer": "91368",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(92.5\\) &times; \\(4.7\\)",
+      "answer": "434.75",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(6.82\\) &times; \\(8\\)",
+      "answer": "54.56",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(0.588\\) &times; \\(-0.202\\)",
+      "answer": "-0.118776",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.16\\) &div; \\(6\\) to 2 decimal places",
+      "answer": "0.03",
       "numberInputTypes": [
         "dec"
       ],
       "expectedDps": [
-        4
+        2
       ]
     },
     {
-      "question": "\\(95.7\\) &times; \\(58.3\\)",
-      "answer": "5579.31",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0\\) &div; \\(-0.003\\) to 4 decimal places",
+      "question": "Round the result of \\(0\\) &div; \\(8\\) to 4 decimal places",
       "answer": "0.0000",
       "numberInputTypes": [
         "dec"
@@ -324,15 +143,25 @@
       ]
     },
     {
-      "question": "\\(96.1\\) &times; \\(40.5\\)",
-      "answer": "3892.05",
+      "question": "Round the result of \\(-0.3\\) &div; \\(0\\) to 0 decimal places",
+      "answer": "undefined",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        0
+      ]
+    },
+    {
+      "question": "\\(2.87\\) &times; \\(39.2\\)",
+      "answer": "112.504",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Round the result of \\(0.3\\) &div; \\(0.05\\) to 1 decimal place",
-      "answer": "6.0",
+      "question": "Round the result of \\(0.1\\) &div; \\(12\\) to 1 decimal place",
+      "answer": "0.0",
       "numberInputTypes": [
         "dec"
       ],
@@ -341,18 +170,15 @@
       ]
     },
     {
-      "question": "Round the result of \\(0.07\\) &div; \\(0.013\\) to 3 decimal places",
-      "answer": "5.385",
+      "question": "\\((85.4)^2\\)",
+      "answer": "7293.16",
       "numberInputTypes": [
         "dec"
-      ],
-      "expectedDps": [
-        3
       ]
     },
     {
-      "question": "Round the result of \\(0.3\\) &div; \\(9\\) to 4 decimal places",
-      "answer": "0.0333",
+      "question": "Round the result of \\(0.014\\) &div; \\(15\\) to 4 decimal places",
+      "answer": "0.0009",
       "numberInputTypes": [
         "dec"
       ],
@@ -361,25 +187,8 @@
       ]
     },
     {
-      "question": "\\(0.174\\) &times; \\(0.32\\)",
-      "answer": "0.05568",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.12\\) &div; \\(0.014\\) to 1 decimal place",
-      "answer": "8.6",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        1
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.002\\) &div; \\(0.007\\) to 2 decimal places",
-      "answer": "0.29",
+      "question": "Round the result of \\(7\\) &div; \\(-12\\) to 2 decimal places",
+      "answer": "-0.58",
       "numberInputTypes": [
         "dec"
       ],
@@ -388,27 +197,218 @@
       ]
     },
     {
-      "question": "\\(0.03\\) &times; \\(0.65\\)",
-      "answer": "0.0195",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "\\(0.475\\) &times; \\(210\\)",
-      "answer": "99.75",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.2\\) &div; \\(0.2\\) to 4 decimal places",
-      "answer": "1.0000",
+      "question": "Round the result of \\(0.09\\) &div; \\(0.15\\) to 4 decimal places",
+      "answer": "0.6000",
       "numberInputTypes": [
         "dec"
       ],
       "expectedDps": [
         4
+      ]
+    },
+    {
+      "question": "\\(-3.41\\) &times; \\(-0.127\\)",
+      "answer": "0.43307",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.04\\) &div; \\(-0.014\\) to 0 decimal places",
+      "answer": "-3.",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        0
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.13\\) &div; \\(0.015\\) to 4 decimal places",
+      "answer": "8.6667",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        4
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.016\\) &div; \\(-1.4\\) to 3 decimal places",
+      "answer": "-0.011",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        3
+      ]
+    },
+    {
+      "question": "\\(272\\) &times; \\(-97\\)",
+      "answer": "-26384",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.001\\) &div; \\(-0.016\\) to 4 decimal places",
+      "answer": "-0.0625",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        4
+      ]
+    },
+    {
+      "question": "Round the result of \\(-13\\) &div; \\(0.4\\) to 1 decimal place",
+      "answer": "-32.5",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        1
+      ]
+    },
+    {
+      "question": "\\((45.6)^2\\)",
+      "answer": "2079.36",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.1\\) &div; \\(0\\) to 2 decimal places",
+      "answer": "undefined",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.14\\) &div; \\(-0.014\\) to 2 decimal places",
+      "answer": "-10.00",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "Round the result of \\(11\\) &div; \\(5\\) to 2 decimal places",
+      "answer": "2.20",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "\\(86.9\\) &times; \\(986\\)",
+      "answer": "85683.4",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(8.7\\) &times; \\(831\\)",
+      "answer": "7229.7",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(7.84\\) &times; \\(2.1\\)",
+      "answer": "16.464",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0\\) &div; \\(-1\\) to 0 decimal places",
+      "answer": "0.",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        0
+      ]
+    },
+    {
+      "question": "\\(-192\\) &times; \\(1.74\\)",
+      "answer": "-334.08",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(-85.4\\) &times; \\(173\\)",
+      "answer": "-14774.2",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(0.949\\) &times; \\(0.466\\)",
+      "answer": "0.442234",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\((27.4)^2\\)",
+      "answer": "750.76",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\((0.256)^2\\)",
+      "answer": "0.065536",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(-405\\) &times; \\(12.2\\)",
+      "answer": "-4941",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(94.2\\) &times; \\(54\\)",
+      "answer": "5086.8",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(955\\) &times; \\(41.9\\)",
+      "answer": "40014.5",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(-11\\) &div; \\(3\\) to 2 decimal places",
+      "answer": "-3.67",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "\\(77\\) &times; \\(6.6\\)",
+      "answer": "508.2",
+      "numberInputTypes": [
+        "dec"
       ]
     }
   ]
