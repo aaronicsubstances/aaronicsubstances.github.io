@@ -360,7 +360,7 @@
       "answer": "0"
     },
     {
-      "question": "Compute \\(0.03\\) &times; \\(0.598\\) as a decimal expansion",
+      "question": "Compute \\(0.03\\) of \\(0.598\\) as a decimal expansion",
       "answer": "\\(0.01794\\)",
       "numberInputTypes": [
         "dec"
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "question": "Compute \\(21\\) &times; \\(125\\) as a decimal expansion",
+      "question": "Compute \\(21\\) of \\(125\\) as a decimal expansion",
       "answer": "\\(2625\\)",
       "numberInputTypes": [
         "dec"

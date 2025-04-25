@@ -160,7 +160,7 @@
       ]
     },
     {
-      "question": "Compute \\(497\\) &times; \\(507\\) as a mixed/proper fraction",
+      "question": "Compute \\(497\\) of \\(507\\) as a mixed/proper fraction",
       "answer": "\\(251979\\)",
       "numberInputTypes": [
         "mix"
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "question": "Compute \\(0.429\\) &times; \\(\\dfrac{619}{1000}\\) as a mixed/proper fraction",
+      "question": "Compute \\(0.429\\) of \\(\\dfrac{619}{1000}\\) as a mixed/proper fraction",
       "answer": "\\(\\dfrac{265551}{1000000}\\)",
       "numberInputTypes": [
         "mix"
