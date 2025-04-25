@@ -1,504 +1,504 @@
 {
-    "questions": [
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(43.2\\) and \\(6.287\\)?",
-        "choices": [
-          "\\(43.2 > 6.287\\)",
-          "\\(43.2 < 6.287\\)",
-          "\\(43.2 = 6.287\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(576.2\\) and \\(-6.118\\)?",
-        "choices": [
-          "\\(576.2 > -6.118\\)",
-          "\\(576.2 < -6.118\\)",
-          "\\(576.2 = -6.118\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(5.323\\) and \\(1.\\overline{714285}\\)?",
-        "choices": [
-          "\\(5.323 > 1.\\overline{714285}\\)",
-          "\\(5.323 < 1.\\overline{714285}\\)",
-          "\\(5.323 = 1.\\overline{714285}\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-52.3\\) and \\(150.5\\)?",
-        "choices": [
-          "\\(-52.3 > 150.5\\)",
-          "\\(-52.3 < 150.5\\)",
-          "\\(-52.3 = 150.5\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(9.988\\) and \\(82.32\\)?",
-        "choices": [
-          "\\(9.988 > 82.32\\)",
-          "\\(9.988 < 82.32\\)",
-          "\\(9.988 = 82.32\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(1577\\) and \\(-0.\\overline{81}\\)?",
-        "choices": [
-          "\\(1577 > -0.\\overline{81}\\)",
-          "\\(1577 < -0.\\overline{81}\\)",
-          "\\(1577 = -0.\\overline{81}\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-977.4\\) and \\(0.726\\)?",
-        "choices": [
-          "\\(-977.4 > 0.726\\)",
-          "\\(-977.4 < 0.726\\)",
-          "\\(-977.4 = 0.726\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-0.2\\) and \\(8072\\)?",
-        "choices": [
-          "\\(-0.2 > 8072\\)",
-          "\\(-0.2 < 8072\\)",
-          "\\(-0.2 = 8072\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(1.6\\) and \\(834\\)?",
-        "choices": [
-          "\\(1.6 > 834\\)",
-          "\\(1.6 < 834\\)",
-          "\\(1.6 = 834\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(9.873\\) and \\(-3.6\\)?",
-        "choices": [
-          "\\(9.873 > -3.6\\)",
-          "\\(9.873 < -3.6\\)",
-          "\\(9.873 = -3.6\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-581.8\\) and \\(-2.1\\overline{6}\\)?",
-        "choices": [
-          "\\(-581.8 > -2.1\\overline{6}\\)",
-          "\\(-581.8 < -2.1\\overline{6}\\)",
-          "\\(-581.8 = -2.1\\overline{6}\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(2.75\\) and \\(-5.863\\)?",
-        "choices": [
-          "\\(2.75 > -5.863\\)",
-          "\\(2.75 < -5.863\\)",
-          "\\(2.75 = -5.863\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(3990\\) and \\(0.625\\)?",
-        "choices": [
-          "\\(3990 > 0.625\\)",
-          "\\(3990 < 0.625\\)",
-          "\\(3990 = 0.625\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(64.35\\) and \\(394.8\\)?",
-        "choices": [
-          "\\(64.35 > 394.8\\)",
-          "\\(64.35 < 394.8\\)",
-          "\\(64.35 = 394.8\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-9006\\) and \\(-307.7\\)?",
-        "choices": [
-          "\\(-9006 > -307.7\\)",
-          "\\(-9006 < -307.7\\)",
-          "\\(-9006 = -307.7\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(359.2\\) and \\(7852\\)?",
-        "choices": [
-          "\\(359.2 > 7852\\)",
-          "\\(359.2 < 7852\\)",
-          "\\(359.2 = 7852\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(817.3\\) and \\(4.193\\)?",
-        "choices": [
-          "\\(817.3 > 4.193\\)",
-          "\\(817.3 < 4.193\\)",
-          "\\(817.3 = 4.193\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-56.94\\) and \\(64\\)?",
-        "choices": [
-          "\\(-56.94 > 64\\)",
-          "\\(-56.94 < 64\\)",
-          "\\(-56.94 = 64\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(8.927\\) and \\(-9.023\\)?",
-        "choices": [
-          "\\(8.927 > -9.023\\)",
-          "\\(8.927 < -9.023\\)",
-          "\\(8.927 = -9.023\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(887\\) and \\(9.337\\)?",
-        "choices": [
-          "\\(887 > 9.337\\)",
-          "\\(887 < 9.337\\)",
-          "\\(887 = 9.337\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(8232\\) and \\(238.3\\)?",
-        "choices": [
-          "\\(8232 > 238.3\\)",
-          "\\(8232 < 238.3\\)",
-          "\\(8232 = 238.3\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(415.8\\) and \\(58.56\\)?",
-        "choices": [
-          "\\(415.8 > 58.56\\)",
-          "\\(415.8 < 58.56\\)",
-          "\\(415.8 = 58.56\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(53.26\\) and \\(1\\)?",
-        "choices": [
-          "\\(53.26 > 1\\)",
-          "\\(53.26 < 1\\)",
-          "\\(53.26 = 1\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(28.73\\) and \\(-6\\)?",
-        "choices": [
-          "\\(28.73 > -6\\)",
-          "\\(28.73 < -6\\)",
-          "\\(28.73 = -6\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-4.6\\) and \\(15.67\\)?",
-        "choices": [
-          "\\(-4.6 > 15.67\\)",
-          "\\(-4.6 < 15.67\\)",
-          "\\(-4.6 = 15.67\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-1.1\\overline{6}\\) and \\(72.73\\)?",
-        "choices": [
-          "\\(-1.1\\overline{6} > 72.73\\)",
-          "\\(-1.1\\overline{6} < 72.73\\)",
-          "\\(-1.1\\overline{6} = 72.73\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(9863\\) and \\(0.723\\)?",
-        "choices": [
-          "\\(9863 > 0.723\\)",
-          "\\(9863 < 0.723\\)",
-          "\\(9863 = 0.723\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(308.1\\) and \\(9.707\\)?",
-        "choices": [
-          "\\(308.1 > 9.707\\)",
-          "\\(308.1 < 9.707\\)",
-          "\\(308.1 = 9.707\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(1249\\) and \\(143.1\\)?",
-        "choices": [
-          "\\(1249 > 143.1\\)",
-          "\\(1249 < 143.1\\)",
-          "\\(1249 = 143.1\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(9522\\) and \\(688\\)?",
-        "choices": [
-          "\\(9522 > 688\\)",
-          "\\(9522 < 688\\)",
-          "\\(9522 = 688\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(3.26\\) and \\(839.3\\)?",
-        "choices": [
-          "\\(3.26 > 839.3\\)",
-          "\\(3.26 < 839.3\\)",
-          "\\(3.26 = 839.3\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(0.682\\) and \\(50.65\\)?",
-        "choices": [
-          "\\(0.682 > 50.65\\)",
-          "\\(0.682 < 50.65\\)",
-          "\\(0.682 = 50.65\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(0.546\\) and \\(78.21\\)?",
-        "choices": [
-          "\\(0.546 > 78.21\\)",
-          "\\(0.546 < 78.21\\)",
-          "\\(0.546 = 78.21\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(0.\\overline{3}\\) and \\(25.39\\)?",
-        "choices": [
-          "\\(0.\\overline{3} > 25.39\\)",
-          "\\(0.\\overline{3} < 25.39\\)",
-          "\\(0.\\overline{3} = 25.39\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(3007\\) and \\(2.528\\)?",
-        "choices": [
-          "\\(3007 > 2.528\\)",
-          "\\(3007 < 2.528\\)",
-          "\\(3007 = 2.528\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(434\\) and \\(0.5\\)?",
-        "choices": [
-          "\\(434 > 0.5\\)",
-          "\\(434 < 0.5\\)",
-          "\\(434 = 0.5\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-348.8\\) and \\(-841.8\\)?",
-        "choices": [
-          "\\(-348.8 > -841.8\\)",
-          "\\(-348.8 < -841.8\\)",
-          "\\(-348.8 = -841.8\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(5804\\) and \\(-17.6\\)?",
-        "choices": [
-          "\\(5804 > -17.6\\)",
-          "\\(5804 < -17.6\\)",
-          "\\(5804 = -17.6\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(96.83\\) and \\(7823\\)?",
-        "choices": [
-          "\\(96.83 > 7823\\)",
-          "\\(96.83 < 7823\\)",
-          "\\(96.83 = 7823\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(42.49\\) and \\(41.08\\)?",
-        "choices": [
-          "\\(42.49 > 41.08\\)",
-          "\\(42.49 < 41.08\\)",
-          "\\(42.49 = 41.08\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(2.125\\) and \\(913.5\\)?",
-        "choices": [
-          "\\(2.125 > 913.5\\)",
-          "\\(2.125 < 913.5\\)",
-          "\\(2.125 = 913.5\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(45.33\\) and \\(6.027\\)?",
-        "choices": [
-          "\\(45.33 > 6.027\\)",
-          "\\(45.33 < 6.027\\)",
-          "\\(45.33 = 6.027\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(0.\\overline{90}\\) and \\(8002\\)?",
-        "choices": [
-          "\\(0.\\overline{90} > 8002\\)",
-          "\\(0.\\overline{90} < 8002\\)",
-          "\\(0.\\overline{90} = 8002\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(1687\\) and \\(-60.67\\)?",
-        "choices": [
-          "\\(1687 > -60.67\\)",
-          "\\(1687 < -60.67\\)",
-          "\\(1687 = -60.67\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(0.528\\) and \\(8.971\\)?",
-        "choices": [
-          "\\(0.528 > 8.971\\)",
-          "\\(0.528 < 8.971\\)",
-          "\\(0.528 = 8.971\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(556.4\\) and \\(81.74\\)?",
-        "choices": [
-          "\\(556.4 > 81.74\\)",
-          "\\(556.4 < 81.74\\)",
-          "\\(556.4 = 81.74\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(401.4\\) and \\(-4738\\)?",
-        "choices": [
-          "\\(401.4 > -4738\\)",
-          "\\(401.4 < -4738\\)",
-          "\\(401.4 = -4738\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(9475\\) and \\(642.6\\)?",
-        "choices": [
-          "\\(9475 > 642.6\\)",
-          "\\(9475 < 642.6\\)",
-          "\\(9475 = 642.6\\)"
-        ],
-        "answer": "0"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(-2680\\) and \\(0.184\\)?",
-        "choices": [
-          "\\(-2680 > 0.184\\)",
-          "\\(-2680 < 0.184\\)",
-          "\\(-2680 = 0.184\\)"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "mcq",
-        "question": "Which of the following is true about \\(623.4\\) and \\(3275\\)?",
-        "choices": [
-          "\\(623.4 > 3275\\)",
-          "\\(623.4 < 3275\\)",
-          "\\(623.4 = 3275\\)"
-        ],
-        "answer": "1"
-      }
-    ]
-  }
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-529.9\\) and \\(1.916\\)?",
+      "choices": [
+        "\\(-529.9 > 1.916\\)",
+        "\\(-529.9 < 1.916\\)",
+        "\\(-529.9 = 1.916\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(643.1\\) and \\(1.2\\)?",
+      "choices": [
+        "\\(643.1 > 1.2\\)",
+        "\\(643.1 < 1.2\\)",
+        "\\(643.1 = 1.2\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(84.88\\) and \\(-53.99\\)?",
+      "choices": [
+        "\\(84.88 > -53.99\\)",
+        "\\(84.88 < -53.99\\)",
+        "\\(84.88 = -53.99\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-1.\\overline{3}\\) and \\(-17.93\\)?",
+      "choices": [
+        "\\(-1.\\overline{3} > -17.93\\)",
+        "\\(-1.\\overline{3} < -17.93\\)",
+        "\\(-1.\\overline{3} = -17.93\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(0.\\overline{615384}\\) and \\(58.43\\)?",
+      "choices": [
+        "\\(0.\\overline{615384} > 58.43\\)",
+        "\\(0.\\overline{615384} < 58.43\\)",
+        "\\(0.\\overline{615384} = 58.43\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(3\\) and \\(0.5\\)?",
+      "choices": [
+        "\\(3 > 0.5\\)",
+        "\\(3 < 0.5\\)",
+        "\\(3 = 0.5\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(91.63\\) and \\(4.09\\)?",
+      "choices": [
+        "\\(91.63 > 4.09\\)",
+        "\\(91.63 < 4.09\\)",
+        "\\(91.63 = 4.09\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-267.9\\) and \\(2.262\\)?",
+      "choices": [
+        "\\(-267.9 > 2.262\\)",
+        "\\(-267.9 < 2.262\\)",
+        "\\(-267.9 = 2.262\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-345.4\\) and \\(7.832\\)?",
+      "choices": [
+        "\\(-345.4 > 7.832\\)",
+        "\\(-345.4 < 7.832\\)",
+        "\\(-345.4 = 7.832\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(3.148\\) and \\(6934\\)?",
+      "choices": [
+        "\\(3.148 > 6934\\)",
+        "\\(3.148 < 6934\\)",
+        "\\(3.148 = 6934\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(510.3\\) and \\(75.6\\)?",
+      "choices": [
+        "\\(510.3 > 75.6\\)",
+        "\\(510.3 < 75.6\\)",
+        "\\(510.3 = 75.6\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(3.854\\) and \\(0.\\overline{3}\\)?",
+      "choices": [
+        "\\(3.854 > 0.\\overline{3}\\)",
+        "\\(3.854 < 0.\\overline{3}\\)",
+        "\\(3.854 = 0.\\overline{3}\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(77.48\\) and \\(0.5\\)?",
+      "choices": [
+        "\\(77.48 > 0.5\\)",
+        "\\(77.48 < 0.5\\)",
+        "\\(77.48 = 0.5\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(3.84\\) and \\(3.476\\)?",
+      "choices": [
+        "\\(3.84 > 3.476\\)",
+        "\\(3.84 < 3.476\\)",
+        "\\(3.84 = 3.476\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(9.874\\) and \\(16.8\\)?",
+      "choices": [
+        "\\(9.874 > 16.8\\)",
+        "\\(9.874 < 16.8\\)",
+        "\\(9.874 = 16.8\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(2.818\\) and \\(31.04\\)?",
+      "choices": [
+        "\\(2.818 > 31.04\\)",
+        "\\(2.818 < 31.04\\)",
+        "\\(2.818 = 31.04\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(6446\\) and \\(-78\\)?",
+      "choices": [
+        "\\(6446 > -78\\)",
+        "\\(6446 < -78\\)",
+        "\\(6446 = -78\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(0.6\\) and \\(4654\\)?",
+      "choices": [
+        "\\(0.6 > 4654\\)",
+        "\\(0.6 < 4654\\)",
+        "\\(0.6 = 4654\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-838.9\\) and \\(-148.5\\)?",
+      "choices": [
+        "\\(-838.9 > -148.5\\)",
+        "\\(-838.9 < -148.5\\)",
+        "\\(-838.9 = -148.5\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-436.1\\) and \\(1477\\)?",
+      "choices": [
+        "\\(-436.1 > 1477\\)",
+        "\\(-436.1 < 1477\\)",
+        "\\(-436.1 = 1477\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(6.5\\) and \\(704.8\\)?",
+      "choices": [
+        "\\(6.5 > 704.8\\)",
+        "\\(6.5 < 704.8\\)",
+        "\\(6.5 = 704.8\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(4.82\\) and \\(1.865\\)?",
+      "choices": [
+        "\\(4.82 > 1.865\\)",
+        "\\(4.82 < 1.865\\)",
+        "\\(4.82 = 1.865\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-45.18\\) and \\(-2\\)?",
+      "choices": [
+        "\\(-45.18 > -2\\)",
+        "\\(-45.18 < -2\\)",
+        "\\(-45.18 = -2\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(1\\) and \\(89.8\\)?",
+      "choices": [
+        "\\(1 > 89.8\\)",
+        "\\(1 < 89.8\\)",
+        "\\(1 = 89.8\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(922.1\\) and \\(466.1\\)?",
+      "choices": [
+        "\\(922.1 > 466.1\\)",
+        "\\(922.1 < 466.1\\)",
+        "\\(922.1 = 466.1\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-24.41\\) and \\(6153\\)?",
+      "choices": [
+        "\\(-24.41 > 6153\\)",
+        "\\(-24.41 < 6153\\)",
+        "\\(-24.41 = 6153\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(73.87\\) and \\(4.276\\)?",
+      "choices": [
+        "\\(73.87 > 4.276\\)",
+        "\\(73.87 < 4.276\\)",
+        "\\(73.87 = 4.276\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(8.85\\) and \\(-439.6\\)?",
+      "choices": [
+        "\\(8.85 > -439.6\\)",
+        "\\(8.85 < -439.6\\)",
+        "\\(8.85 = -439.6\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(1.402\\) and \\(-2.8\\)?",
+      "choices": [
+        "\\(1.402 > -2.8\\)",
+        "\\(1.402 < -2.8\\)",
+        "\\(1.402 = -2.8\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(9.8\\) and \\(6.857\\)?",
+      "choices": [
+        "\\(9.8 > 6.857\\)",
+        "\\(9.8 < 6.857\\)",
+        "\\(9.8 = 6.857\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(9139\\) and \\(-445.2\\)?",
+      "choices": [
+        "\\(9139 > -445.2\\)",
+        "\\(9139 < -445.2\\)",
+        "\\(9139 = -445.2\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(0.6\\overline{428571}\\) and \\(0.8\\overline{6}\\)?",
+      "choices": [
+        "\\(0.6\\overline{428571} > 0.8\\overline{6}\\)",
+        "\\(0.6\\overline{428571} < 0.8\\overline{6}\\)",
+        "\\(0.6\\overline{428571} = 0.8\\overline{6}\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(10.62\\) and \\(-580.1\\)?",
+      "choices": [
+        "\\(10.62 > -580.1\\)",
+        "\\(10.62 < -580.1\\)",
+        "\\(10.62 = -580.1\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(0.7\\) and \\(5.067\\)?",
+      "choices": [
+        "\\(0.7 > 5.067\\)",
+        "\\(0.7 < 5.067\\)",
+        "\\(0.7 = 5.067\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(16.48\\) and \\(-1.1\\overline{6}\\)?",
+      "choices": [
+        "\\(16.48 > -1.1\\overline{6}\\)",
+        "\\(16.48 < -1.1\\overline{6}\\)",
+        "\\(16.48 = -1.1\\overline{6}\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(6118\\) and \\(4.711\\)?",
+      "choices": [
+        "\\(6118 > 4.711\\)",
+        "\\(6118 < 4.711\\)",
+        "\\(6118 = 4.711\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-46.26\\) and \\(1280\\)?",
+      "choices": [
+        "\\(-46.26 > 1280\\)",
+        "\\(-46.26 < 1280\\)",
+        "\\(-46.26 = 1280\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(73.57\\) and \\(89.46\\)?",
+      "choices": [
+        "\\(73.57 > 89.46\\)",
+        "\\(73.57 < 89.46\\)",
+        "\\(73.57 = 89.46\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-11.8\\) and \\(888.8\\)?",
+      "choices": [
+        "\\(-11.8 > 888.8\\)",
+        "\\(-11.8 < 888.8\\)",
+        "\\(-11.8 = 888.8\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(41.86\\) and \\(1.872\\)?",
+      "choices": [
+        "\\(41.86 > 1.872\\)",
+        "\\(41.86 < 1.872\\)",
+        "\\(41.86 = 1.872\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(0.9\\overline{285714}\\) and \\(779.8\\)?",
+      "choices": [
+        "\\(0.9\\overline{285714} > 779.8\\)",
+        "\\(0.9\\overline{285714} < 779.8\\)",
+        "\\(0.9\\overline{285714} = 779.8\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(5.952\\) and \\(3554\\)?",
+      "choices": [
+        "\\(5.952 > 3554\\)",
+        "\\(5.952 < 3554\\)",
+        "\\(5.952 = 3554\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(1.\\overline{076923}\\) and \\(76.07\\)?",
+      "choices": [
+        "\\(1.\\overline{076923} > 76.07\\)",
+        "\\(1.\\overline{076923} < 76.07\\)",
+        "\\(1.\\overline{076923} = 76.07\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-4498\\) and \\(-4.897\\)?",
+      "choices": [
+        "\\(-4498 > -4.897\\)",
+        "\\(-4498 < -4.897\\)",
+        "\\(-4498 = -4.897\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(0.\\overline{72}\\) and \\(-59.74\\)?",
+      "choices": [
+        "\\(0.\\overline{72} > -59.74\\)",
+        "\\(0.\\overline{72} < -59.74\\)",
+        "\\(0.\\overline{72} = -59.74\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(4.206\\) and \\(4409\\)?",
+      "choices": [
+        "\\(4.206 > 4409\\)",
+        "\\(4.206 < 4409\\)",
+        "\\(4.206 = 4409\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-0.9375\\) and \\(-1.\\overline{571428}\\)?",
+      "choices": [
+        "\\(-0.9375 > -1.\\overline{571428}\\)",
+        "\\(-0.9375 < -1.\\overline{571428}\\)",
+        "\\(-0.9375 = -1.\\overline{571428}\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(16.5\\) and \\(346.2\\)?",
+      "choices": [
+        "\\(16.5 > 346.2\\)",
+        "\\(16.5 < 346.2\\)",
+        "\\(16.5 = 346.2\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(22.06\\) and \\(5.808\\)?",
+      "choices": [
+        "\\(22.06 > 5.808\\)",
+        "\\(22.06 < 5.808\\)",
+        "\\(22.06 = 5.808\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(1.334\\) and \\(2295\\)?",
+      "choices": [
+        "\\(1.334 > 2295\\)",
+        "\\(1.334 < 2295\\)",
+        "\\(1.334 = 2295\\)"
+      ],
+      "answer": "1"
+    }
+  ]
+}

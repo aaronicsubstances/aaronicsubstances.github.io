@@ -310,7 +310,7 @@
       ]
     },
     {
-      "title": "C7 - Advanced Arithmetic Practice",
+      "title": "C7 - Arithmetic Across Numbers in Mixed Formats",
       "links": [
         {
           "title": "Comparison of Decimals",
@@ -322,17 +322,17 @@
           "questionBankUrl": "adv-arithmetic-practice/add-and-sub"
         },
         {
-          "title": "Multiplication and Division of Decimals",
+          "title": "Multiplication, Powers and Division of Decimals",
           "description": "Intended for manual practice",
-          "questionBankUrl": "adv-arithmetic-practice/mul-and-div"
+          "questionBankUrl": "adv-arithmetic-practice/mul-exp-div"
         },
         {
-          "title": "Part 1",
+          "title": "Arithmetic Involving Numbers in Mixed Formats (Part 1)",
           "description": "Intended for manual practice",
           "questionBankUrl": "adv-arithmetic-practice/manual-practice"
         },
         {
-          "title": "Part 2",
+          "title": "Arithmetic Involving Numbers in Mixed Formats (Part 2)",
           "description": "Intended for practice with calculator",
           "questionBankUrl": "adv-arithmetic-practice/calculator-practice"
         }
