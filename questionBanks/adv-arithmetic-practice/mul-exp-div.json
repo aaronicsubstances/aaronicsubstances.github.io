@@ -2,84 +2,84 @@
   "inputTimeWaitSecs": 360,
   "questions": [
     {
-      "question": "Compute \\(95\\frac{33}{100}\\) &minus; \\(6775\\) as a mixed/proper fraction",
-      "answer": "\\(6870\\frac{33}{100}\\)",
+      "question": "Round the result of \\(5\\) &div; \\(9\\) to 2 decimal places",
+      "answer": "0.56",
       "numberInputTypes": [
-        "mix"
+        "dec"
+      ],
+      "expectedDps": [
+        2
       ]
     },
     {
-      "question": "Compute \\(-4.511\\) + \\(366.7\\) as a decimal expansion",
-      "answer": "\\(362.189\\)",
+      "question": "\\((0.34)^2\\)",
+      "answer": "0.1156",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(-5.57\\) &minus; \\(5851\\) as a mixed/proper fraction",
-      "answer": "\\(5845\\frac{43}{100}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-9.195\\) &minus; \\(\\dfrac{2262}{5}\\) as a mixed/proper fraction",
-      "answer": "\\(-461\\frac{119}{200}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\dfrac{3497}{50}\\) &minus; \\(3464\\) as a mixed/proper fraction",
-      "answer": "\\(-3394\\frac{3}{50}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(0.014\\) &div; \\(\\dfrac{4}{5}\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{7}{400}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(27\\frac{11}{25}\\) + \\(3644\\) as a decimal expansion",
-      "answer": "\\(3671.44\\)",
+      "question": "\\(0.49\\) &times; \\(-792\\)",
+      "answer": "-388.08",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(-9\\frac{421}{500}\\) and \\(\\dfrac{2547}{50}\\)?",
-      "choices": [
-        "\\(-9\\frac{421}{500} > \\dfrac{2547}{50}\\)",
-        "\\(-9\\frac{421}{500} < \\dfrac{2547}{50}\\)",
-        "\\(-9\\frac{421}{500} = \\dfrac{2547}{50}\\)"
-      ],
-      "answer": "1"
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(6\\frac{219}{500}\\) and \\(61.64\\)?",
-      "choices": [
-        "\\(6\\frac{219}{500} > 61.64\\)",
-        "\\(6\\frac{219}{500} < 61.64\\)",
-        "\\(6\\frac{219}{500} = 61.64\\)"
-      ],
-      "answer": "1"
-    },
-    {
-      "question": "Compute \\(398\\) &times; \\(\\dfrac{78}{125}\\) as a mixed/proper fraction",
-      "answer": "\\(248\\frac{44}{125}\\)",
+      "question": "\\(6.06\\) &times; \\(0.225\\)",
+      "answer": "1.3635",
       "numberInputTypes": [
-        "mix"
+        "dec"
       ]
     },
     {
-      "question": "Round the result of \\(0.8\\) &div; \\(1.5\\) to 3 decimal places",
-      "answer": "0.533",
+      "question": "\\(699\\) &times; \\(-4.61\\)",
+      "answer": "-3222.39",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(957\\) &times; \\(725\\)",
+      "answer": "693825",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(977\\) &times; \\(-6.14\\)",
+      "answer": "-5998.78",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(-821\\) &times; \\(63.9\\)",
+      "answer": "-52461.9",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(23\\) &times; \\(3.82\\)",
+      "answer": "87.86",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.5\\) &div; \\(12\\) to 4 decimal places",
+      "answer": "0.0417",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        4
+      ]
+    },
+    {
+      "question": "Round the result of \\(1.5\\) &div; \\(5\\) to 3 decimal places",
+      "answer": "0.300",
       "numberInputTypes": [
         "dec"
       ],
@@ -88,18 +88,63 @@
       ]
     },
     {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(\\dfrac{7447}{1000}\\) and \\(484\\)?",
-      "choices": [
-        "\\(\\dfrac{7447}{1000} > 484\\)",
-        "\\(\\dfrac{7447}{1000} < 484\\)",
-        "\\(\\dfrac{7447}{1000} = 484\\)"
-      ],
-      "answer": "1"
+      "question": "\\(-325\\) &times; \\(391\\)",
+      "answer": "-127075",
+      "numberInputTypes": [
+        "dec"
+      ]
     },
     {
-      "question": "Round the result of \\(-0.07\\) &div; \\(-15\\) to 0 decimal places",
-      "answer": "0.",
+      "question": "\\(940\\) &times; \\(97.2\\)",
+      "answer": "91368",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(92.5\\) &times; \\(4.7\\)",
+      "answer": "434.75",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(6.82\\) &times; \\(8\\)",
+      "answer": "54.56",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(0.588\\) &times; \\(-0.202\\)",
+      "answer": "-0.118776",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.16\\) &div; \\(6\\) to 2 decimal places",
+      "answer": "0.03",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "Round the result of \\(0\\) &div; \\(8\\) to 4 decimal places",
+      "answer": "0.0000",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        4
+      ]
+    },
+    {
+      "question": "Round the result of \\(-0.3\\) &div; \\(0\\) to 0 decimal places",
+      "answer": "undefined",
       "numberInputTypes": [
         "dec"
       ],
@@ -108,14 +153,14 @@
       ]
     },
     {
-      "question": "Compute \\(0.15\\) &div; \\(10\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{3}{200}\\)",
+      "question": "\\(2.87\\) &times; \\(39.2\\)",
+      "answer": "112.504",
       "numberInputTypes": [
-        "mix"
+        "dec"
       ]
     },
     {
-      "question": "Round the result of \\(0\\) &div; \\(0.08\\) to 1 decimal place",
+      "question": "Round the result of \\(0.1\\) &div; \\(12\\) to 1 decimal place",
       "answer": "0.0",
       "numberInputTypes": [
         "dec"
@@ -125,339 +170,245 @@
       ]
     },
     {
-      "question": "Compute \\(231\\frac{1}{10}\\) &minus; \\(6\\frac{271}{1000}\\) as a decimal expansion",
-      "answer": "\\(224.829\\)",
+      "question": "\\((85.4)^2\\)",
+      "answer": "7293.16",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(9\\) &div; \\(0.07\\) as a mixed/proper fraction",
-      "answer": "\\(128\\frac{4}{7}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-292\\) &times; \\(690\\) as a mixed/proper fraction",
-      "answer": "\\(201480\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(66.91\\) + \\(749.1\\) as a decimal expansion",
-      "answer": "\\(816.01\\)",
+      "question": "Round the result of \\(0.014\\) &div; \\(15\\) to 4 decimal places",
+      "answer": "0.0009",
       "numberInputTypes": [
         "dec"
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(\\dfrac{16}{5}\\) and \\(909\\frac{1}{5}\\)?",
-      "choices": [
-        "\\(\\dfrac{16}{5} > 909\\frac{1}{5}\\)",
-        "\\(\\dfrac{16}{5} < 909\\frac{1}{5}\\)",
-        "\\(\\dfrac{16}{5} = 909\\frac{1}{5}\\)"
       ],
-      "answer": "1"
-    },
-    {
-      "question": "Compute \\(91\\frac{91}{100}\\) + \\(286\\) as a decimal expansion",
-      "answer": "\\(377.91\\)",
-      "numberInputTypes": [
-        "dec"
+      "expectedDps": [
+        4
       ]
     },
     {
-      "question": "Compute \\(1\\) &times; \\(-0.571\\) as a decimal expansion",
-      "answer": "\\(-0.571\\)",
+      "question": "Round the result of \\(7\\) &div; \\(-12\\) to 2 decimal places",
+      "answer": "-0.58",
       "numberInputTypes": [
         "dec"
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(9.899\\) and \\(\\dfrac{1}{10}\\)?",
-      "choices": [
-        "\\(9.899 > \\dfrac{1}{10}\\)",
-        "\\(9.899 < \\dfrac{1}{10}\\)",
-        "\\(9.899 = \\dfrac{1}{10}\\)"
       ],
-      "answer": "0"
-    },
-    {
-      "question": "Compute \\(\\left(704\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(495616\\)",
-      "numberInputTypes": [
-        "mix"
+      "expectedDps": [
+        2
       ]
     },
     {
-      "question": "Compute \\(0.847\\) &times; \\(65.9\\) as a decimal expansion",
-      "answer": "\\(55.8173\\)",
+      "question": "Round the result of \\(0.09\\) &div; \\(0.15\\) to 4 decimal places",
+      "answer": "0.6000",
       "numberInputTypes": [
         "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(1\\) &div; \\(-0.2\\) as a mixed/proper fraction",
-      "answer": "\\(5\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(4430\\) + \\(83.81\\) as a mixed/proper fraction",
-      "answer": "\\(4513\\frac{81}{100}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\dfrac{961}{200}\\) + \\(4623\\) as a mixed/proper fraction",
-      "answer": "\\(4627\\frac{161}{200}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(\\dfrac{-2343}{100}\\) and \\(101\\frac{3}{5}\\)?",
-      "choices": [
-        "\\(\\dfrac{-2343}{100} > 101\\frac{3}{5}\\)",
-        "\\(\\dfrac{-2343}{100} < 101\\frac{3}{5}\\)",
-        "\\(\\dfrac{-2343}{100} = 101\\frac{3}{5}\\)"
       ],
-      "answer": "1"
+      "expectedDps": [
+        4
+      ]
     },
     {
-      "question": "Compute \\(588\\) &times; \\(\\dfrac{299}{1000}\\) as a decimal expansion",
-      "answer": "\\(175.812\\)",
+      "question": "\\(-3.41\\) &times; \\(-0.127\\)",
+      "answer": "0.43307",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(53.85\\) and \\(-46.67\\)?",
-      "choices": [
-        "\\(53.85 > -46.67\\)",
-        "\\(53.85 < -46.67\\)",
-        "\\(53.85 = -46.67\\)"
+      "question": "Round the result of \\(0.04\\) &div; \\(-0.014\\) to 0 decimal places",
+      "answer": "-3.",
+      "numberInputTypes": [
+        "dec"
       ],
-      "answer": "0"
-    },
-    {
-      "question": "Compute \\(-0.06\\) &div; \\(9\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{1}{150}\\)",
-      "numberInputTypes": [
-        "mix"
+      "expectedDps": [
+        0
       ]
     },
     {
-      "question": "Compute \\(76.89\\) &minus; \\(-52.03\\) as a mixed/proper fraction",
-      "answer": "\\(128\\frac{23}{25}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(254\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(64516\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-9262\\) + \\(6\\frac{337}{500}\\) as a mixed/proper fraction",
-      "answer": "\\(-9255\\frac{163}{500}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(20.64\\) + \\(966\\frac{3}{10}\\) as a mixed/proper fraction",
-      "answer": "\\(986\\frac{47}{50}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(664.6\\) &minus; \\(\\dfrac{1411}{1000}\\) as a decimal expansion",
-      "answer": "\\(663.189\\)",
+      "question": "Round the result of \\(0.13\\) &div; \\(0.015\\) to 4 decimal places",
+      "answer": "8.6667",
       "numberInputTypes": [
         "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(\\dfrac{517}{1000}\\right)^2\\) as a decimal expansion",
-      "answer": "\\(0.267289\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(627.6\\) + \\(-9.294\\) as a mixed/proper fraction",
-      "answer": "\\(618\\frac{153}{500}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(4.75\\) and \\(1\\frac{1}{2}\\)?",
-      "choices": [
-        "\\(4.75 > 1\\frac{1}{2}\\)",
-        "\\(4.75 < 1\\frac{1}{2}\\)",
-        "\\(4.75 = 1\\frac{1}{2}\\)"
       ],
-      "answer": "0"
+      "expectedDps": [
+        4
+      ]
     },
     {
-      "question": "Compute \\(0.1\\) &div; \\(0\\) as a mixed/proper fraction",
+      "question": "Round the result of \\(0.016\\) &div; \\(-1.4\\) to 3 decimal places",
+      "answer": "-0.011",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        3
+      ]
+    },
+    {
+      "question": "\\(272\\) &times; \\(-97\\)",
+      "answer": "-26384",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.001\\) &div; \\(-0.016\\) to 4 decimal places",
+      "answer": "-0.0625",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        4
+      ]
+    },
+    {
+      "question": "Round the result of \\(-13\\) &div; \\(0.4\\) to 1 decimal place",
+      "answer": "-32.5",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        1
+      ]
+    },
+    {
+      "question": "\\((45.6)^2\\)",
+      "answer": "2079.36",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.1\\) &div; \\(0\\) to 2 decimal places",
       "answer": "undefined",
       "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(\\dfrac{-61}{500}\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{3721}{250000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(\\dfrac{123}{50}\\right)^2\\) as a decimal expansion",
-      "answer": "\\(6.0516\\)",
-      "numberInputTypes": [
         "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(-755\\) &times; \\(\\dfrac{-919}{1000}\\) as a mixed/proper fraction",
-      "answer": "\\(693\\frac{169}{200}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(\\dfrac{188}{5}\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(1413\\frac{19}{25}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(3466\\) and \\(478.4\\)?",
-      "choices": [
-        "\\(3466 > 478.4\\)",
-        "\\(3466 < 478.4\\)",
-        "\\(3466 = 478.4\\)"
       ],
-      "answer": "0"
+      "expectedDps": [
+        2
+      ]
     },
     {
-      "question": "Compute \\(0.03\\) of \\(0.598\\) as a decimal expansion",
-      "answer": "\\(0.01794\\)",
+      "question": "Round the result of \\(0.14\\) &div; \\(-0.014\\) to 2 decimal places",
+      "answer": "-10.00",
       "numberInputTypes": [
         "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(\\dfrac{-4489}{10}\\) &minus; \\(3178\\) as a decimal expansion",
-      "answer": "\\(-3626.9\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(994.6\\) + \\(-0.631\\) as a mixed/proper fraction",
-      "answer": "\\(993\\frac{969}{1000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(0.792\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{9801}{15625}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(0.57\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{3249}{10000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\dfrac{353}{1000}\\) &times; \\(\\dfrac{387}{5}\\) as a mixed/proper fraction",
-      "answer": "\\(27\\frac{1611}{5000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(-81.6\\right)^2\\) as a decimal expansion",
-      "answer": "\\(6658.56\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(\\dfrac{-363}{50}\\right)^2\\) as a decimal expansion",
-      "answer": "\\(52.7076\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(51\\frac{6}{25}\\) and \\(637\\frac{9}{10}\\)?",
-      "choices": [
-        "\\(51\\frac{6}{25} > 637\\frac{9}{10}\\)",
-        "\\(51\\frac{6}{25} < 637\\frac{9}{10}\\)",
-        "\\(51\\frac{6}{25} = 637\\frac{9}{10}\\)"
       ],
-      "answer": "1"
+      "expectedDps": [
+        2
+      ]
     },
     {
-      "question": "Compute \\(-0.935\\) &times; \\(1.57\\) as a decimal expansion",
-      "answer": "\\(-1.46795\\)",
+      "question": "Round the result of \\(11\\) &div; \\(5\\) to 2 decimal places",
+      "answer": "2.20",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "\\(86.9\\) &times; \\(986\\)",
+      "answer": "85683.4",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(21\\) of \\(125\\) as a decimal expansion",
-      "answer": "\\(2625\\)",
+      "question": "\\(8.7\\) &times; \\(831\\)",
+      "answer": "7229.7",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(8424\\) &minus; \\(484.5\\) as a mixed/proper fraction",
-      "answer": "\\(7939\\frac{1}{2}\\)",
+      "question": "\\(7.84\\) &times; \\(2.1\\)",
+      "answer": "16.464",
       "numberInputTypes": [
-        "mix"
+        "dec"
       ]
     },
     {
-      "question": "Compute \\(0.016\\) &div; \\(-1.4\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{2}{175}\\)",
+      "question": "Round the result of \\(0\\) &div; \\(-1\\) to 0 decimal places",
+      "answer": "0.",
       "numberInputTypes": [
-        "mix"
+        "dec"
+      ],
+      "expectedDps": [
+        0
       ]
     },
     {
-      "question": "Compute \\(58.22\\) &minus; \\(6\\frac{553}{1000}\\) as a mixed/proper fraction",
-      "answer": "\\(51\\frac{667}{1000}\\)",
+      "question": "\\(-192\\) &times; \\(1.74\\)",
+      "answer": "-334.08",
       "numberInputTypes": [
-        "mix"
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(-85.4\\) &times; \\(173\\)",
+      "answer": "-14774.2",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(0.949\\) &times; \\(0.466\\)",
+      "answer": "0.442234",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\((27.4)^2\\)",
+      "answer": "750.76",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\((0.256)^2\\)",
+      "answer": "0.065536",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(-405\\) &times; \\(12.2\\)",
+      "answer": "-4941",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(94.2\\) &times; \\(54\\)",
+      "answer": "5086.8",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(955\\) &times; \\(41.9\\)",
+      "answer": "40014.5",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(-11\\) &div; \\(3\\) to 2 decimal places",
+      "answer": "-3.67",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        2
+      ]
+    },
+    {
+      "question": "\\(77\\) &times; \\(6.6\\)",
+      "answer": "508.2",
+      "numberInputTypes": [
+        "dec"
       ]
     }
   ]
