@@ -339,7 +339,39 @@
       ]
     },
     {
-      "title": "C8 - Advanced Factorization",
+      "title": "C8 - Evaluating Expressions",
+      "links": [
+        {
+          "title": "Part 1",
+          "questionBankUrl": "expression-evaluation/01-arithmetic"
+        },
+        {
+          "title": "Part 2",
+          "questionBankUrl": "expression-evaluation/02-roots",
+          "description": "Involves roots"
+        },
+        {
+          "title": "Part 3",
+          "questionBankUrl": "expression-evaluation/03-functions",
+          "description": "Involves functions"
+        }
+      ]
+    },
+    {
+      "title": "C9 - Solving Linear Equations",
+      "links": [
+        {
+          "title": "Linear equations Part 1",
+          "questionBankUrl": "equation-solving/01-linear-equations"
+        },
+        {
+          "title": "Linear equations Part 2",
+          "questionBankUrl": "equation-solving/02-linear-equations"
+        }
+      ]
+    },
+    {
+      "title": "C10 - Advanced Factorization",
       "links": [
         {
           "title": "Finding Factors of Integers",
@@ -362,35 +394,8 @@
       ]
     },
     {
-      "title": "C9 - Evaluating Expressions",
+      "title": "C11 - Advanced Equation Solving",
       "links": [
-        {
-          "title": "Part 1",
-          "questionBankUrl": "expression-evaluation/01-arithmetic"
-        },
-        {
-          "title": "Part 2",
-          "questionBankUrl": "expression-evaluation/02-roots",
-          "description": "Involves roots"
-        },
-        {
-          "title": "Part 3",
-          "questionBankUrl": "expression-evaluation/03-functions",
-          "description": "Involves functions"
-        }
-      ]
-    },
-    {
-      "title": "C10 - Solving Equations",
-      "links": [
-        {
-          "title": "Linear equations Part 1",
-          "questionBankUrl": "equation-solving/01-linear-equations"
-        },
-        {
-          "title": "Linear equations Part 2",
-          "questionBankUrl": "equation-solving/02-linear-equations"
-        },
         {
           "title": "Quadratic equations Part 1",
           "questionBankUrl": "equation-solving/01-quadratic-equations"
