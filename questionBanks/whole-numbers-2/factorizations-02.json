@@ -1,5 +1,5 @@
 {
-  "openingRemarks": "NB:<p>1. Provide product anwers as two whole numbers separated by the symbol &times; or *. E.g. 22 &times; 34 (or 22 * 34)<p>2.",
+  "openingRemarks": "NB: For factorization questions, provide answers as two whole numbers separated by the symbol &times; or *. E.g. 22 &times; 34 (or 22 * 34)",
   "extraDescription": "for numbers in 26-50",
   "questions": [
     {

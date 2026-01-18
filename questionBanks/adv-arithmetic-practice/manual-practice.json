@@ -2,125 +2,50 @@
   "inputTimeWaitSecs": 360,
   "questions": [
     {
-      "question": "Compute \\(\\left(-14\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(196\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-1\\frac{7}{50}\\) + \\(699.6\\) as a decimal expansion",
-      "answer": "\\(698.46\\)",
+      "question": "Evaluate \\(10^{-3}\\) as decimal expansion",
+      "answer": "0.001",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(-9366\\) and \\(7731.5\\)?",
-      "choices": [
-        "\\(-9366 > 7731.5\\)",
-        "\\(-9366 < 7731.5\\)",
-        "\\(-9366 = 7731.5\\)"
-      ],
-      "answer": "1"
-    },
-    {
-      "question": "Compute \\(1.871\\) &minus; \\(701\\frac{3}{5}\\) as a mixed/proper fraction",
-      "answer": "\\(-699\\frac{729}{1000}\\)",
+      "question": "Evaluate \\(497\\) &times; \\(507\\) as a mixed/proper fraction",
+      "answer": "251979",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(13\\) &times; \\(477\\) as a decimal expansion",
-      "answer": "\\(6201\\)",
+      "question": "Evaluate \\(1\\frac{101}{250}\\) &minus; \\(285.5\\) as a decimal expansion",
+      "answer": "-284.096",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(\\dfrac{1}{6}\\) and \\(0.1\\overline{6}\\)?",
-      "choices": [
-        "\\(\\dfrac{1}{6} > 0.1\\overline{6}\\)",
-        "\\(\\dfrac{1}{6} < 0.1\\overline{6}\\)",
-        "\\(\\dfrac{1}{6} = 0.1\\overline{6}\\)"
-      ],
-      "answer": "2"
-    },
-    {
-      "question": "Round the result of \\(3\\) &div; \\(\\dfrac{3}{100}\\) to 1 decimal place",
-      "answer": "-100.0",
-      "numberInputTypes": [
-        "dec"
-      ],
-      "expectedDps": [
-        1
-      ]
-    },
-    {
-      "type": "mcq",
-      "question": "Which of the following is true about \\(50\\frac{4}{5}\\) and \\(\\dfrac{251}{5}\\)?",
-      "choices": [
-        "\\(50\\frac{4}{5} > \\dfrac{251}{5}\\)",
-        "\\(50\\frac{4}{5} < \\dfrac{251}{5}\\)",
-        "\\(50\\frac{4}{5} = \\dfrac{251}{5}\\)"
-      ],
-      "answer": "0"
-    },
-    {
-      "question": "Compute \\(\\left(-0.293\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{85849}{1000000}\\)",
+      "question": "Evaluate \\(948\\frac{3}{10}\\) &minus; \\(\\dfrac{7591}{1000}\\) as a mixed/proper fraction",
+      "answer": "940 709/1000",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(96.22\\) &minus; \\(\\dfrac{5221}{1000}\\) as a mixed/proper fraction",
-      "answer": "\\(90\\frac{999}{1000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-81\\frac{71}{100}\\) + \\(376.2\\) as a mixed/proper fraction",
-      "answer": "\\(294\\frac{49}{100}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(41\\frac{4}{5}\\) &times; \\(84.4\\) as a decimal expansion",
-      "answer": "\\(3527.92\\)",
+      "question": "Evaluate \\(4.888\\) &minus; \\(912\\frac{2}{5}\\) as a decimal expansion",
+      "answer": "-907.512",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(\\left(0.446\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{49729}{250000}\\)",
+      "question": "Evaluate \\(1.871\\) &minus; \\(701\\frac{3}{5}\\) as a mixed/proper fraction",
+      "answer": "-699 729/1000",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(947.6\\) + \\(169\\frac{4}{5}\\) as a decimal expansion",
-      "answer": "\\(1117.4\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(4.888\\) &minus; \\(912\\frac{2}{5}\\) as a decimal expansion",
-      "answer": "\\(-907.512\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(1\\frac{3}{10}\\) &div; \\(0.15\\) as a mixed/proper fraction",
-      "answer": "\\(8\\frac{2}{3}\\)",
+      "question": "Evaluate \\(\\left(0.446\\right)^2\\) as a mixed/proper fraction",
+      "answer": "49729/250000",
       "numberInputTypes": [
         "mix"
       ]
@@ -136,144 +61,53 @@
       "answer": "2"
     },
     {
-      "question": "Compute \\(948\\frac{3}{10}\\) &minus; \\(\\dfrac{7591}{1000}\\) as a mixed/proper fraction",
-      "answer": "\\(940\\frac{709}{1000}\\)",
+      "question": "Evaluate \\(3.041\\) + \\(2.067\\) as a mixed/proper fraction",
+      "answer": "5 27/250",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Round the result of \\(1\\) &div; \\(15\\) to 0 decimal places",
-      "answer": "0.",
+      "question": "Evaluate \\(-1\\frac{7}{50}\\) + \\(699.6\\) as a decimal expansion",
+      "answer": "698.46",
       "numberInputTypes": [
         "dec"
+      ]
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(\\dfrac{1}{6}\\) and \\(0.1\\overline{6}\\)?",
+      "choices": [
+        "\\(\\dfrac{1}{6} > 0.1\\overline{6}\\)",
+        "\\(\\dfrac{1}{6} < 0.1\\overline{6}\\)",
+        "\\(\\dfrac{1}{6} = 0.1\\overline{6}\\)"
       ],
-      "expectedDps": [
-        0
-      ]
+      "answer": "2"
     },
     {
-      "question": "Compute \\(37.6\\) &times; \\(\\dfrac{631}{10}\\) as a mixed/proper fraction",
-      "answer": "\\(2372\\frac{14}{25}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(497\\) &times; \\(507\\) as a mixed/proper fraction",
-      "answer": "\\(251979\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(36.9\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(1361\\frac{61}{100}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(0.637\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{405769}{1000000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(24.7\\right)^2\\) as a decimal expansion",
-      "answer": "\\(610.09\\)",
+      "question": "Evaluate \\(0^{-3}\\) as decimal expansion",
+      "answer": "undefined",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(2\\frac{601}{1000}\\) &minus; \\(\\dfrac{408}{5}\\) as a decimal expansion",
-      "answer": "\\(-78.999\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(880.1\\) + \\(-88.51\\) as a decimal expansion",
-      "answer": "\\(791.59\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(80\\frac{11}{25}\\) &minus; \\(-56.11\\) as a mixed/proper fraction",
-      "answer": "\\(136\\frac{11}{20}\\)",
+      "question": "Evaluate \\(\\left(0.637\\right)^2\\) as a mixed/proper fraction",
+      "answer": "405769/1000000",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(-82.43\\) + \\(-9244\\) as a mixed/proper fraction",
-      "answer": "\\(-9326\\frac{43}{100}\\)",
+      "question": "Evaluate \\(\\left(-14\\right)^2\\) as a mixed/proper fraction",
+      "answer": "196",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(-0.3\\) &div; \\(0.5\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{3}{5}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(291.5\\) + \\(3082\\) as a mixed/proper fraction",
-      "answer": "\\(3373\\frac{1}{2}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-1.4\\) &times; \\(-20.1\\) as a decimal expansion",
-      "answer": "\\(28.14\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(79\\right)^2\\) as a decimal expansion",
-      "answer": "\\(6241\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(\\left(0.789\\right)^2\\) as a decimal expansion",
-      "answer": "\\(0.622521\\)",
-      "numberInputTypes": [
-        "dec"
-      ]
-    },
-    {
-      "question": "Compute \\(0.003\\) &div; \\(0.07\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{3}{70}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(7179\\) &minus; \\(\\dfrac{201}{50}\\) as a mixed/proper fraction",
-      "answer": "\\(7174\\frac{49}{50}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(-9\\) &div; \\(\\dfrac{-1}{500}\\) as a mixed/proper fraction",
-      "answer": "\\(4500\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Round the result of \\(0.8\\) &div; \\(0.08\\) to 3 decimal places",
-      "answer": "10.000",
+      "question": "Round the result of \\(0\\) &div; \\(0.005\\) to 3 decimal places",
+      "answer": "0.000",
       "numberInputTypes": [
         "dec"
       ],
@@ -282,22 +116,77 @@
       ]
     },
     {
-      "question": "Compute \\(\\dfrac{489}{5}\\) &times; \\(\\dfrac{131}{500}\\) as a decimal expansion",
-      "answer": "\\(25.6236\\)",
+      "question": "Evaluate \\(10^{0}\\) as decimal expansion",
+      "answer": "1",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(\\dfrac{-593}{10}\\) &times; \\(\\dfrac{587}{1000}\\) as a mixed/proper fraction",
-      "answer": "\\(-34\\frac{8091}{10000}\\)",
+      "question": "Evaluate \\(\\left(\\dfrac{409}{100}\\right)^2\\) as a mixed/proper fraction",
+      "answer": "16 7281/10000",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(-324\\frac{3}{10}\\) &minus; \\(8841\\) as a mixed/proper fraction",
-      "answer": "\\(-9165\\frac{3}{10}\\)",
+      "type": "mcq",
+      "question": "Which of the following is true about \\(2.626\\) and \\(6\\frac{49}{100}\\)?",
+      "choices": [
+        "\\(2.626 > 6\\frac{49}{100}\\)",
+        "\\(2.626 < 6\\frac{49}{100}\\)",
+        "\\(2.626 = 6\\frac{49}{100}\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Evaluate \\(880.1\\) + \\(-88.51\\) as a decimal expansion",
+      "answer": "791.59",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(4^{-2}\\) as decimal expansion",
+      "answer": "0.0625",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(88.4\\) &times; \\(-85.5\\) as a decimal expansion",
+      "answer": "-7558.2",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(2\\frac{601}{1000}\\) &minus; \\(\\dfrac{408}{5}\\) as a decimal expansion",
+      "answer": "-78.999",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is true about \\(-263.7\\overline{91}\\) and \\(-263.791\\overline{91}\\)?",
+      "choices": [
+        "\\(-263.7\\overline{91} > -263.791\\overline{91}\\)",
+        "\\(-263.7\\overline{91} < -263.791\\overline{91}\\)",
+        "\\(-263.7\\overline{91} = -263.791\\overline{91}\\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Evaluate \\(\\left(-0.293\\right)^2\\) as a mixed/proper fraction",
+      "answer": "85849/1000000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-82.43\\) + \\(-9244\\) as a mixed/proper fraction",
+      "answer": "-9326 43/100",
       "numberInputTypes": [
         "mix"
       ]
@@ -313,25 +202,29 @@
       "answer": "0"
     },
     {
-      "question": "Round the result of \\(\\dfrac{1}{1000}\\) &div; \\(\\dfrac{6}{5}\\) to 1 decimal place",
-      "answer": "0.0",
+      "question": "Evaluate \\(-1.4\\) &times; \\(-20.1\\) as a decimal expansion",
+      "answer": "28.14",
       "numberInputTypes": [
         "dec"
-      ],
-      "expectedDps": [
-        1
       ]
     },
     {
-      "question": "Compute \\(3.041\\) + \\(2.067\\) as a mixed/proper fraction",
-      "answer": "\\(5\\frac{27}{250}\\)",
+      "question": "Evaluate \\(-81\\frac{71}{100}\\) + \\(376.2\\) as a mixed/proper fraction",
+      "answer": "294 49/100",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(-8\\frac{3}{20}\\) + \\(563\\) as a decimal expansion",
-      "answer": "\\(554.85\\)",
+      "question": "Evaluate \\(-6\\frac{101}{1000}\\) + \\(\\dfrac{4437}{500}\\) as a mixed/proper fraction",
+      "answer": "2 773/1000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(24.7\\right)^2\\) as a decimal expansion",
+      "answer": "610.09",
       "numberInputTypes": [
         "dec"
       ]
@@ -347,25 +240,223 @@
       "answer": "1"
     },
     {
-      "question": "Compute \\(\\left(\\dfrac{409}{100}\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(16\\frac{7281}{10000}\\)",
+      "question": "Evaluate \\(0.691\\) &times; \\(-56\\) as a mixed/proper fraction",
+      "answer": "-38 87/125",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-9\\) &div; \\(\\dfrac{-1}{500}\\) as a mixed/proper fraction",
+      "answer": "4500",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(25^{0.5}\\) as decimal expansion",
+      "answer": "5",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(4.93\\right)^2\\) as a mixed/proper fraction",
+      "answer": "24 3049/10000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Round the result of \\(1\\) &div; \\(15\\) to 0 decimal places",
+      "answer": "0.",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        0
+      ]
+    },
+    {
+      "question": "Evaluate \\(2^{-3}\\) as decimal expansion",
+      "answer": "0.125",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\((-2)^{-3}\\) as decimal expansion",
+      "answer": "-0.125",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(5^{-2}\\) as decimal expansion",
+      "answer": "0.04",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(1\\frac{3}{10}\\) &div; \\(0.15\\) as a mixed/proper fraction",
+      "answer": "8 2/3",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(0.789\\right)^2\\) as a decimal expansion",
+      "answer": "0.622521",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(36.9\\right)^2\\) as a mixed/proper fraction",
+      "answer": "1361 61/100",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "\\(\\sqrt{0.64}\\)",
+      "answer": "0.8",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\dfrac{-593}{10}\\) &times; \\(\\dfrac{587}{1000}\\) as a mixed/proper fraction",
+      "answer": "-34 8091/10000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(291.5\\) + \\(3082\\) as a mixed/proper fraction",
+      "answer": "3373 1/2",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(286\\frac{1}{5}\\) &minus; \\(\\dfrac{-72}{25}\\) as a mixed/proper fraction",
+      "answer": "289 2/25",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.009\\) &div; \\(0.02\\) as a mixed/proper fraction",
+      "answer": "9/20",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\dfrac{489}{5}\\) &times; \\(\\dfrac{131}{500}\\) as a decimal expansion",
+      "answer": "25.6236",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(4^{0.5}\\) as decimal expansion",
+      "answer": "2",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(13\\) &times; \\(477\\) as a decimal expansion",
+      "answer": "6201",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(37.6\\) &times; \\(\\dfrac{631}{10}\\) as a mixed/proper fraction",
+      "answer": "2372 14/25",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(79\\right)^2\\) as a decimal expansion",
+      "answer": "6241",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(\\dfrac{1}{1000}\\) &div; \\(\\dfrac{6}{5}\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        1
+      ]
+    },
+    {
+      "question": "Evaluate \\(41\\frac{4}{5}\\) &times; \\(84.4\\) as a decimal expansion",
+      "answer": "3527.92",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "\\(\\sqrt{0.25}\\)",
+      "answer": "0.5",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(4^{1.5}\\) as decimal expansion",
+      "answer": "8",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(96.22\\) &minus; \\(\\dfrac{5221}{1000}\\) as a mixed/proper fraction",
+      "answer": "90 999/1000",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
       "type": "mcq",
-      "question": "Which of the following is true about \\(58.01\\) and \\(-59.658\\)?",
+      "question": "Which of the following is true about \\(50\\frac{4}{5}\\) and \\(\\dfrac{251}{5}\\)?",
       "choices": [
-        "\\(58.01 > -59.658\\)",
-        "\\(58.01 < -59.658\\)",
-        "\\(58.01 = -59.658\\)"
+        "\\(50\\frac{4}{5} > \\dfrac{251}{5}\\)",
+        "\\(50\\frac{4}{5} < \\dfrac{251}{5}\\)",
+        "\\(50\\frac{4}{5} = \\dfrac{251}{5}\\)"
       ],
       "answer": "0"
     },
     {
-      "question": "Round the result of \\(0\\) &div; \\(0.005\\) to 3 decimal places",
-      "answer": "0.000",
+      "question": "Evaluate \\(80\\frac{11}{25}\\) &minus; \\(-56.11\\) as a mixed/proper fraction",
+      "answer": "136 11/20",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Round the result of \\(3\\) &div; \\(\\dfrac{3}{100}\\) to 1 decimal place",
+      "answer": "-100.0",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        1
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.8\\) &div; \\(0.08\\) to 3 decimal places",
+      "answer": "10.000",
       "numberInputTypes": [
         "dec"
       ],
@@ -384,84 +475,98 @@
       "answer": "1"
     },
     {
-      "question": "Compute \\(-6\\frac{101}{1000}\\) + \\(\\dfrac{4437}{500}\\) as a mixed/proper fraction",
-      "answer": "\\(2\\frac{773}{1000}\\)",
+      "question": "Evaluate \\(947.6\\) + \\(169\\frac{4}{5}\\) as a decimal expansion",
+      "answer": "1117.4",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(2^{-2}\\) as decimal expansion",
+      "answer": "0.25",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(16^{0.5}\\) as decimal expansion",
+      "answer": "4",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.003\\) &div; \\(0.07\\) as a mixed/proper fraction",
+      "answer": "3/70",
       "numberInputTypes": [
         "mix"
       ]
     },
     {
-      "question": "Compute \\(1\\frac{101}{250}\\) &minus; \\(285.5\\) as a decimal expansion",
-      "answer": "\\(-284.096\\)",
+      "question": "Evaluate \\(7179\\) &minus; \\(\\dfrac{201}{50}\\) as a mixed/proper fraction",
+      "answer": "7174 49/50",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-8\\frac{3}{20}\\) + \\(563\\) as a decimal expansion",
+      "answer": "554.85",
       "numberInputTypes": [
         "dec"
       ]
     },
     {
-      "question": "Compute \\(88.4\\) &times; \\(-85.5\\) as a decimal expansion",
-      "answer": "\\(-7558.2\\)",
+      "question": "Evaluate \\(-324\\frac{3}{10}\\) &minus; \\(8841\\) as a mixed/proper fraction",
+      "answer": "-9165 3/10",
       "numberInputTypes": [
-        "dec"
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(992.7\\) + \\(4969\\) as a mixed/proper fraction",
+      "answer": "5961 7/10",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.429\\) &times; \\(\\dfrac{619}{1000}\\) as a mixed/proper fraction",
+      "answer": "265551/1000000",
+      "numberInputTypes": [
+        "mix"
       ]
     },
     {
       "type": "mcq",
-      "question": "Which of the following is true about \\(-263.7\\overline{91}\\) and \\(-263.791\\overline{91}\\)?",
+      "question": "Which of the following is true about \\(58.01\\) and \\(-59.658\\)?",
       "choices": [
-        "\\(-263.7\\overline{91} > -263.791\\overline{91}\\)",
-        "\\(-263.7\\overline{91} < -263.791\\overline{91}\\)",
-        "\\(-263.7\\overline{91} = -263.791\\overline{91}\\)"
+        "\\(58.01 > -59.658\\)",
+        "\\(58.01 < -59.658\\)",
+        "\\(58.01 = -59.658\\)"
       ],
-      "answer": "2"
+      "answer": "0"
     },
     {
-      "question": "Compute \\(\\left(4.93\\right)^2\\) as a mixed/proper fraction",
-      "answer": "\\(24\\frac{3049}{10000}\\)",
+      "question": "\\(\\sqrt{0.5625}\\)",
+      "answer": "0.75",
       "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(0.009\\) &div; \\(0.02\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{9}{20}\\)",
-      "numberInputTypes": [
-        "mix"
+        "dec"
       ]
     },
     {
       "type": "mcq",
-      "question": "Which of the following is true about \\(2.626\\) and \\(6\\frac{49}{100}\\)?",
+      "question": "Which of the following is true about \\(-9366\\) and \\(7731.5\\)?",
       "choices": [
-        "\\(2.626 > 6\\frac{49}{100}\\)",
-        "\\(2.626 < 6\\frac{49}{100}\\)",
-        "\\(2.626 = 6\\frac{49}{100}\\)"
+        "\\(-9366 > 7731.5\\)",
+        "\\(-9366 < 7731.5\\)",
+        "\\(-9366 = 7731.5\\)"
       ],
       "answer": "1"
     },
     {
-      "question": "Compute \\(992.7\\) + \\(4969\\) as a mixed/proper fraction",
-      "answer": "\\(5961\\frac{7}{10}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(286\\frac{1}{5}\\) &minus; \\(\\dfrac{-72}{25}\\) as a mixed/proper fraction",
-      "answer": "\\(289\\frac{2}{25}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(0.429\\) &times; \\(\\dfrac{619}{1000}\\) as a mixed/proper fraction",
-      "answer": "\\(\\dfrac{265551}{1000000}\\)",
-      "numberInputTypes": [
-        "mix"
-      ]
-    },
-    {
-      "question": "Compute \\(0.691\\) &times; \\(-56\\) as a mixed/proper fraction",
-      "answer": "\\(-38\\frac{87}{125}\\)",
+      "question": "Evaluate \\(-0.3\\) &div; \\(0.5\\) as a mixed/proper fraction",
+      "answer": "3/5",
       "numberInputTypes": [
         "mix"
       ]

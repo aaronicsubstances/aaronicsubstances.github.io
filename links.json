@@ -89,22 +89,22 @@
       ]
     },
     {
-      "title": "C2 - Factorization",
+      "title": "C2 - Recalling of Factorization Facts",
       "links": [
         {
-          "title": "Factorization Part 1",
+          "title": "Factorization Facts Part 1",
           "questionBankUrl": "whole-numbers-2/factorizations-01"
         },
         {
-          "title": "Factorization Part 2",
+          "title": "Factorization Facts Part 2",
           "questionBankUrl": "whole-numbers-2/factorizations-02"
         },
         {
-          "title": "Factorization Part 3",
+          "title": "Factorization Facts Part 3",
           "questionBankUrl": "whole-numbers-2/factorizations-03"
         },
         {
-          "title": "Factorization Part 4",
+          "title": "Factorization Facts Part 4",
           "questionBankUrl": "whole-numbers-2/factorizations-04"
         }
       ]
@@ -322,9 +322,14 @@
           "questionBankUrl": "adv-arithmetic-practice/add-and-sub"
         },
         {
-          "title": "Multiplication, Powers and Division of Decimals",
+          "title": "Multiplication and Division of Decimals",
           "description": "Intended for manual practice",
-          "questionBankUrl": "adv-arithmetic-practice/mul-exp-div"
+          "questionBankUrl": "adv-arithmetic-practice/mul-and-div"
+        },
+        {
+          "title": "Integer and Fraction Exponents",
+          "description": "Intended for manual practice",
+          "questionBankUrl": "adv-arithmetic-practice/exp-and-roots"
         },
         {
           "title": "Arithmetic Across Number Formats (Part 1)",

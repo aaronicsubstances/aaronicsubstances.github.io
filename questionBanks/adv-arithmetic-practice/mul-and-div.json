@@ -1,0 +1,224 @@
+{
+  "inputTimeWaitSecs": 360,
+  "questions": [
+    {
+      "question": "Evaluate \\(\\dfrac{353}{1000}\\) &times; \\(\\dfrac{387}{5}\\) as a mixed/proper fraction",
+      "answer": "27 1611/5000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.1\\) &div; \\(0\\) as a mixed/proper fraction",
+      "answer": "undefined",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(21\\) &times; \\(125\\) as a decimal expansion",
+      "answer": "2625",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.03\\) &times; \\(0.598\\) as a decimal expansion",
+      "answer": "0.01794",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(-81.6\\right)^2\\) as a decimal expansion",
+      "answer": "6658.56",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-292\\) &times; \\(690\\) as a mixed/proper fraction",
+      "answer": "201480",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-0.935\\) &times; \\(1.57\\) as a decimal expansion",
+      "answer": "-1.46795",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(\\dfrac{-363}{50}\\right)^2\\) as a decimal expansion",
+      "answer": "52.7076",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(1\\) &div; \\(-0.2\\) as a mixed/proper fraction",
+      "answer": "5",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(254\\right)^2\\) as a mixed/proper fraction",
+      "answer": "64516",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(1\\) &times; \\(-0.571\\) as a decimal expansion",
+      "answer": "-0.571",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.847\\) &times; \\(65.9\\) as a decimal expansion",
+      "answer": "55.8173",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0\\) &div; \\(0.08\\) to 1 decimal place",
+      "answer": "0.0",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        1
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(\\dfrac{517}{1000}\\right)^2\\) as a decimal expansion",
+      "answer": "0.267289",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Round the result of \\(-0.07\\) &div; \\(-15\\) to 0 decimal places",
+      "answer": "0.",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        0
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(\\dfrac{123}{50}\\right)^2\\) as a decimal expansion",
+      "answer": "6.0516",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-755\\) &times; \\(\\dfrac{-919}{1000}\\) as a mixed/proper fraction",
+      "answer": "693 169/200",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Round the result of \\(0.8\\) &div; \\(1.5\\) to 3 decimal places",
+      "answer": "0.533",
+      "numberInputTypes": [
+        "dec"
+      ],
+      "expectedDps": [
+        3
+      ]
+    },
+    {
+      "question": "Evaluate \\(398\\) &times; \\(\\dfrac{78}{125}\\) as a mixed/proper fraction",
+      "answer": "248 44/125",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(588\\) &times; \\(\\dfrac{299}{1000}\\) as a decimal expansion",
+      "answer": "175.812",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.15\\) &div; \\(10\\) as a mixed/proper fraction",
+      "answer": "3/200",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(9\\) &div; \\(0.07\\) as a mixed/proper fraction",
+      "answer": "128 4/7",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(704\\right)^2\\) as a mixed/proper fraction",
+      "answer": "495616",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.014\\) &div; \\(\\dfrac{4}{5}\\) as a mixed/proper fraction",
+      "answer": "7/400",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(0.57\\right)^2\\) as a mixed/proper fraction",
+      "answer": "3249/10000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(\\dfrac{188}{5}\\right)^2\\) as a mixed/proper fraction",
+      "answer": "1413  19/25",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(-0.06\\) &div; \\(9\\) as a mixed/proper fraction",
+      "answer": "1/150",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(\\dfrac{-61}{500}\\right)^2\\) as a mixed/proper fraction",
+      "answer": "3721/250000",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(0.016\\) &div; \\(-1.4\\) as a mixed/proper fraction",
+      "answer": "2/175",
+      "numberInputTypes": [
+        "mix"
+      ]
+    },
+    {
+      "question": "Evaluate \\(\\left(0.792\\right)^2\\) as a mixed/proper fraction",
+      "answer": "9801/15625",
+      "numberInputTypes": [
+        "mix"
+      ]
+    }
+  ]
+}
