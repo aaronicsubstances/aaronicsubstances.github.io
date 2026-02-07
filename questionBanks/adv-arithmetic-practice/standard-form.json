@@ -1,0 +1,355 @@
+{
+  "openingRemarks": "Enter standard form answers like this: 2.1 E 3, to mean 2.1 times 10 exponent 3 = 2.1 times 1000 = 2100 ",
+  "questions": [
+    {
+      "question": "Convert -1.433 &times; 10<sup>0</sup> to decimal expansion",
+      "answer": "-1.433",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -2170 to standard form",
+      "answer": "-2.17e3",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 0.943 to standard form",
+      "answer": "9.43e-1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 1.619 &times; 10<sup>-2</sup> to decimal expansion",
+      "answer": "0.01619",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 7.7 &times; 10<sup>-2</sup> to decimal expansion",
+      "answer": "0.077",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 6.37 &times; 10<sup>5</sup> to decimal expansion",
+      "answer": "637000",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1.467 &times; 10<sup>-2</sup> to decimal expansion",
+      "answer": "0.01467",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -1.921 &times; 10<sup>5</sup> to decimal expansion",
+      "answer": "-192100",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1.473 &times; 10<sup>2</sup> to decimal expansion",
+      "answer": "147.3",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -1.469 &times; 10<sup>-2</sup> to decimal expansion",
+      "answer": "-0.01469",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 8.7 &times; 10<sup>4</sup> to decimal expansion",
+      "answer": "87000",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -0.01977 to standard form",
+      "answer": "-1.977e-2",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 6390 to standard form",
+      "answer": "6.39e3",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 1.029 &times; 10<sup>-2</sup> to decimal expansion",
+      "answer": "0.01029",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 9.31 &times; 10<sup>4</sup> to decimal expansion",
+      "answer": "93100",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 0.1563 to standard form",
+      "answer": "1.563e-1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert -0.987 to standard form",
+      "answer": "-9.87e-1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 16.9 to standard form",
+      "answer": "1.69e1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 1.569 to standard form",
+      "answer": "1.569e0",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 9.91 &times; 10<sup>0</sup> to decimal expansion",
+      "answer": "9.91",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -1.293 &times; 10<sup>1</sup> to decimal expansion",
+      "answer": "-12.93",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 38.7 to standard form",
+      "answer": "3.87e1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 7.59 &times; 10<sup>0</sup> to decimal expansion",
+      "answer": "7.59",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 0.01377 to standard form",
+      "answer": "1.377e-2",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 193000 to standard form",
+      "answer": "1.93e5",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 0.1699 to standard form",
+      "answer": "1.699e-1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 1.201 &times; 10<sup>2</sup> to decimal expansion",
+      "answer": "120.1",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 2.01 &times; 10<sup>4</sup> to decimal expansion",
+      "answer": "20100",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -0.00611 to standard form",
+      "answer": "-6.11e-3",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert -8.57 &times; 10<sup>0</sup> to decimal expansion",
+      "answer": "-8.57",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1157000 to standard form",
+      "answer": "1.157e6",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 167.7 to standard form",
+      "answer": "1.677e2",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 1.957 &times; 10<sup>5</sup> to decimal expansion",
+      "answer": "195700",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1.403 &times; 10<sup>2</sup> to decimal expansion",
+      "answer": "140.3",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 0.00973 to standard form",
+      "answer": "9.73e-3",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 5870 to standard form",
+      "answer": "5.87e3",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 0.869 to standard form",
+      "answer": "8.69e-1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 481000 to standard form",
+      "answer": "4.81e5",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 7.17 &times; 10<sup>-2</sup> to decimal expansion",
+      "answer": "0.0717",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1.177 &times; 10<sup>2</sup> to decimal expansion",
+      "answer": "117.7",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1.969 &times; 10<sup>1</sup> to decimal expansion",
+      "answer": "19.69",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert -17.97 to standard form",
+      "answer": "-1.797e1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 10.07 to standard form",
+      "answer": "1.007e1",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert -1.807 &times; 10<sup>6</sup> to decimal expansion",
+      "answer": "-1807000",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 0.00803 to standard form",
+      "answer": "8.03e-3",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 8.81 &times; 10<sup>1</sup> to decimal expansion",
+      "answer": "88.1",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 28300 to standard form",
+      "answer": "2.83e4",
+      "numberInputTypes": [
+        "stdf"
+      ]
+    },
+    {
+      "question": "Convert 1.631 &times; 10<sup>4</sup> to decimal expansion",
+      "answer": "16310",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 8.71 &times; 10<sup>-3</sup> to decimal expansion",
+      "answer": "0.00871",
+      "numberInputTypes": [
+        "dec"
+      ]
+    },
+    {
+      "question": "Convert 1.061 &times; 10<sup>1</sup> to decimal expansion",
+      "answer": "10.61",
+      "numberInputTypes": [
+        "dec"
+      ]
+    }
+  ]
+}

@@ -294,7 +294,6 @@
         },
         {
           "title": "Rounding of decimal expansions (Part 1)",
-          "description": "Intended for manual practice",
           "questionBankUrl": "number-format-conversions/terminating-dec-to-approx-dec"
         },
         {
@@ -327,8 +326,11 @@
           "questionBankUrl": "adv-arithmetic-practice/mul-and-div"
         },
         {
-          "title": "Integer and Fraction Exponents",
-          "description": "Intended for manual practice",
+          "title": "Standard Form",
+          "questionBankUrl": "adv-arithmetic-practice/standard-form"
+        },
+        {
+          "title": "Fraction Exponents",
           "questionBankUrl": "adv-arithmetic-practice/exp-and-roots"
         },
         {
