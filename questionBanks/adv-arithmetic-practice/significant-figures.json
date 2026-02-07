@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "question": "Round \\(0.8106\\) to 2 significant figures",
+      "answer": "0.81",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(1.058\\) to 2 significant figures",
+      "answer": "1.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(9.191\\) to 2 significant figures",
+      "answer": "9.2",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.6805\\) to 2 significant figures",
+      "answer": "0.68",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.028\\) to 2 significant figures",
+      "answer": "0.028",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.3776\\) to 3 significant figures",
+      "answer": "0.378",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.06413\\) to 3 significant figures",
+      "answer": "0.0641",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.05948\\) to 3 significant figures",
+      "answer": "0.0595",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(3.419\\) to 2 significant figures",
+      "answer": "3.4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(5.222\\) to 2 significant figures",
+      "answer": "5.2",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(2.292\\) to 2 significant figures",
+      "answer": "2.3",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.8025\\) to 1 significant figure",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.000344\\) to 3 significant figures",
+      "answer": "0.000344",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [6]
+    },
+    {
+      "question": "Round \\(1.116\\) to 2 significant figures",
+      "answer": "1.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(55.76\\) to 3 significant figures",
+      "answer": "55.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.00096\\) to 2 significant figures",
+      "answer": "0.00096",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [5]
+    },
+    {
+      "question": "Round \\(0.001108\\) to 1 significant figure",
+      "answer": "0.001",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.09072\\) to 2 significant figures",
+      "answer": "0.091",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(3.474\\) to 2 significant figures",
+      "answer": "3.5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.04085\\) to 2 significant figures",
+      "answer": "0.041",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.615\\) to 2 significant figures",
+      "answer": "0.62",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(19.57\\) to 1 significant figure",
+      "answer": "20",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.09348\\) to 3 significant figures",
+      "answer": "0.0935",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.8453\\) to 1 significant figure",
+      "answer": "0.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(6.407\\) to 2 significant figures",
+      "answer": "6.4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.9785\\) to 2 significant figures",
+      "answer": "0.98",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.8122\\) to 2 significant figures",
+      "answer": "0.81",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.5514\\) to 3 significant figures",
+      "answer": "0.551",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(2.184\\) to 1 significant figure",
+      "answer": "2",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.07488\\) to 3 significant figures",
+      "answer": "0.0749",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.003965\\) to 2 significant figures",
+      "answer": "0.0040",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.799\\) to 3 significant figures",
+      "answer": "0.799",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.001777\\) to 3 significant figures",
+      "answer": "0.00178",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [5]
+    },
+    {
+      "question": "Round \\(0.6432\\) to 3 significant figures",
+      "answer": "0.643",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.6938\\) to 2 significant figures",
+      "answer": "0.69",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.005028\\) to 2 significant figures",
+      "answer": "0.0050",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.06412\\) to 2 significant figures",
+      "answer": "0.064",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.2559\\) to 2 significant figures",
+      "answer": "0.26",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.03873\\) to 3 significant figures",
+      "answer": "0.0387",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(74.95\\) to 3 significant figures",
+      "answer": "75.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.3153\\) to 3 significant figures",
+      "answer": "0.315",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(9.509\\) to 2 significant figures",
+      "answer": "9.5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(89.67\\) to 1 significant figure",
+      "answer": "90",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.017\\) to 1 significant figure",
+      "answer": "0.02",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(2.599\\) to 2 significant figures",
+      "answer": "2.6",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.0123\\) to 3 significant figures",
+      "answer": "0.0123",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.01993\\) to 2 significant figures",
+      "answer": "0.020",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.006247\\) to 2 significant figures",
+      "answer": "0.0062",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(8.046\\) to 1 significant figure",
+      "answer": "8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.00248\\) to 3 significant figures",
+      "answer": "0.00248",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [5]
+    },
+    {
+      "question": "Round \\(5.145\\) to 2 significant figures",
+      "answer": "5.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(1.789\\) to 2 significant figures",
+      "answer": "1.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.00605\\) to 2 significant figures",
+      "answer": "0.0061",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.4961\\) to 2 significant figures",
+      "answer": "0.50",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(4.31\\) to 2 significant figures",
+      "answer": "4.3",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(4.052\\) to 2 significant figures",
+      "answer": "4.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.000678\\) to 3 significant figures",
+      "answer": "0.000678",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [6]
+    },
+    {
+      "question": "Round \\(50.63\\) to 1 significant figure",
+      "answer": "50",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.139\\) to 1 significant figure",
+      "answer": "0.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(9.005\\) to 2 significant figures",
+      "answer": "9.0",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(5.36\\) to 1 significant figure",
+      "answer": "5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(63.67\\) to 3 significant figures",
+      "answer": "63.7",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.01093\\) to 1 significant figure",
+      "answer": "0.01",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.000522\\) to 3 significant figures",
+      "answer": "0.000522",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [6]
+    },
+    {
+      "question": "Round \\(5.127\\) to 1 significant figure",
+      "answer": "5",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.01527\\) to 1 significant figure",
+      "answer": "0.02",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.07443\\) to 2 significant figures",
+      "answer": "0.074",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.2857\\) to 2 significant figures",
+      "answer": "0.29",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(90.19\\) to 3 significant figures",
+      "answer": "90.2",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.152\\) to 2 significant figures",
+      "answer": "0.15",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(3.341\\) to 2 significant figures",
+      "answer": "3.3",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.6149\\) to 2 significant figures",
+      "answer": "0.61",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9871\\) to 2 significant figures",
+      "answer": "0.99",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.12\\) to 2 significant figures",
+      "answer": "0.12",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.04781\\) to 2 significant figures",
+      "answer": "0.048",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.9762\\) to 1 significant figure",
+      "answer": "1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(3.887\\) to 1 significant figure",
+      "answer": "4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.1677\\) to 2 significant figures",
+      "answer": "0.17",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.6104\\) to 2 significant figures",
+      "answer": "0.61",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.3864\\) to 1 significant figure",
+      "answer": "0.4",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(24.88\\) to 3 significant figures",
+      "answer": "24.9",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.1506\\) to 3 significant figures",
+      "answer": "0.151",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.0561\\) to 3 significant figures",
+      "answer": "0.0561",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.03988\\) to 2 significant figures",
+      "answer": "0.040",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(0.03709\\) to 3 significant figures",
+      "answer": "0.0371",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(1.083\\) to 2 significant figures",
+      "answer": "1.1",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.09712\\) to 2 significant figures",
+      "answer": "0.097",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(6.78\\) to 2 significant figures",
+      "answer": "6.8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [1]
+    },
+    {
+      "question": "Round \\(0.00181\\) to 2 significant figures",
+      "answer": "0.0018",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.02458\\) to 3 significant figures",
+      "answer": "0.0246",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.001539\\) to 3 significant figures",
+      "answer": "0.00154",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [5]
+    },
+    {
+      "question": "Round \\(0.009482\\) to 2 significant figures",
+      "answer": "0.0095",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [4]
+    },
+    {
+      "question": "Round \\(0.03238\\) to 2 significant figures",
+      "answer": "0.032",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(7.537\\) to 1 significant figure",
+      "answer": "8",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.2791\\) to 2 significant figures",
+      "answer": "0.28",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.9539\\) to 2 significant figures",
+      "answer": "0.95",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    },
+    {
+      "question": "Round \\(0.008254\\) to 3 significant figures",
+      "answer": "0.00825",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [5]
+    },
+    {
+      "question": "Round \\(0.09632\\) to 2 significant figures",
+      "answer": "0.096",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [3]
+    },
+    {
+      "question": "Round \\(50.09\\) to 1 significant figure",
+      "answer": "50",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [0]
+    },
+    {
+      "question": "Round \\(0.3058\\) to 2 significant figures",
+      "answer": "0.31",
+      "numberInputTypes": ["dec"],
+      "expectedDps": [2]
+    }
+  ]
+}
