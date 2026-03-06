@@ -1,0 +1,227 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Solve the following simultaneous linear equations<p>NB: Elimination method is used.",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "21. \\[\n\\begin{align*}\np - 2q &= 21 \\\\\n-4p + q &= -42 \\end{align*}\n\\]",
+      "choices": [
+        "\\( p = -9, q = 6 \\)",
+        "\\( p = 9, q = -6 \\)",
+        "\\( p = 9, q = 6 \\)",
+        "\\( p = -9, q = -6 \\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "22. \\[\n\\begin{align*}\n-5r - 110s &= 175 \\\\\n-9r + 10s &= -101 \\end{align*}\n\\]",
+      "choices": [
+        "\\( r = 9, s = 2 \\)",
+        "\\( r = -9, s = 2 \\)",
+        "\\( r = -9, s = -2 \\)",
+        "\\( r = 9, s = -2 \\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "23. \\[\n\\begin{align*}\n-20u-8 v&=-148 \\\\\n5u-2v&=53 \\end{align*}\n\\]",
+      "choices": [
+        "\\( u=9, v=-4 \\)",
+        "\\(u=9, v=4 \\)",
+        "\\( u=-9, v=-4 \\)",
+        "\\( u=-9, v=4 \\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "24. \\[\n\\begin{align*}\n-4w+104 z&=-448 \\\\\n5w-13 z&=92 \\end{align*}\n\\]",
+      "choices": [
+        "\\(w=-8, z=-4\\)",
+        "\\(w=8, z=4\\)",
+        "\\(w=8, z=-4\\)",
+        "\\(w=-8, z=4\\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "25. \\[\n\\begin{align*}\n4 x+5 y&=61 \\\\\n5 x+3 y&=47  \\end{align*}\n\\]",
+      "choices": [
+        "\\(x=4, y=9\\)",
+        "\\(x=-4, y=9\\)",
+        "\\(x=4, y=-9\\)",
+        "\\(x=-4, y=-9\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "26. \\[\n\\begin{align*}\n4 x+5 y&=72  \\\\\n5 x+3 y&=64  \\end{align*}\n\\]",
+      "choices": [
+        "\\(x=-8, y=8\\)",
+        "\\(x=-8, y=-8\\)",
+        "\\(x=8, y=-8\\)",
+        "\\(x=8, y=8\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "27. \\[\n\\begin{align*}\n6 a+7 b &=74 \\\\\n7 a+6 b &=69 \\end{align*}\n\\]",
+      "choices": [
+        "\\(a=-3, b=8 \\)",
+        "\\(a=3, b=8 \\)",
+        "\\(a=-3, b=-8 \\)",
+        "\\(a=3, b=-8 \\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "28. \\[\n\\begin{align*}\n4c+8 d &=52 \\\\\n6 c+6 d &=60 \\end{align*}\n\\]",
+      "choices": [
+        "\\(c=7, d=3 \\)",
+        "\\(c=-7, d=3 \\)",
+        "\\(c=7, d=-3 \\)",
+        "\\(c=-7, d=-3 \\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "29. \\[\n\\begin{align*}\n4 e-8 f&=-24 \\\\\n5 e+6 f&=82 \\end{align*}\n\\]",
+      "choices": [
+        "\\(e=8, f=-7 \\)",
+        "\\(e=-8, f=-7 \\)",
+        "\\(e=8, f=7 \\)",
+        "\\(e=-8, f=7 \\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "30. \\[\n\\begin{align*}\n6 g-10 h&=112 \\\\\n-7 g+8 h&=-105 \\end{align*}\n\\]",
+      "choices": [
+        "\\(g=7, h=-7 \\)",
+        "\\(g=-7, h=7 \\)",
+        "\\(g=7, h=7 \\)",
+        "\\(g=-7, h=-7 \\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "31. \\[\n\\begin{align*}\n-7 j+12 k&=74 \\\\\n-8 j-10 k&=-34 \\end{align*}\n\\]",
+      "choices": [
+        "\\(j=2, k=5 \\)",
+        "\\(j=-2, k=-5 \\)",
+        "\\(j=2, k=-5 \\)",
+        "\\(j=-2, k=5 \\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "32. \\[\n\\begin{align*}\n-9 m+6 n&=-39 \\\\\n-11 m-5 n&=-134 \\end{align*}\n\\]",
+      "choices": [
+        "\\(m=-9, n=-7 \\)",
+        "\\(m=9, n=7 \\)",
+        "\\(m=-9, n=7 \\)",
+        "\\(m=9, n=-7 \\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "33. \\[\n\\begin{align*}\n-12p+13q=161 \\\\\n14p+12q =-52 \\end{align*}\n\\]",
+      "choices": [
+        "\\(p=-8, q=5 \\)",
+        "\\(p=8, q=5 \\)",
+        "\\(p=-8, q=-5 \\)",
+        "\\(p=8, q=-5\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "34. \\[\n\\begin{align*}\n-11 r-10s&=103 \\\\\n-13 r-8s&=95  \\end{align*}\n\\]",
+      "choices": [
+        "\\(r=3, s=7 \\)",
+        "\\(r=-3,  s=-7 \\)",
+        "\\(r=-3,  s=7 \\)",
+        "\\(r=3, s=-7\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "35. \\[\n\\begin{align*}\n-10u-10v&=-110 \\\\\n11u-9v&=81 \\end{align*}\n\\]",
+      "choices": [
+        "\\(u=-9, v=2 \\)",
+        "\\(u=9, v=-2 \\)",
+        "\\(u=-9, v=-2 \\)",
+        "\\(u=9, v=2\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "36. \\[\n\\begin{align*}\n3w-10 z &=53 \\\\\n-4 w-9z &=108 \\end{align*}\n\\]",
+      "choices": [
+        "\\(w=-9, z=-8 \\)",
+        "\\(w=-9, z=8 \\)",
+        "\\(w=9, z=8 \\)",
+        "\\(w=9, z=-8\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "37. \\[\n\\begin{align*}\n3x+\\dfrac{y}{2}&=24 \\\\\nx+\\dfrac{y}{3}&=11 \\end{align*}\n\\]",
+      "choices": [
+        "\\(x=5, y=18\\)",
+        "\\(x=-5, y=-18\\)",
+        "\\(x=-5, y=18\\)",
+        "\\(x=5, y=-18\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "38. \\[\n\\begin{align*}\n5x+\\dfrac{y}{3}&=54 \\\\\n\\dfrac{x}{2}+3 y&=41 \\end{align*}\n\\]",
+      "choices": [
+        "\\(x=-10, y=-12\\)",
+        "\\(x=10, y=-12\\)",
+        "\\(x=10, y=12\\)",
+        "\\(x=-10, y=12\\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "39. \\[\n\\begin{align*}\n\\dfrac{e}{3}+\\dfrac{f}{2} & =28 \\\\\n\\dfrac{e}{2}-\\dfrac{f}{3} & =3 \\end{align*}\n\\]",
+      "choices": [
+        "\\(e=30, f=36\\)",
+        "\\(e=-30, f=36\\)",
+        "\\(e=30, f=-36\\)",
+        "\\(e=-30, f=-36\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "40. \\[\n\\begin{align*}\n\\dfrac{g}{3}-\\dfrac{h}{5}&=-3 \\\\\n\\dfrac{g}{7}+\\dfrac{h}{4}&=39 \\end{align*}\n\\]",
+      "choices": [
+        "\\(g=63, h=-120 \\)",
+        "\\(g=63, h=120 \\)",
+        "\\(g=-63, h=120 \\)",
+        "\\(g=-63, h=-120 \\)"
+      ],
+      "answer": "1"
+    }
+  ]
+}

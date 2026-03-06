@@ -1,0 +1,149 @@
+{
+  "inputTimeWaitSecs": 120,
+  "questions": [
+    {
+      "question": "\\(\\dfrac{210}{6 \\times 7}\\)",
+      "answer": "5"
+    },
+    {
+      "question": "(28 &minus; (5 + 7)) &div; 4",
+      "answer": "4"
+    },
+    {
+      "question": "\\(\\dfrac{57-9}{9-(19-4)}\\)",
+      "answer": "-8"
+    },
+    {
+      "question": "\\((9-3) \\times 4+2\\)",
+      "answer": "26"
+    },
+    {
+      "question": "15 &minus; 48 &div; 8",
+      "answer": "9"
+    },
+    {
+      "question": "9 + 20 &div; 4",
+      "answer": "14"
+    },
+    {
+      "question": "\\((6 + 5) \\times 4^2\\)",
+      "answer": "176"
+    },
+    {
+      "question": "(6 + 7) &times; (3 + 8)",
+      "answer": "143"
+    },
+    {
+      "question": "\\(9-3 \\times (4+2)\\)",
+      "answer": "-9"
+    },
+    {
+      "question": "15 &minus; 6 &minus; 8",
+      "answer": "1"
+    },
+    {
+      "question": "\\(\\dfrac{16}{2-(2 \\times 2)}\\)",
+      "answer": "-8"
+    },
+    {
+      "question": "\\(9-(8+7)-6\\)",
+      "answer": "-12"
+    },
+    {
+      "question": "15 &minus; 6 &times; 8",
+      "answer": "-33"
+    },
+    {
+      "question": "(7 + 8)&sup2;",
+      "answer": "225"
+    },
+    {
+      "question": "32 &div; 16 &div; (8 &div; 4) &div; 2",
+      "answer": "1/2"
+    },
+    {
+      "question": "(9 &minus; 6) &times; 3",
+      "answer": "9"
+    },
+    {
+      "question": "4 + 5 &minus; 9",
+      "answer": "0"
+    },
+    {
+      "question": "3 + 8&sup2;",
+      "answer": "67"
+    },
+    {
+      "question": "\\(\\frac{1}{2}(14 - 10) + \\frac{1}{3}(21 + 9)\\)",
+      "answer": "12"
+    },
+    {
+      "question": "\\(6 + 2 - 8 \\div (2 \\times 4)\\)",
+      "answer": "7"
+    },
+    {
+      "question": "\\(6 + (5 \\times 4)^2\\)",
+      "answer": "406"
+    },
+    {
+      "question": "8&sup2; &minus; 8",
+      "answer": "56"
+    },
+    {
+      "question": "\\(\\dfrac{16-4}{8-2}\\)",
+      "answer": "2"
+    },
+    {
+      "question": "\\(\\dfrac{20}{11-6}\\)",
+      "answer": "4"
+    },
+    {
+      "question": "5 &times; 8 + 7 &times; 8",
+      "answer": "96"
+    },
+    {
+      "question": "(4 &minus; 4)&sup2;",
+      "answer": "0"
+    },
+    {
+      "question": "2(8 &minus; 3)",
+      "answer": "10"
+    },
+    {
+      "question": "9 + 5 &times; 4",
+      "answer": "29"
+    },
+    {
+      "question": "5((7 &minus; 4)&sup2; + 7)",
+      "answer": "80"
+    },
+    {
+      "question": "\\((7+2) \\times 5-1\\)",
+      "answer": "44"
+    },
+    {
+      "question": "100 &div; 10 &div; 5",
+      "answer": "2"
+    },
+    {
+      "question": "\\(\\dfrac{20 \\div 2}{5-3}\\)",
+      "answer": "5"
+    },
+    {
+      "question": "24 &div; 3 + 1",
+      "answer": "9"
+    },
+    {
+      "question": "9 + 4 &times; 2 + 5",
+      "answer": "22"
+    },
+    {
+      "question": "\\(7+2 \\times (5-1)\\)",
+      "answer": "15"
+    },
+    {
+      "question": "11 &minus; 10 &div; 5",
+      "answer": "9"
+    }
+  ]
+}

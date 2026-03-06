@@ -1,0 +1,226 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "1. Evaluate \\(tb \\quad\\) if \\(t=5, b=10\\)",
+      "choices": [
+        "-2",
+        "50",
+        "3",
+        "1"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "2. Evaluate \\(tn-1 \\quad\\) if \\(t=4, n=5\\)",
+      "choices": [
+        "-8",
+        "9",
+        "19",
+        "10"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "3. Evaluate \\(tn+sb \\quad\\) if \\(s=-4, b=-2, t=5, n=-10\\)",
+      "choices": [
+        "-42",
+        "-17",
+        "16",
+        "20"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "4. Evaluate \\(s^2 + b \\quad\\) if \\(s=-5, b=-5\\)",
+      "choices": [
+        "-18",
+        "10",
+        "-8",
+        "20"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "5. Evaluate \\(b^2 + n \\quad\\) if \\(b=-5, n=9\\)",
+      "choices": [
+        "34",
+        "11",
+        "-13",
+        "14"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "6. Evaluate \\(t^2 - s \\quad\\) if \\(s=-5, t=-2\\)",
+      "choices": [
+        "9",
+        "-2",
+        "3",
+        "5"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "7. Evaluate \\(t + b^2 + s \\quad\\) if \\(s=12, b=-11, t=6\\)",
+      "choices": [
+        "-9",
+        "139",
+        "10",
+        "12"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "8. Evaluate \\(200 - b^2 \\quad\\) if \\(b=-11\\)",
+      "choices": [
+        "-196",
+        "79",
+        "916",
+        "691"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "9. Evaluate \\(n^2 + 100 - b^2 \\quad\\) if \\(b=-6, n=4\\)",
+      "choices": [
+        "717",
+        "771",
+        "80",
+        "-177"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "10. Evaluate \\(500 - s^2 - b - t^2 \\quad\\) if \\(s=0, b=-7, t=-5\\)",
+      "choices": [
+        "841",
+        "-481",
+        "184",
+        "482"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "11. Evaluate \\(s^2 + 69 + n^2 \\quad\\) if \\(s=4, n=0\\)",
+      "choices": [
+        "85",
+        "616",
+        "661",
+        "-166"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "12. Evaluate \\(443 - t^2 + n - s^2 \\quad\\) if \\(s=3, t=4, n=-6\\)",
+      "choices": [
+        "345",
+        "534",
+        "412",
+        "-435"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "13. Evaluate \\(n^2 - b + t^2 -s + 9^2 \\quad\\) if \\(s=-1, b=-7, t=-3, n=9\\)",
+      "choices": [
+        "179",
+        "517",
+        "-157",
+        "715"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "14. Evaluate \\(\\text{multiply}(t, n) - 1 \\quad\\) if \\(t = 7, n=-8\\)",
+      "choices": [
+        "33",
+        "-57",
+        "43",
+        "-53"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "15. Evaluate \\(\\text{multiply}(t,n) + \\text{multiply}(s, b) \\quad\\) if \\(s=0, b=2, t=4, n=-8\\)",
+      "choices": [
+        "-32",
+        "34",
+        "43",
+        "-43"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "16. Evaluate \\(\\text{square}(s) + b \\quad\\) if \\(s=11, b=-3\\)",
+      "choices": [
+        "19",
+        "-124",
+        "124",
+        "118"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "17. Evaluate \\(\\text{square}(b) + n \\quad\\) if \\(b=-3, n=-6\\)",
+      "choices": [
+        "3",
+        "4",
+        "-8",
+        "12"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "18. Evaluate \\(\\text{square}(t)-s \\quad\\) if \\(s=1, t=8\\)",
+      "choices": [
+        "15",
+        "63",
+        "-17",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "19. Evaluate \\(t + \\text{square}(b) + s \\quad\\) if \\(s=9, b=-5, t=-8\\)",
+      "choices": [
+        "26",
+        "9",
+        "-7",
+        "12"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "20. Evaluate \\(3\\text{addition}(t, 2) \\quad\\) if \\(t=9\\)",
+      "choices": [
+        "15",
+        "-18",
+        "18",
+        "33"
+      ],
+      "answer": "3"
+    }
+  ]
+}

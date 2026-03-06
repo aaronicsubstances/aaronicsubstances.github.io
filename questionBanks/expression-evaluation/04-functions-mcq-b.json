@@ -1,0 +1,226 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "21. Evaluate \\(2\\text{addition}(s, b) \\quad\\) if \\(s=-5, b=12\\)",
+      "choices": [
+        "-2",
+        "-6",
+        "14",
+        "10"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "22. Evaluate \\(5\\text{addition}(b, n) \\quad\\) if \\(b=12, n=-1\\)",
+      "choices": [
+        "55",
+        "30",
+        "35",
+        "20"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "23. Evaluate \\(7\\text{subtraction}(2t, s) \\quad\\) if \\(s=-8, t=-4\\)",
+      "choices": [
+        "-63",
+        "0",
+        "36",
+        "30"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "24. Evaluate \\(t\\text{subtraction}(b, 1) \\quad\\) if \\(b=5, t=-4\\)",
+      "choices": [
+        "6",
+        "-4",
+        "\\(\\dfrac{1}{4}\\)",
+        "-16"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "25. Evaluate \\(t\\text{addition}(n, 5) \\quad\\) if \\(t=-4, n=-4\\)",
+      "choices": [
+        "-4",
+        "17",
+        "12",
+        "34"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "26. Evaluate \\(2n\\text{addition}(t, s) \\quad\\) if \\(s=-5, t=-10, n=-1\\)",
+      "choices": [
+        "48",
+        "30",
+        "84",
+        "54"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "27. Evaluate \\(t(n + \\text{multiply}(s, b)) \\quad\\) if \\(s=-10, b=0, t=12, n=-8\\)",
+      "choices": [
+        "40",
+        "-96",
+        "39",
+        "22"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "28. Evaluate \\(2\\text{subtraction}(5t, b) - 2s \\quad\\) if \\(s=-5, b=8, t=1 \\)",
+      "choices": [
+        "-38",
+        "26",
+        "14",
+        "44"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "29. Evaluate \\(\\text{multiply}(n,b)(2t-s) \\quad\\) if \\(s=1, b=-8, t=-9, n=-1\\)",
+      "choices": [
+        "-152",
+        "144",
+        "441",
+        "414"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "30. Evaluate \\(9\\text{subtraction}(n, b) + 6\\text{subtraction}(t, s) \\quad\\) if \\(s=9, b=9, t=7, n=1\\)",
+      "choices": [
+        "60",
+        "-90",
+        "30",
+        "-84"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "31. Evaluate \\(3n(\\text{multiply}(7, s) + \\text{multiply}(2, b)) +5t \\quad\\) if \\(s=-3, b=-11, t=9, n=-5\\)",
+      "choices": [
+        "-192",
+        "690",
+        "912",
+        "219"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "32. Evaluate \\(3(\\text{square}(t) + n) \\quad\\) if \\(t=6, n=2\\)",
+      "choices": [
+        "42",
+        "114",
+        "-24",
+        "54"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "33. Evaluate \\(sb - \\text{subtraction}(s, 1) \\quad\\) if \\(s=6, b=7\\)",
+      "choices": [
+        "-1",
+        "10",
+        "37",
+        "1"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "34. Evaluate \\(\\text{square}(2b + n) \\quad\\) if \\(b=7, n=2\\)",
+      "choices": [
+        "-16",
+        "61",
+        "10",
+        "256"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "35. Evaluate \\(s^2t -n \\quad\\) if \\(s=-2, t=7, n=3\\)",
+      "choices": [
+        "25",
+        "-12",
+        "21",
+        "8"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "36. Evaluate \\(b^2 + 2n^2 \\quad\\) if \\(b=-3, n=3\\)",
+      "choices": [
+        "-132",
+        "123",
+        "27",
+        "32"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "37. Evaluate \\(6(n-2)^2 \\quad\\) if \\(n=-8\\)",
+      "choices": [
+        "600",
+        "60",
+        "-600",
+        "580"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "38. Evaluate \\(\\text{addition}(t, n) - \\text{addition}(s, b)\\) if \\(s=-10, b=8, t=-10, n=-9\\)",
+      "choices": [
+        "5",
+        "-17",
+        "-10",
+        "20"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "39. Evaluate \\((tn-3)^2 \\quad\\) if \\(t=-12, n=-1\\)",
+      "choices": [
+        "81",
+        "225",
+        "30",
+        "18"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "40. Evaluate \\(\\text{division}(sbt, 2) \\quad\\) if \\(s=3, b=5, t=-12\\)",
+      "choices": [
+        "4",
+        "-8",
+        "12",
+        "-90"
+      ],
+      "answer": "3"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "81. Evaluate \\(g-7h-7i\\quad \\) if \\(g=4, h=4, i=7\\)",
+      "choices": [
+        "51",
+        "62",
+        "-73",
+        "70"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "82. Evaluate \\(g-7h-7i\\quad \\) if \\(g=4, h=4, i=7\\)",
+      "choices": [
+        "7",
+        "0",
+        "4",
+        "8"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "83. Evaluate \\(5g+3h+i\\quad \\) if \\(g=4, h=4, i=7\\)",
+      "choices": [
+        "29",
+        "15",
+        "27",
+        "39"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "84. Evaluate \\(j+k+l\\quad \\) if \\(j=8, k=2, l=4\\)",
+      "choices": [
+        "10",
+        "14",
+        "16",
+        "24"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "85. Evaluate \\(2j-3k+9l\\quad \\) if \\(j=8, k=2, l=4\\)",
+      "choices": [
+        "46",
+        "50",
+        "56",
+        "42"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "86. Evaluate \\(-j+k-3l\\quad \\) if \\(j=8, k=2, l=4\\)",
+      "choices": [
+        "-6",
+        "18",
+        "-20",
+        "-18"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "87. Evaluate \\(-m+4n-p\\quad \\) if \\(m=2, n=5, p=5\\)",
+      "choices": [
+        "21",
+        "13",
+        "31",
+        "32"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "88. Evaluate \\(2m-3n+5p\\quad \\) if \\(m=2, n=5, p=5\\)",
+      "choices": [
+        "-36",
+        "14",
+        "40",
+        "18"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "89. Evaluate \\(7m-n+p\\quad \\) if \\(m=2, n=5, p=5\\)",
+      "choices": [
+        "24",
+        "7",
+        "0",
+        "14"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "90. Evaluate \\(2q+2r-5s\\quad \\) if \\(q=5, r=-6, s=-3\\)",
+      "choices": [
+        "-27",
+        "37",
+        "13",
+        "27"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "91. Evaluate \\(q-r+2s\\quad \\) if \\(q=5, r=-6, s=-3\\)",
+      "choices": [
+        "17",
+        "5",
+        "-5",
+        "-17"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "92. Evaluate \\(-q+5r+5s\\quad \\) if \\(q=5, r=-6, s=-3\\)",
+      "choices": [
+        "-50",
+        "51",
+        "46",
+        "-55"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "93. Evaluate \\(t-5u-5v\\quad \\) if \\(t=2, u=4, v=6\\)",
+      "choices": [
+        "-46",
+        "-48",
+        "50",
+        "-52"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "94. Evaluate \\(2t+u+3v\\quad \\) if \\(t=2, u=4, v=6\\)",
+      "choices": [
+        "20",
+        "28",
+        "26",
+        "22"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "95. Evaluate \\(-5t+5u-v\\quad \\) if \\(t=2, u=4, v=6\\)",
+      "choices": [
+        "24",
+        "4",
+        "36",
+        "14"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "96. Evaluate \\(9w+x-y\\quad \\) if \\(w=-9, x=7,y=-5\\)",
+      "choices": [
+        "-69",
+        "87",
+        "75",
+        "-62"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "97. Evaluate \\(2w+7x-3y\\quad \\) if \\(w=-9, x=7,y=-5\\)",
+      "choices": [
+        "-73",
+        "55",
+        "66",
+        "46"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "98. Evaluate \\(-7w+5x+5y\\quad \\) if \\(w=-9, x=7,y=-5\\)",
+      "choices": [
+        "73",
+        "75",
+        "80",
+        "93"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "99. Evaluate \\(8x-5y+2z\\quad \\) if \\(x=-8, y=-6, z=6\\)",
+      "choices": [
+        "-22",
+        "20",
+        "-30",
+        "52"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "100. Evaluate \\(-3x+7y-z\\quad \\) if \\(x=-8, y=-6, z=6\\)",
+      "choices": [
+        "-24",
+        "14",
+        "16",
+        "23"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "101. Evaluate \\(2z-5x-y\\quad \\) if \\(x=-8, y=-6, z=6\\)",
+      "choices": [
+        "52",
+        "58",
+        "47",
+        "48"
+      ],
+      "answer": "1"
+    }
+  ]
+}

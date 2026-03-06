@@ -1,0 +1,226 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "1. Evaluate \\( x-y \\quad \\) if \\( x=-5, y=-6 \\)",
+      "choices": [
+        "11",
+        "-1",
+        "-12",
+        "1"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "2. Evaluate \\( x^{2}-31 \\quad \\) if \\( x=6 \\)",
+      "choices": [
+        "0",
+        "-19",
+        "5",
+        "-5"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "3. Evaluate \\( x-y \\quad \\) if \\( x=-9, y=-14 \\)",
+      "choices": [
+        "-23",
+        "4",
+        "-5",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "4. Evaluate \\( x^{2}-95 \\quad \\) if \\( x=10 \\)",
+      "choices": [
+        "5",
+        "12",
+        "-85",
+        "50"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "5. Evaluate \\( a-8 \\quad \\) if \\( a=-13 \\) ",
+      "choices": [
+        "6",
+        "5",
+        "21",
+        "-21"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "6. Evaluate \\( a^{2}-190 \\quad \\) if \\( a=14 \\)",
+      "choices": [
+        "6",
+        "200",
+        "5",
+        "50"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "7. Evaluate \\( 2c-d \\quad \\) if \\( c=-3, d=-9 \\) ",
+      "choices": [
+        "-3",
+        "4",
+        "3",
+        "-15"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "8. Evaluate \\( c^{2}-18 \\quad \\) if \\( c=5 \\) ",
+      "choices": [
+        "7",
+        "-5",
+        "-8",
+        "10"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "9. Evaluate \\( r^{2}+s^{2} \\quad \\) if \\( r=6, s=3 \\) ",
+      "choices": [
+        "27",
+        "45",
+        "42",
+        "44"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "10. Evaluate \\( r+s \\quad \\) if \\( r=3, s=6 \\) ",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "11. Evaluate \\( 3v\\quad \\) if \\( v=-5 \\) ",
+      "choices": [
+        "10",
+        "12",
+        "15",
+        "-15"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "12. Evaluate \\( u-8\\quad \\) if \\( u=-7 \\) ",
+      "choices": [
+        "10",
+        "12",
+        "15",
+        "-15"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "13. Evaluate \\( v^{2}\\quad \\) if \\( v=11 \\) ",
+      "choices": [
+        "22",
+        "44",
+        "120",
+        "121"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "14. Evaluate \\( 2u+39 \\quad \\) if \\( u=41 \\) ",
+      "choices": [
+        "22",
+        "44",
+        "120",
+        "121"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "15. Evaluate \\( w^{2}-z^{2}\\quad \\) if \\( w=2, z=-3 \\) ",
+      "choices": [
+        "13",
+        "-5",
+        "5",
+        "10"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "16. Evaluate \\( 3w-2z\\quad \\) if \\( w=2, z=-3 \\) ",
+      "choices": [
+        "0",
+        "36",
+        "11",
+        "12"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "17. Evaluate \\( 8+x \\quad \\) if \\( x=4 \\)",
+      "choices": [
+        "10",
+        "3",
+        "11",
+        "12"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "18. Evaluate \\( 16-x \\quad \\) if \\( x=4 \\)",
+      "choices": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "19. Evaluate \\( 11-x \\quad \\) if \\( x=3 \\)",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "20. Evaluate \\( 2x+y \\quad \\) if \\( x=3, y=8\\)",
+      "choices": [
+        "14",
+        "11",
+        "13",
+        "15"
+      ],
+      "answer": "0"
+    }
+  ]
+}

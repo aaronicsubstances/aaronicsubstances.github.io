@@ -1,0 +1,227 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Find the solution to the following equations",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "41. \\(\\dfrac{n}{8}+2 n-\\dfrac{5 n}{6}=\\dfrac{3 n}{4}+13 \\)",
+      "choices": [
+        " 24",
+        " 31",
+        " 55",
+        " 24"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "42. \\(2 r+\\dfrac{3 r}{7}=\\dfrac{3 r+2}{4}+23 \\)",
+      "choices": [
+        " 48",
+        " 14",
+        " 34",
+        " 20"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "43. \\(\\dfrac{7 x}{12}-\\dfrac{1}{4}=2 x-\\dfrac{5}{3} \\)",
+      "choices": [
+        " 1",
+        " \\(\\dfrac{1}{3}\\)",
+        " 3",
+        " -1"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "44. \\(\\dfrac{r-8}{2} =6-\\dfrac{r}{3} \\)",
+      "choices": [
+        " 4",
+        " 14",
+        " -14",
+        " 12"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "45. \\(\\dfrac{2 y+3}{5}-\\dfrac{y-3}{3}=2 \\)",
+      "choices": [
+        " 2",
+        " 8",
+        " 6",
+        " 4"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "46. \\(\\dfrac{y-1}{2}-\\dfrac{y-2}{3}=\\dfrac{2}{3}-\\dfrac{y-3}{4} \\)",
+      "choices": [
+        " 3",
+        " \\(\\dfrac{2}{3}\\)",
+        " -3",
+        " \\(\\dfrac{5}{3}\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "47. \\(\\dfrac{t-3}{7}+\\dfrac{t+5}{3}-\\dfrac{t+2}{6}=4 \\)",
+      "choices": [
+        " 4",
+        " 14",
+        " 6",
+        " 10"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "48. \\(\\dfrac{5}{4}(6-x)=5 \\)",
+      "choices": [
+        " 5",
+        " 2",
+        " 7",
+        " 3"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "49. \\(\\dfrac{4 s+2}{11}=\\dfrac{1}{5}(s+5) \\)",
+      "choices": [
+        " 2",
+        " -5",
+        " 5",
+        " 7"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "50. \\(\\dfrac{4}{5}(t+1)=2 \\)",
+      "choices": [
+        " 2",
+        " 1.5",
+        " 3.5",
+        " -1.5"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "51. \\(\\dfrac{1}{2}(s+4)-\\dfrac{1}{6} s-8=0 \\)",
+      "choices": [
+        " 0",
+        " -18",
+        " 18",
+        " 36"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "52. \\(0.2 x=48-0.04 x \\)",
+      "choices": [
+        " 40",
+        " 240",
+        " 200",
+        " -200"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "53. \\(0.2 w+3 =3.8+0.04 w \\)",
+      "choices": [
+        " 4",
+        " 9",
+        " 1",
+        " 5"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "54. \\(\\dfrac{7}{8}(z+2)+\\dfrac{2}{3}(z-12)=\\dfrac{1}{5}(z+9) \\)",
+      "choices": [
+        " -6",
+        " 6",
+        " 360",
+        " 105"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "55. \\(2 y-5=\\dfrac{2 y+10}{6} \\)",
+      "choices": [
+        " 3",
+        " -3",
+        " 4",
+        " 7"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "56. \\(\\dfrac{x+2}{4} =\\dfrac{x+12}{9} \\)",
+      "choices": [
+        " 6",
+        " 9",
+        " 2",
+        " 8"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "57. \\(\\dfrac{x-2}{5}+\\dfrac{x}{3}=\\dfrac{x}{2} \\)",
+      "choices": [
+        " 12",
+        " -12",
+        " 6",
+        " \\(\\dfrac{12}{6}\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "58. \\(\\dfrac{x-4}{3} =\\dfrac{x-11}{10} \\)",
+      "choices": [
+        " -1",
+        " 2",
+        " 1",
+        " 0"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "59. \\(\\dfrac{4 x+3}{3}-\\dfrac{6 x+7}{5}=0 \\)",
+      "choices": [
+        " -3",
+        " 0",
+        " 9",
+        " 3"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "60. \\(\\dfrac{x+6}{10}-\\dfrac{x+1}{4}=2 \\)",
+      "choices": [
+        " -11",
+        " 2",
+        " 11",
+        " 9"
+      ],
+      "answer": "0"
+    }
+  ]
+}

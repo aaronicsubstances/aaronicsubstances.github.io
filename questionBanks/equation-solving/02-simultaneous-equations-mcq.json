@@ -1,0 +1,172 @@
+{
+  "inputTimeWaitSecs": 900,
+  "noRandomize": true,
+  "openingRemarks": "Solve the following simultaneous equations<p>NB: Substitution method is used.",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "1. \\[\n\\begin{align*}\ny&=8+x \\\\\ny&=16-x \\end{align*}\n\\]",
+      "choices": [
+        "\\(x=-4, y=12 \\)",
+        "\\(x=4, y=-12 \\)",
+        "\\(x=-4, y=-12 \\)",
+        "\\(x=4, y=12\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "2. \\[\n\\begin{align*}\ny&=11-x \\\\\n2x+y&=14 \\end{align*}\n\\]",
+      "choices": [
+        "\\(x=3, y=8 \\)",
+        "\\(x=-3, y=8 \\)",
+        "\\(x=3, y=-8 \\)",
+        "\\(x=-3, y=-8\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "3. \\[\n\\begin{align*}\na&=3 b-37  \\\\\n2b+3 a&=43 \\end{align*}\n\\]",
+      "choices": [
+        "\\(a=5, b=14 \\)",
+        "\\(a=5, b=-14 \\)",
+        "\\(a=-5, b=14\\)",
+        "\\(a=-5, b=-14\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "4. \\[\n\\begin{align*}\nc-d&=2  \\\\\n2 d&=c+2 \\end{align*}\n\\]",
+      "choices": [
+        "\\(c=-6, d=4 \\)",
+        "\\(c=6, d=4 \\)",
+        "\\(c=-6, d=-4\\)",
+        "\\(c=6, d=-4\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "5. \\[\n\\begin{align*}\ne&=2 f-10 \\\\\n3 f+2 e&=36 \\end{align*}\n\\]",
+      "choices": [
+        "\\(e=-6, f=8 \\)",
+        "\\(e=6, f=8 \\)",
+        "\\(e=6, f=-8\\)",
+        "\\(e=-6, f=-8\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "6. \\[\n\\begin{align*}\ng&=3 h-28  \\\\\nh+2 g&=28 \\end{align*}\n\\]",
+      "choices": [
+        "\\(g=8, h=12 \\)",
+        "\\(g=-8, h=-12 \\)",
+        "\\(g=-8, h=12\\)",
+        "\\(g=8, h=-12\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "7. \\[\n\\begin{align*}\n3 j&=k+8 \\\\\n5 k+2 j&=-6 \\end{align*}\n\\]",
+      "choices": [
+        "\\(j=-2, k=-2 \\)",
+        "\\(j=-2, k=2 \\)",
+        "\\(j=2, k=2\\)",
+        "\\(j=2, k=-2\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "8. \\[\n\\begin{align*}\n3m&=2 n \\\\\n3n+2 m&=91 \\end{align*}\n\\]",
+      "choices": [
+        "\\(m=14, n=21 \\)",
+        "\\(m=-14, n=-21 \\)",
+        "\\(m=-14, n=21\\)",
+        "\\(m=14, n=-21\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "9. \\[\n\\begin{align*}\n5p&=-3 q  \\\\\n2q+3 p&=5 \\end{align*}\n\\]",
+      "choices": [
+        "\\(p=-15, q=-25 \\)",
+        "\\(p=15, q=25 \\)",
+        "\\(p=15, q=-25\\)",
+        "\\(p=-15, q=25\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "10. \\[\n\\begin{align*}\nr&=3 s-78 \\\\\ns+2 r&=68 \\end{align*}\n\\]",
+      "choices": [
+        "\\(r=18, s=32  \\)",
+        "\\(r=-18, s=-32  \\)",
+        "\\(r=-18, s=32 \\)",
+        "\\(r=18, s=-32 \\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "11. \\[\n\\begin{align*}\n3u&=v-32 \\\\\n5v+2u&=-129  \\end{align*}\n\\]",
+      "choices": [
+        "\\(u=17, v=-19\\)",
+        "\\(u=-17, v=19\\)",
+        "\\(u=17, v=19\\)",
+        "\\(u=-17, v=-19 \\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "12. \\[\n\\begin{align*}\n9w+7z-208&=0  \\\\\n0&=5z+11w-208 \\end{align*}\n\\]",
+      "choices": [
+        "\\(w=-13, z=-13 \\)",
+        "\\(w=13, z=13 \\)",
+        "\\(w=-13, z=13 \\)",
+        "\\(w=13, z=-13  \\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "13. \\[\n\\begin{align*}\n7a+\\dfrac{b}{2}&=55  \\\\\n4a+\\dfrac{b}{4}&=30 \\end{align*}\n\\]",
+      "choices": [
+        "\\(a=5, b=-40 \\)",
+        "\\(a=5, b=40 \\)",
+        "\\(a=-5, b=-40 \\)",
+        "\\(a=-5, b=40 \\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "14. \\[\n\\begin{align*}\n\\dfrac{c}{2}+\\dfrac{d}{3}&=29 \\\\\n\\dfrac{c}{4}+\\dfrac{d}{5}&=17 \\end{align*}\n\\]",
+      "choices": [
+        "\\(c=8, d=75\\)",
+        "\\(c=-8, d=75\\)",
+        "\\(c=8, d=-75\\)",
+        "\\(c=-8, d=-75\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "15. \\[\n\\begin{align*}\n2p^{2}-q+5p&=9 \\\\\n2p-3q&=-17 \\end{align*}\n\\]",
+      "choices": [
+        "\\(p=\\dfrac{11}{6}, q=\\dfrac{62}{9} \\) ; \\(p=-4, q=3 \\)",
+        "\\(p=\\dfrac{11}{6}, q=\\dfrac{62}{9} \\) ; \\(p=-4, q=-1 \\)",
+        "\\(p=\\dfrac{11}{6}, q=3 \\) ; \\(p=-4, q=\\dfrac{62}{9} \\)",
+        "\\(p=\\dfrac{11}{6}, q=4 \\) ; \\(p=-3, q=\\dfrac{62}{9} \\)"
+      ],
+      "answer": "0"
+    }
+  ]
+}

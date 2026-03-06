@@ -1,0 +1,194 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Solve these quadratic equations, i.e. equations of the form \\(ax^2 + bx + c = 0\\) where \\(a \\ne 0\\)",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "41. \\(x^{2}+5 x+6=0\\)",
+      "choices": [
+        "-2, 3",
+        "2, 3",
+        "-2, -3",
+        "2, -3"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "42. \\(x^{2}-7 x+10=0\\)",
+      "choices": [
+        "-2, -5",
+        "2, 5",
+        "-2, 5",
+        "2, -5"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "43. \\(x^{2}-5 x+6=0\\)",
+      "choices": [
+        "2, 3",
+        "-2, 3",
+        "-2, -3",
+        "2, -3"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "44. \\(x^{2}+9 x+20=0\\)",
+      "choices": [
+        "-4, 5",
+        "4, 5",
+        "-4, -5",
+        "4, -5"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "45. \\(x^{2}-8 x+15=0\\)",
+      "choices": [
+        "-3, 5",
+        "-3, -5",
+        "3, -5",
+        "3, 5"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "46. \\(x^{2}+3 x+2=0\\)",
+      "choices": [
+        "1, 2",
+        "-1, -2",
+        "-1, 2",
+        "1, -2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "47. \\(x^{2}-5 x+4=0\\)",
+      "choices": [
+        "-1, 2",
+        "-1, 4",
+        "1, 4",
+        "1, -4"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "48. \\(x^{2}+7 x+12=0\\)",
+      "choices": [
+        "3, 4",
+        "-3, 4",
+        "3, -4",
+        "-3, -4"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "49. \\(x^{2}+8 x+15=0\\)",
+      "choices": [
+        "3, 5",
+        "-3, -5",
+        "-3, 5",
+        "3, -5"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "50. \\(x^{2}+5 x=6\\)",
+      "choices": [
+        "-1, -6",
+        "-1, 6",
+        "1, 6",
+        "1, -6"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "51. \\(x^{2}=4x-4\\)",
+      "choices": [
+        "-2",
+        "2",
+        "0",
+        "4"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "52. \\(x^{2}=6x\\)",
+      "choices": [
+        "0, -6",
+        "0, 36",
+        "0, 6",
+        "0, -36"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "53. \\((2 x+5)(x-2)+7=0\\)",
+      "choices": [
+        "1, \\(\\dfrac{3}{2}\\)",
+        "-1, \\(-\\dfrac{3}{2}\\)",
+        "1, \\(-\\dfrac{3}{2}\\)",
+        "-1, \\(\\dfrac{3}{2}\\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "54. \\(x+4=\\dfrac{21}{x}\\)",
+      "choices": [
+        "3, -7",
+        "-3, -7",
+        "-3, 7",
+        "3, 7"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "55. \\(x^{2}+6x+6=0\\)",
+      "choices": [
+        "-5, -1",
+        "5, 1",
+        "-5, 1",
+        "No exact fraction solution"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "56. \\(x^{2}+6x+5=0\\)",
+      "choices": [
+        "-5, -1",
+        "5, 1",
+        "-5, 1",
+        "5, 0"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "57. \\(x^{2}-5x-6=0\\)",
+      "choices": [
+        "-1, -6",
+        "1, 6",
+        "-1, 6",
+        "1, -6"
+      ],
+      "answer": "2"
+    }
+  ]
+}

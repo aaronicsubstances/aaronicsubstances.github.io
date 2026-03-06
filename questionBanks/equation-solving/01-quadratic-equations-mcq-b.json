@@ -1,0 +1,227 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Solve these quadratic equations, i.e. equations of the form \\(ax^2 + bx + c = 0\\) where \\(a \\ne 0\\)",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "21. \\(2x^{2}+4x=0\\)",
+      "choices": [
+        "0, -2",
+        "0, 4",
+        "0, 2",
+        "0, -4"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "22. \\(10x^{2}+2x=0\\)",
+      "choices": [
+        "0, 0.2",
+        "0, -0.2",
+        "0, 0.04",
+        "0, 10"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "23. \\(10x^{2}+6x=0\\)",
+      "choices": [
+        "0, \\(\\dfrac{3}{5}\\)",
+        "0, \\(\\dfrac{5}{3}\\)",
+        "0, \\(-\\dfrac{3}{5}\\)",
+        "0, 10"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "24. \\(5x^{2}=-3x\\)",
+      "choices": [
+        "0, \\(-\\dfrac{3}{5}\\)",
+        "0, \\(\\dfrac{5}{3}\\)",
+        "0, \\(\\dfrac{3}{5}\\)",
+        "0, \\(-\\dfrac{5}{3}\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "25. \\(x^{2}-9=0\\)",
+      "choices": [
+        "-3, -9",
+        "-3, 9",
+        "-3, 3",
+        "0, 3"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "26. \\(x^{2}-4=0\\)",
+      "choices": [
+        "-2, -4",
+        "-2, 2",
+        "-2, 4",
+        "0, -2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "27. \\(x^{2}-36=0\\)",
+      "choices": [
+        "-6, 6",
+        "\\(-6\\) only",
+        "0, 6",
+        "-6, 36"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "28. \\(9x^{2}-36=0\\)",
+      "choices": [
+        "\\(-2\\) only",
+        "-2, 2",
+        "\\(2\\) only",
+        "0, 2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "29. \\(25x^{2}-100=0\\)",
+      "choices": [
+        "-2, 2",
+        "\\(-2\\) only",
+        "\\(2\\) only",
+        "0, 2"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "30. \\(4x^{2}-16=0\\)",
+      "choices": [
+        "\\(-2\\) only",
+        "-2, 2",
+        "\\(2\\) only",
+        "2, 0"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "31. \\(9x^{2}-81=0\\)",
+      "choices": [
+        "\\(-3\\) only",
+        "\\(3\\) only",
+        "-3, 3",
+        "3, 0"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "32. \\(100 x^{2}-36=0\\)",
+      "choices": [
+        "\\(-\\dfrac{3}{5}\\) only",
+        "\\(\\dfrac{3}{5}\\), 0",
+        "\\(\\dfrac{-3}{5}\\), 0",
+        "\\(-\\dfrac{3}{5}\\), \\(\\dfrac{3}{5}\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "33. \\(16x^{2}-256=0\\)",
+      "choices": [
+        "-4, 4",
+        "-4, -8",
+        "4, 2",
+        "4, 0"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "34. \\(4x^{2}-64=0\\)",
+      "choices": [
+        "-4, -2",
+        "-4, 4",
+        "4, 8",
+        "0, 4"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "35. \\(16x^{2}-144=0\\)",
+      "choices": [
+        "-3, -6",
+        "3, 1.5",
+        "3, 12",
+        "-3, 3"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "36. \\(100x^{2}-16=0\\)",
+      "choices": [
+        "\\(\\dfrac{-2}{5}\\), 1",
+        "\\(\\dfrac{-2}{5}\\), \\(\\dfrac{2}{5}\\)",
+        "\\(\\dfrac{2}{5}\\), 1",
+        "\\(\\dfrac{2}{5}\\), 4"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "37. \\(x^{2}+9=0\\)",
+      "choices": [
+        "-3 only",
+        "3 only",
+        "3, -3",
+        "No exact fraction solution"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "38. \\(x^{2}+5 x+4=0\\)",
+      "choices": [
+        "1, 4",
+        "-1, -4",
+        "-1, 4",
+        "1, -4"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "39. \\(x^{2}+x-2=0\\)",
+      "choices": [
+        "-1, -2",
+        "1, 2",
+        "1, -2",
+        "-1, 2"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "40. \\(x^{2}-7 x+12=0\\)",
+      "choices": [
+        "4, 3",
+        "-4, 3",
+        "4, -3",
+        "-4, -3"
+      ],
+      "answer": "0"
+    }
+  ]
+}

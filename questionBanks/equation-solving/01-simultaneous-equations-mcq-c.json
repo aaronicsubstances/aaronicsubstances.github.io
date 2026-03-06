@@ -1,0 +1,73 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Solve the following simultaneous linear equations<p>NB: Elimination method is used.",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "41. \\[\n\\begin{align*}\n\\dfrac{j}{3}&=19-\\dfrac{k}{2} \\\\\n\\dfrac{j}{2}-\\dfrac{k}{3}&=-4 \\end{align*}\n\\]",
+      "choices": [
+        "\\(k=-30, j=12\\)",
+        "\\(k=30, j=-12\\)",
+        "\\(k=-30, j=-12\\)",
+        "\\(k=30, j=12\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "42. \\[\n\\begin{align*}\n\\dfrac{m}{3}-18+\\dfrac{n}{2}&=0 \\\\\n\\dfrac{m}{2}-\\dfrac{n}{3}-1&=0 \\end{align*}\n\\]",
+      "choices": [
+        "\\(m=18, n=-24\\)",
+        "\\(m=-18, n=24\\)",
+        "\\(m=18, n=24\\)",
+        "\\(m=-18, n=-24\\)"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "43. \\[\n\\begin{align*}\n\\dfrac{p}{6}-56+\\dfrac{q}{2}&=0 \\\\\n\\dfrac{p}{2}-\\dfrac{q}{5}-15&=0 \\end{align*}\n\\]",
+      "choices": [
+        "\\(p=66, q=90\\)",
+        "\\(p=-66, q=-90\\)",
+        "\\(p=-66, q=90\\)",
+        "\\(p=66, q=-90\\)"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "44. \\[\n\\begin{align*}\n\\dfrac{3r}{2}+\\dfrac{s}{3}&=34 \\\\\n\\dfrac{r}{4}+\\dfrac{2s}{5}&=16 \\end{align*}\n\\]",
+      "choices": [
+        "\\(r=16, s=-30\\)",
+        "\\(r=-16, s=-30\\)",
+        "\\(r=-16, s=30\\)",
+        "\\(r=16, s=30\\)"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "45. \\[\n\\begin{align*}\n\\dfrac{2u}{3}-50+\\dfrac{5w}{2}&=0 \\\\\n\\dfrac{7u}{2}-\\dfrac{w}{3}-101&=0 \\end{align*}\n\\]",
+      "choices": [
+        "\\(u=30, w=-12\\)",
+        "\\(u=30, w=12\\)",
+        "\\(u=-30, w=-12\\)",
+        "\\(u=-30, w=12\\)"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "46. \\[\n\\begin{align*}\n\\dfrac{5w}{3}-830+\\dfrac{5z}{4}&=0 \\\\\n\\dfrac{7w}{2}+\\dfrac{z}{7}-420&=72  \\end{align*}\n\\]",
+      "choices": [
+        "\\(w=120, z=504 \\)",
+        "\\(w=-120, z=504 \\)",
+        "\\(w=-120, z=-504 \\)",
+        "\\(w=120, z=-504 \\)"
+      ],
+      "answer": "0"
+    }
+  ]
+}

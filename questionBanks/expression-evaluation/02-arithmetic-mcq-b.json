@@ -1,0 +1,226 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "21. Evaluate \\( 3b-37 \\quad \\) if \\( b=14 \\)",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "10"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "22. Evaluate \\( 2b+3a \\quad \\) if \\( a=5, b=14\\)",
+      "choices": [
+        "40",
+        "52",
+        "43",
+        "46"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "23. Evaluate \\( c-d \\quad \\) if \\( c=6, d=4\\)",
+      "choices": [
+        "2",
+        "-2",
+        "1",
+        "0"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "24. Evaluate \\( 2d \\quad \\) if \\( d=4\\)",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "24"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "25. Evaluate \\( c+2 \\quad \\) if \\( c=6\\)",
+      "choices": [
+        "12",
+        "10",
+        "8",
+        "14"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "26. Evaluate \\( 2f-10 \\quad \\) if \\( f=8\\)",
+      "choices": [
+        "-6",
+        "18",
+        "2",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "27. Evaluate \\( 3f+2e \\quad \\) if \\( e=6, f=8\\)",
+      "choices": [
+        "36",
+        "30",
+        "42",
+        "48"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "28. Evaluate \\( 3h-28\\quad \\) if \\( h=12\\)",
+      "choices": [
+        "128",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "29. Evaluate \\( h+2g \\quad \\) if \\( g=8, h=12\\)",
+      "choices": [
+        "18",
+        "42",
+        "28",
+        "30"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "30. Evaluate \\( 5k+2j \\quad \\) if \\( j=2, k=-2\\)",
+      "choices": [
+        "-14",
+        "14",
+        "6",
+        "-6"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "31. Evaluate \\( 3n+2m=91 \\quad \\) if \\( m=14, n=21\\)",
+      "choices": [
+        "81",
+        "100",
+        "91",
+        "90"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "32. Evaluate \\( 2q+3p \\quad \\) if \\( p=-15, q=25\\)",
+      "choices": [
+        "50",
+        "5",
+        "95",
+        "-10"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "33. Evaluate \\( 3s-78\\quad \\) if \\( s=18\\)",
+      "choices": [
+        "51",
+        "26",
+        "-24",
+        "17"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "34. Evaluate \\( s+2r \\quad \\) if \\( r=32, s=18\\)",
+      "choices": [
+        "81",
+        "82",
+        "83",
+        "87"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "35. Evaluate \\( 5v+2u\\quad \\) if \\( u=-17, v=-19\\)",
+      "choices": [
+        "45",
+        "-61",
+        "61",
+        "-129"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "36. Evaluate \\( 9w+7z-208\\quad \\) if \\( w=13,z=13\\)",
+      "choices": [
+        "416",
+        "200",
+        "0",
+        "208"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "37. Evaluate \\( 5z+11w-208\\quad \\) if \\( w=13, z=13\\)",
+      "choices": [
+        "0",
+        "200",
+        "10",
+        "170"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "38. Evaluate \\(3 x+\\dfrac{y}{2}\\quad \\) if \\( x=5, y=18\\)",
+      "choices": [
+        "24",
+        "16",
+        "33",
+        "21"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "39. Evaluate \\(x+\\dfrac{y}{3}\\quad \\) if \\(x=5, y=18\\)",
+      "choices": [
+        "14",
+        "11",
+        "7",
+        "6"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "40. Evaluate \\(5x+\\dfrac{y}{3}\\quad \\) if \\( x=10, y=12\\)",
+      "choices": [
+        "62",
+        "54",
+        "46",
+        "4"
+      ],
+      "answer": "1"
+    }
+  ]
+}

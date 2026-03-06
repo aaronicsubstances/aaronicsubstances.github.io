@@ -1,0 +1,205 @@
+{
+  "inputTimeWaitSecs": 60,
+  "questions": [
+    {
+      "question": "Round 618900 to the nearest 1000",
+      "answer": "619000"
+    },
+    {
+      "question": "Round 798636 to the nearest 10",
+      "answer": "798640"
+    },
+    {
+      "question": "Round 591661 to the nearest 1000",
+      "answer": "592000"
+    },
+    {
+      "question": "Round 432219 to the nearest 10",
+      "answer": "432220"
+    },
+    {
+      "question": "Round 560257 to the nearest 100",
+      "answer": "560300"
+    },
+    {
+      "question": "Round 7993 to the nearest 100",
+      "answer": "8000"
+    },
+    {
+      "question": "Round 923662 to the nearest 10",
+      "answer": "923660"
+    },
+    {
+      "question": "Round 665471 to the nearest 10",
+      "answer": "665470"
+    },
+    {
+      "question": "Round 971994 to the nearest 1000",
+      "answer": "972000"
+    },
+    {
+      "question": "Round 678326 to the nearest 10000",
+      "answer": "680000"
+    },
+    {
+      "question": "Round 226885 to the nearest 100",
+      "answer": "226900"
+    },
+    {
+      "question": "Round 112546 to the nearest 100",
+      "answer": "112500"
+    },
+    {
+      "question": "Round 644228 to the nearest 100",
+      "answer": "644200"
+    },
+    {
+      "question": "Round 27609 to the nearest 1000",
+      "answer": "28000"
+    },
+    {
+      "question": "Round 469222 to the nearest 10",
+      "answer": "469220"
+    },
+    {
+      "question": "Round 459066 to the nearest 100",
+      "answer": "459100"
+    },
+    {
+      "question": "Round 722319 to the nearest 100000",
+      "answer": "700000"
+    },
+    {
+      "question": "Round 434103 to the nearest 10",
+      "answer": "434100"
+    },
+    {
+      "question": "Round 201948 to the nearest 100",
+      "answer": "201900"
+    },
+    {
+      "question": "Round 948688 to the nearest 100",
+      "answer": "948700"
+    },
+    {
+      "question": "Round 893769 to the nearest 100000",
+      "answer": "900000"
+    },
+    {
+      "question": "Round 367058 to the nearest 10000",
+      "answer": "370000"
+    },
+    {
+      "question": "Round 273855 to the nearest 1000",
+      "answer": "274000"
+    },
+    {
+      "question": "Round 68110 to the nearest 100",
+      "answer": "68100"
+    },
+    {
+      "question": "Round 840294 to the nearest 100",
+      "answer": "840300"
+    },
+    {
+      "question": "Round 923268 to the nearest 100000",
+      "answer": "900000"
+    },
+    {
+      "question": "Round 276625 to the nearest 100",
+      "answer": "276600"
+    },
+    {
+      "question": "Round 298225 to the nearest 1000",
+      "answer": "298000"
+    },
+    {
+      "question": "Round 393742 to the nearest 10",
+      "answer": "393740"
+    },
+    {
+      "question": "Round 825634 to the nearest 100",
+      "answer": "825600"
+    },
+    {
+      "question": "Round 532845 to the nearest 100",
+      "answer": "532800"
+    },
+    {
+      "question": "Round 624790 to the nearest 1000",
+      "answer": "625000"
+    },
+    {
+      "question": "Round 691406 to the nearest 100000",
+      "answer": "700000"
+    },
+    {
+      "question": "Round 459755 to the nearest 1000",
+      "answer": "460000"
+    },
+    {
+      "question": "Round 2698 to the nearest 10",
+      "answer": "2700"
+    },
+    {
+      "question": "Round 538839 to the nearest 10",
+      "answer": "538840"
+    },
+    {
+      "question": "Round 489044 to the nearest 100",
+      "answer": "489000"
+    },
+    {
+      "question": "Round 433473 to the nearest 100",
+      "answer": "433500"
+    },
+    {
+      "question": "Round 317824 to the nearest 100000",
+      "answer": "300000"
+    },
+    {
+      "question": "Round 542148 to the nearest 1000",
+      "answer": "542000"
+    },
+    {
+      "question": "Round 962713 to the nearest 100",
+      "answer": "962700"
+    },
+    {
+      "question": "Round 606453 to the nearest 100000",
+      "answer": "600000"
+    },
+    {
+      "question": "Round 411843 to the nearest 1000",
+      "answer": "412000"
+    },
+    {
+      "question": "Round 123130 to the nearest 1000",
+      "answer": "123000"
+    },
+    {
+      "question": "Round 442284 to the nearest 10000",
+      "answer": "440000"
+    },
+    {
+      "question": "Round 434569 to the nearest 100",
+      "answer": "434600"
+    },
+    {
+      "question": "Round 421584 to the nearest 100000",
+      "answer": "400000"
+    },
+    {
+      "question": "Round 146272 to the nearest 100",
+      "answer": "146300"
+    },
+    {
+      "question": "Round 854974 to the nearest 1000",
+      "answer": "855000"
+    },
+    {
+      "question": "Round 187709 to the nearest 10",
+      "answer": "187710"
+    }
+  ]
+}

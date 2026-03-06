@@ -1,0 +1,227 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Find the solution to the following equations",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "21. \\(3x - \\dfrac{x}{3} = 42 - 2x \\)",
+      "choices": [
+        " 9",
+        " 3",
+        " 24",
+        " 33"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "22. \\(3x + \\dfrac{5}{4}x = 34 \\)",
+      "choices": [
+        " 42",
+        " 8",
+        " 34",
+        " 26"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "23. \\(x - \\dfrac{x}{2} + \\dfrac{x}{3} = 5 \\)",
+      "choices": [
+        " 5",
+        " \\(\\dfrac{6}{5}\\)",
+        " 6",
+        " -6"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "24. \\(\\dfrac{x}{2} - \\dfrac{x}{3} = \\dfrac{x}{4} - 1 \\)",
+      "choices": [
+        " 2",
+        " 6",
+        " 14",
+        " 12"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "25. \\(\\dfrac{1}{3}x + \\dfrac{1}{4}x = 19 - x \\)",
+      "choices": [
+        " -12",
+        " 12",
+        " 21",
+        " 7"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "26. \\(\\dfrac{x}{2} - \\dfrac{x}{3} = \\dfrac{x}{4} - \\dfrac{x}{5} \\)",
+      "choices": [
+        " 5",
+        " 10",
+        " 6",
+        " 0"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "27. \\(x + \\dfrac{x}{2} - \\dfrac{x}{3} = 17 - \\dfrac{x}{4} \\)",
+      "choices": [
+        " 12",
+        " 26",
+        " 14",
+        " 32"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "28. \\(15x - 9 = 20 + \\dfrac{x + 1}{3} \\)",
+      "choices": [
+        " 21",
+        " 23",
+        " 2",
+        " 19"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "29. \\(\\dfrac{x}{2} + \\dfrac{x+1}{3} = 14 + \\dfrac{6 - x}{4} \\)",
+      "choices": [
+        " 26",
+        " 14",
+        " 12",
+        " 2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "30. \\(\\dfrac{x}{3} = \\dfrac{5x-9}{4} - \\dfrac{x - 1}{2} \\)",
+      "choices": [
+        " 4.1",
+        " 1.4",
+        " 4.2",
+        " 2.4"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "31. \\(\\dfrac{5x-12}{3} - \\dfrac{3x-5}{7} = \\dfrac{x-6}{4} + \\dfrac{4}{21} \\)",
+      "choices": [
+        " 2",
+        " \\(-\\dfrac{17}{21}\\)",
+        " 0.8",
+        " 10"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "32. \\(\\dfrac{x}{4} - \\dfrac{10x+4}{3} = \\dfrac{8x-7}{3} - \\dfrac{3x}{4} \\)",
+      "choices": [
+        " -1.95",
+        " \\(\\dfrac{1}{5}\\)",
+        " 5",
+        " -2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "33. \\(\\dfrac{x-6}{11} - \\dfrac{3x-2}{7} + \\dfrac{125}{77} = 2x - 15 \\)",
+      "choices": [
+        " -6",
+        " -1",
+        " 15",
+        " 7"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "34. \\(\\dfrac{x+5}{2} - \\dfrac{9-x}{5} = \\dfrac{3x+2}{20} + \\dfrac{14}{5} \\)",
+      "choices": [
+        " 4",
+        " 8",
+        " -4",
+        " 16"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "35. \\(x-\\dfrac{x-4}{3}=7 \\dfrac{3}{4}-\\dfrac{x+8}{5}+\\dfrac{x-2}{4} \\)",
+      "choices": [
+        " 6",
+        " 7",
+        " 13",
+        " 1"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "36. \\(\\dfrac{9 x-2}{2}-\\left(x-\\dfrac{x+4}{7}\\right) =36\\)",
+      "choices": [
+        " 36",
+        " 504",
+        " 10",
+        " 7"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "37. \\(\\dfrac{3 x}{14}-\\dfrac{2 x-7}{21}+3 \\dfrac{1}{4}=\\dfrac{x-4}{4} \\)",
+      "choices": [
+        " 35",
+        " -35",
+        " 11",
+        " 53"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "38. \\(\\dfrac{18 x+1}{29}-\\dfrac{402-27 x}{12}=9-\\dfrac{471-54 x}{2} \\)",
+      "choices": [
+        " 8",
+        " 16",
+        " 348",
+        " 12"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "39. \\(\\dfrac{3}{5} y+\\dfrac{2}{5} y=1 \\)",
+      "choices": [
+        " 1",
+        " 2",
+        " 5",
+        " 7"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "40. \\(\\dfrac{2 v}{3}=\\dfrac{5}{6}-\\dfrac{2 v}{3} \\)",
+      "choices": [
+        " -0.416",
+        " 0.625",
+        " -0.625",
+        " 6.25"
+      ],
+      "answer": "1"
+    }
+  ]
+}

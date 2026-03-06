@@ -1,5 +1,6 @@
 {
   "isTheory": true,
+  "title": "Quadratic equations Part 2",
   "openingRemarks": "Solve these quadratic equations, i.e. equations of the form \\(ax^2 + bx + c = 0\\) where \\(a \\ne 0\\)<p>NB: Quadratic equation formula is used to solve these equations.",
   "questions": [
     {

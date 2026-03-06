@@ -1,0 +1,226 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "61. Evaluate \\(\\dfrac{7w}{2}+\\dfrac{z}{7}-420\\quad \\) if \\(w=120, z=504\\)",
+      "choices": [
+        "800",
+        "44",
+        "172",
+        "72"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "62. Evaluate \\(e^{2}+2 e-5\\quad \\) if \\(e=5\\)",
+      "choices": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "63. Evaluate \\(f-3e\\quad \\) if \\(e=5, f=30\\)",
+      "choices": [
+        "15",
+        "20",
+        "25",
+        "0"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "64. Evaluate \\(2g^{2}+3g-50\\quad \\) if \\(g=-6\\)",
+      "choices": [
+        "22",
+        "10",
+        "4",
+        "5"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "65. Evaluate \\(h-4g\\quad \\) if \\(g=-6, h=4\\)",
+      "choices": [
+        "-22",
+        "20",
+        "22",
+        "28"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "66. Evaluate \\(5j+21\\quad \\) if \\(j=-5\\)",
+      "choices": [
+        "1",
+        "-4",
+        "6",
+        "2"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "67. Evaluate \\(3j^{2}-5j-104\\quad \\) if \\(j=-5\\)",
+      "choices": [
+        "-4",
+        "4",
+        "2",
+        "8"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "68. Evaluate \\(2m+3n\\quad \\) if \\(m=3, n=-4\\)",
+      "choices": [
+        "12",
+        "10",
+        "-6",
+        "18"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "69. Evaluate \\(2m^{2}+n+3m=23\\quad \\) if \\(m=3, n=-4\\)",
+      "choices": [
+        "14",
+        "27",
+        "20",
+        "23"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "70. Evaluate \\(2p^{2}-q+5p\\quad \\) if \\(p=-4, q=3\\)",
+      "choices": [
+        "9",
+        "10",
+        "15",
+        "-11"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "71. Evaluate \\(2p-3q\\quad \\) if \\(p=-4, q=3\\)",
+      "choices": [
+        "6",
+        "5",
+        "-17",
+        "7"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "72. Evaluate \\(2x+y-3z\\quad \\) if \\(x=2, y=4, z=4\\)",
+      "choices": [
+        "-4",
+        "10",
+        "16",
+        "8"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "73. Evaluate \\(3x+y+z\\quad \\) if \\(x=2, y=4, z=4\\)",
+      "choices": [
+        "12",
+        "14",
+        "16",
+        "10"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "74. Evaluate \\(x-y+2z\\quad \\) if \\(x=2, y=4, z=4\\)",
+      "choices": [
+        "4",
+        "6",
+        "12",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "75. Evaluate \\(5a+2b+c\\quad \\) if \\(a=4, b=5, c=6\\)",
+      "choices": [
+        "30",
+        "20",
+        "36",
+        "26"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "76. Evaluate \\(3a+4b+2c\\quad \\) if \\(a=4, b=5, c=6\\)",
+      "choices": [
+        "41",
+        "34",
+        "31",
+        "44"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "77. Evaluate \\(a+5b+c\\quad \\) if \\(a=4, b=5, c=6\\)",
+      "choices": [
+        "17",
+        "20",
+        "35",
+        "15"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "78. Evaluate \\(2d+3e-4f\\quad \\) if \\(d=5, e=3, f=6\\)",
+      "choices": [
+        "-14",
+        "14",
+        "-5",
+        "-13"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "79. Evaluate \\(d-e-f\\quad \\) if \\(d=5, e=3, f=6\\)",
+      "choices": [
+        "-3",
+        "2",
+        "-4",
+        "6"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "80. Evaluate \\(9d-2e-2f\\quad \\) if \\(d=5, e=3, f=6\\)",
+      "choices": [
+        "40",
+        "41",
+        "39",
+        "37"
+      ],
+      "answer": "2"
+    }
+  ]
+}

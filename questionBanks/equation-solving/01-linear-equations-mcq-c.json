@@ -1,0 +1,227 @@
+{
+  "inputTimeWaitSecs": 600,
+  "noRandomize": true,
+  "openingRemarks": "Find the solution to the following equations",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "41. \\(\\dfrac{a}{3} + 4 = 6 \\)",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "42. \\(\\dfrac{h + 6}{5} = 2 \\)",
+      "choices": [
+        "4",
+        "5",
+        "11",
+        "9"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "43. \\(\\dfrac{d - 8}{-2} = 12 \\)",
+      "choices": [
+        "16",
+        "-16",
+        "28",
+        "14"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "44. \\(68 = \\dfrac{1}{5}(20x + 50) + 2 \\)",
+      "choices": [
+        "14",
+        "16",
+        "1",
+        "2"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "45. \\(7y = 6y - 13 \\)",
+      "choices": [
+        "4",
+        "7",
+        "10",
+        "-13"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "46. \\(5a + 21 = 2a \\)",
+      "choices": [
+        "4",
+        "-7",
+        "13",
+        "21"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "47. \\(k = -6k  - 35\\)",
+      "choices": [
+        "7",
+        "4",
+        "-5",
+        "14"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "48. \\(2k - 3(2k - 3) = 45 \\)",
+      "choices": [
+        "18",
+        "7",
+        "4",
+        "-9"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "49. \\(5h + 2(11 - h) = -5 \\)",
+      "choices": [
+        "21",
+        "-9",
+        "3",
+        "6"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "50. \\(27 = 3c - 3(6 - 2c) \\)",
+      "choices": [
+        "5",
+        "3",
+        "1",
+        "-6"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "51. \\(-3 = 12y - 5(2y - 7) \\)",
+      "choices": [
+        "18",
+        "9",
+        "-19",
+        "20"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "52. \\(-3(3 + x) + 4(x - 6) = -4 \\)",
+      "choices": [
+        "-19",
+        "20",
+        "25",
+        "29"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "53. \\(5(r + 9) - 2(1 - r) = 1 \\)",
+      "choices": [
+        "1",
+        "2",
+        "5",
+        "-6"
+      ],
+      "answer": "3"
+    },
+    {
+      "type": "mcq",
+      "question": "54. \\(15 - 2x = 3x \\)",
+      "choices": [
+        "3",
+        "1",
+        "-4",
+        "5"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "55. \\(26 - 4s = 9s \\)",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "56. \\(5p - 9 = 2p + 12 \\)",
+      "choices": [
+        "7",
+        "4",
+        "0",
+        "3"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "57. \\(8g + 10 = 35 + 3g \\)",
+      "choices": [
+        "-1",
+        "5",
+        "3",
+        "0"
+      ],
+      "answer": "1"
+    },
+    {
+      "type": "mcq",
+      "question": "58. \\(5t + 16 = 6 - 5t \\)",
+      "choices": [
+        "-1",
+        "2",
+        "4",
+        "8"
+      ],
+      "answer": "0"
+    },
+    {
+      "type": "mcq",
+      "question": "59. \\(-3r + 10 = 15r - 8 \\)",
+      "choices": [
+        "5",
+        "2",
+        "1",
+        "8"
+      ],
+      "answer": "2"
+    },
+    {
+      "type": "mcq",
+      "question": "60. \\(7 + 3x - 12x = 3x + 1 \\)",
+      "choices": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5"
+      ],
+      "answer": "3"
+    }
+  ]
+}

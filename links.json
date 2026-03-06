@@ -1,6 +1,7 @@
 {
   "sections": [
     {
+      "cat": ["basic"],
       "title": "C1 - Addition",
       "links": [
         {
@@ -18,6 +19,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C1 - Subtraction and Comparison",
       "links": [
         {
@@ -35,6 +37,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C1 - Addition and Subtraction Procedures",
       "links": [
         {
@@ -50,6 +53,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C2 - Multiplication",
       "links": [
         {
@@ -76,6 +80,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C2 - Powers and Roots",
       "links": [
         {
@@ -89,6 +94,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C2 - Recalling of Factorization Facts",
       "links": [
         {
@@ -110,6 +116,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C2 - Division",
       "links": [
         {
@@ -123,6 +130,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C2 - Procedures for Multiplication and Division",
       "links": [
         {
@@ -138,6 +146,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C3 - Integers",
       "links": [
         {
@@ -185,6 +194,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C4 - Divisibility Tests",
       "links": [
         {
@@ -222,6 +232,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C4 - Prime and Composite Numbers",
       "links": [
         {
@@ -239,6 +250,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C5 - Fractions",
       "links": [
         {
@@ -266,6 +278,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C6 - Procedures for Number Format Conversions",
       "links": [
         {
@@ -309,6 +322,7 @@
       ]
     },
     {
+      "cat": ["basic"],
       "title": "C7 - Arithmetic Across Number Formats",
       "links": [
         {
@@ -324,6 +338,10 @@
           "title": "Multiplication and Division of Decimals",
           "description": "Intended for manual practice",
           "questionBankUrl": "adv-arithmetic-practice/mul-and-div"
+        },
+        {
+          "title": "Rounding to Nearest Powers of 10",
+          "questionBankUrl": "adv-arithmetic-practice/rounding-to-nearest-powers-of-ten"
         },
         {
           "title": "Standard Form",
@@ -350,38 +368,138 @@
       ]
     },
     {
+      "cat": ["basic", "high"],
       "title": "C8 - Evaluating Expressions",
       "links": [
         {
           "title": "Part 1",
-          "questionBankUrl": "expression-evaluation/01-arithmetic"
+          "description": "BODMAS",
+          "questionBankUrl": "expression-evaluation/01-bodmas"
         },
         {
-          "title": "Part 2",
-          "questionBankUrl": "expression-evaluation/02-roots",
+          "title": "Part 2 (MCQs)",
+          "questionBankUrl": "expression-evaluation/02-arithmetic-mcq-a"
+        },
+        {
+          "title": "Part 3 (MCQs)",
+          "questionBankUrl": "expression-evaluation/02-arithmetic-mcq-b"
+        },
+        {
+          "title": "Part 4 (MCQs)",
+          "questionBankUrl": "expression-evaluation/02-arithmetic-mcq-c"
+        },
+        {
+          "title": "Part 5 (MCQs)",
+          "questionBankUrl": "expression-evaluation/02-arithmetic-mcq-d"
+        },
+        {
+          "title": "Part 6 (MCQs)",
+          "questionBankUrl": "expression-evaluation/02-arithmetic-mcq-e"
+        },
+        {
+          "title": "Solutions for Parts 2-6",
+          "questionBankUrl": "expression-evaluation/02-arithmetic-theory"
+        },
+        {
+          "title": "Part 7 (MCQs)",
+          "questionBankUrl": "expression-evaluation/03-roots-mcq-a",
           "description": "Involves roots"
         },
         {
-          "title": "Part 3",
-          "questionBankUrl": "expression-evaluation/03-functions",
+          "title": "Part 8 (MCQs)",
+          "questionBankUrl": "expression-evaluation/03-roots-mcq-b",
+          "description": "Involves roots"
+        },
+        {
+          "title": "Part 9 (MCQs)",
+          "questionBankUrl": "expression-evaluation/03-roots-mcq-c",
+          "description": "Involves roots"
+        },
+        {
+          "title": "Solutions for Parts 7-9",
+          "questionBankUrl": "expression-evaluation/03-roots-theory"
+        },
+        {
+          "title": "Part 10 (MCQs)",
+          "questionBankUrl": "expression-evaluation/04-functions-mcq-a",
           "description": "Involves functions"
+        },
+        {
+          "title": "Part 11 (MCQs)",
+          "questionBankUrl": "expression-evaluation/04-functions-mcq-b",
+          "description": "Involves functions"
+        },
+        {
+          "title": "Part 12 (MCQs)",
+          "questionBankUrl": "expression-evaluation/04-functions-mcq-c",
+          "description": "Involves functions"
+        },
+        {
+          "title": "Solutions for Parts 10-12",
+          "questionBankUrl": "expression-evaluation/04-functions-theory"
         }
       ]
     },
     {
+      "cat": ["high"],
       "title": "C9 - Solving Linear Equations",
       "links": [
         {
-          "title": "Linear equations Part 1",
-          "questionBankUrl": "equation-solving/01-linear-equations"
+          "title": "Part 1 (MCQs)",
+          "questionBankUrl": "equation-solving/01-linear-equations-mcq-a"
         },
         {
-          "title": "Linear equations Part 2",
-          "questionBankUrl": "equation-solving/02-linear-equations"
+          "title": "Part 2 (MCQs)",
+          "questionBankUrl": "equation-solving/01-linear-equations-mcq-b"
+        },
+        {
+          "title": "Part 3 (MCQs)",
+          "questionBankUrl": "equation-solving/01-linear-equations-mcq-c"
+        },
+        {
+          "title": "Part 4 (MCQs)",
+          "questionBankUrl": "equation-solving/01-linear-equations-mcq-d"
+        },
+        {
+          "title": "Part 5 (MCQs)",
+          "questionBankUrl": "equation-solving/01-linear-equations-mcq-e"
+        },
+        {
+          "title": "Part 6 (MCQs)",
+          "questionBankUrl": "equation-solving/01-linear-equations-mcq-f"
+        },
+        {
+          "title": "Solutions for Parts 1-6",
+          "questionBankUrl": "equation-solving/01-linear-equations-theory"
+        },
+        {
+          "title": "Part 7 (MCQs)",
+          "questionBankUrl": "equation-solving/02-linear-equations-mcq-a"
+        },
+        {
+          "title": "Part 8 (MCQs)",
+          "questionBankUrl": "equation-solving/02-linear-equations-mcq-b"
+        },
+        {
+          "title": "Part 9 (MCQs)",
+          "questionBankUrl": "equation-solving/02-linear-equations-mcq-c"
+        },
+        {
+          "title": "Part 10 (MCQs)",
+          "questionBankUrl": "equation-solving/02-linear-equations-mcq-d"
+        },
+        {
+          "title": "Part 11 (MCQs)",
+          "questionBankUrl": "equation-solving/02-linear-equations-mcq-e"
+        },
+        {
+          "title": "Solutions for Parts 7-11",
+          "questionBankUrl": "equation-solving/02-linear-equations-theory"
         }
       ]
     },
     {
+      "cat": ["high"],
       "title": "C10 - Advanced Factorization",
       "links": [
         {
@@ -405,23 +523,66 @@
       ]
     },
     {
-      "title": "C11 - Advanced Equation Solving",
+      "cat": ["high"],
+      "title": "C10 - Solving Quadratic Equations",
       "links": [
         {
-          "title": "Quadratic equations Part 1",
-          "questionBankUrl": "equation-solving/01-quadratic-equations"
+          "title": "Part 1 (MCQs)",
+          "questionBankUrl": "equation-solving/01-quadratic-equations-mcq-a"
         },
         {
-          "title": "Quadratic equations Part 2",
-          "questionBankUrl": "equation-solving/02-quadratic-equations"
+          "title": "Part 2 (MCQs)",
+          "questionBankUrl": "equation-solving/01-quadratic-equations-mcq-b"
         },
         {
-          "title": "Simultaneous Equations Part 1",
-          "questionBankUrl": "equation-solving/01-simultaneous-equations"
+          "title": "Part 3 (MCQs)",
+          "questionBankUrl": "equation-solving/01-quadratic-equations-mcq-c"
         },
         {
-          "title": "Simultaneous Equations Part 2",
-          "questionBankUrl": "equation-solving/02-simultaneous-equations"
+          "title": "Solutions for Parts 1-3",
+          "questionBankUrl": "equation-solving/01-quadratic-equations-theory"
+        },
+        {
+          "title": "Part 4 (MCQs)",
+          "questionBankUrl": "equation-solving/02-quadratic-equations-mcq-a"
+        },
+        {
+          "title": "Part 5 (MCQs)",
+          "questionBankUrl": "equation-solving/02-quadratic-equations-mcq-b"
+        },
+        {
+          "title": "Solutions for Parts 4-5",
+          "questionBankUrl": "equation-solving/01-quadratic-equations-theory"
+        }
+      ]
+    },
+    {
+      "cat": ["high"],
+      "title": "C10 - Solving Simultaneous Equations",
+      "links": [
+        {
+          "title": "Part 1 (MCQs)",
+          "questionBankUrl": "equation-solving/01-simultaneous-equations-mcq-a"
+        },
+        {
+          "title": "Part 2 (MCQs)",
+          "questionBankUrl": "equation-solving/01-simultaneous-equations-mcq-b"
+        },
+        {
+          "title": "Part 3 (MCQs)",
+          "questionBankUrl": "equation-solving/01-simultaneous-equations-mcq-c"
+        },
+        {
+          "title": "Solutions for Parts 1-3",
+          "questionBankUrl": "equation-solving/01-simultaneous-equations-theory"
+        },
+        {
+          "title": "Part 4 (MCQs)",
+          "questionBankUrl": "equation-solving/02-simultaneous-equations-mcq"
+        },
+        {
+          "title": "Solutions for Part 4",
+          "questionBankUrl": "equation-solving/02-simultaneous-equations-theory"
         }
       ]
     }
