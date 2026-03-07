@@ -1,0 +1,390 @@
+{
+  "inputTimeWaitSecs": 120,
+  "questions": [
+    {
+      "question": "If Kwaku and Abena share \u20b514,000 in the ratio 10 \u2236 10, how much money (in GHS) should Kwaku receive?",
+      "answer": "7000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Ama, Akua and Gilbert shared a certain amount of money in the ratio 8 \u2236 4 \u2236 10. If Akua received $4,000, how much money (in USD) did Gilbert receive?",
+      "answer": "10000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kwaku, Lucy and Ama shared \u20b5560 in a certain ratio. If Kwaku received \u20b580, Lucy received \u20b5200 and Ama received \u20b5280, determine a simple ratio that they might have used to share the money.",
+      "answer": "2:5:7",
+      "expectedDenominators": [
+        5
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Abena, Kofi and Akua share $13,500 in the ratio 1 \u2236 7 \u2236 7, how much money (in USD) should Akua receive?",
+      "answer": "6300",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Gilbert and Ama share \u20b554,000 in the ratio 9 \u2236 9, how much money (in GHS) should Ama receive?",
+      "answer": "27000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Akua and Lucy share $5,400 in the ratio 9 \u2236 9, how much money (in USD) should Akua receive?",
+      "answer": "2700",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy and Peter share $24,000 in the ratio 7 \u2236 1, how much money (in USD) should Lucy receive?",
+      "answer": "21000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kofi and Abena share \u20b5120,000 in the ratio 8 \u2236 4, how much money (in GHS) should Abena receive?",
+      "answer": "40000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku and Kofi share $550 in the ratio 9 \u2236 2, how much money (in USD) should Kwaku receive?",
+      "answer": "450",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter, Abena and Gilbert shared a certain amount of money in the ratio 5 \u2236 8 \u2236 7. If Abena received $16,000, how much money (in USD) did Gilbert receive?",
+      "answer": "14000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Gilbert and Kwaku shared a certain amount of money in the ratio 7 \u2236 6. If Gilbert received $420, how much money (in USD) did Kwaku receive?",
+      "answer": "360",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Ama and Lucy shared $16,200 in a certain ratio. If Ama received $8,100 and Lucy received $8,100, determine a simple ratio that they might have used to share the money.",
+      "answer": "9:9",
+      "expectedDenominators": [
+        1,
+        3,
+        9
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Ama, Abena and Kofi shared $240 in a certain ratio. If Ama received $100, Abena received $60 and Kofi received $80, determine a simple ratio that they might have used to share the money.",
+      "answer": "10:6:8",
+      "expectedDenominators": [
+        3,
+        6
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Lucy and Abena shared a certain amount of money in the ratio 5 \u2236 9. If Abena received \u20b563,000, how much money (in GHS) did Lucy receive?",
+      "answer": "35000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku, Abena and Akua share \u20b51,920 in the ratio 9 \u2236 6 \u2236 9, how much money (in GHS) should Abena receive?",
+      "answer": "480",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kofi, Akua and Kwaku shared a certain amount of money in the ratio 5 \u2236 10 \u2236 2. If Kofi received \u20b55,000, how much money (in GHS) did Kwaku receive?",
+      "answer": "2000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy, Ama and Kofi share \u20b51,710 in the ratio 7 \u2236 3 \u2236 9, how much money (in GHS) should Kofi receive?",
+      "answer": "810",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Ama and Kofi shared $1,000 in a certain ratio. If Ama received $900 and Kofi received $100, determine a simple ratio that they might have used to share the money.",
+      "answer": "9:1",
+      "expectedDenominators": [
+        1
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Akua and Peter share $360 in the ratio 8 \u2236 1, how much money (in USD) should Peter receive?",
+      "answer": "40",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy and Gilbert share \u20b555,000 in the ratio 1 \u2236 10, how much money (in GHS) should Lucy receive?",
+      "answer": "5000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kwaku and Akua shared a certain amount of money in the ratio 3 \u2236 3. If Akua received \u20b52,700, how much money (in GHS) did Kwaku receive?",
+      "answer": "2700",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Akua, Abena and Kwaku shared \u20b58,000 in a certain ratio. If Akua received \u20b53,500, Abena received \u20b52,500 and Kwaku received \u20b52,000, determine a simple ratio that they might have used to share the money.",
+      "answer": "7:5:4",
+      "expectedDenominators": [
+        5
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Lucy, Peter, Ama and Gilbert share \u20b5180 in the ratio 2 \u2236 5 \u2236 4 \u2236 7, how much money (in GHS) should Ama receive?",
+      "answer": "40",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Ama and Abena share $5,000 in the ratio 2 \u2236 3, how much money (in USD) should Ama receive?",
+      "answer": "2000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter, Lucy and Kofi shared a certain amount of money in the ratio 1 \u2236 4 \u2236 5. If Kofi received $200, how much money (in USD) did Peter receive?",
+      "answer": "40",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy, Peter and Ama share $80,000 in the ratio 7 \u2236 3 \u2236 6, how much money (in USD) should Ama receive?",
+      "answer": "30000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Peter, Akua, Abena and Kwaku share \u20b5162,000 in the ratio 6 \u2236 6 \u2236 5 \u2236 1, how much money (in GHS) should Kwaku receive?",
+      "answer": "9000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Gilbert and Abena share $5,500 in the ratio 1 \u2236 10, how much money (in USD) should Abena receive?",
+      "answer": "5000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kwaku and Lucy shared a certain amount of money in the ratio 1 \u2236 7. If Lucy received $70, how much money (in USD) did Kwaku receive?",
+      "answer": "10",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter, Gilbert and Kwaku shared a certain amount of money in the ratio 4 \u2236 3 \u2236 1. If Peter received \u20b52,800, how much money (in GHS) did Kwaku receive?",
+      "answer": "700",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kofi and Gilbert shared \u20b57,200 in a certain ratio. If Kofi received \u20b56,300 and Gilbert received \u20b5900, determine a simple ratio that they might have used to share the money.",
+      "answer": "7:1",
+      "expectedDenominators": [
+        1
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Akua, Gilbert, Kofi and Abena shared a certain amount of money in the ratio 10 \u2236 1 \u2236 1 \u2236 6. If Kofi received \u20b510,000, how much money (in GHS) did Gilbert receive?",
+      "answer": "10000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy, Kwaku and Akua share $9,200 in the ratio 8 \u2236 8 \u2236 7, how much money (in USD) should Akua receive?",
+      "answer": "2800",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Ama and Kofi shared a certain amount of money in the ratio 4 \u2236 7. If Ama received $240, how much money (in USD) did Kofi receive?",
+      "answer": "420",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku, Ama and Lucy share \u20b56,800 in the ratio 6 \u2236 9 \u2236 2, how much money (in GHS) should Lucy receive?",
+      "answer": "800",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Gilbert and Abena shared $72,000 in a certain ratio. If Gilbert received $30,000 and Abena received $42,000, determine a simple ratio that they might have used to share the money.",
+      "answer": "5:7",
+      "expectedDenominators": [
+        7
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Abena and Akua shared a certain amount of money in the ratio 9 \u2236 1. If Abena received \u20b54,500, how much money (in GHS) did Akua receive?",
+      "answer": "500",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy, Kwaku and Ama share $2,400 in the ratio 3 \u2236 7 \u2236 2, how much money (in USD) should Lucy receive?",
+      "answer": "600",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Abena, Akua and Ama share $840 in the ratio 1 \u2236 7 \u2236 4, how much money (in USD) should Abena receive?",
+      "answer": "70",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Peter and Ama share $550 in the ratio 7 \u2236 4, how much money (in USD) should Ama receive?",
+      "answer": "200",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Abena, Peter and Gilbert share $6,400 in the ratio 5 \u2236 9 \u2236 2, how much money (in USD) should Abena receive?",
+      "answer": "2000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter, Akua, Kofi and Ama shared $840 in a certain ratio. If Peter received $270, Akua received $240, Kofi received $210 and Ama received $120, determine a simple ratio that they might have used to share the money.",
+      "answer": "9:8:7:4",
+      "expectedDenominators": [
+        8
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Kwaku, Abena and Lucy share $1,100 in the ratio 2 \u2236 4 \u2236 5, how much money (in USD) should Kwaku receive?",
+      "answer": "200",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy and Gilbert share $12,000 in the ratio 7 \u2236 5, how much money (in USD) should Gilbert receive?",
+      "answer": "5000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Ama, Lucy, Akua and Peter share $38,000 in the ratio 10 \u2236 1 \u2236 4 \u2236 4, how much money (in USD) should Ama receive?",
+      "answer": "20000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Lucy, Gilbert and Akua shared $6,300 in a certain ratio. If Lucy received $1,200, Gilbert received $3,000 and Akua received $2,100, determine a simple ratio that they might have used to share the money.",
+      "answer": "4:10:7",
+      "expectedDenominators": [
+        10
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Gilbert, Kwaku and Peter share $560 in the ratio 1 \u2236 4 \u2236 3, how much money (in USD) should Kwaku receive?",
+      "answer": "280",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Akua, Gilbert and Ama share $8,000 in the ratio 7 \u2236 6 \u2236 3, how much money (in USD) should Gilbert receive?",
+      "answer": "3000",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Akua and Gilbert shared a certain amount of money in the ratio 5 \u2236 10. If Gilbert received $200, how much money (in USD) did Akua receive?",
+      "answer": "100",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Abena and Akua shared \u20b5250 in a certain ratio. If Abena received \u20b5100 and Akua received \u20b5150, determine a simple ratio that they might have used to share the money.",
+      "answer": "2:3",
+      "expectedDenominators": [
+        3,
+        6,
+        9
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    }
+  ]
+}

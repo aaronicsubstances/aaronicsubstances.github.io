@@ -1,0 +1,406 @@
+{
+  "inputTimeWaitSecs": 120,
+  "questions": [
+    {
+      "question": "If Gilbert and Peter share 3 books in the ratio 2 \u2236 1, how many books should Gilbert receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter and Gilbert shared a certain number of pencils in the ratio 3 \u2236 2. If Gilbert received 8 pencils, how many pencils did Peter receive?",
+      "answer": "12",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku and Peter share 4 pencils in the ratio 2 \u2236 2, how many pencils should Peter receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Akua, Gilbert and Lucy shared 15 pencils in a certain ratio. If Akua received 3 pencils, Gilbert received 9 pencils and Lucy received 3 pencils, determine a simple ratio that they might have used to share the pencils.",
+      "answer": "1:3:1",
+      "expectedDenominators": [
+        3,
+        6,
+        9
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Kwaku, Peter and Lucy shared 24 books in a certain ratio. If Kwaku received 3 books, Peter received 6 books and Lucy received 15 books, determine a simple ratio that they might have used to share the books.",
+      "answer": "1:2:5",
+      "expectedDenominators": [
+        2,
+        4
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Gilbert, Abena and Akua share 30 biscuits in the ratio 2 \u2236 3 \u2236 1, how many biscuits should Abena receive?",
+      "answer": "15",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Abena and Gilbert share 20 books in the ratio 2 \u2236 3, how many books should Gilbert receive?",
+      "answer": "12",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kwaku, Abena and Peter shared 60 books in a certain ratio. If Kwaku received 20 books, Abena received 20 books and Peter received 20 books, determine a simple ratio that they might have used to share the books.",
+      "answer": "4:4:4",
+      "expectedDenominators": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Ama, Abena and Akua shared 42 books in a certain ratio. If Ama received 12 books, Abena received 15 books and Akua received 15 books, determine a simple ratio that they might have used to share the books.",
+      "answer": "4:5:5",
+      "expectedDenominators": [
+        5,
+        10
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Gilbert and Kwaku shared a certain number of pencils in the ratio 2 \u2236 1. If Gilbert received 6 pencils, how many pencils did Kwaku receive?",
+      "answer": "3",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kofi and Abena shared 12 biscuits in a certain ratio. If Kofi received 10 biscuits and Abena received 2 biscuits, determine a simple ratio that they might have used to share the biscuits.",
+      "answer": "5:1",
+      "expectedDenominators": [
+        1,
+        2
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Akua and Kofi shared 20 pencils in a certain ratio. If Akua received 10 pencils and Kofi received 10 pencils, determine a simple ratio that they might have used to share the pencils.",
+      "answer": "2:2",
+      "expectedDenominators": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Ama and Abena share 21 biscuits in the ratio 3 \u2236 4, how many biscuits should Ama receive?",
+      "answer": "9",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Lucy, Abena and Akua shared 8 pencils in a certain ratio. If Lucy received 2 pencils, Abena received 4 pencils and Akua received 2 pencils, determine a simple ratio that they might have used to share the pencils.",
+      "answer": "1:2:1",
+      "expectedDenominators": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "If Gilbert and Ama share 21 books in the ratio 2 \u2236 5, how many books should Gilbert receive?",
+      "answer": "6",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Ama, Kwaku and Abena share 30 pencils in the ratio 2 \u2236 3 \u2236 1, how many pencils should Abena receive?",
+      "answer": "5",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku and Abena share 12 biscuits in the ratio 1 \u2236 2, how many biscuits should Abena receive?",
+      "answer": "8",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku, Ama and Kofi share 20 pencils in the ratio 2 \u2236 2 \u2236 1, how many pencils should Kwaku receive?",
+      "answer": "8",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kofi and Abena shared a certain number of books in the ratio 5 \u2236 1. If Kofi received 10 books, how many books did Abena receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy, Kwaku and Peter share 16 books in the ratio 5 \u2236 2 \u2236 1, how many books should Peter receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Gilbert and Abena share 24 pencils in the ratio 3 \u2236 5, how many pencils should Gilbert receive?",
+      "answer": "9",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Abena, Lucy and Akua shared a certain number of books in the ratio 4 \u2236 1 \u2236 3. If Abena received 16 books, how many books did Akua receive?",
+      "answer": "12",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Lucy, Ama and Kofi shared a certain number of biscuits in the ratio 1 \u2236 4 \u2236 2. If Kofi received 4 biscuits, how many biscuits did Lucy receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Akua, Kwaku and Abena share 18 pencils in the ratio 2 \u2236 2 \u2236 2, how many pencils should Abena receive?",
+      "answer": "6",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Ama and Kofi share 6 books in the ratio 1 \u2236 2, how many books should Ama receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku and Peter share 40 books in the ratio 4 \u2236 4, how many books should Peter receive?",
+      "answer": "20",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Gilbert, Lucy and Abena shared a certain number of biscuits in the ratio 3 \u2236 3 \u2236 2. If Lucy received 9 biscuits, how many biscuits did Abena receive?",
+      "answer": "6",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Akua and Lucy share 50 books in the ratio 5 \u2236 5, how many books should Lucy receive?",
+      "answer": "25",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kofi and Gilbert shared a certain number of biscuits in the ratio 2 \u2236 5. If Kofi received 10 biscuits, how many biscuits did Gilbert receive?",
+      "answer": "25",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy and Kwaku share 8 biscuits in the ratio 3 \u2236 5, how many biscuits should Kwaku receive?",
+      "answer": "5",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Gilbert and Ama share 21 books in the ratio 4 \u2236 3, how many books should Ama receive?",
+      "answer": "9",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Gilbert, Akua and Abena share 48 pencils in the ratio 4 \u2236 3 \u2236 5, how many pencils should Akua receive?",
+      "answer": "12",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Gilbert, Abena and Kwaku share 8 books in the ratio 2 \u2236 3 \u2236 3, how many books should Gilbert receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Gilbert, Ama and Abena shared a certain number of biscuits in the ratio 1 \u2236 3 \u2236 1. If Gilbert received 5 biscuits, how many biscuits did Abena receive?",
+      "answer": "5",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku, Peter and Abena share 33 pencils in the ratio 5 \u2236 5 \u2236 1, how many pencils should Peter receive?",
+      "answer": "15",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Gilbert and Kwaku shared a certain number of biscuits in the ratio 4 \u2236 1. If Gilbert received 8 biscuits, how many biscuits did Kwaku receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Abena, Peter and Gilbert shared a certain number of pencils in the ratio 5 \u2236 3 \u2236 3. If Peter received 9 pencils, how many pencils did Abena receive?",
+      "answer": "15",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter and Gilbert shared 4 books in a certain ratio. If Peter received 1 books and Gilbert received 3 books, determine a simple ratio that they might have used to share the books.",
+      "answer": "1:3",
+      "expectedDenominators": [
+        3,
+        6,
+        9
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Peter, Ama and Akua shared a certain number of biscuits in the ratio 1 \u2236 5 \u2236 1. If Peter received 1 biscuits, how many biscuits did Ama receive?",
+      "answer": "5",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Peter, Abena and Kofi shared a certain number of books in the ratio 4 \u2236 2 \u2236 2. If Peter received 8 books, how many books did Abena receive?",
+      "answer": "4",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy and Abena share 10 pencils in the ratio 4 \u2236 1, how many pencils should Abena receive?",
+      "answer": "2",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kwaku and Abena shared a certain number of books in the ratio 4 \u2236 5. If Kwaku received 16 books, how many books did Abena receive?",
+      "answer": "20",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kwaku and Akua share 12 pencils in the ratio 1 \u2236 3, how many pencils should Akua receive?",
+      "answer": "9",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Akua and Abena shared a certain number of pencils in the ratio 1 \u2236 3. If Akua received 3 pencils, how many pencils did Abena receive?",
+      "answer": "9",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Lucy and Ama share 35 biscuits in the ratio 3 \u2236 4, how many biscuits should Ama receive?",
+      "answer": "20",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Kofi and Peter share 21 books in the ratio 5 \u2236 2, how many books should Peter receive?",
+      "answer": "6",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Abena and Kwaku shared 24 books in a certain ratio. If Abena received 4 books and Kwaku received 20 books, determine a simple ratio that they might have used to share the books.",
+      "answer": "1:5",
+      "expectedDenominators": [
+        5,
+        10
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    },
+    {
+      "question": "Ama, Peter and Gilbert shared a certain number of pencils in the ratio 1 \u2236 4 \u2236 3. If Ama received 4 pencils, how many pencils did Peter receive?",
+      "answer": "16",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "If Akua and Ama share 18 books in the ratio 4 \u2236 2, how many books should Akua receive?",
+      "answer": "12",
+      "numberInputTypes": [
+        "int"
+      ]
+    },
+    {
+      "question": "Kwaku and Abena shared 24 pencils in a certain ratio. If Kwaku received 20 pencils and Abena received 4 pencils, determine a simple ratio that they might have used to share the pencils.",
+      "answer": "5:1",
+      "expectedDenominators": [
+        1,
+        2
+      ],
+      "numberInputTypes": [
+        "ratio"
+      ]
+    }
+  ]
+}

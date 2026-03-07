@@ -1,64 +1,206 @@
 {
-    "questions": [
-        {
-            "question": "Reduce 4 &ratio; 6 to its simplest form",
-            "answer": "2 : 3",
-            "numberInputTypes": ["ratio"],
-            "expectedDenominators": [3]
-        },
-        {
-            "question": "Reduce \\(\\dfrac{18}{15}\\) to its simplest form",
-            "answer": "6/5",
-            "numberInputTypes": ["cfr"],
-            "expectedDenominators": [5]
-        },
-        {
-            "question": "Reduce 4 &ratio; 7 to its simplest form",
-            "answer": "4 : 7",
-            "numberInputTypes": ["ratio"],
-            "expectedDenominators": [7]
-        },
-        {
-            "question": "Reduce \\(\\dfrac{20}{32}\\) to its simplest form",
-            "answer": "5/8",
-            "numberInputTypes": ["cfr"],
-            "expectedDenominators": [8]
-        },
-        {
-            "question": "Reduce 14 &ratio; 7 to its simplest form",
-            "answer": "2 : 1",
-            "numberInputTypes": ["ratio"],
-            "expectedDenominators": [1]
-        },
-        {
-            "question": "Reduce \\(\\dfrac{70}{14}\\) to its simplest form",
-            "answer": "5",
-            "numberInputTypes": ["cfr"],
-            "expectedDenominators": [0, 1]
-        },
-        {
-            "question": "Reduce 14 &ratio; 18 &ratio; 22 to its simplest form",
-            "answer": "7 : 9: 11",
-            "numberInputTypes": ["ratio"],
-            "expectedDenominators": [9]
-        },
-        {
-            "question": "Reduce \\(\\dfrac{14}{21}\\) to its simplest form",
-            "answer": "2/3",
-            "numberInputTypes": ["cfr"],
-            "expectedDenominators": [3]
-        },
-        {
-            "question": "Reduce \\(\\dfrac{40}{32}\\) to its simplest form",
-            "answer": "5/4",
-            "numberInputTypes": ["cfr"],
-            "expectedDenominators": [4]
-        },
-        {
-            "question": "Reduce 8 &ratio; 20 &ratio; 16 to its simplest form",
-            "answer": "2:5:4",
-            "numberInputTypes": ["ratio"],
-            "expectedDenominators": [5]
-        }
-    ]
+  "inputTimeWaitSecs": 60,
+  "questions": [
+    {
+      "question": "Reduce \\(\\dfrac{6}{8}\\) to its simplest form",
+      "answer": "3/4",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        4
+      ]
+    },
+    {
+      "question": "Reduce 4 &ratio; 6 to its simplest form",
+      "answer": "2 : 3",
+      "numberInputTypes": [
+        "ratio"
+      ],
+      "expectedDenominators": [
+        3
+      ]
+    },
+    {
+      "question": "Reduce 14 &ratio; 18 &ratio; 22 to its simplest form",
+      "answer": "7 : 9: 11",
+      "numberInputTypes": [
+        "ratio"
+      ],
+      "expectedDenominators": [
+        9
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{28}{44}\\) to its simplest form",
+      "answer": "7/11",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        11
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{18}{15}\\) to its simplest form",
+      "answer": "6/5",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        5
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{8}{14}\\) to its simplest form",
+      "answer": "2/7",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        7
+      ]
+    },
+    {
+      "question": "Reduce 5 &ratio; 20 &ratio; 15 to its simplest form",
+      "answer": "1:4:3",
+      "numberInputTypes": [
+        "ratio"
+      ],
+      "expectedDenominators": [
+        4
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{70}{14}\\) to its simplest form",
+      "answer": "5",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        0,
+        1
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{90}{160}\\) to its simplest form",
+      "answer": "9/16",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        16
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{18}{24}\\) to its simplest form",
+      "answer": "3/4",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        4
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{5}{10}\\) to its simplest form",
+      "answer": "1/2",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        2
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{40}{32}\\) to its simplest form",
+      "answer": "5/4",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        4
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{14}{21}\\) to its simplest form",
+      "answer": "2/3",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        3
+      ]
+    },
+    {
+      "question": "Reduce 14 &ratio; 7 to its simplest form",
+      "answer": "2 : 1",
+      "numberInputTypes": [
+        "ratio"
+      ],
+      "expectedDenominators": [
+        1
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{20}{32}\\) to its simplest form",
+      "answer": "5/8",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        8
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{2}{4}\\) to its simplest form",
+      "answer": "1/2",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        2
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{10}{15}\\) to its simplest form",
+      "answer": "2/3",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        3
+      ]
+    },
+    {
+      "question": "Reduce \\(\\dfrac{4}{12}\\) to its simplest form",
+      "answer": "1/3",
+      "numberInputTypes": [
+        "cfr"
+      ],
+      "expectedDenominators": [
+        3
+      ]
+    },
+    {
+      "question": "Reduce 8 &ratio; 20 &ratio; 16 to its simplest form",
+      "answer": "2:5:4",
+      "numberInputTypes": [
+        "ratio"
+      ],
+      "expectedDenominators": [
+        5
+      ]
+    },
+    {
+      "question": "Reduce 4 &ratio; 7 to its simplest form",
+      "answer": "4 : 7",
+      "numberInputTypes": [
+        "ratio"
+      ],
+      "expectedDenominators": [
+        7
+      ]
+    }
+  ]
 }
