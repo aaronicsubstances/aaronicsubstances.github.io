@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "question": "Reduce 4 &ratio; 6 to its simplest form",
+            "answer": "2 : 3",
+            "numberInputTypes": ["ratio"],
+            "expectedDenominators": [3]
+        },
+        {
+            "question": "Reduce \\(\\dfrac{18}{15}\\) to its simplest form",
+            "answer": "6/5",
+            "numberInputTypes": ["cfr"],
+            "expectedDenominators": [5]
+        },
+        {
+            "question": "Reduce 4 &ratio; 7 to its simplest form",
+            "answer": "4 : 7",
+            "numberInputTypes": ["ratio"],
+            "expectedDenominators": [7]
+        },
+        {
+            "question": "Reduce \\(\\dfrac{20}{32}\\) to its simplest form",
+            "answer": "5/8",
+            "numberInputTypes": ["cfr"],
+            "expectedDenominators": [8]
+        },
+        {
+            "question": "Reduce 14 &ratio; 7 to its simplest form",
+            "answer": "2 : 1",
+            "numberInputTypes": ["ratio"],
+            "expectedDenominators": [1]
+        },
+        {
+            "question": "Reduce \\(\\dfrac{70}{14}\\) to its simplest form",
+            "answer": "5",
+            "numberInputTypes": ["cfr"],
+            "expectedDenominators": [0, 1]
+        },
+        {
+            "question": "Reduce 14 &ratio; 18 &ratio; 22 to its simplest form",
+            "answer": "7 : 9: 11",
+            "numberInputTypes": ["ratio"],
+            "expectedDenominators": [9]
+        },
+        {
+            "question": "Reduce \\(\\dfrac{14}{21}\\) to its simplest form",
+            "answer": "2/3",
+            "numberInputTypes": ["cfr"],
+            "expectedDenominators": [3]
+        },
+        {
+            "question": "Reduce \\(\\dfrac{40}{32}\\) to its simplest form",
+            "answer": "5/4",
+            "numberInputTypes": ["cfr"],
+            "expectedDenominators": [4]
+        },
+        {
+            "question": "Reduce 8 &ratio; 20 &ratio; 16 to its simplest form",
+            "answer": "2:5:4",
+            "numberInputTypes": ["ratio"],
+            "expectedDenominators": [5]
+        }
+    ]
+}
